@@ -18,3 +18,26 @@ And all to be installed to `/usr/share/app-info` and provided by a package avail
 
 ## Generation
 This repository is designed to update once a week by the BuildBot (as we call it) kindly provided by [OSSPlanet](https://github.com/OSSPlanet).
+
+The current generation command is shown as below.
+
+```bash
+appstream-builder --api-version=0.8 \
+                  --add-cache-id \
+                  --cache-dir=/repodata/cache \
+                  --log-dir=/tmp/logs \
+                  --packages-dir=/appstream-worker/os3-full \
+                  --temp-dir=/tmp \
+                  --output-dir=/repodata \
+                  --basename=appstream \
+                  --origin=aosc \
+                  --enable-hidpi \
+                  --verbose \
+                  --include-failed \
+                  --max-threads=16
+```
+
+Where...
+
+- /appstream-worker/os3-full Contains a full mirror of the `os3-dpkg` repository directory.
+- /repodata contains all that can be found in this repository.
