@@ -17,7 +17,7 @@ A generic directory walk through.
 And all to be installed to `/usr/share/app-info` and provided by a package available to AOSC OS users. Check https://github.com/AOSC-Dev/aosc-os-abbs for more updates.
 
 ## Generation
-This repository is designed to update once a week by the BuildBot (as we call it) kindly provided by [OSSPlanet](https://github.com/OSSPlanet).
+This repository is designed to update once a week (or on-call) by the BuildBot (as we call it) kindly provided by [OSSPlanet](https://github.com/OSSPlanet).
 
 The current generation command is shown as below.
 
