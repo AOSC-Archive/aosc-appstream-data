@@ -2849,6 +2849,252 @@
     </metadata>
   </component>
   <component type="desktop">
+    <id>google-chrome.desktop</id>
+    <pkgname>google-chrome</pkgname>
+    <name>Google Chrome</name>
+    <summary>The Web browser from Google</summary>
+    <description><p>Google Chrome is a Web browser created by Google bundled with integration with Google services.</p><p>Chromium is an open-source browser project that aims to build a safer, faster and more stable way for all Internet users to experience the web.</p><p>Chromium serves as a base for Google Chrome, which is Chromium rebranded (name and logo) with very few additions such as usage tracking and an auto-updater system.</p></description>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <project_license>LicenseRef-proprietary</project_license>
+    <url type="homepage">https://www.google.com/chrome/browser/desktop/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://repo.aosc.io/appdata/screenshots/Chrome-1.png</image>
+      </screenshot>
+      <screenshot>
+        <image type="source">https://repo.aosc.io/appdata/screenshots/Chrome-2.png</image>
+      </screenshot>
+      <screenshot>
+        <image type="source">https://repo.aosc.io/appdata/screenshots/Chrome-3.png</image>
+      </screenshot>
+      <screenshot>
+        <image type="source">https://repo.aosc.io/appdata/screenshots/Chrome-4.png</image>
+      </screenshot>
+      <screenshot>
+        <image type="source">https://repo.aosc.io/appdata/screenshots/Chrome-5.png</image>
+      </screenshot>
+    </screenshots>
+    <languages>
+      <lang percentage="51">af</lang>
+      <lang percentage="43">an</lang>
+      <lang percentage="82">ar</lang>
+      <lang percentage="26">as</lang>
+      <lang percentage="28">ast</lang>
+      <lang percentage="51">az</lang>
+      <lang percentage="26">be</lang>
+      <lang percentage="77">be@latin</lang>
+      <lang percentage="26">bg</lang>
+      <lang percentage="25">bn</lang>
+      <lang percentage="25">bn_IN</lang>
+      <lang percentage="27">br</lang>
+      <lang percentage="51">bs</lang>
+      <lang percentage="55">ca</lang>
+      <lang percentage="25">ca@valencia</lang>
+      <lang percentage="85">crh</lang>
+      <lang percentage="55">cs</lang>
+      <lang percentage="25">cy</lang>
+      <lang percentage="55">da</lang>
+      <lang percentage="57">de</lang>
+      <lang percentage="25">dz</lang>
+      <lang percentage="25">el</lang>
+      <lang percentage="25">en@shaw</lang>
+      <lang percentage="25">en_CA</lang>
+      <lang percentage="26">en_GB</lang>
+      <lang percentage="55">eo</lang>
+      <lang percentage="55">es</lang>
+      <lang percentage="43">et</lang>
+      <lang percentage="55">eu</lang>
+      <lang percentage="26">fi</lang>
+      <lang percentage="55">fr</lang>
+      <lang percentage="51">ga</lang>
+      <lang percentage="26">gl</lang>
+      <lang percentage="26">gu</lang>
+      <lang percentage="26">he</lang>
+      <lang percentage="25">hi</lang>
+      <lang percentage="59">hr</lang>
+      <lang percentage="26">hu</lang>
+      <lang percentage="25">hy</lang>
+      <lang percentage="45">ia</lang>
+      <lang percentage="34">id</lang>
+      <lang percentage="55">it</lang>
+      <lang percentage="55">ja</lang>
+      <lang percentage="25">ka</lang>
+      <lang percentage="45">kk</lang>
+      <lang percentage="26">km</lang>
+      <lang percentage="25">kn</lang>
+      <lang percentage="34">ko</lang>
+      <lang percentage="32">ku</lang>
+      <lang percentage="39">li</lang>
+      <lang percentage="26">lt</lang>
+      <lang percentage="25">lv</lang>
+      <lang percentage="87">mai</lang>
+      <lang percentage="25">mg</lang>
+      <lang percentage="25">mk</lang>
+      <lang percentage="25">ml</lang>
+      <lang percentage="51">mn</lang>
+      <lang percentage="25">mr</lang>
+      <lang percentage="48">ms</lang>
+      <lang percentage="86">my</lang>
+      <lang percentage="34">nb</lang>
+      <lang percentage="29">nds</lang>
+      <lang percentage="25">ne</lang>
+      <lang percentage="57">nl</lang>
+      <lang percentage="25">nn</lang>
+      <lang percentage="51">nso</lang>
+      <lang percentage="26">or</lang>
+      <lang percentage="26">pa</lang>
+      <lang percentage="55">pl</lang>
+      <lang percentage="26">ps</lang>
+      <lang percentage="55">pt</lang>
+      <lang percentage="26">pt_BR</lang>
+      <lang percentage="34">ro</lang>
+      <lang percentage="55">ru</lang>
+      <lang percentage="25">si</lang>
+      <lang percentage="51">sk</lang>
+      <lang percentage="26">sl</lang>
+      <lang percentage="25">sq</lang>
+      <lang percentage="26">sr</lang>
+      <lang percentage="51">sr@ije</lang>
+      <lang percentage="26">sr@latin</lang>
+      <lang percentage="55">sv</lang>
+      <lang percentage="26">ta</lang>
+      <lang percentage="26">te</lang>
+      <lang percentage="55">th</lang>
+      <lang percentage="57">tr</lang>
+      <lang percentage="26">ug</lang>
+      <lang percentage="26">uk</lang>
+      <lang percentage="32">uz</lang>
+      <lang percentage="32">uz@cyrillic</lang>
+      <lang percentage="57">vi</lang>
+      <lang percentage="57">xh</lang>
+      <lang percentage="39">yi</lang>
+      <lang percentage="57">zh_CN</lang>
+      <lang percentage="26">zh_HK</lang>
+      <lang percentage="50">zh_TW</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">google-chrome_47.0.2526.106-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="desktop">
+    <id>gvim.desktop</id>
+    <pkgname>gvim</pkgname>
+    <name>GVim</name>
+    <summary>Edit text files</summary>
+    <summary xml:lang="af">Redigeer tekslêers</summary>
+    <summary xml:lang="am">የጽሑፍ ፋይሎች ያስተካክሉ</summary>
+    <summary xml:lang="ar">حرّر ملفات نصية</summary>
+    <summary xml:lang="az">Mətn fayllarını redaktə edin</summary>
+    <summary xml:lang="be">Рэдагаваньне тэкставых файлаў</summary>
+    <summary xml:lang="bg">Редактиране на текстови файлове</summary>
+    <summary xml:lang="bn">টেক্স্ট ফাইল এডিট করুন</summary>
+    <summary xml:lang="bs">Izmijeni tekstualne datoteke</summary>
+    <summary xml:lang="ca">Edita fitxers de text</summary>
+    <summary xml:lang="cs">Úprava textových souborů</summary>
+    <summary xml:lang="cy">Golygu ffeiliau testun</summary>
+    <summary xml:lang="da">Redigér tekstfiler</summary>
+    <summary xml:lang="de">Textdateien bearbeiten</summary>
+    <summary xml:lang="el">Επεξεργασία αρχείων κειμένου</summary>
+    <summary xml:lang="es">Edita archivos de texto</summary>
+    <summary xml:lang="et">Redigeeri tekstifaile</summary>
+    <summary xml:lang="eu">Editatu testu-fitxategiak</summary>
+    <summary xml:lang="fa">ویرایش پرونده‌های متنی</summary>
+    <summary xml:lang="fi">Muokkaa tekstitiedostoja</summary>
+    <summary xml:lang="fr">Édite des fichiers texte</summary>
+    <summary xml:lang="ga">Eagar comhad Téacs</summary>
+    <summary xml:lang="gu">લખાણ ફાઇલોમાં ફેરફાર કરો</summary>
+    <summary xml:lang="he">ערוך קבצי טקסט</summary>
+    <summary xml:lang="hi">पाठ फ़ाइलें संपादित करें</summary>
+    <summary xml:lang="hr">Uređivanje tekstualne datoteke</summary>
+    <summary xml:lang="hu">Szövegfájlok szerkesztése</summary>
+    <summary xml:lang="id">Edit file teks</summary>
+    <summary xml:lang="it">Modifica file di testo</summary>
+    <summary xml:lang="ja">テキスト・ファイルを編集します</summary>
+    <summary xml:lang="kn">ಪಠ್ಯ ಕಡತಗಳನ್ನು ಸಂಪಾದಿಸು</summary>
+    <summary xml:lang="ko">텍스트 파일을 편집합니다</summary>
+    <summary xml:lang="lt">Redaguoti tekstines bylas</summary>
+    <summary xml:lang="lv">Rediģēt teksta failus</summary>
+    <summary xml:lang="mk">Уреди текстуални фајлови</summary>
+    <summary xml:lang="ml">വാചക രചനകള് തിരുത്തുക</summary>
+    <summary xml:lang="mn">Текст файл боловсруулах</summary>
+    <summary xml:lang="mr">गद्य फाइल संपादित करा</summary>
+    <summary xml:lang="ms">Edit fail teks</summary>
+    <summary xml:lang="nb">Rediger tekstfiler</summary>
+    <summary xml:lang="ne">पाठ फाइललाई संशोधन गर्नुहोस्</summary>
+    <summary xml:lang="nl">Tekstbestanden bewerken</summary>
+    <summary xml:lang="nn">Rediger tekstfiler</summary>
+    <summary xml:lang="no">Rediger tekstfiler</summary>
+    <summary xml:lang="or">ପାଠ୍ଯ ଫାଇଲଗୁଡ଼ିକୁ ସମ୍ପାଦନ କରନ୍ତୁ</summary>
+    <summary xml:lang="pa">ਪਾਠ ਫਾਇਲਾਂ ਸੰਪਾਦਨ</summary>
+    <summary xml:lang="pl">Edytor plików tekstowych</summary>
+    <summary xml:lang="pt">Editar ficheiros de texto</summary>
+    <summary xml:lang="pt_BR">Edite arquivos de texto</summary>
+    <summary xml:lang="ro">Editare fişiere text</summary>
+    <summary xml:lang="ru">Редактор текстовых файлов</summary>
+    <summary xml:lang="sk">Úprava textových súborov</summary>
+    <summary xml:lang="sl">Urejanje datotek z besedili</summary>
+    <summary xml:lang="sq">Përpuno files teksti</summary>
+    <summary xml:lang="sr">Измени текстуалне датотеке</summary>
+    <summary xml:lang="sr@Latn">Izmeni tekstualne datoteke</summary>
+    <summary xml:lang="sv">Redigera textfiler</summary>
+    <summary xml:lang="ta">உரை கோப்புகளை தொகுக்கவும்</summary>
+    <summary xml:lang="th">แก้ไขแฟ้มข้อความ</summary>
+    <summary xml:lang="tk">Metin faýllary editle</summary>
+    <summary xml:lang="tr">Metin dosyalarını düzenle</summary>
+    <summary xml:lang="uk">Редактор текстових файлів</summary>
+    <summary xml:lang="vi">Soạn thảo tập tin văn bản</summary>
+    <summary xml:lang="wa">Asspougnî des fitchîs tecses</summary>
+    <summary xml:lang="zh_CN">编辑文本文件</summary>
+    <summary xml:lang="zh_TW">編輯文字檔</summary>
+    <description><p>Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor.</p><p>Vim is a highly configurable text editor built to enable efficient text editing. Vim is often called a "programmer's editor", and so useful for programming that many consider it an entire IDE. It's not just for programmers, though. Vim is perfect for all kinds of text editing, from composing email to editing configuration files.</p></description>
+    <categories>
+      <category>TextEditor</category>
+      <category>Utility</category>
+    </categories>
+    <vetos>
+      <veto>Failed to find icon: Failed to find icon vim</veto>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <mimetypes>
+      <mimetype>text/plain</mimetype>
+    </mimetypes>
+    <url type="bugtracker">https://github.com/vim/vim/issues/</url>
+    <url type="donation">http://www.vim.org/sponsor/index.php</url>
+    <url type="faq">http://www.vim.org/about.php</url>
+    <url type="help">http://www.vim.org/docs.php</url>
+    <url type="homepage">http://www.vim.org/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://repo.aosc.io/appdata/screenshots/GVim-1.png</image>
+      </screenshot>
+      <screenshot>
+        <image type="source">https://repo.aosc.io/appdata/screenshots/GVim-2.png</image>
+      </screenshot>
+      <screenshot>
+        <image type="source">https://repo.aosc.io/appdata/screenshots/GVim-3.png</image>
+      </screenshot>
+      <screenshot>
+        <image type="source">https://repo.aosc.io/appdata/screenshots/GVim-4.png</image>
+      </screenshot>
+      <screenshot>
+        <image type="source">https://repo.aosc.io/appdata/screenshots/GVim-5.png</image>
+      </screenshot>
+    </screenshots>
+    <languages>
+      <lang percentage="100">de</lang>
+      <lang percentage="100">es</lang>
+      <lang percentage="100">fr</lang>
+      <lang percentage="100">gl</lang>
+      <lang percentage="100">pl</lang>
+      <lang percentage="100">sv</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gvim_7.4.1004-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="desktop">
     <id>kmplot.desktop</id>
     <pkgname>kmplot</pkgname>
     <name>KmPlot</name>
