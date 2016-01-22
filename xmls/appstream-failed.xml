@@ -1053,101 +1053,102 @@
     <url type="homepage">https://wiki.gnome.org/Apps/EasyTAG</url>
     <extends>org.gnome.Nautilus.desktop</extends>
     <languages>
-      <lang percentage="37">af</lang>
-      <lang percentage="45">an</lang>
-      <lang percentage="49">ar</lang>
-      <lang percentage="54">as</lang>
-      <lang percentage="38">ast</lang>
-      <lang percentage="42">az</lang>
-      <lang percentage="49">be</lang>
-      <lang percentage="35">be@latin</lang>
+      <lang percentage="41">af</lang>
+      <lang percentage="75">an</lang>
+      <lang percentage="67">ar</lang>
+      <lang percentage="94">as</lang>
+      <lang percentage="84">ast</lang>
+      <lang percentage="41">az</lang>
+      <lang percentage="31">be</lang>
+      <lang percentage="63">be@latin</lang>
       <lang percentage="30">bg</lang>
-      <lang percentage="41">bn</lang>
-      <lang percentage="45">bn_IN</lang>
-      <lang percentage="48">bs</lang>
-      <lang percentage="54">ca@valencia</lang>
-      <lang percentage="37">crh</lang>
-      <lang percentage="48">cs</lang>
-      <lang percentage="31">cy</lang>
-      <lang percentage="34">da</lang>
-      <lang percentage="48">de</lang>
-      <lang percentage="60">dz</lang>
-      <lang percentage="47">el</lang>
-      <lang percentage="37">en@shaw</lang>
-      <lang percentage="65">en_CA</lang>
-      <lang percentage="48">en_GB</lang>
-      <lang percentage="43">eo</lang>
-      <lang percentage="43">es</lang>
-      <lang percentage="44">et</lang>
-      <lang percentage="58">eu</lang>
-      <lang percentage="52">fa</lang>
-      <lang percentage="48">fi</lang>
-      <lang percentage="48">fr</lang>
-      <lang percentage="42">ga</lang>
-      <lang percentage="54">gd</lang>
-      <lang percentage="58">gl</lang>
-      <lang percentage="52">gu</lang>
+      <lang percentage="73">bn</lang>
+      <lang percentage="73">bn_IN</lang>
+      <lang percentage="36">br</lang>
+      <lang percentage="47">bs</lang>
+      <lang percentage="94">ca@valencia</lang>
+      <lang percentage="78">crh</lang>
+      <lang percentage="47">cs</lang>
+      <lang percentage="64">cy</lang>
+      <lang percentage="33">da</lang>
+      <lang percentage="47">de</lang>
+      <lang percentage="58">dz</lang>
+      <lang percentage="46">el</lang>
+      <lang percentage="63">en@shaw</lang>
+      <lang percentage="63">en_CA</lang>
+      <lang percentage="47">en_GB</lang>
+      <lang percentage="26">eo</lang>
+      <lang percentage="42">es</lang>
+      <lang percentage="36">et</lang>
+      <lang percentage="97">eu</lang>
+      <lang percentage="59">fa</lang>
+      <lang percentage="74">fi</lang>
+      <lang percentage="47">fr</lang>
+      <lang percentage="40">ga</lang>
+      <lang percentage="94">gd</lang>
+      <lang percentage="100">gl</lang>
+      <lang percentage="89">gu</lang>
       <lang percentage="32">he</lang>
-      <lang percentage="54">hi</lang>
-      <lang percentage="49">hr</lang>
-      <lang percentage="48">hu</lang>
-      <lang percentage="77">hy</lang>
-      <lang percentage="44">ia</lang>
-      <lang percentage="57">is</lang>
-      <lang percentage="47">it</lang>
+      <lang percentage="88">hi</lang>
+      <lang percentage="48">hr</lang>
+      <lang percentage="47">hu</lang>
+      <lang percentage="75">hy</lang>
+      <lang percentage="43">ia</lang>
+      <lang percentage="56">is</lang>
+      <lang percentage="46">it</lang>
       <lang percentage="39">ja</lang>
-      <lang percentage="56">ka</lang>
-      <lang percentage="46">kg</lang>
-      <lang percentage="58">kk</lang>
-      <lang percentage="44">km</lang>
-      <lang percentage="54">kn</lang>
-      <lang percentage="46">ko</lang>
+      <lang percentage="54">ka</lang>
+      <lang percentage="45">kg</lang>
+      <lang percentage="60">kk</lang>
+      <lang percentage="88">km</lang>
+      <lang percentage="53">kn</lang>
+      <lang percentage="45">ko</lang>
       <lang percentage="36">ku</lang>
-      <lang percentage="32">lg</lang>
-      <lang percentage="32">li</lang>
+      <lang percentage="31">lg</lang>
+      <lang percentage="31">li</lang>
       <lang percentage="46">lt</lang>
-      <lang percentage="54">lv</lang>
-      <lang percentage="37">mai</lang>
-      <lang percentage="64">mk</lang>
-      <lang percentage="45">ml</lang>
-      <lang percentage="42">mn</lang>
-      <lang percentage="54">mr</lang>
+      <lang percentage="100">lv</lang>
+      <lang percentage="71">mai</lang>
+      <lang percentage="63">mk</lang>
+      <lang percentage="71">ml</lang>
+      <lang percentage="41">mn</lang>
+      <lang percentage="94">mr</lang>
       <lang percentage="39">ms</lang>
-      <lang percentage="36">my</lang>
-      <lang percentage="48">nb</lang>
-      <lang percentage="27">nds</lang>
-      <lang percentage="48">ne</lang>
-      <lang percentage="28">nl</lang>
-      <lang percentage="40">nn</lang>
-      <lang percentage="42">nso</lang>
-      <lang percentage="59">oc</lang>
-      <lang percentage="45">or</lang>
-      <lang percentage="58">pa</lang>
-      <lang percentage="48">pl</lang>
-      <lang percentage="48">pt</lang>
-      <lang percentage="41">pt_BR</lang>
-      <lang percentage="32">ro</lang>
+      <lang percentage="70">my</lang>
+      <lang percentage="47">nb</lang>
+      <lang percentage="26">nds</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="27">nl</lang>
+      <lang percentage="38">nn</lang>
+      <lang percentage="41">nso</lang>
+      <lang percentage="97">oc</lang>
+      <lang percentage="81">or</lang>
+      <lang percentage="97">pa</lang>
+      <lang percentage="47">pl</lang>
+      <lang percentage="47">pt</lang>
+      <lang percentage="40">pt_BR</lang>
+      <lang percentage="31">ro</lang>
       <lang percentage="47">ru</lang>
-      <lang percentage="58">sk</lang>
-      <lang percentage="44">sl</lang>
-      <lang percentage="35">sq</lang>
-      <lang percentage="48">sr</lang>
-      <lang percentage="42">sr@ije</lang>
-      <lang percentage="48">sr@latin</lang>
-      <lang percentage="40">sv</lang>
-      <lang percentage="54">ta</lang>
-      <lang percentage="49">tg</lang>
-      <lang percentage="49">th</lang>
-      <lang percentage="48">tr</lang>
-      <lang percentage="44">ug</lang>
-      <lang percentage="26">uz</lang>
-      <lang percentage="26">uz@cyrillic</lang>
-      <lang percentage="58">vi</lang>
-      <lang percentage="47">xh</lang>
-      <lang percentage="32">yi</lang>
-      <lang percentage="39">zh_CN</lang>
-      <lang percentage="54">zh_HK</lang>
-      <lang percentage="38">zh_TW</lang>
+      <lang percentage="94">sk</lang>
+      <lang percentage="43">sl</lang>
+      <lang percentage="67">sq</lang>
+      <lang percentage="47">sr</lang>
+      <lang percentage="41">sr@ije</lang>
+      <lang percentage="47">sr@latin</lang>
+      <lang percentage="39">sv</lang>
+      <lang percentage="94">ta</lang>
+      <lang percentage="93">tg</lang>
+      <lang percentage="48">th</lang>
+      <lang percentage="47">tr</lang>
+      <lang percentage="88">ug</lang>
+      <lang percentage="25">uz</lang>
+      <lang percentage="25">uz@cyrillic</lang>
+      <lang percentage="100">vi</lang>
+      <lang percentage="46">xh</lang>
+      <lang percentage="31">yi</lang>
+      <lang percentage="38">zh_CN</lang>
+      <lang percentage="94">zh_HK</lang>
+      <lang percentage="37">zh_TW</lang>
     </languages>
     <metadata>
       <value key="X-CacheID">easytag_2.4.0-0_amd64.deb</value>
@@ -1330,9 +1331,9 @@
     </provides>
     <languages>
       <lang percentage="52">az</lang>
-      <lang percentage="46">crh</lang>
+      <lang percentage="100">crh</lang>
       <lang percentage="61">hr</lang>
-      <lang percentage="29">hy</lang>
+      <lang percentage="96">hy</lang>
       <lang percentage="55">ia</lang>
       <lang percentage="57">kg</lang>
       <lang percentage="40">lg</lang>
@@ -1345,7 +1346,7 @@
       <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince_3.18.2-1_amd64.deb</value>
+      <value key="X-CacheID">evince_3.18.2-2_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -1510,9 +1511,9 @@
     </provides>
     <languages>
       <lang percentage="52">az</lang>
-      <lang percentage="46">crh</lang>
+      <lang percentage="100">crh</lang>
       <lang percentage="61">hr</lang>
-      <lang percentage="29">hy</lang>
+      <lang percentage="96">hy</lang>
       <lang percentage="55">ia</lang>
       <lang percentage="57">kg</lang>
       <lang percentage="40">lg</lang>
@@ -1525,201 +1526,7 @@
       <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince_3.18.2-1_amd64.deb</value>
-      <value key="X-Merge-With-Parent">evince.desktop</value>
-    </metadata>
-  </component>
-  <component type="addon">
-    <id>evince-dvidocument</id>
-    <pkgname>evince</pkgname>
-    <name>DVI Documents</name>
-    <name xml:lang="af">DVI-dokumente</name>
-    <name xml:lang="an">Documentos DVI</name>
-    <name xml:lang="ar">مستندات DVI</name>
-    <name xml:lang="as">DVI দস্তাবেজসমূহ</name>
-    <name xml:lang="ast">Documentos DVI</name>
-    <name xml:lang="be">DVI-дакументы</name>
-    <name xml:lang="be@latin">Dakumenty DVI</name>
-    <name xml:lang="bg">Документи DVI</name>
-    <name xml:lang="bn">DVI নথি</name>
-    <name xml:lang="bn_IN">DVI ডকুমেন্ট</name>
-    <name xml:lang="br">Teulieù DVI</name>
-    <name xml:lang="bs">DVI dokumenti</name>
-    <name xml:lang="ca">Documents DVI</name>
-    <name xml:lang="ca@valencia">Documents DVI</name>
-    <name xml:lang="cs">Dokumenty DVI</name>
-    <name xml:lang="cy">Dogfennau DVI</name>
-    <name xml:lang="da">DVI-dokumenter</name>
-    <name xml:lang="de">DVI-Dokumente</name>
-    <name xml:lang="dz">ཌི་ཝི་ཨའི་ཡིག་ཆ་ཚུ།</name>
-    <name xml:lang="el">Έγγραφα DVI</name>
-    <name xml:lang="en@shaw">DVI 𐑛𐑪𐑒𐑿𐑥𐑩𐑯𐑑𐑕</name>
-    <name xml:lang="eo">DVI-dokumentoj</name>
-    <name xml:lang="es">Documentos DVI</name>
-    <name xml:lang="et">DVI-dokumendid</name>
-    <name xml:lang="eu">DVI dokumentuak</name>
-    <name xml:lang="fa">سندهای DVI</name>
-    <name xml:lang="fi">DVI-asiakirjat</name>
-    <name xml:lang="fr">Documents DVI</name>
-    <name xml:lang="fur">Documents DVI</name>
-    <name xml:lang="ga">Cáipéisí DVI</name>
-    <name xml:lang="gd">Sgrìobhainnean DVI</name>
-    <name xml:lang="gl">Documentos DVI</name>
-    <name xml:lang="gu">DVI દસ્તાવેજો</name>
-    <name xml:lang="he">מסמכי DVI</name>
-    <name xml:lang="hi">DVI दस्तावेज़</name>
-    <name xml:lang="hu">DVI-dokumentumok</name>
-    <name xml:lang="id">Dokumen DVI</name>
-    <name xml:lang="is">DVI skjöl</name>
-    <name xml:lang="it">Documenti DVI</name>
-    <name xml:lang="ja">DVI ドキュメント</name>
-    <name xml:lang="ka">DVI დოკუმენტები</name>
-    <name xml:lang="kk">DVI құжаттары</name>
-    <name xml:lang="km">ឯកសារ DVI</name>
-    <name xml:lang="kn">DVI ದಸ್ತಾವೇಜುಗಳು</name>
-    <name xml:lang="ko">DVI 문서</name>
-    <name xml:lang="ks">डीवी आई कागजात</name>
-    <name xml:lang="ku">Belgeyên DVI</name>
-    <name xml:lang="lt">DVI dokumentai</name>
-    <name xml:lang="lv">DVI dokumenti</name>
-    <name xml:lang="mai">DVI दस्ताबेज</name>
-    <name xml:lang="mg">Tahirin-kevitra DVI</name>
-    <name xml:lang="mk">DVI документи</name>
-    <name xml:lang="ml">DVI രേഖകള്‍</name>
-    <name xml:lang="mn">DVI Баримт бичиг</name>
-    <name xml:lang="mr">DVI दस्तऐवज</name>
-    <name xml:lang="ms">Dokumen-dokumen DVI</name>
-    <name xml:lang="my">DVI ဖိုင်များ</name>
-    <name xml:lang="nb">DVI-dokumenter</name>
-    <name xml:lang="nds">DVI Dokumente</name>
-    <name xml:lang="ne">डि भि आइ कागजातहरु</name>
-    <name xml:lang="nl">DVI-documenten</name>
-    <name xml:lang="nn">DVI-dokument</name>
-    <name xml:lang="oc">Documents DVI</name>
-    <name xml:lang="or">DVI ଦଲିଲ</name>
-    <name xml:lang="pa">DVI ਡੌਕੂਮੈਂਟ</name>
-    <name xml:lang="pl">Dokumenty DVI</name>
-    <name xml:lang="ps">لاسوندونه DVI</name>
-    <name xml:lang="pt">Documentos DVI</name>
-    <name xml:lang="pt_BR">Documentos DVI</name>
-    <name xml:lang="ro">Documente DVI</name>
-    <name xml:lang="ru">Документы формата DVI</name>
-    <name xml:lang="si">DVI ලේඛන</name>
-    <name xml:lang="sk">Dokumenty typu DVI</name>
-    <name xml:lang="sl">DVI Dokumenti</name>
-    <name xml:lang="sq">Dokumente DVI</name>
-    <name xml:lang="sr">ДВИ документи</name>
-    <name xml:lang="sr@latin">DVI dokumenti</name>
-    <name xml:lang="sv">DVI-dokument</name>
-    <name xml:lang="ta">DVI ஆவணங்கள்</name>
-    <name xml:lang="te">DVI పత్రాలు</name>
-    <name xml:lang="tg">Ҳуҷҷатҳои DVI</name>
-    <name xml:lang="th">เอกสาร DVI</name>
-    <name xml:lang="tr">DVI Belgeleri</name>
-    <name xml:lang="ug">DVI پۈتۈكى</name>
-    <name xml:lang="uk">Документи DVI</name>
-    <name xml:lang="vi">Tài liệu DVI</name>
-    <name xml:lang="zh_CN">DVI 文档</name>
-    <name xml:lang="zh_HK">DVI 文件</name>
-    <name xml:lang="zh_TW">DVI 文件</name>
-    <name xml:lang="zu">Amadokhumende we-DVI</name>
-    <summary>Adds support for reading DVI documents</summary>
-    <summary xml:lang="an">Anyade capacidat ta leyer documentos DVI</summary>
-    <summary xml:lang="ar">يضيف دعم قراءة مستندات DVI</summary>
-    <summary xml:lang="as">DVI দস্তাবেজসমূহ পঢ়াৰ সমৰ্থন যোগ কৰিছে</summary>
-    <summary xml:lang="bg">Добавя поддръжка за четене на документи DVI</summary>
-    <summary xml:lang="bn_IN">DVI নথিপত্র পড়ার জন্য সহায়তা যোগ করে</summary>
-    <summary xml:lang="bs">Dodaje podršku za čitanje DVI dokumenata</summary>
-    <summary xml:lang="ca">Permet la lectura de documents DVI</summary>
-    <summary xml:lang="ca@valencia">Permet la lectura de documents DVI</summary>
-    <summary xml:lang="cs">Přidává podporu pro čtení dokumentů DVI</summary>
-    <summary xml:lang="da">Tilføjer understøttelse af DVI-dokumenter</summary>
-    <summary xml:lang="de">Fügt Unterstützung für das Lesen von DVI-Dokumenten hinzu</summary>
-    <summary xml:lang="el">Προσθέτει υποστήριξη για την ανάγνωση εγγράφων DVI</summary>
-    <summary xml:lang="eo">Aldonas subtenon por legi DVI-dokumentojn</summary>
-    <summary xml:lang="es">Añade soporte para leer documentos DVI</summary>
-    <summary xml:lang="eu">DVI dokumentuak irakurtzeko euskarria gehitzen du</summary>
-    <summary xml:lang="fa">پشتیبانی از خواندن سندهای DVI را اضافه می‌کند</summary>
-    <summary xml:lang="fi">Lisää tuen DVI-asiakirjojen lukemiselle</summary>
-    <summary xml:lang="fr">Ajoute la prise en charge de la lecture des documents DVI</summary>
-    <summary xml:lang="fur">Al zonte il supuart par lei i documents DVI</summary>
-    <summary xml:lang="gd">Cuiridh seo taic gus sgrìobhainnean DVI a leughadh ris</summary>
-    <summary xml:lang="gl">Engade compatibilidade para ler documentos DVI</summary>
-    <summary xml:lang="gu">DVI દસ્તાવેજોને વાંચવા માટે આધારને ઉમેરે છે</summary>
-    <summary xml:lang="he">הוספת תמיכה לקריאת מסמכי DVI</summary>
-    <summary xml:lang="hi">DVI दस्तावेज़ पढ़ने के लिए समर्थन देता है</summary>
-    <summary xml:lang="hu">Támogatást nyújt DVI dokumentumok olvasásához</summary>
-    <summary xml:lang="id">Menambahkan dukungan untuk membaca dokumen DVI</summary>
-    <summary xml:lang="is">Bætir við stuðningi til lestrar á DVI skjölum</summary>
-    <summary xml:lang="it">Aggiunge il supporto per la lettura dei documenti DVI</summary>
-    <summary xml:lang="ja">DVI ドキュメントの読み込みサポートを追加する</summary>
-    <summary xml:lang="kk">DVI құжаттарын оқу мүмкіндігін қосады</summary>
-    <summary xml:lang="kn">DVI ದಸ್ತಾವೇಜುಗಳನ್ನು ಓದಲು ಬೆಂಬಲವನ್ನು ಸೇರಿಸುತ್ತದೆ</summary>
-    <summary xml:lang="ko">DVI 문서를 읽는 기능을 추가합니다</summary>
-    <summary xml:lang="lt">Prideda DVI dokumentų palaikymą</summary>
-    <summary xml:lang="lv">Pievieno atbalstu DVI dokumentu lasīšanai</summary>
-    <summary xml:lang="mr">DVI दस्तऐवज वाचण्याकरिता समर्थन समाविष्ट करते</summary>
-    <summary xml:lang="nb">Legger til støtte for å lese DVI-dokumenter</summary>
-    <summary xml:lang="nl">Voegt ondersteuning toe voor het lezen van DVI-documenten</summary>
-    <summary xml:lang="oc">Apond la presa en carga de la lectura dels documents DVI</summary>
-    <summary xml:lang="pa">DVI ਦਸਤਾਵੇਜ਼ ਪੜ੍ਹਨ ਲਈ ਸਹਾਇਤਾ ਜੋੜਦੀ ਹੈ</summary>
-    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie DVI</summary>
-    <summary xml:lang="pt">Adiciona suporte para ler documentos DVI</summary>
-    <summary xml:lang="pt_BR">Adiciona suporte para leitura de documentos DVI</summary>
-    <summary xml:lang="ro">Adaugă suport pentru citirea documenteleor DVI</summary>
-    <summary xml:lang="ru">Добавляет поддержку для чтения документов в формате DVI</summary>
-    <summary xml:lang="sk">Pridá podporu na čítanie dokumentov typu DVI</summary>
-    <summary xml:lang="sl">Doda podporo za branje datotek DVI</summary>
-    <summary xml:lang="sr">Додајте подршку за читање ДВИ докумената</summary>
-    <summary xml:lang="sr@latin">Dodajte podršku za čitanje DVI dokumenata</summary>
-    <summary xml:lang="sv">Lägger till stöd för att läsa DVI-dokument</summary>
-    <summary xml:lang="ta">DVI ஆவணங்களைப் படிப்பதற்கான ஆதரவைச் சேர்க்கிறது</summary>
-    <summary xml:lang="te">DVI పత్రములు చదువుటకు తోడ్పాటు జతచేయును</summary>
-    <summary xml:lang="tg">Барои хониши ҳуҷҷатҳои DVI дастгириро илова мекунад</summary>
-    <summary xml:lang="tr">DVI belgelerini görüntüleme desteği ekler</summary>
-    <summary xml:lang="uk">Додає підтримування читання документів DVI</summary>
-    <summary xml:lang="vi">Thêm hỗ trợ đọc các tài liệu DVI</summary>
-    <summary xml:lang="zh_CN">增加支持阅读 DVI 文档的功能</summary>
-    <summary xml:lang="zh_HK">加入讀取 DVI 文件的支援</summary>
-    <summary xml:lang="zh_TW">加入讀取 DVI 文件的支援</summary>
-    <kudos>
-      <kudo>AppMenu</kudo>
-      <kudo>ModernToolkit</kudo>
-      <kudo>UserDocs</kudo>
-    </kudos>
-    <vetos>
-      <veto>partially absorbing evince-dvidocument into evince.desktop</veto>
-    </vetos>
-    <mimetypes>
-      <mimetype>application/x-bzdvi</mimetype>
-      <mimetype>application/x-dvi</mimetype>
-      <mimetype>application/x-ext-dvi</mimetype>
-      <mimetype>application/x-gzdvi</mimetype>
-    </mimetypes>
-    <project_license>GPL-2.0+</project_license>
-    <url type="homepage">https://wiki.gnome.org/Apps/Evince/SupportedDocumentFormats</url>
-    <extends>evince.desktop</extends>
-    <provides>
-      <dbus type="session">org.gnome.evince.Daemon</dbus>
-    </provides>
-    <languages>
-      <lang percentage="52">az</lang>
-      <lang percentage="46">crh</lang>
-      <lang percentage="61">hr</lang>
-      <lang percentage="29">hy</lang>
-      <lang percentage="55">ia</lang>
-      <lang percentage="57">kg</lang>
-      <lang percentage="40">lg</lang>
-      <lang percentage="40">li</lang>
-      <lang percentage="52">nso</lang>
-      <lang percentage="52">sr@ije</lang>
-      <lang percentage="32">uz</lang>
-      <lang percentage="32">uz@cyrillic</lang>
-      <lang percentage="59">xh</lang>
-      <lang percentage="40">yi</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">evince_3.18.2-1_amd64.deb</value>
+      <value key="X-CacheID">evince_3.18.2-2_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -1900,9 +1707,9 @@
     </provides>
     <languages>
       <lang percentage="52">az</lang>
-      <lang percentage="46">crh</lang>
+      <lang percentage="100">crh</lang>
       <lang percentage="61">hr</lang>
-      <lang percentage="29">hy</lang>
+      <lang percentage="96">hy</lang>
       <lang percentage="55">ia</lang>
       <lang percentage="57">kg</lang>
       <lang percentage="40">lg</lang>
@@ -1915,7 +1722,7 @@
       <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince_3.18.2-1_amd64.deb</value>
+      <value key="X-CacheID">evince_3.18.2-2_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -2097,9 +1904,9 @@
     </provides>
     <languages>
       <lang percentage="52">az</lang>
-      <lang percentage="46">crh</lang>
+      <lang percentage="100">crh</lang>
       <lang percentage="61">hr</lang>
-      <lang percentage="29">hy</lang>
+      <lang percentage="96">hy</lang>
       <lang percentage="55">ia</lang>
       <lang percentage="57">kg</lang>
       <lang percentage="40">lg</lang>
@@ -2112,7 +1919,7 @@
       <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince_3.18.2-1_amd64.deb</value>
+      <value key="X-CacheID">evince_3.18.2-2_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -2265,9 +2072,9 @@
     </provides>
     <languages>
       <lang percentage="52">az</lang>
-      <lang percentage="46">crh</lang>
+      <lang percentage="100">crh</lang>
       <lang percentage="61">hr</lang>
-      <lang percentage="29">hy</lang>
+      <lang percentage="96">hy</lang>
       <lang percentage="55">ia</lang>
       <lang percentage="57">kg</lang>
       <lang percentage="40">lg</lang>
@@ -2280,7 +2087,7 @@
       <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince_3.18.2-1_amd64.deb</value>
+      <value key="X-CacheID">evince_3.18.2-2_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -2434,9 +2241,9 @@
     </provides>
     <languages>
       <lang percentage="52">az</lang>
-      <lang percentage="46">crh</lang>
+      <lang percentage="100">crh</lang>
       <lang percentage="61">hr</lang>
-      <lang percentage="29">hy</lang>
+      <lang percentage="96">hy</lang>
       <lang percentage="55">ia</lang>
       <lang percentage="57">kg</lang>
       <lang percentage="40">lg</lang>
@@ -2449,7 +2256,7 @@
       <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince_3.18.2-1_amd64.deb</value>
+      <value key="X-CacheID">evince_3.18.2-2_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -2547,7 +2354,7 @@
       <lang percentage="100">hu</lang>
       <lang percentage="94">id</lang>
       <lang percentage="33">is</lang>
-      <lang percentage="97">it</lang>
+      <lang percentage="100">it</lang>
       <lang percentage="86">ja</lang>
       <lang percentage="30">ka</lang>
       <lang percentage="25">kk</lang>
@@ -2592,7 +2399,7 @@
       <lang percentage="100">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution_3.18.3-0_amd64.deb</value>
+      <value key="X-CacheID">evolution_3.18.4-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -2691,7 +2498,7 @@
       <lang percentage="100">hu</lang>
       <lang percentage="94">id</lang>
       <lang percentage="33">is</lang>
-      <lang percentage="97">it</lang>
+      <lang percentage="100">it</lang>
       <lang percentage="86">ja</lang>
       <lang percentage="30">ka</lang>
       <lang percentage="25">kk</lang>
@@ -2736,246 +2543,1319 @@
       <lang percentage="100">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution_3.18.3-0_amd64.deb</value>
+      <value key="X-CacheID">evolution_3.18.4-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
-  <component type="desktop">
-    <id>freeciv-server.desktop</id>
-    <pkgname>freeciv</pkgname>
-    <name>Freeciv server</name>
-    <summary>Turn-based strategy game inspired by the history of human civilization</summary>
-    <summary xml:lang="ca">Joc d'estratègia inspirat en la història de la civilització humana</summary>
-    <summary xml:lang="da">Strategispil inspireret af den menneskelige civilisations historie</summary>
-    <summary xml:lang="de">Rundenbasiertes Strategiespiel, inspiriert durch die Geschichte der menschlichen Zivilisation</summary>
-    <summary xml:lang="fi">Ihmiskunnan historian inspiroima vuoropohjainen strategiapeli</summary>
-    <summary xml:lang="nb">Strategispill inspirert av historien til menneskelig sivilisasjon</summary>
-    <summary xml:lang="pt">Jogo de estratégia por turnos inspirado na História da civilização humana</summary>
-    <summary xml:lang="sv">Turordningsbaserat strategispel inspirerat av den mänskliga historien</summary>
-    <description><p>Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. The game commences in prehistory and your mission is to lead your tribe from the Stone Age to the Space Age...</p><p>Server hosts multiplayer games. For single-player games client can launch server for itself automatically.</p></description>
-    <icon height="128" width="128" type="cached">128x128/freeciv-server.png</icon>
-    <icon height="64" width="64" type="cached">64x64/freeciv-server.png</icon>
-    <categories>
-      <category>ConsoleOnly</category>
-      <category>Game</category>
-      <category>StrategyGame</category>
-    </categories>
-    <keywords>
-      <keyword>civilization</keyword>
-      <keyword>history</keyword>
-      <keyword>mankind</keyword>
-      <keyword>multiplayer</keyword>
-      <keyword>simulation</keyword>
-      <keyword>strategy</keyword>
-      <keyword>tiles</keyword>
-    </keywords>
+  <component type="addon">
+    <id>gedit-bookmarks</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Bookmarks</name>
+    <summary>Easy document navigation with bookmarks</summary>
     <kudos>
-      <kudo>HiDpiIcon</kudo>
+      <kudo>UserDocs</kudo>
     </kudos>
     <vetos>
-      <veto>freeciv-server.desktop is not an application</veto>
+      <veto>gedit-bookmarks has no parent of 'org.gnome.gedit.desktop'</veto>
     </vetos>
-    <url type="homepage">http://www.freeciv.org/</url>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">http://images1.wikia.nocookie.net/__cb20120308234702/freeciv/images/thumb/4/43/Hex2.3.png/1000px-Hex2.3.png</image>
-      </screenshot>
-    </screenshots>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
     <languages>
-      <lang percentage="26">an</lang>
-      <lang percentage="35">ar</lang>
-      <lang percentage="32">as</lang>
-      <lang percentage="29">ast</lang>
-      <lang percentage="25">bn</lang>
-      <lang percentage="25">bn_IN</lang>
-      <lang percentage="30">bs</lang>
-      <lang percentage="99">ca</lang>
-      <lang percentage="32">ca@valencia</lang>
-      <lang percentage="27">crh</lang>
-      <lang percentage="40">cs</lang>
-      <lang percentage="71">da</lang>
-      <lang percentage="100">de</lang>
-      <lang percentage="31">el</lang>
-      <lang percentage="100">en_GB</lang>
-      <lang percentage="39">eo</lang>
-      <lang percentage="100">es</lang>
-      <lang percentage="40">et</lang>
-      <lang percentage="33">eu</lang>
-      <lang percentage="100">fi</lang>
-      <lang percentage="100">fr</lang>
-      <lang percentage="45">ga</lang>
-      <lang percentage="84">gd</lang>
-      <lang percentage="33">gl</lang>
-      <lang percentage="30">gu</lang>
-      <lang percentage="30">hi</lang>
-      <lang percentage="27">hu</lang>
-      <lang percentage="26">hy</lang>
-      <lang percentage="44">id</lang>
-      <lang percentage="62">it</lang>
-      <lang percentage="91">ja</lang>
-      <lang percentage="30">km</lang>
-      <lang percentage="51">ko</lang>
-      <lang percentage="37">lt</lang>
-      <lang percentage="32">lv</lang>
-      <lang percentage="32">mr</lang>
-      <lang percentage="35">nb</lang>
-      <lang percentage="62">nl</lang>
-      <lang percentage="33">oc</lang>
-      <lang percentage="28">or</lang>
-      <lang percentage="33">pa</lang>
-      <lang percentage="97">pl</lang>
-      <lang percentage="25">pt</lang>
-      <lang percentage="58">pt_BR</lang>
-      <lang percentage="36">ro</lang>
-      <lang percentage="97">ru</lang>
-      <lang percentage="30">sk</lang>
-      <lang percentage="33">sl</lang>
-      <lang percentage="30">sr</lang>
-      <lang percentage="32">sr@latin</lang>
-      <lang percentage="50">sv</lang>
-      <lang percentage="32">ta</lang>
-      <lang percentage="30">te</lang>
-      <lang percentage="33">tg</lang>
-      <lang percentage="42">tr</lang>
-      <lang percentage="30">ug</lang>
-      <lang percentage="64">uk</lang>
-      <lang percentage="33">vi</lang>
-      <lang percentage="35">zh_CN</lang>
-      <lang percentage="32">zh_HK</lang>
-      <lang percentage="27">zh_TW</lang>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">freeciv_2.5.1-0_amd64.deb</value>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
     </metadata>
   </component>
-  <component type="desktop">
-    <id>google-chrome.desktop</id>
-    <pkgname>google-chrome</pkgname>
-    <name>Google Chrome</name>
-    <summary>The Web browser from Google</summary>
-    <description><p>Google Chrome is a Web browser created by Google bundled with integration with Google services.</p><p>Chromium is an open-source browser project that aims to build a safer, faster and more stable way for all Internet users to experience the web.</p><p>Chromium serves as a base for Google Chrome, which is Chromium rebranded (name and logo) with very few additions such as usage tracking and an auto-updater system.</p></description>
+  <component type="addon">
+    <id>gedit-bracketcompletion</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Bracket Completion</name>
+    <summary>Automatically add a closing bracket when you insert one</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
     <vetos>
-      <veto>Has no Icon</veto>
+      <veto>gedit-bracketcompletion has no parent of 'org.gnome.gedit.desktop'</veto>
     </vetos>
-    <project_license>LicenseRef-proprietary</project_license>
-    <url type="homepage">https://www.google.com/chrome/browser/desktop/</url>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">https://repo.aosc.io/appdata/screenshots/Chrome-1.png</image>
-      </screenshot>
-      <screenshot>
-        <image type="source">https://repo.aosc.io/appdata/screenshots/Chrome-2.png</image>
-      </screenshot>
-      <screenshot>
-        <image type="source">https://repo.aosc.io/appdata/screenshots/Chrome-3.png</image>
-      </screenshot>
-      <screenshot>
-        <image type="source">https://repo.aosc.io/appdata/screenshots/Chrome-4.png</image>
-      </screenshot>
-      <screenshot>
-        <image type="source">https://repo.aosc.io/appdata/screenshots/Chrome-5.png</image>
-      </screenshot>
-    </screenshots>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
     <languages>
-      <lang percentage="51">af</lang>
-      <lang percentage="43">an</lang>
-      <lang percentage="82">ar</lang>
-      <lang percentage="26">as</lang>
-      <lang percentage="28">ast</lang>
-      <lang percentage="51">az</lang>
-      <lang percentage="26">be</lang>
-      <lang percentage="77">be@latin</lang>
-      <lang percentage="26">bg</lang>
-      <lang percentage="25">bn</lang>
-      <lang percentage="25">bn_IN</lang>
-      <lang percentage="27">br</lang>
-      <lang percentage="51">bs</lang>
-      <lang percentage="55">ca</lang>
-      <lang percentage="25">ca@valencia</lang>
-      <lang percentage="85">crh</lang>
-      <lang percentage="55">cs</lang>
-      <lang percentage="25">cy</lang>
-      <lang percentage="55">da</lang>
-      <lang percentage="57">de</lang>
-      <lang percentage="25">dz</lang>
-      <lang percentage="25">el</lang>
-      <lang percentage="25">en@shaw</lang>
-      <lang percentage="25">en_CA</lang>
-      <lang percentage="26">en_GB</lang>
-      <lang percentage="55">eo</lang>
-      <lang percentage="55">es</lang>
-      <lang percentage="43">et</lang>
-      <lang percentage="55">eu</lang>
-      <lang percentage="26">fi</lang>
-      <lang percentage="55">fr</lang>
-      <lang percentage="51">ga</lang>
-      <lang percentage="26">gl</lang>
-      <lang percentage="26">gu</lang>
-      <lang percentage="26">he</lang>
-      <lang percentage="25">hi</lang>
-      <lang percentage="59">hr</lang>
-      <lang percentage="26">hu</lang>
-      <lang percentage="25">hy</lang>
-      <lang percentage="45">ia</lang>
-      <lang percentage="34">id</lang>
-      <lang percentage="55">it</lang>
-      <lang percentage="55">ja</lang>
-      <lang percentage="25">ka</lang>
-      <lang percentage="45">kk</lang>
-      <lang percentage="26">km</lang>
-      <lang percentage="25">kn</lang>
-      <lang percentage="34">ko</lang>
-      <lang percentage="32">ku</lang>
-      <lang percentage="39">li</lang>
-      <lang percentage="26">lt</lang>
-      <lang percentage="25">lv</lang>
-      <lang percentage="87">mai</lang>
-      <lang percentage="25">mg</lang>
-      <lang percentage="25">mk</lang>
-      <lang percentage="25">ml</lang>
-      <lang percentage="51">mn</lang>
-      <lang percentage="25">mr</lang>
-      <lang percentage="48">ms</lang>
-      <lang percentage="86">my</lang>
-      <lang percentage="34">nb</lang>
-      <lang percentage="29">nds</lang>
-      <lang percentage="25">ne</lang>
-      <lang percentage="57">nl</lang>
-      <lang percentage="25">nn</lang>
-      <lang percentage="51">nso</lang>
-      <lang percentage="26">or</lang>
-      <lang percentage="26">pa</lang>
-      <lang percentage="55">pl</lang>
-      <lang percentage="26">ps</lang>
-      <lang percentage="55">pt</lang>
-      <lang percentage="26">pt_BR</lang>
-      <lang percentage="34">ro</lang>
-      <lang percentage="55">ru</lang>
-      <lang percentage="25">si</lang>
-      <lang percentage="51">sk</lang>
-      <lang percentage="26">sl</lang>
-      <lang percentage="25">sq</lang>
-      <lang percentage="26">sr</lang>
-      <lang percentage="51">sr@ije</lang>
-      <lang percentage="26">sr@latin</lang>
-      <lang percentage="55">sv</lang>
-      <lang percentage="26">ta</lang>
-      <lang percentage="26">te</lang>
-      <lang percentage="55">th</lang>
-      <lang percentage="57">tr</lang>
-      <lang percentage="26">ug</lang>
-      <lang percentage="26">uk</lang>
-      <lang percentage="32">uz</lang>
-      <lang percentage="32">uz@cyrillic</lang>
-      <lang percentage="57">vi</lang>
-      <lang percentage="57">xh</lang>
-      <lang percentage="39">yi</lang>
-      <lang percentage="57">zh_CN</lang>
-      <lang percentage="26">zh_HK</lang>
-      <lang percentage="50">zh_TW</lang>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">google-chrome_47.0.2526.106-0_amd64.deb</value>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-charmap</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Charmap</name>
+    <summary>Select characters from a character map</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-charmap has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-codecomment</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Code Comment</name>
+    <summary>Comment or uncomment blocks of code</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-codecomment has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-colorpicker</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Color picker</name>
+    <summary>Select and insert a color from a dialog (for HTML, CSS, PHP)</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-colorpicker has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-colorschemer</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Color Scheme Editor</name>
+    <summary>Create and edit the color scheme used for syntax highlighting</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-colorschemer has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-commander</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Commander</name>
+    <summary>Command line interface for advanced editing</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-commander has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-dashboard</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Dashboard</name>
+    <summary>Displays a grid of recently/most used files upon opening a new tab</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-dashboard has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-drawspaces</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Draw spaces</name>
+    <summary>Draw Spaces and Tabs</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-drawspaces has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-findinfiles</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Find in Files</name>
+    <summary>Find text in all files of a folder</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-findinfiles has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-git</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Git</name>
+    <summary>Use git information to display which lines and files changed since last commit</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-git has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-joinlines</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Join lines/ Split lines</name>
+    <summary>Join or split multiple lines through Ctrl+J and Ctrl+Shift+J</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-joinlines has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-multiedit</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Multi edit</name>
+    <summary>Edit document in multiple places at once</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-multiedit has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-smartspaces</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Smart Spaces</name>
+    <summary>Allow to unindent like if you were using tabs while you're using spaces</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-smartspaces has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-synctex</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>SyncTeX</name>
+    <summary>Synchronize between LaTeX and PDF with gedit and evince</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-synctex has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-terminal</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Terminal</name>
+    <summary>A simple terminal widget accessible from the bottom panel</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-terminal has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-textsize</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Text size</name>
+    <summary>Easily increase and decrease the text size</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-textsize has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-wordcompletion</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Word completion</name>
+    <summary>Propose automatic completion using words already present in the document</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-wordcompletion has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>gedit-zeitgeist</id>
+    <pkgname>gedit-plugins</pkgname>
+    <name>Zeitgeist Data provider</name>
+    <summary>Records user activity and giving easy access to recently-used and frequently-used files</summary>
+    <kudos>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>gedit-zeitgeist has no parent of 'org.gnome.gedit.desktop'</veto>
+    </vetos>
+    <project_license>GPL-2.0+</project_license>
+    <url type="bugtracker">https://bugzilla.gnome.org/enter_bug.cgi?product=gedit&amp;component=Plugins</url>
+    <url type="homepage">https://wiki.gnome.org/Apps/Gedit/ShippedPlugins</url>
+    <extends>org.gnome.gedit.desktop</extends>
+    <languages>
+      <lang percentage="91">an</lang>
+      <lang percentage="51">as</lang>
+      <lang percentage="49">ast</lang>
+      <lang percentage="67">be</lang>
+      <lang percentage="50">be@latin</lang>
+      <lang percentage="52">bg</lang>
+      <lang percentage="49">bn</lang>
+      <lang percentage="52">bn_IN</lang>
+      <lang percentage="33">br</lang>
+      <lang percentage="49">crh</lang>
+      <lang percentage="44">cy</lang>
+      <lang percentage="67">da</lang>
+      <lang percentage="49">dz</lang>
+      <lang percentage="50">en@shaw</lang>
+      <lang percentage="45">en_CA</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="58">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="41">fa</lang>
+      <lang percentage="90">gd</lang>
+      <lang percentage="51">gu</lang>
+      <lang percentage="47">hi</lang>
+      <lang percentage="43">hr</lang>
+      <lang percentage="54">ja</lang>
+      <lang percentage="99">km</lang>
+      <lang percentage="51">kn</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="42">mg</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="53">ml</lang>
+      <lang percentage="51">mr</lang>
+      <lang percentage="62">my</lang>
+      <lang percentage="47">ne</lang>
+      <lang percentage="51">nl</lang>
+      <lang percentage="44">nn</lang>
+      <lang percentage="51">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="62">ro</lang>
+      <lang percentage="47">sq</lang>
+      <lang percentage="56">sv</lang>
+      <lang percentage="52">ta</lang>
+      <lang percentage="52">te</lang>
+      <lang percentage="54">tg</lang>
+      <lang percentage="48">ug</lang>
+      <lang percentage="50">uk</lang>
+      <lang percentage="50">vi</lang>
+      <lang percentage="42">xh</lang>
+      <lang percentage="50">zh_HK</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">gedit-plugins_3.18.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3091,7 +3971,7 @@
       <lang percentage="100">sv</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">gvim_7.4.1038-0_amd64.deb</value>
+      <value key="X-CacheID">gvim_7.4.1129-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3115,7 +3995,7 @@
     <summary xml:lang="it">Disegnatore di funzioni matematiche</summary>
     <summary xml:lang="ko">수학 함수 플로터</summary>
     <summary xml:lang="nds">Mathemaatsch Bagenschriever</summary>
-    <summary xml:lang="nl">Plotprogramma voor wiskundige functies</summary>
+    <summary xml:lang="nl">Wiskundige functieplotter</summary>
     <summary xml:lang="pl">Program rysujący funkcje matematyczne</summary>
     <summary xml:lang="pt">Desenho de Funções Matemáticas</summary>
     <summary xml:lang="pt_BR">Desenho de funções matemáticas</summary>
@@ -3140,7 +4020,7 @@
     <description xml:lang="gl"><p>KmPlot é un programa para representar graficamente funcións, así como as súas integrais e derivadas. O gráfico pode colorarse e poden configurarse varios aspectos da vista, que pode ademais cambiarse de dimensións e ampliarse. O programa inclúe un analizador matemático moi potente, distintos tipos de gráficas (cartesiana, paramétrica, polar, implícita e diferencial), e fornece ferramentas matemáticas simples que permiten por exemplo atopar o máximo ou o mínimo dunha función. As funcións con parámetros poden visualizarse axustando os parámetros mediante un control desprazábel. Os gráficos poden exportarse en formatos de mapa de bits (BMP e PNG) e poden imprimirse.</p></description>
     <description xml:lang="it"><p>KmPlot è un programma per disegnare i grafici di funzioni, i loro integrali e le loro derivate. I grafici possono essere colorati e l'area di visualizzazione è estremamente configurabile, può essere scalata e ingrandita. Il programma include un potente analizzatore matematico, diversi tipi di grafici (cartesiani, parametrici, polari, impliciti e differenziali) e fornisce semplici strumenti matematici, ad esempio la ricerca dei punti di massimo e minimo di una funzione. Le funzioni con parametri possono essere mostrate modificando il parametro variabile usando un regolatore. I grafici possono essere esportati come immagini (BMP, PNG) e stampati.</p></description>
     <description xml:lang="nds"><p>Mit KmPlot laat sik se rutkamen Bagens vun Funkschonen un ehr Intrgralen un Afledden utgeven. De Bagens laat sik infarven un de Ansicht lett sik goot topassen, ok in de Grött. Dat Programm hett en deegt mathemaatsch Inleser, en Reeg verscheden Utgaavtypen (karteesch, parametersch, polaar, inbett, differenschell) un stellt en poor eenfache mathemaatsche Warktüüch praat, so as en Maximum/Minimum-Söker. Bi parametreert Funkschonen lett sik de Parameter mit en Schuver ännern. Utreekt Bagens laat sik as Pixelbiller (BMP, PNG) exporteren un drucken.</p></description>
-    <description xml:lang="nl"><p>KmPlot is een programma voor het plotten van grafieken van functies, hun integralen en afgeleiden. De grafieken kunnen worden gekleurd, en het beeld is in hoge mate configureerbaar, schaalbaar, en er kan in worden gezoomd. Het programma kan heel goed wiskundige formules lezen, kent diverse plottypes (cartesisch, parametrisch, polair, impliciet, differentieel), en heeft enkele eenvoudige wiskundige hulpmiddelen aan boord voor het vinden van de uiterste waarden (minimum en maximum) van een functie. Parametrische functies kunnen worden bekeken door de variabele parameter te wijzigen met behulp van een schuifbalk. Plots kunnen worden geëxporteerd als bitmaps (BMP, PNG), en kunnen worden afgedrukt.</p></description>
+    <description xml:lang="nl"><p>KmPlot is een programma voor het plotten van grafieken van functies, hun integralen en afgeleiden. De grafieken kunnen worden gekleurd, en het beeld is in hoge mate te configureren, schaalbaar en er kan in worden gezoomd. Het programma kan heel goed wiskundige formules lezen, kent diverse plottypes (cartesisch, parametrisch, polair, impliciet, differentieel), en heeft enkele eenvoudige wiskundige hulpmiddelen aan boord voor het vinden van de uiterste waarden (minimum en maximum) van een functie. Parametrische functies kunnen worden bekeken door de variabele parameter te wijzigen met behulp van een schuifbalk. Plots kunnen worden geëxporteerd als bitmaps (BMP, PNG), en kunnen worden afgedrukt.</p></description>
     <description xml:lang="pl"><p>KmPlot jest programem do rysowania wykresów funkcji, ich całek i różniczek. Wykresy można zabarwiać, a widok jest wysoce ustawialny, skalowalny i można go powiększyć. Program dostarcza zaawansowany analizator składni matematycznej, różne rodzaje wykresów (kartezjański, parametryczny, biegunowy, jawny, różniczkowy) oraz proste narzędzia matematyczne jak np. do znajdowania maksimum/minimum funkcji. Funkcje parametryczne można przedstawić poprzez dostosowanie parametru zmiennej poprzez suwak. Wykresy można eksportować jako zdjęcia w postaci map bitowych (BMP lub PNG), można także je wydrukować.</p></description>
     <description xml:lang="pt"><p>O KmPlot é um programa para desenhar gráficos de funções, os seus integrais e derivadas. Os gráficos poderão ser coloridos e a área é bastante configurável, escalável e pode ser ampliada. O programa oferece um processador matemático poderoso, diferentes tipos de gráficos (cartesianos, paramétricos, polares, implícitos, diferenciais) e oferece ferramentas matemáticas simples como a descoberta dos valores máximos/mínimos de uma função. As funções parametrizadas podem ser visualizadas se ajustar o parâmetro variável com uma barra deslizante. Os gráficos podem ser exportados como imagens (BMP, PNG) e podem ser impressos.</p></description>
     <description xml:lang="pt_BR"><p>KmPlot é um programa para desenhar gráficos de funções, suas integrais e derivadas. Os gráficos podem ser coloridos e a área de visualização é bastante configurável, escalável e pode ser ampliada/reduzida. O programa possui um processador matemático poderoso, diferentes tipos de gráficos (cartesianos, paramétricos, polares, implícitos, diferenciais) e oferece ferramentas matemáticas simples, como a descoberta dos valores máximos/mínimos de uma função. As funções parametrizadas podem ser visualizadas se ajustar o parâmetro variável com uma barra deslizante. Os gráficos podem ser impressos e também exportados como imagens (BMP, PNG).</p></description>
@@ -3249,7 +4129,7 @@
       <lang percentage="98">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kmplot_15.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">kmplot_15.12.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3429,7 +4309,7 @@
     <languages>
       <lang percentage="82">ast</lang>
       <lang percentage="71">crh</lang>
-      <lang percentage="44">da</lang>
+      <lang percentage="41">da</lang>
       <lang percentage="98">de</lang>
       <lang percentage="27">en</lang>
       <lang percentage="98">fr</lang>
@@ -3442,7 +4322,7 @@
       <lang percentage="50">nl</lang>
       <lang percentage="38">or</lang>
       <lang percentage="80">pa</lang>
-      <lang percentage="28">pl</lang>
+      <lang percentage="27">pl</lang>
       <lang percentage="39">sr</lang>
       <lang percentage="39">sr@latin</lang>
       <lang percentage="80">ta</lang>
@@ -3565,7 +4445,7 @@
       <binary>bomber</binary>
     </provides>
     <metadata>
-      <value key="X-CacheID">bomber_15.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">bomber_15.12.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3639,7 +4519,7 @@
       <binary>bovo</binary>
     </provides>
     <metadata>
-      <value key="X-CacheID">bovo_15.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">bovo_15.12.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3851,7 +4731,7 @@
       <lang percentage="100">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">dragon_15.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">dragon_15.12.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3887,6 +4767,7 @@
     <description xml:lang="ca"><p>El KAddressBook emmagatzema totes les dades personals de la vostra família, amics i altres contactes.</p><p>Característiques:</p><ul><li>Importa i exporta a gairebé tots els estàndards de la llibreta d'adreces</li><li>Llegeix el format de fitxer .vcf, i pot importar i exportar els formats de fitxer vCard i CSV</li><li>Pot usar múltiples servidors LDAP</li><li>Filtres configurables i potents capacitats de cerca</li><li>S'integra amb els altres components del Kontact, p. ex., l'exportació dels recordatoris d'aniversari pel KOrganizer</li><li>Capaç d'integrar-se amb el treball en grup</li><li>Desenvolupat per a l'Akonadi</li></ul></description>
     <description xml:lang="ca_valencia"><p>El KAddressBook emmagatzema totes les dades personals de la vostra família, amics i altres contactes.</p><p>Característiques:</p><ul><li>Importa i exporta a gairebé tots els estàndards de la llibreta d'adreces</li><li>Llig el format de fitxer .vcf, i pot importar i exportar els formats de fitxer vCard i CSV</li><li>Pot usar múltiples servidors LDAP</li><li>Filtres configurables i potents capacitats de cerca</li><li>S'integra amb els altres components del Kontact, p. ex., l'exportació dels recordatoris d'aniversari pel KOrganizer</li><li>Capaç d'integrar-se amb el treball en grup</li><li>Desenvolupat per a l'Akonadi</li></ul></description>
     <description xml:lang="cs"><p>Vlastnosti:</p><ul></ul></description>
+    <description xml:lang="da"><p>Funktioner:</p><ul></ul></description>
     <description xml:lang="de"><p>KAddressBook speichert alle persönlichen Kontaktdaten Ihrer Familie, Freunde und anderer Kontakte.</p><p>Funktionen:</p><ul><li>Import und Export fast aller Adressbuch-Standards</li><li>Lesen von Dateien im Format „vcf“ und Import und Export von Dateien im Format vCard und CSV</li><li>Kann mehrere LDAP-Server verwenden</li><li>Einstellbare Filter und leistungsfähige Suchfunktionen</li><li>Integration mit anderen Komponenten von Kontact wie zum Beispiel der Export von Erinnerungen an Geburtstage zu KOrganizer</li><li>Einbindung in Groupware ist möglich</li><li>Unterstützt durch Akonadi</li></ul></description>
     <description xml:lang="es"><p>KAddressBook almacena todos los detalles personales de su familia, amigos y otros contactos.</p><p>Características:</p><ul><li>Importa y exporta a casi todas las libretas de direcciones estándar</li><li>Lee archivos de formato .vcf, y puede importar y exportar formatos de archivo vCard y csv</li><li>Usted puede usar varios servidores LDAP</li><li>Filtros configurables y poderosas capacidades de búsqueda</li><li>Se integra con otros componentes de Kontact, p. ej., exportación de recordatorios de cumpleaños a KOrganizer</li><li>Capaz de integración con herramientas de colaboración</li><li>Basado en Akonadi</li></ul></description>
     <description xml:lang="fi"><p>KAddressBook tallentaa henkilökohtaiset tiedot perheestäsi, ystävistäsi ja muista henkilöistä.</p><p>Ominaisuudet:</p><ul><li>Tukee lähes minkä tahansa osoitekirjamuodon tuontia ja vientiä</li><li>Lukee .vcf-muotoisia tiedostoja ja voi tuoda ja viedä vCard- ja CSC-muotoisia tiedostoja</li><li>Osaa käyttää useampia LDAP-palvelimia</li><li>Muokattavat suodattimet ja tehokkaat hakuominaisuudet</li><li>Integroituu muihin Kontactin osiin, esim. syntymäpäivämuistutusten vienti KOrganizeriin</li><li>Osaa integroitua työryhmäohjelmistoihin</li><li>Toimii Akonadin avulla</li></ul></description>
@@ -4013,7 +4894,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kdepim_15.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">kdepim_15.12.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4307,7 +5188,7 @@
       <lang>zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kiten_15.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">kiten_15.12.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4336,6 +5217,7 @@
     <description xml:lang="ca"><p>El KNotes és un programa que permet escriure l'equivalent informàtic a les notes adhesives. Les notes es desen automàticament en sortir del programa, i es mostren en obrir el programa.</p><p>Característiques:</p><ul><li>Escriu les notes amb el tipus de lletra i el color de fons de la vostra elecció</li><li>Usa arrossega i deixa per enviar les vostres notes</li><li>Es poden arrossegar al calendari per a reservar un horari</li><li>Les notes es poden imprimir</li></ul></description>
     <description xml:lang="ca_valencia"><p>El KNotes és un programa que permet escriure l'equivalent informàtic a les notes adhesives. Les notes es guarden automàticament en eixir del programa, i es mostren en obrir el programa.</p><p>Característiques:</p><ul><li>Escriu les notes amb el tipus de lletra i el color de fons de la vostra elecció</li><li>Usa arrossega i deixa per enviar les vostres notes</li><li>Es poden arrossegar al calendari per a reservar un horari</li><li>Les notes es poden imprimir</li></ul></description>
     <description xml:lang="cs"><p>Vlastnosti:</p><ul></ul></description>
+    <description xml:lang="da"><p>Funktioner:</p><ul></ul></description>
     <description xml:lang="de"><p>KNotes erlaubt das Anbringen virtueller Haftnotizen ("Post-it") auf dem Bildschirm. Die Notizen werden beim Beenden des Programms automatisch gespeichert und beim Neustart wieder geladen und angezeigt.</p><p>Funktionen:</p><ul><li>Notizen können in ausgewählter Farbe für Schrift und Hintergrund erstellt werden</li><li>Ziehen und Ablegen (Drag and Drop), um Ihre Notizen als E-Mail zu versenden</li><li>Kann in einen Kalender gezogen werden, um einen Zeitraum zu belegen.</li><li>Notizen können gedruckt werden</li></ul></description>
     <description xml:lang="en_GB"><p>KNotes is a program that lets you write the computer equivalent of sticky notes. The notes are saved automatically when you exit the program, and they display when you open the program.</p><p>Features:</p><ul><li>Write notes in your choice of font and background colour</li><li>Use drag and drop to email your notes</li><li>Can be dragged into Calendar to book a time-slot</li><li>Notes can be printed</li></ul></description>
     <description xml:lang="es"><p>KNotes es un programa que le permite escribir en el equipo el equivalente de notas pegajosas. Las notas se guardan automáticamente cuando usted sale del programa y se muestran cuando lo abre.</p><p>Características:</p><ul><li>Escriba notas en el tipo de letra y color de fondo de su elección</li><li>Use arrastrar y soltar para enviar sus notas por correo</li><li>Puede soltarse en el calendario para reservar una ranura de tiempo</li><li>Las notas pueden imprimirse</li></ul></description>
@@ -4460,7 +5342,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kdepim_15.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">kdepim_15.12.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4602,7 +5484,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kdepim_15.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">kdepim_15.12.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4746,168 +5628,6 @@
     </languages>
     <metadata>
       <value key="X-CacheID">plank_0.10.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component type="desktop">
-    <id>tracker-preferences.desktop</id>
-    <pkgname>tracker</pkgname>
-    <name>Search and Indexing</name>
-    <name xml:lang="ar">البحث والفهرسة</name>
-    <name xml:lang="be@latin">Pošuk i indeksavańnie</name>
-    <name xml:lang="bg">Търсене и индексиране</name>
-    <name xml:lang="bs">Pretraga i indeksiranje</name>
-    <name xml:lang="ca">Cerca i indexació</name>
-    <name xml:lang="ca@valencia">Cerca i indexació</name>
-    <name xml:lang="cs">Hledání a indexování</name>
-    <name xml:lang="da">Søgning og indeksering</name>
-    <name xml:lang="de">Suche und Indizierung</name>
-    <name xml:lang="el">Αναζήτηση και ευρετηριοποίηση</name>
-    <name xml:lang="es">Búsqueda e indexado</name>
-    <name xml:lang="et">Otsimine ja indekseerimine</name>
-    <name xml:lang="eu">Bilaketa eta indexazioa</name>
-    <name xml:lang="fi">Haku ja indeksointi</name>
-    <name xml:lang="fr">Recherche et indexation</name>
-    <name xml:lang="gl">Busca e indexación</name>
-    <name xml:lang="hu">Keresés és indexelés</name>
-    <name xml:lang="id">Pencarian dan Pengindeksan</name>
-    <name xml:lang="it">Ricerca e indicizzazione</name>
-    <name xml:lang="ja">検索とインデックス生成</name>
-    <name xml:lang="ko">검색 및 인덱싱</name>
-    <name xml:lang="lt">Paieška ir indeksavimas</name>
-    <name xml:lang="lv">Meklēšana un indeksēšana</name>
-    <name xml:lang="nb">Søk og indeksering</name>
-    <name xml:lang="nl">Zoeken en indexeren</name>
-    <name xml:lang="pl">Wyszukiwanie i indeksowanie</name>
-    <name xml:lang="pt">Procura e indexação</name>
-    <name xml:lang="pt_BR">Pesquisa e indexação</name>
-    <name xml:lang="ro">Căutare și indexare</name>
-    <name xml:lang="ru">Поиск и индексирование</name>
-    <name xml:lang="sk">Hľadanie a indexovanie</name>
-    <name xml:lang="sl">Iskanje in priprava kazala</name>
-    <name xml:lang="sr">Претрага и пописивање</name>
-    <name xml:lang="sr@latin">Pretraga i popisivanje</name>
-    <name xml:lang="sv">Sökning och indexering</name>
-    <name xml:lang="th">การค้นหาและการทำดัชนี</name>
-    <name xml:lang="tr">Arama ve Dizinleme</name>
-    <name xml:lang="uk">Пошук і індексування</name>
-    <name xml:lang="zh_CN">搜索和索引</name>
-    <name xml:lang="zh_HK">搜尋與索引</name>
-    <name xml:lang="zh_TW">搜尋與索引</name>
-    <summary>Configure file indexing with Tracker</summary>
-    <summary xml:lang="ar">اضبط فهرسة الملفات بالمقتفي</summary>
-    <summary xml:lang="be@latin">Skanfihuruj indeksavańnie fajłaŭ Trackeram</summary>
-    <summary xml:lang="bg">Настройване на индексирането на файлове чрез Tracker</summary>
-    <summary xml:lang="bs">Konfigurišite indeksiranje datoteke sa Tracker-om</summary>
-    <summary xml:lang="ca">Configureu la indexació de fitxers del Tracker</summary>
-    <summary xml:lang="ca@valencia">Configureu la indexació de fitxers del Tracker</summary>
-    <summary xml:lang="cs">Nastavit indexování souborů prohledávačem Tracker</summary>
-    <summary xml:lang="da">Indstil filindeksering med Tracker</summary>
-    <summary xml:lang="de">Indizierungseinstellungen von Tracker einstellen</summary>
-    <summary xml:lang="el">Ρύθμιση ευρετηριοποίησης αρχείου με Tracker</summary>
-    <summary xml:lang="es">Configure el indexado de archivos con Tracker</summary>
-    <summary xml:lang="et">Trackeri failide indekseerimise seadistus</summary>
-    <summary xml:lang="eu">Konfiguratu fitxategien indexazioa Tracker-ekin</summary>
-    <summary xml:lang="fi">Muuta Tracker-tiedostoindeksoinnin asetuksia</summary>
-    <summary xml:lang="fr">Configurer l'indexation des fichiers avec Tracker</summary>
-    <summary xml:lang="gl">Configurar a indexación de ficheiros co Tracker</summary>
-    <summary xml:lang="hu">A fájlindexelés beállítása</summary>
-    <summary xml:lang="id">Tata pengindeksan berkas dengan Tracker</summary>
-    <summary xml:lang="it">Configura l'indicizzazione dei file con Tracker</summary>
-    <summary xml:lang="ja">Tracker でファイルのインデックス化の設定を行います</summary>
-    <summary xml:lang="ko">트래커 파일 인덱싱 설정</summary>
-    <summary xml:lang="lt">Konfigūruoti failų indeksavimą, atliekamą naudojant „Tracker“ programą</summary>
-    <summary xml:lang="lv">Konfigurēt datņu indeksēšanu, izmantojot Tracker</summary>
-    <summary xml:lang="nb">Konfigurer filindeksering med Tracker</summary>
-    <summary xml:lang="nl">Bestandsindexering met Tracker instellen</summary>
-    <summary xml:lang="pl">Konfiguracja indeksowania plików za pomocą programu Tracker</summary>
-    <summary xml:lang="pt">Configurar a indexação de ficheiros com o Tracker</summary>
-    <summary xml:lang="pt_BR">Configure a indexação de arquivos com o Tracker</summary>
-    <summary xml:lang="ro">Configurare indexare fișiere cu Tracker</summary>
-    <summary xml:lang="ru">Настройка индексирования файлов службой Tracker</summary>
-    <summary xml:lang="sk">Konfiguruje indexovanie súborov sledovačom</summary>
-    <summary xml:lang="sl">Nastavitev priprave kazala datotek</summary>
-    <summary xml:lang="sr">Подесите пописивање датотеке уз Трагача</summary>
-    <summary xml:lang="sr@latin">Podesite popisivanje datoteke uz Tragača</summary>
-    <summary xml:lang="sv">Konfigurera filindexering med Tracker</summary>
-    <summary xml:lang="th">ตั้งค่าการทำดัชนีแฟ้มของ Tracker</summary>
-    <summary xml:lang="tr">İzleyici kullanarak dosya dizinlemeyi yapılandır</summary>
-    <summary xml:lang="uk">Налаштування індексування файлів службою Tracker</summary>
-    <summary xml:lang="zh_CN">配置 Tracker 文件索引</summary>
-    <summary xml:lang="zh_HK">設定 Tracker 檔案索引</summary>
-    <summary xml:lang="zh_TW">設定 Tracker 檔案索引</summary>
-    <description><p>The Desktop Search application (usually separately installed) finds content which is indexed only. Using this application, you can quickly configure what data on your system you want indexed or not indexed. Not only that, you get to control how it is indexed to ensure indexing does not impede daily use of your computer.</p><p>Some of the preferences you can configure using this application include:</p><ul><li>What locations you index</li><li>When you index (e.g. not on laptop battery)</li><li>How you index (e.g. aggressively or in the background)</li><li>Black listing files/directories based on globbing pattern matching</li><li>Reset the database and reindex your content</li></ul></description>
-    <icon height="128" width="128" type="cached">128x128/tracker-preferences.png</icon>
-    <icon height="64" width="64" type="cached">64x64/tracker-preferences.png</icon>
-    <categories>
-      <category>Settings</category>
-    </categories>
-    <kudos>
-      <kudo>HiDpiIcon</kudo>
-    </kudos>
-    <vetos>
-      <veto>tracker-preferences.desktop is not an application</veto>
-    </vetos>
-    <project_license>GPL-2.0+</project_license>
-    <url type="homepage">https://wiki.gnome.org/Projects/Tracker</url>
-    <project_group>GNOME</project_group>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source" height="652" width="642">https://wiki.gnome.org/Projects/Tracker?action=AttachFile&amp;do=get&amp;target=tracker-preferences.png</image>
-      </screenshot>
-    </screenshots>
-    <provides>
-      <dbus type="session">org.freedesktop.Tracker1.Miner.Extract</dbus>
-      <dbus type="session">org.freedesktop.Tracker1.Miner.RSS</dbus>
-      <dbus type="session">org.freedesktop.Tracker1.Miner.Userguides</dbus>
-      <dbus type="session">org.freedesktop.Tracker1.Writeback</dbus>
-      <dbus type="session">org.freedesktop.Tracker1.Miner.Applications</dbus>
-      <dbus type="session">org.freedesktop.Tracker1.Miner.Files</dbus>
-      <dbus type="session">org.freedesktop.Tracker1</dbus>
-    </provides>
-    <languages>
-      <lang percentage="26">af</lang>
-      <lang percentage="28">an</lang>
-      <lang percentage="53">ast</lang>
-      <lang percentage="26">az</lang>
-      <lang percentage="31">be</lang>
-      <lang percentage="25">bn</lang>
-      <lang percentage="35">bn_IN</lang>
-      <lang percentage="50">crh</lang>
-      <lang percentage="40">cy</lang>
-      <lang percentage="40">en@shaw</lang>
-      <lang percentage="34">en_AU</lang>
-      <lang percentage="40">en_CA</lang>
-      <lang percentage="32">fa</lang>
-      <lang percentage="26">ga</lang>
-      <lang percentage="33">gd</lang>
-      <lang percentage="33">gu</lang>
-      <lang percentage="35">hi</lang>
-      <lang percentage="30">hr</lang>
-      <lang percentage="48">hy</lang>
-      <lang percentage="27">ia</lang>
-      <lang percentage="35">is</lang>
-      <lang percentage="34">ka</lang>
-      <lang percentage="28">kg</lang>
-      <lang percentage="36">kk</lang>
-      <lang percentage="27">km</lang>
-      <lang percentage="35">kn</lang>
-      <lang percentage="45">mai</lang>
-      <lang percentage="26">mn</lang>
-      <lang percentage="35">mr</lang>
-      <lang percentage="44">my</lang>
-      <lang percentage="30">ne</lang>
-      <lang percentage="25">nn</lang>
-      <lang percentage="26">nso</lang>
-      <lang percentage="33">or</lang>
-      <lang percentage="42">sq</lang>
-      <lang percentage="26">sr@ije</lang>
-      <lang percentage="40">ta</lang>
-      <lang percentage="27">ug</lang>
-      <lang percentage="100">vi</lang>
-      <lang percentage="29">xh</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">tracker_1.6.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -5509,7 +6229,7 @@
       <lang percentage="68">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">xfce4-power-manager_1.4.4-0_amd64.deb</value>
+      <value key="X-CacheID">xfce4-power-manager_1.4.4-0_armel.deb</value>
     </metadata>
   </component>
   <component type="desktop">
