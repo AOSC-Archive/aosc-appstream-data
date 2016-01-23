@@ -26,7 +26,7 @@ appstream-builder --api-version=0.8 \
                   --add-cache-id \
                   --cache-dir=/repodata/cache \
                   --log-dir=/tmp/logs \
-                  --packages-dir=/appstream-worker/os3-full \
+                  --packages-dir=/appstream-worker/os3-dpkg \
                   --temp-dir=/tmp \
                   --output-dir=/repodata \
                   --basename=appstream \
