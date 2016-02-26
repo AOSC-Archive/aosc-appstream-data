@@ -26,7 +26,7 @@ appstream-builder --api-version=0.8 \
                   --add-cache-id \
                   --cache-dir=/repodata/cache \
                   --log-dir=/tmp/logs \
-                  --packages-dir=/appstream-worker/os3-dpkg \
+                  --packages-dir=/appstream-worker/os3-rpm \
                   --temp-dir=/tmp \
                   --output-dir=/repodata \
                   --basename=appstream \
@@ -34,10 +34,10 @@ appstream-builder --api-version=0.8 \
                   --enable-hidpi \
                   --verbose \
                   --include-failed \
-                  --max-threads=16
+                  --max-threads=1
 ```
 
 Where...
 
-- /appstream-worker/os3-full Contains a full mirror of the `os3-dpkg` repository directory.
+- /appstream-worker/os3-rpm Contains a full mirror of the `os3-rpm` repository directory.
 - /repodata contains all that can be found in this repository.
