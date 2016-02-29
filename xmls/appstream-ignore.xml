@@ -617,6 +617,13 @@
     </metadata>
   </component>
   <component>
+    <id>ario.x86_64</id>
+    <pkgname>ario</pkgname>
+    <metadata>
+      <value key="X-CacheID">ario-1.5.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>arm.x86_64</id>
     <pkgname>arm</pkgname>
     <metadata>
@@ -670,6 +677,13 @@
     <pkgname>asio</pkgname>
     <metadata>
       <value key="X-CacheID">asio-1.10.6-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>aspcud.x86_64</id>
+    <pkgname>aspcud</pkgname>
+    <metadata>
+      <value key="X-CacheID">aspcud-1.9.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -2189,6 +2203,13 @@
     <pkgname>clamz</pkgname>
     <metadata>
       <value key="X-CacheID">clamz-0.5-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>clasp.x86_64</id>
+    <pkgname>clasp</pkgname>
+    <metadata>
+      <value key="X-CacheID">clasp-3.1.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4782,6 +4803,20 @@
     </metadata>
   </component>
   <component>
+    <id>fsharp.x86_64</id>
+    <pkgname>fsharp</pkgname>
+    <metadata>
+      <value key="X-CacheID">fsharp-4.0.1.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>fstar.x86_64</id>
+    <pkgname>fstar</pkgname>
+    <metadata>
+      <value key="X-CacheID">fstar-0.9.2.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>ftgl.x86_64</id>
     <pkgname>ftgl</pkgname>
     <metadata>
@@ -6144,6 +6179,13 @@
     <pkgname>grilo</pkgname>
     <metadata>
       <value key="X-CacheID">grilo-0.2.11-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>gringo.x86_64</id>
+    <pkgname>gringo</pkgname>
+    <metadata>
+      <value key="X-CacheID">gringo-4.5.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7816,14 +7858,14 @@
     <id>inziu-iosevka-fonts.x86_64</id>
     <pkgname>inziu-iosevka-fonts</pkgname>
     <metadata>
-      <value key="X-CacheID">inziu-iosevka-fonts-1.7.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">inziu-iosevka-fonts-1.8.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>iosevka-fonts.x86_64</id>
     <pkgname>iosevka-fonts</pkgname>
     <metadata>
-      <value key="X-CacheID">iosevka-fonts-1.7.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">iosevka-fonts-1.8.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8734,6 +8776,13 @@
     <pkgname>kernel-fedora-3.19.2</pkgname>
     <metadata>
       <value key="X-CacheID">kernel-fedora-3.19.2-3.19.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>kernel-tools.x86_64</id>
+    <pkgname>kernel-tools</pkgname>
+    <metadata>
+      <value key="X-CacheID">kernel-tools-4.4.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -10574,7 +10623,7 @@
     <id>libfm.x86_64</id>
     <pkgname>libfm</pkgname>
     <metadata>
-      <value key="X-CacheID">libfm-1.2.3-1.x86_64.rpm</value>
+      <value key="X-CacheID">libfm-1.2.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -10673,6 +10722,13 @@
     <pkgname>libgee06</pkgname>
     <metadata>
       <value key="X-CacheID">libgee06-0.6.8-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libgig.x86_64</id>
+    <pkgname>libgig</pkgname>
+    <metadata>
+      <value key="X-CacheID">libgig-4.0.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12118,6 +12174,13 @@
     </metadata>
   </component>
   <component>
+    <id>libsoundio.x86_64</id>
+    <pkgname>libsoundio</pkgname>
+    <metadata>
+      <value key="X-CacheID">libsoundio-1.1.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>libsoup.x86_64</id>
     <pkgname>libsoup</pkgname>
     <metadata>
@@ -13126,6 +13189,13 @@
     </metadata>
   </component>
   <component>
+    <id>linux-kernel-4.4.3.x86_64</id>
+    <pkgname>linux-kernel-4.4.3</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.4.3-4.4.3-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>linux-pam.x86_64</id>
     <pkgname>linux-pam</pkgname>
     <metadata>
@@ -13213,7 +13283,7 @@
     <id>lmms.x86_64</id>
     <pkgname>lmms</pkgname>
     <metadata>
-      <value key="X-CacheID">lmms-1.1.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">lmms-1.1.90-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -13437,7 +13507,7 @@
     <id>lxappearance-obconf.x86_64</id>
     <pkgname>lxappearance-obconf</pkgname>
     <metadata>
-      <value key="X-CacheID">lxappearance-obconf-0.2.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">lxappearance-obconf-0.2.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -14354,7 +14424,7 @@
     <id>moarvm.x86_64</id>
     <pkgname>moarvm</pkgname>
     <metadata>
-      <value key="X-CacheID">moarvm-2015.11-0.x86_64.rpm</value>
+      <value key="X-CacheID">moarvm-2016.01-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15187,7 +15257,7 @@
     <id>nqp.x86_64</id>
     <pkgname>nqp</pkgname>
     <metadata>
-      <value key="X-CacheID">nqp-2015.11-0.x86_64.rpm</value>
+      <value key="X-CacheID">nqp-2016.01-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15457,6 +15527,13 @@
     </metadata>
   </component>
   <component>
+    <id>opam.x86_64</id>
+    <pkgname>opam</pkgname>
+    <metadata>
+      <value key="X-CacheID">opam-1.2.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>open-iscsi.x86_64</id>
     <pkgname>open-iscsi</pkgname>
     <metadata>
@@ -15474,7 +15551,7 @@
     <id>openal-soft.x86_64</id>
     <pkgname>openal-soft</pkgname>
     <metadata>
-      <value key="X-CacheID">openal-soft-1.16.0-3.x86_64.rpm</value>
+      <value key="X-CacheID">openal-soft-1.17.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15922,7 +15999,7 @@
     <id>pacman.x86_64</id>
     <pkgname>pacman</pkgname>
     <metadata>
-      <value key="X-CacheID">pacman-5.0.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">pacman-5.0.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -18488,6 +18565,13 @@
     </metadata>
   </component>
   <component>
+    <id>qmpdclient.x86_64</id>
+    <pkgname>qmpdclient</pkgname>
+    <metadata>
+      <value key="X-CacheID">qmpdclient-1.2.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>qmsystem.x86_64</id>
     <pkgname>qmsystem</pkgname>
     <metadata>
@@ -19359,7 +19443,7 @@
     <id>sdparm.x86_64</id>
     <pkgname>sdparm</pkgname>
     <metadata>
-      <value key="X-CacheID">sdparm-1.09-0.x86_64.rpm</value>
+      <value key="X-CacheID">sdparm-1.10-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -19853,6 +19937,13 @@
     </metadata>
   </component>
   <component>
+    <id>spdylay.x86_64</id>
+    <pkgname>spdylay</pkgname>
+    <metadata>
+      <value key="X-CacheID">spdylay-1.3.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>spectacle.x86_64</id>
     <pkgname>spectacle</pkgname>
     <metadata>
@@ -19969,6 +20060,13 @@
     <pkgname>sqlite</pkgname>
     <metadata>
       <value key="X-CacheID">sqlite-3.10.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>sqlmap.x86_64</id>
+    <pkgname>sqlmap</pkgname>
+    <metadata>
+      <value key="X-CacheID">sqlmap-1.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -20812,6 +20910,13 @@
     </metadata>
   </component>
   <component>
+    <id>tlp.x86_64</id>
+    <pkgname>tlp</pkgname>
+    <metadata>
+      <value key="X-CacheID">tlp-0.8-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>tmux.x86_64</id>
     <pkgname>tmux</pkgname>
     <metadata>
@@ -21431,7 +21536,7 @@
     <id>v4l-utils.x86_64</id>
     <pkgname>v4l-utils</pkgname>
     <metadata>
-      <value key="X-CacheID">v4l-utils-1.6.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">v4l-utils-1.10.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21711,7 +21816,7 @@
     <id>vscode.x86_64</id>
     <pkgname>vscode</pkgname>
     <metadata>
-      <value key="X-CacheID">vscode-0.10.9-0.x86_64.rpm</value>
+      <value key="X-CacheID">vscode-0.10.11-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -23196,6 +23301,13 @@
     <pkgname>yum</pkgname>
     <metadata>
       <value key="X-CacheID">yum-4git20140829-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>z3.x86_64</id>
+    <pkgname>z3</pkgname>
+    <metadata>
+      <value key="X-CacheID">z3-4.4.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
