@@ -585,25 +585,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-45a634442ccceff3a121d7ec93e657b3.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-ba0904dcb88ae0ba9fa39bdf57c8f35f.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -818,25 +802,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-45a634442ccceff3a121d7ec93e657b3.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-ba0904dcb88ae0ba9fa39bdf57c8f35f.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -1051,25 +1019,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-45a634442ccceff3a121d7ec93e657b3.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-ba0904dcb88ae0ba9fa39bdf57c8f35f.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -1559,6 +1511,92 @@
     <metadata>
       <value key="X-CacheID">digikam-4.12.0-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">digikam.desktop</value>
+    </metadata>
+  </component>
+  <component type="addon">
+    <id>easytag-nautilus</id>
+    <pkgname>easytag</pkgname>
+    <name>Open with EasyTAG</name>
+    <name xml:lang="bs">Otvori sa EasyTAG</name>
+    <name xml:lang="cs">Otevřít pomocí EasyTAG</name>
+    <name xml:lang="de">Mit EasyTAG öffnen</name>
+    <name xml:lang="es">Abrir con EasyTAG</name>
+    <name xml:lang="fr">Ouvrir avec EasyTAG</name>
+    <name xml:lang="hu">Megnyitás az EasyTAG-gel</name>
+    <name xml:lang="ko">이지태그로 열기</name>
+    <name xml:lang="nb">Åpne med EasyTAG</name>
+    <name xml:lang="pl">Otwórz za pomocą programu EasyTAG</name>
+    <name xml:lang="pt">Abrir com EasyTAG</name>
+    <name xml:lang="pt_BR">Abrir com EasyTAG</name>
+    <name xml:lang="sr">Отвори Лаком ознаком</name>
+    <name xml:lang="sr@latin">Otvori Lakom oznakom</name>
+    <name xml:lang="sv">Öppna med EasyTAG</name>
+    <name xml:lang="tr">EasyTAG ile Aç</name>
+    <summary>Open directories and audio files with EasyTAG using the context menu</summary>
+    <summary xml:lang="bs">Otvorite direktorijume i zvučne datoteke Lakom oznakom koristeći priručni izbornik</summary>
+    <summary xml:lang="cs">Otevírejte složky a zvukové soubory pomocí aplikace EasyTAG v kontextové nabídce</summary>
+    <summary xml:lang="de">Ordner und Audiodateien mit EasyTAG über das Kontextmenü öffnen</summary>
+    <summary xml:lang="es">Abrir carpetas y archivos de sonido con EasyTAG usando el menu contextual</summary>
+    <summary xml:lang="fr">Ouvrir des répertoires et des fichiers audio avec EasyTAG grâce au menu contextuel</summary>
+    <summary xml:lang="hu">Könyvtárak és hangfájlok megnyitása az EasyTag-gel a helyi menüből</summary>
+    <summary xml:lang="ko">단축 메뉴를 통해 디렉터리와 오디오 파일을  이지태그로 엽니다</summary>
+    <summary xml:lang="nb">Åpne mapper og lydfiler med EasyTAG via skrivebordets lokalmenyer</summary>
+    <summary xml:lang="pl">Otwieranie katalogów i plików dźwiękowych w programie EasyTAG za pomocą menu kontekstowego</summary>
+    <summary xml:lang="pt">Abrir pastas e ficheiros áudio com o EasyTAG usando o menu contextual</summary>
+    <summary xml:lang="pt_BR">Abre diretórios e arquivos de áudio com EasyTAG usando o menu de contexto</summary>
+    <summary xml:lang="sr">Отворите директоријуме и звучне датотеке Лаком ознаком користећи приручни изборник</summary>
+    <summary xml:lang="sr@latin">Otvorite direktorijume i zvučne datoteke Lakom oznakom koristeći priručni izbornik</summary>
+    <summary xml:lang="sv">Öppna mappar och ljudfiler med EasyTAG genom att använda snabbvalsmenyn</summary>
+    <summary xml:lang="tr">Bağlam menüsünü kullanarak, dizinleri ve ses dosyalarını EasyTAG ile açın</summary>
+    <kudos>
+      <kudo>HighContrast</kudo>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>partially absorbing easytag-nautilus into easytag.desktop</veto>
+    </vetos>
+    <project_license>GPL-3.0+</project_license>
+    <url type="homepage">https://wiki.gnome.org/Apps/EasyTAG</url>
+    <project_group>GNOME</project_group>
+    <extends>org.gnome.Nautilus.desktop</extends>
+    <languages>
+      <lang percentage="63">bg</lang>
+      <lang percentage="100">bs</lang>
+      <lang percentage="96">ca</lang>
+      <lang percentage="99">cs</lang>
+      <lang percentage="71">da</lang>
+      <lang percentage="99">de</lang>
+      <lang percentage="96">el</lang>
+      <lang percentage="99">en_GB</lang>
+      <lang percentage="99">es</lang>
+      <lang percentage="99">fr</lang>
+      <lang percentage="67">he</lang>
+      <lang percentage="99">hu</lang>
+      <lang percentage="46">id</lang>
+      <lang percentage="96">it</lang>
+      <lang percentage="81">ja</lang>
+      <lang percentage="99">ko</lang>
+      <lang percentage="48">lt</lang>
+      <lang percentage="99">nb</lang>
+      <lang percentage="57">nl</lang>
+      <lang percentage="99">pl</lang>
+      <lang percentage="99">pt</lang>
+      <lang percentage="84">pt_BR</lang>
+      <lang percentage="65">ro</lang>
+      <lang percentage="98">ru</lang>
+      <lang percentage="90">sl</lang>
+      <lang percentage="99">sr</lang>
+      <lang percentage="99">sr@latin</lang>
+      <lang percentage="99">sv</lang>
+      <lang percentage="26">te</lang>
+      <lang percentage="99">tr</lang>
+      <lang percentage="39">uk</lang>
+      <lang percentage="81">zh_CN</lang>
+      <lang percentage="78">zh_TW</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">easytag-2.4.2-1.x86_64.rpm</value>
+      <value key="X-Merge-With-Parent">easytag.desktop</value>
     </metadata>
   </component>
   <component type="addon">
