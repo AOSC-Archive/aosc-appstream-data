@@ -585,14 +585,6 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-1baa6ad042c3b5858fe6c3fbe02f2c8d.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
@@ -810,14 +802,6 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-1baa6ad042c3b5858fe6c3fbe02f2c8d.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
@@ -1035,14 +1019,6 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-1baa6ad042c3b5858fe6c3fbe02f2c8d.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
@@ -4262,7 +4238,7 @@
       <dbus type="system">org.kde.kalarmrtcwake</dbus>
     </provides>
     <metadata>
-      <value key="X-CacheID">kdepim-15.12.1-1.x86_64.rpm</value>
+      <value key="X-CacheID">kdepim-15.12.1-2.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4345,7 +4321,7 @@
       <dbus type="system">org.kde.kalarmrtcwake</dbus>
     </provides>
     <metadata>
-      <value key="X-CacheID">kdepim-15.12.1-1.x86_64.rpm</value>
+      <value key="X-CacheID">kdepim-15.12.1-2.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4415,7 +4391,7 @@
       <dbus type="system">org.kde.kalarmrtcwake</dbus>
     </provides>
     <metadata>
-      <value key="X-CacheID">kdepim-15.12.1-1.x86_64.rpm</value>
+      <value key="X-CacheID">kdepim-15.12.1-2.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="font">
@@ -4561,7 +4537,7 @@
       <binary>vscode</binary>
     </provides>
     <metadata>
-      <value key="X-CacheID">vscode-0.10.11-0.x86_64.rpm</value>
+      <value key="X-CacheID">vscode-0.10.12-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="font">
