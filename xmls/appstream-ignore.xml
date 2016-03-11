@@ -232,6 +232,13 @@
     </metadata>
   </component>
   <component>
+    <id>agrep.x86_64</id>
+    <pkgname>agrep</pkgname>
+    <metadata>
+      <value key="X-CacheID">agrep-3.41.5-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>aide.x86_64</id>
     <pkgname>aide</pkgname>
     <metadata>
@@ -991,7 +998,7 @@
     <id>awesome.x86_64</id>
     <pkgname>awesome</pkgname>
     <metadata>
-      <value key="X-CacheID">awesome-3.5.6-2.x86_64.rpm</value>
+      <value key="X-CacheID">awesome-3.5.9-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -1320,7 +1327,7 @@
     <id>binutils.x86_64</id>
     <pkgname>binutils</pkgname>
     <metadata>
-      <value key="X-CacheID">binutils-2.25-3.x86_64.rpm</value>
+      <value key="X-CacheID">binutils-2.26-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -1783,13 +1790,6 @@
     <pkgname>catdoc</pkgname>
     <metadata>
       <value key="X-CacheID">catdoc-0.94.4-1.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>catfish.x86_64</id>
-    <pkgname>catfish</pkgname>
-    <metadata>
-      <value key="X-CacheID">catfish-1.2.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -2461,7 +2461,7 @@
     <id>colorama.x86_64</id>
     <pkgname>colorama</pkgname>
     <metadata>
-      <value key="X-CacheID">colorama-0.3.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">colorama-0.3.7-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3028,7 +3028,7 @@
     <id>cups-pk-helper.x86_64</id>
     <pkgname>cups-pk-helper</pkgname>
     <metadata>
-      <value key="X-CacheID">cups-pk-helper-0.2.5-1.x86_64.rpm</value>
+      <value key="X-CacheID">cups-pk-helper-0.2.6-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3203,7 +3203,7 @@
     <id>db.x86_64</id>
     <pkgname>db</pkgname>
     <metadata>
-      <value key="X-CacheID">db-6.1.23-3.x86_64.rpm</value>
+      <value key="X-CacheID">db-6.1.26-3.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4659,7 +4659,7 @@
     <id>foomatic.x86_64</id>
     <pkgname>foomatic</pkgname>
     <metadata>
-      <value key="X-CacheID">foomatic-20150207-0.x86_64.rpm</value>
+      <value key="X-CacheID">foomatic-20160308-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4667,6 +4667,13 @@
     <pkgname>fop</pkgname>
     <metadata>
       <value key="X-CacheID">fop-1.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>fossamail.x86_64</id>
+    <pkgname>fossamail</pkgname>
+    <metadata>
+      <value key="X-CacheID">fossamail-25.2.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7466,14 +7473,14 @@
     <id>i3lock.x86_64</id>
     <pkgname>i3lock</pkgname>
     <metadata>
-      <value key="X-CacheID">i3lock-2.6-0.x86_64.rpm</value>
+      <value key="X-CacheID">i3lock-2.7-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>i3status.x86_64</id>
     <pkgname>i3status</pkgname>
     <metadata>
-      <value key="X-CacheID">i3status-2.8-0.x86_64.rpm</value>
+      <value key="X-CacheID">i3status-2.10-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7942,7 +7949,7 @@
     <id>isl.x86_64</id>
     <pkgname>isl</pkgname>
     <metadata>
-      <value key="X-CacheID">isl-0.13-0.x86_64.rpm</value>
+      <value key="X-CacheID">isl-0.14.1-2.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8110,7 +8117,7 @@
     <id>joe.x86_64</id>
     <pkgname>joe</pkgname>
     <metadata>
-      <value key="X-CacheID">joe-4.0-1.x86_64.rpm</value>
+      <value key="X-CacheID">joe-4.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8173,7 +8180,7 @@
     <id>json-glib.x86_64</id>
     <pkgname>json-glib</pkgname>
     <metadata>
-      <value key="X-CacheID">json-glib-1.0.4-0.x86_64.rpm</value>
+      <value key="X-CacheID">json-glib-1.1.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9875,6 +9882,13 @@
     <pkgname>ldns</pkgname>
     <metadata>
       <value key="X-CacheID">ldns-1.6.17-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ldoc.x86_64</id>
+    <pkgname>ldoc</pkgname>
+    <metadata>
+      <value key="X-CacheID">ldoc-1.4.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -11918,7 +11932,7 @@
     <id>libproxy.x86_64</id>
     <pkgname>libproxy</pkgname>
     <metadata>
-      <value key="X-CacheID">libproxy-0.4.12-0.x86_64.rpm</value>
+      <value key="X-CacheID">libproxy-0.4.12-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12583,7 +12597,7 @@
     <id>libvdpau-va-gl.x86_64</id>
     <pkgname>libvdpau-va-gl</pkgname>
     <metadata>
-      <value key="X-CacheID">libvdpau-va-gl-0.3.4-0.x86_64.rpm</value>
+      <value key="X-CacheID">libvdpau-va-gl-0.3.5-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -13325,7 +13339,7 @@
     <id>locale-gen.x86_64</id>
     <pkgname>locale-gen</pkgname>
     <metadata>
-      <value key="X-CacheID">locale-gen-0+git20140901-0.x86_64.rpm</value>
+      <value key="X-CacheID">locale-gen-20160306-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -13487,6 +13501,13 @@
     <pkgname>luabitop</pkgname>
     <metadata>
       <value key="X-CacheID">luabitop-1.0.2-2.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>luafilesystem.x86_64</id>
+    <pkgname>luafilesystem</pkgname>
+    <metadata>
+      <value key="X-CacheID">luafilesystem-1.6.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -13934,7 +13955,7 @@
     <id>marisa.x86_64</id>
     <pkgname>marisa</pkgname>
     <metadata>
-      <value key="X-CacheID">marisa-0.2.4-0.x86_64.rpm</value>
+      <value key="X-CacheID">marisa-0.2.4-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -14778,6 +14799,13 @@
     </metadata>
   </component>
   <component>
+    <id>musescore.x86_64</id>
+    <pkgname>musescore</pkgname>
+    <metadata>
+      <value key="X-CacheID">musescore-2.0.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>mustache.x86_64</id>
     <pkgname>mustache</pkgname>
     <metadata>
@@ -14963,7 +14991,7 @@
     <id>net-snmp.x86_64</id>
     <pkgname>net-snmp</pkgname>
     <metadata>
-      <value key="X-CacheID">net-snmp-5.7.2.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">net-snmp-5.7.3-2.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15327,7 +15355,7 @@
     <id>nss.x86_64</id>
     <pkgname>nss</pkgname>
     <metadata>
-      <value key="X-CacheID">nss-3.20.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">nss-3.23-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16265,7 +16293,7 @@
     <id>pcsc-perl.x86_64</id>
     <pkgname>pcsc-perl</pkgname>
     <metadata>
-      <value key="X-CacheID">pcsc-perl-1.4.14-0.x86_64.rpm</value>
+      <value key="X-CacheID">pcsc-perl-1.4.14-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16311,6 +16339,13 @@
     </metadata>
   </component>
   <component>
+    <id>penlight.x86_64</id>
+    <pkgname>penlight</pkgname>
+    <metadata>
+      <value key="X-CacheID">penlight-1.3.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>pepperflashplugin-nonfree.x86_64</id>
     <pkgname>pepperflashplugin-nonfree</pkgname>
     <metadata>
@@ -16349,14 +16384,14 @@
     <id>perl-appconfig.x86_64</id>
     <pkgname>perl-appconfig</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-appconfig-1.71-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-appconfig-1.71-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-archive-zip.x86_64</id>
     <pkgname>perl-archive-zip</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-archive-zip-1.37-1.x86_64.rpm</value>
+      <value key="X-CacheID">perl-archive-zip-1.56-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16377,14 +16412,21 @@
     <id>perl-cairo.x86_64</id>
     <pkgname>perl-cairo</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-cairo-1.105-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-cairo-1.106-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>perl-canary-stability.x86_64</id>
+    <pkgname>perl-canary-stability</pkgname>
+    <metadata>
+      <value key="X-CacheID">perl-canary-stability-2006-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-chart.x86_64</id>
     <pkgname>perl-chart</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-chart-2.4.10-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-chart-2.4.10-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16395,24 +16437,31 @@
     </metadata>
   </component>
   <component>
+    <id>perl-clone.x86_64</id>
+    <pkgname>perl-clone</pkgname>
+    <metadata>
+      <value key="X-CacheID">perl-clone-0.38-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>perl-common-sense.x86_64</id>
     <pkgname>perl-common-sense</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-common-sense-3.73-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-common-sense-3.74-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-convert-asn1.x86_64</id>
     <pkgname>perl-convert-asn1</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-convert-asn1-0.27-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-convert-asn1-0.27-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-convert-binhex.x86_64</id>
     <pkgname>perl-convert-binhex</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-convert-binhex-1.123-2.x86_64.rpm</value>
+      <value key="X-CacheID">perl-convert-binhex-1.125-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16426,7 +16475,7 @@
     <id>perl-crypt-openssl-random.x86_64</id>
     <pkgname>perl-crypt-openssl-random</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-crypt-openssl-random-0.06-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-crypt-openssl-random-0.11-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16461,21 +16510,21 @@
     <id>perl-dbd-pg.x86_64</id>
     <pkgname>perl-dbd-pg</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-dbd-pg-3.5.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-dbd-pg-3.5.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-dbi.x86_64</id>
     <pkgname>perl-dbi</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-dbi-1.631-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-dbi-1.634-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-devel-leak.x86_64</id>
     <pkgname>perl-devel-leak</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-devel-leak-0.03-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-devel-leak-0.03-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16517,21 +16566,21 @@
     <id>perl-email-address.x86_64</id>
     <pkgname>perl-email-address</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-email-address-1.907-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-email-address-1.908-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-email-date-format.x86_64</id>
     <pkgname>perl-email-date-format</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-email-date-format-1.005-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-email-date-format-1.005-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-email-messageid.x86_64</id>
     <pkgname>perl-email-messageid</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-email-messageid-1.405-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-email-messageid-1.406-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16545,14 +16594,14 @@
     <id>perl-email-mime-encodings.x86_64</id>
     <pkgname>perl-email-mime-encodings</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-email-mime-encodings-1.315-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-email-mime-encodings-1.315-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-email-mime.x86_64</id>
     <pkgname>perl-email-mime</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-email-mime-1.929-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-email-mime-1.937-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16566,7 +16615,7 @@
     <id>perl-email-send.x86_64</id>
     <pkgname>perl-email-send</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-email-send-2.201-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-email-send-2.201-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16580,7 +16629,7 @@
     <id>perl-encode-locale.x86_64</id>
     <pkgname>perl-encode-locale</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-encode-locale-1.05-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-encode-locale-1.05-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16594,7 +16643,7 @@
     <id>perl-ev.x86_64</id>
     <pkgname>perl-ev</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-ev-4.18-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-ev-4.22-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16622,7 +16671,7 @@
     <id>perl-extutils-pkgconfig.x86_64</id>
     <pkgname>perl-extutils-pkgconfig</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-extutils-pkgconfig-1.15-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-extutils-pkgconfig-1.15-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16636,35 +16685,35 @@
     <id>perl-file-basedir.x86_64</id>
     <pkgname>perl-file-basedir</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-file-basedir-0.06-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-file-basedir-0.07-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-file-listing.x86_64</id>
     <pkgname>perl-file-listing</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-file-listing-6.04-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-file-listing-6.04-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-file-tail.x86_64</id>
     <pkgname>perl-file-tail</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-file-tail-1.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-file-tail-1.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-file-which.x86_64</id>
     <pkgname>perl-file-which</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-file-which-1.16-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-file-which-1.21-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-font-ttf.x86_64</id>
     <pkgname>perl-font-ttf</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-font-ttf-1.05-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-font-ttf-1.05-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16678,21 +16727,21 @@
     <id>perl-gdgraph.x86_64</id>
     <pkgname>perl-gdgraph</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-gdgraph-1.48-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-gdgraph-1.52-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-gdtextutil.x86_64</id>
     <pkgname>perl-gdtextutil</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-gdtextutil-0.86-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-gdtextutil-0.86-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-glib-object-introspection.x86_64</id>
     <pkgname>perl-glib-object-introspection</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-glib-object-introspection-0.028-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-glib-object-introspection-0.040-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16727,49 +16776,49 @@
     <id>perl-html-parser.x86_64</id>
     <pkgname>perl-html-parser</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-html-parser-3.71-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-html-parser-3.72-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-html-scrubber.x86_64</id>
     <pkgname>perl-html-scrubber</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-html-scrubber-0.11-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-html-scrubber-0.15-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-html-tagset.x86_64</id>
     <pkgname>perl-html-tagset</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-html-tagset-3.20-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-html-tagset-3.20-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-http-cookies.x86_64</id>
     <pkgname>perl-http-cookies</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-http-cookies-6.01-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-http-cookies-6.01-2.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-http-daemon.x86_64</id>
     <pkgname>perl-http-daemon</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-http-daemon-6.01-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-http-daemon-6.01-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-http-date.x86_64</id>
     <pkgname>perl-http-date</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-http-date-6.02-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-http-date-6.02-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-http-message.x86_64</id>
     <pkgname>perl-http-message</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-http-message-6.06-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-http-message-6.11-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16787,10 +16836,17 @@
     </metadata>
   </component>
   <component>
+    <id>perl-inc-latest.x86_64</id>
+    <pkgname>perl-inc-latest</pkgname>
+    <metadata>
+      <value key="X-CacheID">perl-inc-latest-0.500-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>perl-io-socket-inet6.x86_64</id>
     <pkgname>perl-io-socket-inet6</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-io-socket-inet6-2.72-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-io-socket-inet6-2.72-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16804,14 +16860,14 @@
     <id>perl-io-string.x86_64</id>
     <pkgname>perl-io-string</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-io-string-1.08-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-io-string-1.08-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-io-stringy.x86_64</id>
     <pkgname>perl-io-stringy</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-io-stringy-2.110-2.x86_64.rpm</value>
+      <value key="X-CacheID">perl-io-stringy-2.111-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16825,28 +16881,28 @@
     <id>perl-ipc-system-simple.x86_64</id>
     <pkgname>perl-ipc-system-simple</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-ipc-system-simple-1.25-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-ipc-system-simple-1.25-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-json-xs.x86_64</id>
     <pkgname>perl-json-xs</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-json-xs-3.01-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-json-xs-3.01-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-json.x86_64</id>
     <pkgname>perl-json</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-json-2.90-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-json-2.90-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-ldap.x86_64</id>
     <pkgname>perl-ldap</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-ldap-0.64-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-ldap-0.65-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16874,21 +16930,21 @@
     <id>perl-lwp-mediatypes.x86_64</id>
     <pkgname>perl-lwp-mediatypes</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-lwp-mediatypes-6.02-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-lwp-mediatypes-6.02-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-lwp-protocol-https.x86_64</id>
     <pkgname>perl-lwp-protocol-https</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-lwp-protocol-https-6.04-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-lwp-protocol-https-6.06-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-mail-dkim.x86_64</id>
     <pkgname>perl-mail-dkim</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-mail-dkim-0.40-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-mail-dkim-0.40-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16923,21 +16979,28 @@
     <id>perl-mime-tools.x86_64</id>
     <pkgname>perl-mime-tools</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-mime-tools-5.506-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-mime-tools-5.507-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-mime-types.x86_64</id>
     <pkgname>perl-mime-types</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-mime-types-2.09-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-mime-types-2.13-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>perl-module-build.x86_64</id>
+    <pkgname>perl-module-build</pkgname>
+    <metadata>
+      <value key="X-CacheID">perl-module-build-0.4216-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-module-pluggable.x86_64</id>
     <pkgname>perl-module-pluggable</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-module-pluggable-5.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-module-pluggable-5.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16951,35 +17014,35 @@
     <id>perl-mozilla-ca.x86_64</id>
     <pkgname>perl-mozilla-ca</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-mozilla-ca-20130114-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-mozilla-ca-20160104-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-net-dbus.x86_64</id>
     <pkgname>perl-net-dbus</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-net-dbus-1.0.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-net-dbus-1.1.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-net-dns-resolver-programmable.x86_64</id>
     <pkgname>perl-net-dns-resolver-programmable</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-net-dns-resolver-programmable-0.03-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-net-dns-resolver-programmable-0.003-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-net-dns.x86_64</id>
     <pkgname>perl-net-dns</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-net-dns-0.80-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-net-dns-1.05-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-net-http.x86_64</id>
     <pkgname>perl-net-http</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-net-http-6.07-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-net-http-6.09-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16993,7 +17056,7 @@
     <id>perl-net-server.x86_64</id>
     <pkgname>perl-net-server</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-net-server-2.008-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-net-server-2.008-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17014,14 +17077,14 @@
     <id>perl-netaddr-ip.x86_64</id>
     <pkgname>perl-netaddr-ip</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-netaddr-ip-4.075-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-netaddr-ip-4.078-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-pango.x86_64</id>
     <pkgname>perl-pango</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-pango-1.226-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-pango-1.227-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17042,7 +17105,7 @@
     <id>perl-pod-coverage.x86_64</id>
     <pkgname>perl-pod-coverage</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-pod-coverage-0.23-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-pod-coverage-0.23-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17063,14 +17126,14 @@
     <id>perl-sgmlspm.x86_64</id>
     <pkgname>perl-sgmlspm</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-sgmlspm-1.03ii-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-sgmlspm-1.03ii-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-soap-lite.x86_64</id>
     <pkgname>perl-soap-lite</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-soap-lite-1.13-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-soap-lite-1.19-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17112,7 +17175,7 @@
     <id>perl-test-pod.x86_64</id>
     <pkgname>perl-test-pod</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-test-pod-1.48-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-test-pod-1.51-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17140,35 +17203,35 @@
     <id>perl-text-iconv.x86_64</id>
     <pkgname>perl-text-iconv</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-text-iconv-1.7-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-text-iconv-1.7-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-text-wrapi18n.x86_64</id>
     <pkgname>perl-text-wrapi18n</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-text-wrapi18n-0.06-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-text-wrapi18n-0.06-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-timedate.x86_64</id>
     <pkgname>perl-timedate</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-timedate-2.30-2.x86_64.rpm</value>
+      <value key="X-CacheID">perl-timedate-2.30-3.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-tk.x86_64</id>
     <pkgname>perl-tk</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-tk-804.033-1.x86_64.rpm</value>
+      <value key="X-CacheID">perl-tk-804.033-2.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-try-tiny.x86_64</id>
     <pkgname>perl-try-tiny</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-try-tiny-0.22-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-try-tiny-0.24-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17189,28 +17252,28 @@
     <id>perl-www-robotrules.x86_64</id>
     <pkgname>perl-www-robotrules</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-www-robotrules-6.02-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-www-robotrules-6.02-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-xml-filter-buffertext.x86_64</id>
     <pkgname>perl-xml-filter-buffertext</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-xml-filter-buffertext-1.01-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-xml-filter-buffertext-1.01-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-xml-libxml.x86_64</id>
     <pkgname>perl-xml-libxml</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-xml-libxml-2.0119-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-xml-libxml-2.0124-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-xml-namespacesupport.x86_64</id>
     <pkgname>perl-xml-namespacesupport</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-xml-namespacesupport-1.11-2.x86_64.rpm</value>
+      <value key="X-CacheID">perl-xml-namespacesupport-1.11-3.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17224,14 +17287,14 @@
     <id>perl-xml-parser.x86_64</id>
     <pkgname>perl-xml-parser</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-xml-parser-2.42+01-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-xml-parser-2.44-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-xml-sax-base.x86_64</id>
     <pkgname>perl-xml-sax-base</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-xml-sax-base-1.08-2.x86_64.rpm</value>
+      <value key="X-CacheID">perl-xml-sax-base-1.08-3.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17245,7 +17308,7 @@
     <id>perl-xml-sax-writer.x86_64</id>
     <pkgname>perl-xml-sax-writer</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-xml-sax-writer-0.56-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-xml-sax-writer-0.56-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17259,14 +17322,14 @@
     <id>perl-xml-simple.x86_64</id>
     <pkgname>perl-xml-simple</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-xml-simple-2.22-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-xml-simple-2.22-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>perl-xml-twig.x86_64</id>
     <pkgname>perl-xml-twig</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-xml-twig-3.48-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-xml-twig-3.49-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17287,7 +17350,7 @@
     <id>perl4-corelibs.x86_64</id>
     <pkgname>perl4-corelibs</pkgname>
     <metadata>
-      <value key="X-CacheID">perl4-corelibs-0.003-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl4-corelibs-0.003-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -19289,7 +19352,7 @@
     <id>sbcl.x86_64</id>
     <pkgname>sbcl</pkgname>
     <metadata>
-      <value key="X-CacheID">sbcl-1.3.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">sbcl-1.3.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21022,13 +21085,6 @@
     </metadata>
   </component>
   <component>
-    <id>tortoisehg.x86_64</id>
-    <pkgname>tortoisehg</pkgname>
-    <metadata>
-      <value key="X-CacheID">tortoisehg-3.6.2-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>totem-pl-parser.x86_64</id>
     <pkgname>totem-pl-parser</pkgname>
     <metadata>
@@ -21061,6 +21117,13 @@
     <pkgname>translate-toolkit</pkgname>
     <metadata>
       <value key="X-CacheID">translate-toolkit-1.12.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>tre.x86_64</id>
+    <pkgname>tre</pkgname>
+    <metadata>
+      <value key="X-CacheID">tre-20150813-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22429,6 +22492,13 @@
     </metadata>
   </component>
   <component>
+    <id>xboxdrv.x86_64</id>
+    <pkgname>xboxdrv</pkgname>
+    <metadata>
+      <value key="X-CacheID">xboxdrv-0.8.8-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>xcalib.x86_64</id>
     <pkgname>xcalib</pkgname>
     <metadata>
@@ -23265,7 +23335,7 @@
     <id>yajl.x86_64</id>
     <pkgname>yajl</pkgname>
     <metadata>
-      <value key="X-CacheID">yajl-2.1.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">yajl-2.1.0-2.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
