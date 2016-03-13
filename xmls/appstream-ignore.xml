@@ -1079,6 +1079,13 @@
     </metadata>
   </component>
   <component>
+    <id>backports-abc.x86_64</id>
+    <pkgname>backports-abc</pkgname>
+    <metadata>
+      <value key="X-CacheID">backports-abc-0.4-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>baka-mplayer.x86_64</id>
     <pkgname>baka-mplayer</pkgname>
     <metadata>
@@ -4617,14 +4624,14 @@
     <id>fontconfig.x86_64</id>
     <pkgname>fontconfig</pkgname>
     <metadata>
-      <value key="X-CacheID">fontconfig-2.11.93really2.11.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">fontconfig-2.11.1-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>fontforge.x86_64</id>
     <pkgname>fontforge</pkgname>
     <metadata>
-      <value key="X-CacheID">fontforge-2.0.20150430-0.x86_64.rpm</value>
+      <value key="X-CacheID">fontforge-20150824-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5380,7 +5387,7 @@
     <id>glib.x86_64</id>
     <pkgname>glib</pkgname>
     <metadata>
-      <value key="X-CacheID">glib-2.46.0-1.x86_64.rpm</value>
+      <value key="X-CacheID">glib-2.46.2-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5436,7 +5443,7 @@
     <id>glpk.x86_64</id>
     <pkgname>glpk</pkgname>
     <metadata>
-      <value key="X-CacheID">glpk-4.58-0.x86_64.rpm</value>
+      <value key="X-CacheID">glpk-4.59-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6178,7 +6185,7 @@
     <id>grep.x86_64</id>
     <pkgname>grep</pkgname>
     <metadata>
-      <value key="X-CacheID">grep-2.20-1.x86_64.rpm</value>
+      <value key="X-CacheID">grep-2.24-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8691,14 +8698,14 @@
     <id>kdesignerplugin.x86_64</id>
     <pkgname>kdesignerplugin</pkgname>
     <metadata>
-      <value key="X-CacheID">kdesignerplugin-5.19.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kdesignerplugin-5.20.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>kdesu.x86_64</id>
     <pkgname>kdesu</pkgname>
     <metadata>
-      <value key="X-CacheID">kdesu-5.16.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kdesu-5.20.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8950,7 +8957,7 @@
     <id>khtml.x86_64</id>
     <pkgname>khtml</pkgname>
     <metadata>
-      <value key="X-CacheID">khtml-5.12.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">khtml-5.20.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9090,7 +9097,7 @@
     <id>kjobwidgets.x86_64</id>
     <pkgname>kjobwidgets</pkgname>
     <metadata>
-      <value key="X-CacheID">kjobwidgets-5.16.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kjobwidgets-5.20.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9356,7 +9363,7 @@
     <id>kplotting.x86_64</id>
     <pkgname>kplotting</pkgname>
     <metadata>
-      <value key="X-CacheID">kplotting-5.14.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kplotting-5.20.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9748,7 +9755,7 @@
     <id>kwidgetsaddons.x86_64</id>
     <pkgname>kwidgetsaddons</pkgname>
     <metadata>
-      <value key="X-CacheID">kwidgetsaddons-5.12.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kwidgetsaddons-5.20.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9776,7 +9783,7 @@
     <id>kxmlgui.x86_64</id>
     <pkgname>kxmlgui</pkgname>
     <metadata>
-      <value key="X-CacheID">kxmlgui-5.15.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kxmlgui-5.20.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -11859,6 +11866,13 @@
     </metadata>
   </component>
   <component>
+    <id>libpgm.x86_64</id>
+    <pkgname>libpgm</pkgname>
+    <metadata>
+      <value key="X-CacheID">libpgm-5.2.122-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>libphonenumber.x86_64</id>
     <pkgname>libphonenumber</pkgname>
     <metadata>
@@ -12205,7 +12219,7 @@
     <id>libsodium.x86_64</id>
     <pkgname>libsodium</pkgname>
     <metadata>
-      <value key="X-CacheID">libsodium-1.0.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">libsodium-1.0.8-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15131,7 +15145,7 @@
     <id>networkmanager-qt.x86_64</id>
     <pkgname>networkmanager-qt</pkgname>
     <metadata>
-      <value key="X-CacheID">networkmanager-qt-5.16.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">networkmanager-qt-5.20.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15296,13 +15310,6 @@
     </metadata>
   </component>
   <component>
-    <id>noto-fonts.x86_64</id>
-    <pkgname>noto-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">noto-fonts-1.0-1.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>nottetris2.x86_64</id>
     <pkgname>nottetris2</pkgname>
     <metadata>
@@ -15454,6 +15461,13 @@
     <pkgname>nux</pkgname>
     <metadata>
       <value key="X-CacheID">nux-4.0.7daily15.04.10-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>nvchecker.x86_64</id>
+    <pkgname>nvchecker</pkgname>
+    <metadata>
+      <value key="X-CacheID">nvchecker-0.4.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16027,7 +16041,7 @@
     <id>p7zip.x86_64</id>
     <pkgname>p7zip</pkgname>
     <metadata>
-      <value key="X-CacheID">p7zip-9.38.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">p7zip-15.09-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17452,6 +17466,13 @@
     </metadata>
   </component>
   <component>
+    <id>pidgin-otr.x86_64</id>
+    <pkgname>pidgin-otr</pkgname>
+    <metadata>
+      <value key="X-CacheID">pidgin-otr-4.0.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>pigz.x86_64</id>
     <pkgname>pigz</pkgname>
     <metadata>
@@ -17567,7 +17588,7 @@
     <id>plasma-framework.x86_64</id>
     <pkgname>plasma-framework</pkgname>
     <metadata>
-      <value key="X-CacheID">plasma-framework-5.14.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">plasma-framework-5.20.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17603,13 +17624,6 @@
     <pkgname>plasma-workspace-wallpapers</pkgname>
     <metadata>
       <value key="X-CacheID">plasma-workspace-wallpapers-5.5.0-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>playonlinux.x86_64</id>
-    <pkgname>playonlinux</pkgname>
-    <metadata>
-      <value key="X-CacheID">playonlinux-4.2.5-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -19982,7 +19996,7 @@
     <id>sonnet.x86_64</id>
     <pkgname>sonnet</pkgname>
     <metadata>
-      <value key="X-CacheID">sonnet-5.12.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">sonnet-5.20.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21074,7 +21088,7 @@
     <id>tornado.x86_64</id>
     <pkgname>tornado</pkgname>
     <metadata>
-      <value key="X-CacheID">tornado-4.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">tornado-4.3-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22432,7 +22446,7 @@
     <id>x11-proto.x86_64</id>
     <pkgname>x11-proto</pkgname>
     <metadata>
-      <value key="X-CacheID">x11-proto-7.7-2.x86_64.rpm</value>
+      <value key="X-CacheID">x11-proto-7.7.20160312-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -23391,7 +23405,7 @@
     <id>you-get.x86_64</id>
     <pkgname>you-get</pkgname>
     <metadata>
-      <value key="X-CacheID">you-get-0.4.306-0.x86_64.rpm</value>
+      <value key="X-CacheID">you-get-0.4.330-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
