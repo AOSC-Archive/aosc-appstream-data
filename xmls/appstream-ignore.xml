@@ -1397,7 +1397,7 @@
     <id>blueman.x86_64</id>
     <pkgname>blueman</pkgname>
     <metadata>
-      <value key="X-CacheID">blueman-2.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">blueman-2.0.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3844,6 +3844,13 @@
     </metadata>
   </component>
   <component>
+    <id>eflete.x86_64</id>
+    <pkgname>eflete</pkgname>
+    <metadata>
+      <value key="X-CacheID">eflete-0.6.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>eidete.x86_64</id>
     <pkgname>eidete</pkgname>
     <metadata>
@@ -6024,7 +6031,7 @@
     <id>google-chrome.x86_64</id>
     <pkgname>google-chrome</pkgname>
     <metadata>
-      <value key="X-CacheID">google-chrome-48.0.2564.109-0.x86_64.rpm</value>
+      <value key="X-CacheID">google-chrome-49.0.2623.87-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6353,7 +6360,7 @@
     <id>gst-plugins-bad-0-10.x86_64</id>
     <pkgname>gst-plugins-bad-0-10</pkgname>
     <metadata>
-      <value key="X-CacheID">gst-plugins-bad-0-10-0.10.23git20120628-1.x86_64.rpm</value>
+      <value key="X-CacheID">gst-plugins-bad-0-10-0.10.23-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6472,7 +6479,7 @@
     <id>gstreamer-vaapi.x86_64</id>
     <pkgname>gstreamer-vaapi</pkgname>
     <metadata>
-      <value key="X-CacheID">gstreamer-vaapi-0.6.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">gstreamer-vaapi-0.7.0-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7284,7 +7291,7 @@
     <id>hhvm.x86_64</id>
     <pkgname>hhvm</pkgname>
     <metadata>
-      <value key="X-CacheID">hhvm-3.12.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">hhvm-3.12.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -18449,7 +18456,7 @@
     <id>python-efl.x86_64</id>
     <pkgname>python-efl</pkgname>
     <metadata>
-      <value key="X-CacheID">python-efl-1.16.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">python-efl-1.17.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -20007,6 +20014,20 @@
     </metadata>
   </component>
   <component>
+    <id>soundfont-fluid-gm.x86_64</id>
+    <pkgname>soundfont-fluid-gm</pkgname>
+    <metadata>
+      <value key="X-CacheID">soundfont-fluid-gm-3.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>soundfont-fluid-gs.x86_64</id>
+    <pkgname>soundfont-fluid-gs</pkgname>
+    <metadata>
+      <value key="X-CacheID">soundfont-fluid-gs-3.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>soundkonverter.x86_64</id>
     <pkgname>soundkonverter</pkgname>
     <metadata>
@@ -20682,7 +20703,7 @@
     <id>tcl.x86_64</id>
     <pkgname>tcl</pkgname>
     <metadata>
-      <value key="X-CacheID">tcl-8.6.2-1.x86_64.rpm</value>
+      <value key="X-CacheID">tcl-8.6.5-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
