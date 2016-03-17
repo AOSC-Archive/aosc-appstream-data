@@ -585,9 +585,21 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
+      <screenshot>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-05c08653b70269076c26ba2f74f03933.png</image>
+      </screenshot>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -802,9 +814,21 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
+      <screenshot>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-05c08653b70269076c26ba2f74f03933.png</image>
+      </screenshot>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -1019,9 +1043,21 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
+      <screenshot>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-05c08653b70269076c26ba2f74f03933.png</image>
+      </screenshot>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -3476,8 +3512,10 @@
     <summary xml:lang="lt">Šlamšto filtravimas naudojant Bogofilter</summary>
     <summary xml:lang="lv">Mēstuļu filtrēšanas, izmantojot Bogofilter</summary>
     <summary xml:lang="nb">Søppelfilter bruker Bogofilter</summary>
+    <summary xml:lang="nl">Spamfilter gebruikmakend van Bogofilter</summary>
     <summary xml:lang="pl">Filtrowanie niechcianych wiadomości używając Bogofilter</summary>
     <summary xml:lang="pt">Filtrar não solicitado usando Bogofilter</summary>
+    <summary xml:lang="pt_BR">Filtro de spam usando Bogofilter</summary>
     <summary xml:lang="ru">Фильтр спама с помощью Bogofilter</summary>
     <summary xml:lang="sk">Filtrovanie nevyžiadanej pošty pomocou programu Bogofilter</summary>
     <summary xml:lang="sl">Filter neželene pošte, ki uporablja Bogofilter</summary>
@@ -3554,19 +3592,19 @@
       <lang percentage="96">nb</lang>
       <lang percentage="28">nds</lang>
       <lang percentage="75">ne</lang>
-      <lang percentage="85">nl</lang>
+      <lang percentage="95">nl</lang>
       <lang percentage="57">nn</lang>
       <lang percentage="85">or</lang>
       <lang percentage="85">pa</lang>
       <lang percentage="98">pl</lang>
       <lang percentage="58">ps</lang>
       <lang percentage="98">pt</lang>
-      <lang percentage="86">pt_BR</lang>
+      <lang percentage="98">pt_BR</lang>
       <lang percentage="88">ro</lang>
       <lang percentage="87">ru</lang>
       <lang percentage="46">si</lang>
       <lang percentage="97">sk</lang>
-      <lang percentage="96">sl</lang>
+      <lang percentage="97">sl</lang>
       <lang percentage="82">sq</lang>
       <lang percentage="98">sr</lang>
       <lang percentage="98">sr@latin</lang>
@@ -3584,7 +3622,7 @@
       <lang percentage="98">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.18.5.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution-3.18.5.2-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -3621,8 +3659,10 @@
     <summary xml:lang="lt">Šlamšto filtravimas naudojant SpamAssassin</summary>
     <summary xml:lang="lv">Mēstuļu filtrēšanas, izmantojot SpamAssassin</summary>
     <summary xml:lang="nb">Søppelfilter bruker SpamAssassin</summary>
+    <summary xml:lang="nl">Spamfilter gebruikmakend van SpamAssassin</summary>
     <summary xml:lang="pl">Filtrowanie niechcianych wiadomości używając SpamAssassin</summary>
     <summary xml:lang="pt">Filtrar não solicitado usando SpamAssassin</summary>
+    <summary xml:lang="pt_BR">Filtro de spam usando SpamAssassin</summary>
     <summary xml:lang="ru">Фильтр спама с помощью SpamAssassin</summary>
     <summary xml:lang="sk">Filtrovanie nevyžiadanej pošty pomocou programu SpamAssassin</summary>
     <summary xml:lang="sl">Filtriranje neželenih sporočil s SpamAssassin</summary>
@@ -3699,19 +3739,19 @@
       <lang percentage="96">nb</lang>
       <lang percentage="28">nds</lang>
       <lang percentage="75">ne</lang>
-      <lang percentage="85">nl</lang>
+      <lang percentage="95">nl</lang>
       <lang percentage="57">nn</lang>
       <lang percentage="85">or</lang>
       <lang percentage="85">pa</lang>
       <lang percentage="98">pl</lang>
       <lang percentage="58">ps</lang>
       <lang percentage="98">pt</lang>
-      <lang percentage="86">pt_BR</lang>
+      <lang percentage="98">pt_BR</lang>
       <lang percentage="88">ro</lang>
       <lang percentage="87">ru</lang>
       <lang percentage="46">si</lang>
       <lang percentage="97">sk</lang>
-      <lang percentage="96">sl</lang>
+      <lang percentage="97">sl</lang>
       <lang percentage="82">sq</lang>
       <lang percentage="98">sr</lang>
       <lang percentage="98">sr@latin</lang>
@@ -3729,7 +3769,7 @@
       <lang percentage="98">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.18.5.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution-3.18.5.2-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
