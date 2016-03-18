@@ -5727,34 +5727,6 @@
     </metadata>
   </component>
   <component>
-    <id>gnome-shell-extension-clipboard-indicator.x86_64</id>
-    <pkgname>gnome-shell-extension-clipboard-indicator</pkgname>
-    <metadata>
-      <value key="X-CacheID">gnome-shell-extension-clipboard-indicator-0.51.f543f7e-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>gnome-shell-extension-kimpanel.x86_64</id>
-    <pkgname>gnome-shell-extension-kimpanel</pkgname>
-    <metadata>
-      <value key="X-CacheID">gnome-shell-extension-kimpanel-0.91.5805c83-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>gnome-shell-extension-topicons.x86_64</id>
-    <pkgname>gnome-shell-extension-topicons</pkgname>
-    <metadata>
-      <value key="X-CacheID">gnome-shell-extension-topicons-25-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>gnome-shell-extensions.x86_64</id>
-    <pkgname>gnome-shell-extensions</pkgname>
-    <metadata>
-      <value key="X-CacheID">gnome-shell-extensions-3.18.0-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>gnome-shell.x86_64</id>
     <pkgname>gnome-shell</pkgname>
     <metadata>
