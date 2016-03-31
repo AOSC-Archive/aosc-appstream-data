@@ -557,7 +557,7 @@
     <id>appstream-glib.x86_64</id>
     <pkgname>appstream-glib</pkgname>
     <metadata>
-      <value key="X-CacheID">appstream-glib-0.5.4-1.x86_64.rpm</value>
+      <value key="X-CacheID">appstream-glib-0.5.12-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -1397,7 +1397,7 @@
     <id>bluedevil.x86_64</id>
     <pkgname>bluedevil</pkgname>
     <metadata>
-      <value key="X-CacheID">bluedevil-5.4.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">bluedevil-5.6.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5699,13 +5699,6 @@
     </metadata>
   </component>
   <component>
-    <id>gnome-mpv.x86_64</id>
-    <pkgname>gnome-mpv</pkgname>
-    <metadata>
-      <value key="X-CacheID">gnome-mpv-0.6git20151116-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>gnome-nettool.x86_64</id>
     <pkgname>gnome-nettool</pkgname>
     <metadata>
@@ -8978,7 +8971,7 @@
     <id>khelpcenter.x86_64</id>
     <pkgname>khelpcenter</pkgname>
     <metadata>
-      <value key="X-CacheID">khelpcenter-5.4.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">khelpcenter-5.6.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17700,7 +17693,7 @@
     <id>plasma-integration.x86_64</id>
     <pkgname>plasma-integration</pkgname>
     <metadata>
-      <value key="X-CacheID">plasma-integration-5.6.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">plasma-integration-5.6.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -20451,7 +20444,7 @@
     <id>strongswan.x86_64</id>
     <pkgname>strongswan</pkgname>
     <metadata>
-      <value key="X-CacheID">strongswan-5.3.4-0.x86_64.rpm</value>
+      <value key="X-CacheID">strongswan-5.4.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
