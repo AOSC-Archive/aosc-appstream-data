@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <components version="0.8" builder_id="appstream-glib:4" origin="aosc-ignore">
   <component>
-    <id>0ad.x86_64</id>
-    <pkgname>0ad</pkgname>
-    <metadata>
-      <value key="X-CacheID">0ad-0.0.19-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>32subsystem.x86_64</id>
     <pkgname>32subsystem</pkgname>
     <metadata>
@@ -459,7 +452,7 @@
     <id>aosc-appstream-data.x86_64</id>
     <pkgname>aosc-appstream-data</pkgname>
     <metadata>
-      <value key="X-CacheID">aosc-appstream-data-20160126-0.x86_64.rpm</value>
+      <value key="X-CacheID">aosc-appstream-data-20160330-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3942,6 +3935,13 @@
     </metadata>
   </component>
   <component>
+    <id>elvish.x86_64</id>
+    <pkgname>elvish</pkgname>
+    <metadata>
+      <value key="X-CacheID">elvish-0.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>emacs.x86_64</id>
     <pkgname>emacs</pkgname>
     <metadata>
@@ -5723,7 +5723,7 @@
     <id>gnome-panel.x86_64</id>
     <pkgname>gnome-panel</pkgname>
     <metadata>
-      <value key="X-CacheID">gnome-panel-3.16.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">gnome-panel-3.18.2-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7312,7 +7312,7 @@
     <id>hhvm.x86_64</id>
     <pkgname>hhvm</pkgname>
     <metadata>
-      <value key="X-CacheID">hhvm-3.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">hhvm-3.13.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7740,6 +7740,13 @@
     <pkgname>imagemagick</pkgname>
     <metadata>
       <value key="X-CacheID">imagemagick-6.9.1-3.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>imagesize.x86_64</id>
+    <pkgname>imagesize</pkgname>
+    <metadata>
+      <value key="X-CacheID">imagesize-0.7.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15236,7 +15243,7 @@
     <id>networkmanager.x86_64</id>
     <pkgname>networkmanager</pkgname>
     <metadata>
-      <value key="X-CacheID">networkmanager-1.0.6-0.x86_64.rpm</value>
+      <value key="X-CacheID">networkmanager-1.0.12-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15306,7 +15313,7 @@
     <id>nmap.x86_64</id>
     <pkgname>nmap</pkgname>
     <metadata>
-      <value key="X-CacheID">nmap-7.00-0.x86_64.rpm</value>
+      <value key="X-CacheID">nmap-7.12-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15355,7 +15362,7 @@
     <id>notification-daemon.x86_64</id>
     <pkgname>notification-daemon</pkgname>
     <metadata>
-      <value key="X-CacheID">notification-daemon-3.16.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">notification-daemon-3.20.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -18736,7 +18743,7 @@
     <id>qemu.x86_64</id>
     <pkgname>qemu</pkgname>
     <metadata>
-      <value key="X-CacheID">qemu-2.4.0-1.x86_64.rpm</value>
+      <value key="X-CacheID">qemu-2.5.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -19786,7 +19793,7 @@
     <id>setuptools.x86_64</id>
     <pkgname>setuptools</pkgname>
     <metadata>
-      <value key="X-CacheID">setuptools-19.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">setuptools-20.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22775,7 +22782,7 @@
     <id>xdg-app.x86_64</id>
     <pkgname>xdg-app</pkgname>
     <metadata>
-      <value key="X-CacheID">xdg-app-0.5.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">xdg-app-0.5.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
