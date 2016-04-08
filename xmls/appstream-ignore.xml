@@ -16958,7 +16958,7 @@
     <id>perl-io-socket-ssl.x86_64</id>
     <pkgname>perl-io-socket-ssl</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-io-socket-ssl-2.023-0.x86_64.rpm</value>
+      <value key="X-CacheID">perl-io-socket-ssl-2.025-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -19037,7 +19037,7 @@
     <id>r.x86_64</id>
     <pkgname>r</pkgname>
     <metadata>
-      <value key="X-CacheID">r-3.2.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">r-3.2.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
