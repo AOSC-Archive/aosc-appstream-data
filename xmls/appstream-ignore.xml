@@ -396,7 +396,7 @@
     <id>android-platform-tools.x86_64</id>
     <pkgname>android-platform-tools</pkgname>
     <metadata>
-      <value key="X-CacheID">android-platform-tools-5.1.0r3-0.x86_64.rpm</value>
+      <value key="X-CacheID">android-platform-tools-6.0.1r24-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -725,7 +725,7 @@
     <id>astroid.x86_64</id>
     <pkgname>astroid</pkgname>
     <metadata>
-      <value key="X-CacheID">astroid-1.4.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">astroid-1.4.5-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -1229,7 +1229,7 @@
     <id>bcloud.x86_64</id>
     <pkgname>bcloud</pkgname>
     <metadata>
-      <value key="X-CacheID">bcloud-3.6.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">bcloud-3.8.2-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -1733,7 +1733,7 @@
     <id>caja.x86_64</id>
     <pkgname>caja</pkgname>
     <metadata>
-      <value key="X-CacheID">caja-1.12.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">caja-1.14.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3130,6 +3130,13 @@
     </metadata>
   </component>
   <component>
+    <id>cycler.x86_64</id>
+    <pkgname>cycler</pkgname>
+    <metadata>
+      <value key="X-CacheID">cycler-0.10.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>cyrus-sasl.x86_64</id>
     <pkgname>cyrus-sasl</pkgname>
     <metadata>
@@ -3974,6 +3981,13 @@
     <pkgname>emprint</pkgname>
     <metadata>
       <value key="X-CacheID">emprint-0git20140110-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>emscripten.x86_64</id>
+    <pkgname>emscripten</pkgname>
+    <metadata>
+      <value key="X-CacheID">emscripten-1.36.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7326,7 +7340,7 @@
     <id>hiera.x86_64</id>
     <pkgname>hiera</pkgname>
     <metadata>
-      <value key="X-CacheID">hiera-3.0.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">hiera-3.1.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8282,6 +8296,13 @@
     </metadata>
   </component>
   <component>
+    <id>kactivities-stats.x86_64</id>
+    <pkgname>kactivities-stats</pkgname>
+    <metadata>
+      <value key="X-CacheID">kactivities-stats-5.21.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>kactivities.x86_64</id>
     <pkgname>kactivities</pkgname>
     <metadata>
@@ -8740,7 +8761,7 @@
     <id>kdesignerplugin.x86_64</id>
     <pkgname>kdesignerplugin</pkgname>
     <metadata>
-      <value key="X-CacheID">kdesignerplugin-5.20.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kdesignerplugin-5.21.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8761,7 +8782,7 @@
     <id>kdewebkit.x86_64</id>
     <pkgname>kdewebkit</pkgname>
     <metadata>
-      <value key="X-CacheID">kdewebkit-5.17.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kdewebkit-5.21.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8782,7 +8803,7 @@
     <id>kdnssd.x86_64</id>
     <pkgname>kdnssd</pkgname>
     <metadata>
-      <value key="X-CacheID">kdnssd-5.18.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kdnssd-5.21.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8971,7 +8992,7 @@
     <id>kguiaddons.x86_64</id>
     <pkgname>kguiaddons</pkgname>
     <metadata>
-      <value key="X-CacheID">kguiaddons-5.19.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kguiaddons-5.21.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9027,7 +9048,7 @@
     <id>kiconthemes.x86_64</id>
     <pkgname>kiconthemes</pkgname>
     <metadata>
-      <value key="X-CacheID">kiconthemes-5.13.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kiconthemes-5.21.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9412,7 +9433,7 @@
     <id>kpty.x86_64</id>
     <pkgname>kpty</pkgname>
     <metadata>
-      <value key="X-CacheID">kpty-5.17.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kpty-5.21.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9762,7 +9783,7 @@
     <id>kwallet.x86_64</id>
     <pkgname>kwallet</pkgname>
     <metadata>
-      <value key="X-CacheID">kwallet-5.13.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kwallet-5.21.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9938,6 +9959,13 @@
     <pkgname>ldoc</pkgname>
     <metadata>
       <value key="X-CacheID">ldoc-1.4.3-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>leatherman.x86_64</id>
+    <pkgname>leatherman</pkgname>
+    <metadata>
+      <value key="X-CacheID">leatherman-0.4.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -10742,7 +10770,7 @@
     <id>libgames-support.x86_64</id>
     <pkgname>libgames-support</pkgname>
     <metadata>
-      <value key="X-CacheID">libgames-support-0.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">libgames-support-1.0.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12261,7 +12289,7 @@
     <id>libsodium.x86_64</id>
     <pkgname>libsodium</pkgname>
     <metadata>
-      <value key="X-CacheID">libsodium-1.0.8-0.x86_64.rpm</value>
+      <value key="X-CacheID">libsodium-1.0.10-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12912,7 +12940,7 @@
     <id>libxkbcommon.x86_64</id>
     <pkgname>libxkbcommon</pkgname>
     <metadata>
-      <value key="X-CacheID">libxkbcommon-0.4.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">libxkbcommon-0.6.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -14893,7 +14921,7 @@
     <id>mustache.x86_64</id>
     <pkgname>mustache</pkgname>
     <metadata>
-      <value key="X-CacheID">mustache-1.0.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">mustache-1.0.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -14907,7 +14935,7 @@
     <id>mutt.x86_64</id>
     <pkgname>mutt</pkgname>
     <metadata>
-      <value key="X-CacheID">mutt-1.5.23-0.x86_64.rpm</value>
+      <value key="X-CacheID">mutt-1.6.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17973,7 +18001,7 @@
     <id>primus.x86_64</id>
     <pkgname>primus</pkgname>
     <metadata>
-      <value key="X-CacheID">primus-20150328-0.x86_64.rpm</value>
+      <value key="X-CacheID">primus-20150328-2.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -18337,7 +18365,7 @@
     <id>pylint.x86_64</id>
     <pkgname>pylint</pkgname>
     <metadata>
-      <value key="X-CacheID">pylint-1.3.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">pylint-1.5.5-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -18526,7 +18554,7 @@
     <id>python-caja.x86_64</id>
     <pkgname>python-caja</pkgname>
     <metadata>
-      <value key="X-CacheID">python-caja-1.9.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">python-caja-1.14.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -19076,6 +19104,13 @@
     </metadata>
   </component>
   <component>
+    <id>rapidjson.x86_64</id>
+    <pkgname>rapidjson</pkgname>
+    <metadata>
+      <value key="X-CacheID">rapidjson-1.0.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>raptor2.x86_64</id>
     <pkgname>raptor2</pkgname>
     <metadata>
@@ -19373,14 +19408,14 @@
     <id>ruby-pg.x86_64</id>
     <pkgname>ruby-pg</pkgname>
     <metadata>
-      <value key="X-CacheID">ruby-pg-0.18.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">ruby-pg-0.18.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>ruby-shadow.x86_64</id>
     <pkgname>ruby-shadow</pkgname>
     <metadata>
-      <value key="X-CacheID">ruby-shadow-2.4.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">ruby-shadow-2.5.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -20108,7 +20143,7 @@
     <id>sonnet.x86_64</id>
     <pkgname>sonnet</pkgname>
     <metadata>
-      <value key="X-CacheID">sonnet-5.20.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">sonnet-5.21.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22069,6 +22104,13 @@
     <pkgname>virtualgl</pkgname>
     <metadata>
       <value key="X-CacheID">virtualgl-2.5-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>vis.x86_64</id>
+    <pkgname>vis</pkgname>
+    <metadata>
+      <value key="X-CacheID">vis-0.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>

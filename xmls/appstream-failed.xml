@@ -269,13 +269,16 @@
     <summary xml:lang="am">የ ፋይል አስተዳዳሪ ለ ሜት ዴስክቶፕ አካባቢ</summary>
     <summary xml:lang="ar">مدير الملفات لسطح مكتب متة</summary>
     <summary xml:lang="be">Файлавы кіраўнік асяроддзя MATE</summary>
+    <summary xml:lang="bg">Файлов мениджър за работната среда MATE</summary>
     <summary xml:lang="br">Ardoer restroù evit an endro burev MATE</summary>
     <summary xml:lang="ca">Gestor de fitxers per a l'entorn d'escriptori MATE</summary>
     <summary xml:lang="cs">Správce souborů pro prostředí plochy MATE</summary>
     <summary xml:lang="da">Filhåndtering for skrivebordsmiljøet MATE</summary>
     <summary xml:lang="de">Dateiverwaltung für die Mate-Arbeitsumgebung</summary>
     <summary xml:lang="el">Διαχειριστής αρχείων για το περιβάλλον εργασίας MATE</summary>
+    <summary xml:lang="eo">Dosier-mastrumilo por la labortabla ĉirkaŭaĵo MATE</summary>
     <summary xml:lang="es">Gestor de archivos para el entorno de escritorio MATE</summary>
+    <summary xml:lang="es_MX">Administrador de archivos para el entorno de escritorio MATE</summary>
     <summary xml:lang="et">Failihaldur MATE töölauakeskkonnale</summary>
     <summary xml:lang="fa">مدیر فایل برای محیط کاربری ماته</summary>
     <summary xml:lang="fr">Gestionnaire de fichiers pour l'environnement de bureau MATE</summary>
@@ -288,6 +291,7 @@
     <summary xml:lang="ko">MATE 데스크톱 환경을 위한 파일 매니저</summary>
     <summary xml:lang="lt">Failų tvarkytuvė MATE darbalaukio aplinkai</summary>
     <summary xml:lang="ms">Pengurus fail untuk persekitran desktop MATE</summary>
+    <summary xml:lang="nb">Filhåndtering for MATE-skrivebordsmiljøet</summary>
     <summary xml:lang="nl">Bestands-beheerder voor de MATE bureaublad omgeving</summary>
     <summary xml:lang="pl">Menadżer plików dla środowiska graficznego MATE</summary>
     <summary xml:lang="pt">Gestor de ficheiros para o ambiente de trabalho MATE</summary>
@@ -299,30 +303,36 @@
     <summary xml:lang="sr">Управник датотека за Мејтово радно окружење</summary>
     <summary xml:lang="sv">Filhanterare för skrivbordsmiljön MATE</summary>
     <summary xml:lang="tr">MATE masaüstü ortamı için dosya yöneticisi</summary>
-    <summary xml:lang="uk">Файловий менеджер для стільничного середовища МАТЕ</summary>
+    <summary xml:lang="uk">Керівник файлами для стільничного середовища МАТЕ</summary>
+    <summary xml:lang="uz">MATE ish stoli muhiti uchun fayl boshqaruvchi</summary>
     <summary xml:lang="zh_CN">MATE 桌面环境的文件管理器</summary>
     <summary xml:lang="zh_TW">適用於 MATE 桌面環境的檔案管理員</summary>
     <description><p>Caja is the official file manager for the MATE desktop. It allows for browsing directories, as well as previewing files and launching applications associated with them. It is also responsible for handling the icons on the MATE desktop. It works on local and remote file systems.</p><p>Caja is extensible through a plugin system, similar to that of GNOME Nautilus, of which Caja is a fork.</p></description>
     <description xml:lang="ar"><p>كاجا هو مدير الملفات الرسمي لسطح مكتب متّة. يسمح بتصفح المجلدات باﻹضافة إلى معاينة الملفات و تشغيل التطبيقات الملحقة بها. وهو مسؤول أيضا عن إدارة اﻷيقونات على سطح مكتب متّة. يعمل مع أنظمة الملفات المحلية و البعيدة.</p></description>
     <description xml:lang="be"><p>Caja - гэта афіцыйны файлавы кіраўнік для працоўнага асяроддзя MATE. Дазваляе аглядаць каталогі, рэалізуе перадпрагляд файлаў і запуск праграм, асацыяваных з імі. Таксама ён адказвае за значкі на стале MATE. Працуе як з лакальнымі, так і адлеглымі файлавымі сістэмамі.</p></description>
+    <description xml:lang="bg"><p>Caja е официалният файлов мениджър за работната среда MATE. Той ползволява разглеждане на папки, както и показване на файлове и стартиране на приложенията свързани с тях. Също така отговаря за иконите на работната среда MATE. Той работи както на местни, така и на отделечени файлови системи.</p></description>
     <description xml:lang="br"><p>Caja a zo an ardoer restroù kefridiel evit ar burev MATE. Gantañ e c'hallit merdeiñ dre ar c'havlec'hiadoù kement ha rakwelout ar restroù ha lañsañ an arloadoù kenereet ouzh ar restroù-mañ. Da zornata an afelloù war burev MATE ez eo atebek ivez. Gant reizhiadoù restroù lec'hel pe a-bell ez a en-dro.</p></description>
+    <description xml:lang="ca"><p>Caja és el gestor de fitxers oficial de l'escriptori MATE. Permet navegar pels directoris, així com la vista prèvia dels fitxers i el llançament de les aplicacions associades aquests fitxers. També és el responsable del maneig de les icones a l'escriptori MATE. Funciona amb fitxers de sistemes locals i remots.</p></description>
     <description xml:lang="cs"><p>Caja je oficiální správce souborů pro plochu MATE. Umožňuje procházení adresářů stejně tak dobře jako náhledy souborů a spouštění aplikací s nimi asociovaných. Je také zodpovědný za správu ikon plochy MATE. Pracuje na místních a vzdálených souborových systémech.</p></description>
-    <description xml:lang="da"><p>Caja er den officielle filhåndtering for skrivebordet MATE. Programmet giver mulighed for at gennemse mapper samt forhåndsvise filer og starte programmer associeret med disse filer. Programmet er også ansvarlig for håndtering af ikoner på MATE-skrivebordet. Fungerer på lokale og eksterne filsystemer, svarende til GNOME Nautilus, som Caja er en forgrening af.</p></description>
+    <description xml:lang="da"><p>Caja er den officielle filhåndtering for skrivebordet MATE. Programmet giver mulighed for at gennemse mapper samt forhåndsvise filer og starte programmer associeret med disse filer. Programmet er også ansvarlig for håndtering af ikoner på MATE-skrivebordet. Fungerer på lokale og eksterne filsystemer. Udfoldelsesmuligheder tilsvarende udvidelsesmoduler for GNOME Nautilus, som Caja er en forgrening af.</p></description>
     <description xml:lang="de"><p>Caja ist die offizielle Dateiverwaltung für die MATE-Arbeitsumgebung. Es ermöglicht das Durchsuchen von Verzeichnissen, Dateivorschau sowie das Starten von mit Dateitypen verknüpften Anwendungen. Es ist auch für den Umgang mit den Symbolen auf dem MATE-Schreibtisch zuständig. Es funktioniert auf lokalen und entfernten Dateisystemen.</p></description>
     <description xml:lang="el"><p>Caja είναι ο επίσημος διαχειριστής αρχείων για το γραφικό περιβάλλον MATE. Σου δίνει τη δυνατότητα να πλοηγηθείς στα αρχεία σου όπως επίσης να ξεκινήσεις εφαρμογές που σχετίζονται με αυτά. Είναι επίσης υπεύθυνο να διαχειρίζεται τα εικονίδια στην επιφάνεια εργασίας.  Λειτουργεί σε τοπικά και απομακρυσμένα συστήματα αρχείων.</p></description>
     <description xml:lang="en_AU"><p>Caja is the official file manager for the MATE desktop. It allows for browsing directories, as well as previewing files and launching applications associated with them. It is also responsible for handling the icons on the MATE desktop. It works on local and remote file systems.</p></description>
     <description xml:lang="en_GB"><p>Caja is the official file manager for the MATE desktop. It allows for browsing directories, as well as previewing files and launching applications associated with them. It is also responsible for handling the icons on the MATE desktop. It works on local and remote file systems.</p></description>
     <description xml:lang="es"><p>Caja es el gestor de archivos oficial para el escritorio MATE. Permite la exploración de directorios, así como previsualizar archivos y ejecutar aplicaciones asociadas con ellos. También es responsable de manejar los iconos en el escritorio MATE. Funciona en sistemas de archivos locales y remotos.</p></description>
-    <description xml:lang="et"><p>Caja on MATE töölauakeskkonna ametlik failihaldur. Selle abil on võimalik sirvida katalooge, eelvaadelda faile ja käivitada failidega seotud rakendusi. Samuti on Caja ülesandeks MATE töölauakeskkonna ikoonide käsitlemine. Caja töötab nii kohalike kui ka võrgus asuvat failisüsteemidega.</p></description>
+    <description xml:lang="es_MX"><p>Caja es el administrador de archivos oficial para el escritorio MATE. Permite la exploración de directorios, así como previsualizar archivos y ejecutar aplicaciones asociadas con ellos. También es responsable de manejar los iconos en el escritorio MATE. Funciona en sistemas de archivos locales y remotos.</p></description>
+    <description xml:lang="et"><p>Caja on MATE töölauakeskkonna ametlik failihaldur. Selle abil saab sirvida kaustu, faile ja käivitada failidega seotud rakendusi. Samuti on Caja ülesandeks MATE töölaua ikoonide käsitlemine. Caja töötab nii kohalike kui ka võrgu failisüsteemidega.</p></description>
     <description xml:lang="fr"><p>Caja est le gestionnaire de fichier officiel du bureau MATE. Il permet outre de naviguer dans les répertoires, mais aussi de prévisualiser les fichiers et de lancer les applications y étant associées. Il gère également les icônes du bureau MATE. Il fonctionne sur les systèmes de fichiers local et distants.</p></description>
     <description xml:lang="hr"><p>Caja je službeni datotečni upravitelj za radno okružje MATE. On omogućuje pregled direktorija, kao i pretprikaz datoteka te pokretanje programa povezanih s njima. On je također odgovoran za upravljanje sličicama u radnom okružju MATE. Radi na mjesnim i udaljenim datotečnim sustavima.</p></description>
     <description xml:lang="hu"><p>A Caja a MATE asztali környezet hivatalos fájlkezelője. Böngészhetőek a könyvtárak, a fájlok előnézetével és a hozzájuk rendelt alkalmazások indításával. Használható a MATE asztal ikonjainak kezelésére is. Helyi és távoli fájlrendszereken is használható.</p></description>
+    <description xml:lang="hy"><p>Caja֊ն հանդիսանում է պաշտոնական ֆայլային կառավարիչ MATE աշխատասեղանի գրաֆիկական միջավայրի համար։  Այն թույլ է տալիս դիտել ֆայլապանակները, ինչպես նաև նախադիտել ֆայլերը և գործարկել դրանց հետ կապված կիրառական ծրագրերը։ Այն աշխատում է տեղական և հեռավոր ֆայլային համակարգերում։</p></description>
     <description xml:lang="id"><p>Caja adalah manajer file resmi untuk desktop MATE. Caja memungkinkan untuk menjelajahi direktori, juga mem-preview file serta menjalankan aplikasi yang sudah terasosiasikan. Caja juga bertanggung jawab untuk menangani ikon pada desktop MATE. Caja bekerja pada sistem berkas lokal dan remote.</p></description>
     <description xml:lang="it"><p>Caja è il gestore file ufficiale per il desktop MATE. Permette di navigare cartelle, visualizzare le anteprime dei file e lanciare le applicazioni ad essi associati. E' anche responsabile di gestire le icone per il desktop MATE. Funziona su file system locali e remoti.</p></description>
     <description xml:lang="ja"><p>Cajaは MATE デスクトップの公式ファイルマネージャーです。ディレクトリの参照、ファイルのプレビュー、関連アプリケーションの起動を可能にします。更にMATEデスクトップのアイコンを取り扱う役割も果たします。ローカル・リモートファイルシステムを作業します。</p></description>
-    <description xml:lang="ko"><p>Caja는 마테 데스크톱의 공식 파일 관리자 프로그램입니다. 디렉터리를 탐색하고, 파일을 미리 살펴볼 수 있으며 관련 파일에 대한 프로그램을 실행할 수 있습니다. 또한 마테 데스크톱의 아이콘을 처리하는 역할을 담당합니다. 로컬 및 원격 파일 시스템에 대해 동작합니다.</p></description>
+    <description xml:lang="ko"><p>카하는 마테 데스크톱의 공식 파일 관리자 프로그램입니다. 디렉터리를 탐색하고, 파일을 미리 살펴볼 수 있으며 관련 파일에 대한 프로그램을 실행할 수 있습니다. 또한 마테 데스크톱의 아이콘을 처리하는 역할을 담당합니다. 로컬 및 원격 파일 시스템에 대해 동작합니다.</p></description>
     <description xml:lang="lt"><p>Caja yra oficiali failų tvarkytuvė MATE darbalaukiui. Ji leidžia naršyti katalogus, o taip pat peržiūrinėti failus ir vykdyti programas, susijusias su jais. Be to, programa yra atsakinga už piktogramų apdorojimą MATE darbalaukyje. Ji veikia vietinėse ir nuotolinėse failų sistemose.</p></description>
     <description xml:lang="ms"><p>Caja ialah pengurus fail rasmi bagi desktop MATE. Ia membolehkan pelayaran direktori, membuat pratonton fail dan melancarkan aplikasi yang dikaitkan dengannya. Ia juga bertanggungjawab mengendalikan ikon desktop MATE. Ia berfungsi pada sistem fail setempat dan jauh.</p></description>
+    <description xml:lang="nb"><p>Caja er den offisielle filutforskeren for MATE-skrivebordet. Programmet mulliggjør gjennomgang av mapper samt forhåndsvisning av filer og starting av programmer assosiert med dissel Programmet er også ansvarlig for håndtering av miniatyrbilder på MATE-skrivebordet. Fungerer på lokale og eksterne filsystemer.</p></description>
     <description xml:lang="nl"><p>Caja is de officiële bestands-beheerder voor de MATE bureaublad omgeving. Het maakt mogelijk om door directory's te surfen, evenals voorbeelden van bestanden en toepassingen te starten er aan verbonden. Het is ook verantwoordelijk voor de iconen op het MATE bureaublad. Het werkt met lokale en afgelegen bestands-systemen.</p></description>
     <description xml:lang="pl"><p>Caja jest oficjalnym menadżerem plików dla środowiska graficznego MATE. Pozwala na przeglądanie katalogów, jak również na podglądaniu plików oraz uruchomienia aplikacji powiązanych z nimi. Jest również odpowiedzialne za obsługę ikon na pulpicie MATE. Działa na lokalnych oraz zdalnych systemach plików</p></description>
     <description xml:lang="pt"><p>Caja é o gestor de ficheiros oficial do ambiente MATE. Permite navegar por pastas, bem como pré-visualizar ficheiros e lançar aplicações associadas a eles. É também responsável pelo manuseio de ícones no ambiente MATE. Funciona com sistemas de ficheiros locais e remotos.</p></description>
@@ -336,6 +346,7 @@
     <icon type="stock">system-file-manager</icon>
     <kudos>
       <kudo>HiDpiIcon</kudo>
+      <kudo>ModernToolkit</kudo>
     </kudos>
     <vetos>
       <veto>NoDisplay=true</veto>
@@ -358,25 +369,25 @@
       <dbus type="session">org.freedesktop.FileManager1</dbus>
     </provides>
     <languages>
-      <lang percentage="67">af</lang>
-      <lang percentage="60">am</lang>
+      <lang percentage="68">af</lang>
+      <lang percentage="61">am</lang>
       <lang percentage="96">ar</lang>
       <lang percentage="85">as</lang>
       <lang percentage="85">ast</lang>
       <lang percentage="43">az</lang>
-      <lang percentage="97">be</lang>
-      <lang percentage="85">be@latin</lang>
-      <lang percentage="97">bg</lang>
+      <lang percentage="98">be</lang>
+      <lang percentage="86">be@latin</lang>
+      <lang percentage="100">bg</lang>
       <lang percentage="87">bn</lang>
       <lang percentage="87">bn_IN</lang>
       <lang percentage="100">br</lang>
       <lang percentage="43">bs</lang>
-      <lang percentage="99">ca</lang>
+      <lang percentage="100">ca</lang>
       <lang percentage="87">ca@valencia</lang>
       <lang percentage="98">cmn</lang>
       <lang percentage="87">crh</lang>
       <lang percentage="100">cs</lang>
-      <lang percentage="77">cy</lang>
+      <lang percentage="26">cy</lang>
       <lang percentage="100">da</lang>
       <lang percentage="100">de</lang>
       <lang percentage="53">dz</lang>
@@ -403,12 +414,12 @@
       <lang percentage="85">hi</lang>
       <lang percentage="99">hr</lang>
       <lang percentage="100">hu</lang>
-      <lang percentage="74">hy</lang>
+      <lang percentage="100">hy</lang>
       <lang percentage="100">id</lang>
       <lang percentage="43">ig</lang>
       <lang percentage="30">io</lang>
       <lang percentage="94">is</lang>
-      <lang percentage="99">it</lang>
+      <lang percentage="100">it</lang>
       <lang percentage="100">ja</lang>
       <lang percentage="73">ka</lang>
       <lang percentage="56">kk</lang>
@@ -422,33 +433,33 @@
       <lang percentage="56">mai</lang>
       <lang percentage="49">mg</lang>
       <lang percentage="74">mk</lang>
-      <lang percentage="86">ml</lang>
-      <lang percentage="42">mn</lang>
+      <lang percentage="87">ml</lang>
+      <lang percentage="43">mn</lang>
       <lang percentage="98">mr</lang>
       <lang percentage="100">ms</lang>
-      <lang percentage="90">nb</lang>
+      <lang percentage="100">nb</lang>
       <lang percentage="50">nds</lang>
       <lang percentage="56">ne</lang>
       <lang percentage="100">nl</lang>
-      <lang percentage="86">nn</lang>
+      <lang percentage="87">nn</lang>
       <lang percentage="42">nso</lang>
       <lang percentage="87">oc</lang>
       <lang percentage="86">or</lang>
-      <lang percentage="90">pa</lang>
+      <lang percentage="91">pa</lang>
       <lang percentage="100">pl</lang>
       <lang percentage="30">ps</lang>
       <lang percentage="100">pt</lang>
-      <lang percentage="99">pt_BR</lang>
-      <lang percentage="99">ro</lang>
+      <lang percentage="100">pt_BR</lang>
+      <lang percentage="100">ro</lang>
       <lang percentage="100">ru</lang>
       <lang percentage="42">si</lang>
-      <lang percentage="99">sk</lang>
+      <lang percentage="100">sk</lang>
       <lang percentage="99">sl</lang>
       <lang percentage="84">sq</lang>
       <lang percentage="100">sr</lang>
       <lang percentage="73">sr@ije</lang>
       <lang percentage="86">sr@latin</lang>
-      <lang percentage="95">sv</lang>
+      <lang percentage="99">sv</lang>
       <lang percentage="80">ta</lang>
       <lang percentage="85">te</lang>
       <lang percentage="90">th</lang>
@@ -457,7 +468,7 @@
       <lang percentage="86">ug</lang>
       <lang percentage="100">uk</lang>
       <lang percentage="98">ur</lang>
-      <lang percentage="61">uz</lang>
+      <lang percentage="67">uz</lang>
       <lang percentage="67">uz@cyrillic</lang>
       <lang percentage="79">vi</lang>
       <lang percentage="45">xh</lang>
@@ -468,7 +479,7 @@
       <lang percentage="42">zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">caja-1.12.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">caja-1.14.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -585,13 +596,21 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-576ad642ba31c656bb89e3346425333d.png</image>
+      <screenshot>
+        <caption>DejaVu Sans – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-1baa6ad042c3b5858fe6c3fbe02f2c8d.png</image>
+      </screenshot>
+      <screenshot priority="-34">
+        <caption>DejaVu Serif – Bold Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-df9a20816d3208e5589ffb8a54a04d95.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -806,13 +825,21 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-576ad642ba31c656bb89e3346425333d.png</image>
+      <screenshot>
+        <caption>DejaVu Sans – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-1baa6ad042c3b5858fe6c3fbe02f2c8d.png</image>
+      </screenshot>
+      <screenshot priority="-34">
+        <caption>DejaVu Serif – Bold Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-df9a20816d3208e5589ffb8a54a04d95.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -1027,13 +1054,21 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-576ad642ba31c656bb89e3346425333d.png</image>
+      <screenshot>
+        <caption>DejaVu Sans – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-1baa6ad042c3b5858fe6c3fbe02f2c8d.png</image>
+      </screenshot>
+      <screenshot priority="-34">
+        <caption>DejaVu Serif – Bold Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-df9a20816d3208e5589ffb8a54a04d95.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
