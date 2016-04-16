@@ -596,9 +596,17 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -813,9 +821,17 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -1030,9 +1046,17 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -3235,6 +3259,7 @@
     <summary xml:lang="lv">Mēstuļu filtrēšanas, izmantojot Bogofilter</summary>
     <summary xml:lang="nb">Søppelfilter bruker Bogofilter</summary>
     <summary xml:lang="nl">Spamfilter gebruikmakend van Bogofilter</summary>
+    <summary xml:lang="oc">Filtre de corrièr indesirable qu'utiliza Bogofilter</summary>
     <summary xml:lang="pl">Filtrowanie niechcianych wiadomości używając Bogofilter</summary>
     <summary xml:lang="pt">Filtrar não solicitado usando Bogofilter</summary>
     <summary xml:lang="pt_BR">Filtro de spam usando Bogofilter</summary>
@@ -3247,6 +3272,7 @@
     <summary xml:lang="ta">Bogofilter பயன்படுத்தி குப்பை வடிகட்டி</summary>
     <summary xml:lang="tr">Bogofilter kullanarak gereksiz iletileri filtrele</summary>
     <summary xml:lang="uk">Фільтрувати спам через Bogofilter</summary>
+    <summary xml:lang="zh_CN">使用 Bogofilter 过滤垃圾</summary>
     <summary xml:lang="zh_TW">使用 Bogofilter 垃圾郵件過濾器</summary>
     <kudos>
       <kudo>HighContrast</kudo>
@@ -3287,7 +3313,7 @@
       <lang percentage="57">eo</lang>
       <lang percentage="100">es</lang>
       <lang percentage="88">et</lang>
-      <lang percentage="98">eu</lang>
+      <lang percentage="100">eu</lang>
       <lang percentage="50">fa</lang>
       <lang percentage="80">fi</lang>
       <lang percentage="99">fr</lang>
@@ -3317,11 +3343,12 @@
       <lang percentage="75">ne</lang>
       <lang percentage="99">nl</lang>
       <lang percentage="57">nn</lang>
+      <lang percentage="98">oc</lang>
       <lang percentage="85">or</lang>
       <lang percentage="85">pa</lang>
       <lang percentage="100">pl</lang>
       <lang percentage="58">ps</lang>
-      <lang percentage="99">pt</lang>
+      <lang percentage="100">pt</lang>
       <lang percentage="100">pt_BR</lang>
       <lang percentage="88">ro</lang>
       <lang percentage="86">ru</lang>
@@ -3337,15 +3364,15 @@
       <lang percentage="86">th</lang>
       <lang percentage="97">tr</lang>
       <lang percentage="85">ug</lang>
-      <lang percentage="94">uk</lang>
+      <lang percentage="100">uk</lang>
       <lang percentage="83">vi</lang>
       <lang percentage="68">xh</lang>
-      <lang percentage="85">zh_CN</lang>
+      <lang percentage="98">zh_CN</lang>
       <lang percentage="85">zh_HK</lang>
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.20.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution-3.20.1-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -3393,7 +3420,7 @@
       <lang percentage="57">eo</lang>
       <lang percentage="100">es</lang>
       <lang percentage="88">et</lang>
-      <lang percentage="98">eu</lang>
+      <lang percentage="100">eu</lang>
       <lang percentage="50">fa</lang>
       <lang percentage="80">fi</lang>
       <lang percentage="99">fr</lang>
@@ -3423,11 +3450,12 @@
       <lang percentage="75">ne</lang>
       <lang percentage="99">nl</lang>
       <lang percentage="57">nn</lang>
+      <lang percentage="98">oc</lang>
       <lang percentage="85">or</lang>
       <lang percentage="85">pa</lang>
       <lang percentage="100">pl</lang>
       <lang percentage="58">ps</lang>
-      <lang percentage="99">pt</lang>
+      <lang percentage="100">pt</lang>
       <lang percentage="100">pt_BR</lang>
       <lang percentage="88">ro</lang>
       <lang percentage="86">ru</lang>
@@ -3443,15 +3471,15 @@
       <lang percentage="86">th</lang>
       <lang percentage="97">tr</lang>
       <lang percentage="85">ug</lang>
-      <lang percentage="94">uk</lang>
+      <lang percentage="100">uk</lang>
       <lang percentage="83">vi</lang>
       <lang percentage="68">xh</lang>
-      <lang percentage="85">zh_CN</lang>
+      <lang percentage="98">zh_CN</lang>
       <lang percentage="85">zh_HK</lang>
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.20.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution-3.20.1-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -3489,6 +3517,7 @@
     <summary xml:lang="lv">Mēstuļu filtrēšanas, izmantojot SpamAssassin</summary>
     <summary xml:lang="nb">Søppelfilter bruker SpamAssassin</summary>
     <summary xml:lang="nl">Spamfilter gebruikmakend van SpamAssassin</summary>
+    <summary xml:lang="oc">Filtra de corrièr electronic indesirable utilizant SpamAssassin</summary>
     <summary xml:lang="pl">Filtrowanie niechcianych wiadomości używając SpamAssassin</summary>
     <summary xml:lang="pt">Filtrar não solicitado usando SpamAssassin</summary>
     <summary xml:lang="pt_BR">Filtro de spam usando SpamAssassin</summary>
@@ -3501,6 +3530,7 @@
     <summary xml:lang="ta">SpamAssassin பயன்படுத்தி குப்பை வடிகட்டி</summary>
     <summary xml:lang="tr">SpamAssassin kullanarak önemsiz ileti filtrele</summary>
     <summary xml:lang="uk">Фільтрувати спам через SpamAssassin</summary>
+    <summary xml:lang="zh_CN">使用 SpamAssassin 过滤垃圾</summary>
     <summary xml:lang="zh_TW">使用 SpamAssassin 垃圾郵件過濾器</summary>
     <kudos>
       <kudo>HighContrast</kudo>
@@ -3541,7 +3571,7 @@
       <lang percentage="57">eo</lang>
       <lang percentage="100">es</lang>
       <lang percentage="88">et</lang>
-      <lang percentage="98">eu</lang>
+      <lang percentage="100">eu</lang>
       <lang percentage="50">fa</lang>
       <lang percentage="80">fi</lang>
       <lang percentage="99">fr</lang>
@@ -3571,11 +3601,12 @@
       <lang percentage="75">ne</lang>
       <lang percentage="99">nl</lang>
       <lang percentage="57">nn</lang>
+      <lang percentage="98">oc</lang>
       <lang percentage="85">or</lang>
       <lang percentage="85">pa</lang>
       <lang percentage="100">pl</lang>
       <lang percentage="58">ps</lang>
-      <lang percentage="99">pt</lang>
+      <lang percentage="100">pt</lang>
       <lang percentage="100">pt_BR</lang>
       <lang percentage="88">ro</lang>
       <lang percentage="86">ru</lang>
@@ -3591,15 +3622,15 @@
       <lang percentage="86">th</lang>
       <lang percentage="97">tr</lang>
       <lang percentage="85">ug</lang>
-      <lang percentage="94">uk</lang>
+      <lang percentage="100">uk</lang>
       <lang percentage="83">vi</lang>
       <lang percentage="68">xh</lang>
-      <lang percentage="85">zh_CN</lang>
+      <lang percentage="98">zh_CN</lang>
       <lang percentage="85">zh_HK</lang>
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.20.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution-3.20.1-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -3728,11 +3759,14 @@
     <name xml:lang="de">Terminal-Erweiterung für »Dateien«</name>
     <name xml:lang="el">Πρόσθετο τερματικού για το Αρχεία</name>
     <name xml:lang="es">Complemento de terminal para Archivos</name>
+    <name xml:lang="eu">Terminalaren osagarria Fitxategientzako</name>
     <name xml:lang="fi">Pääteliitännäinen tiedostoselaimeen</name>
     <name xml:lang="fr">Greffon de terminal pour Fichiers</name>
     <name xml:lang="fur">Plugin terminâl par File</name>
     <name xml:lang="gl">Engadido de Terminal para Ficheiros</name>
     <name xml:lang="hu">Terminál bővítmény a Fájlokhoz</name>
+    <name xml:lang="id">Plugin Terminal bagi Berkas</name>
+    <name xml:lang="it">Plugin del terminale per File</name>
     <name xml:lang="kk">Файлдар қолданбасы үшін терминал плагині</name>
     <name xml:lang="ko">파일 보기에서 터미널 플러그인</name>
     <name xml:lang="lt">Terminalo įskiepis, skirtas Failams</name>
@@ -3745,6 +3779,7 @@
     <name xml:lang="sr@latin">Priključak terminala za Datoteke:</name>
     <name xml:lang="sv">Terminalinsticksmodul för Filer</name>
     <name xml:lang="uk">Додаток для Файлів</name>
+    <name xml:lang="vi">Phần bổ sung Thiết bị cuối cho “Tập tin”</name>
     <name xml:lang="zh_TW">給 Files 的終端機外掛程式</name>
     <summary>Open a terminal from Files</summary>
     <summary xml:lang="ar">افتح طرفيّة من مدير الملفات</summary>
@@ -3755,11 +3790,14 @@
     <summary xml:lang="de">Ein Terminal aus der Dateiverwaltung heraus öffnen</summary>
     <summary xml:lang="el">Άνοιγμα τερματικού από τα Αρχεία</summary>
     <summary xml:lang="es">Abrir una terminal desde Archivos</summary>
+    <summary xml:lang="eu">Ireki terminal bat Fitxategietatik</summary>
     <summary xml:lang="fi">Avaa pääte tiedostoselaimesta</summary>
     <summary xml:lang="fr">Ouvrir un terminal à partir de Fichiers</summary>
     <summary xml:lang="fur">Vierç un terminâl da File</summary>
     <summary xml:lang="gl">Abrir unha terminal desde Ficheiros</summary>
     <summary xml:lang="hu">Terminál megnyitása a Fájlokban</summary>
+    <summary xml:lang="id">Buka sebuah terminal dari Berkas</summary>
+    <summary xml:lang="it">Apre un terminale da File</summary>
     <summary xml:lang="kk">Файлдар қолданбасынан терминалды ашу</summary>
     <summary xml:lang="ko">파일 보기에서 터미널을 엽니다</summary>
     <summary xml:lang="lt">Atverti terminalą iš Failų</summary>
@@ -3772,6 +3810,7 @@
     <summary xml:lang="sr@latin">Otvara terminal iz Datoteka</summary>
     <summary xml:lang="sv">Öppna en terminal från Filer</summary>
     <summary xml:lang="uk">Відкрити термінал з Файлів</summary>
+    <summary xml:lang="vi">Mở Thiết bị cuối từ “Tập tin”</summary>
     <summary xml:lang="zh_TW">從 Files 開啟終端機</summary>
     <description><p>Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p></description>
     <description xml:lang="bg"><p>Това е приставка за програмата „Файлове“, която добавя команда за отваряне на терминала в текущата папка.</p></description>
@@ -3781,11 +3820,14 @@
     <description xml:lang="de"><p>Terminal Öffnen ist eine Erweiterung für die Dateien-Anwendung, die einen Menüeintrag in das Kontextmenü einfügt, das ein Terminal im aktuell besuchten Verzeichnis öffnet.</p></description>
     <description xml:lang="el"><p>Το «Άνοιγμα τερματικού» είναι μια επέκταση για τα Αρχεία που προσθέτει ένα αντικείμενο στο μενού περιεχομένων, όπου ανοίγει ένα τερματικό στην τρέχουσα θέση του καταλόγου.</p></description>
     <description xml:lang="es"><p>Abrir terminal es un complemento para la aplicación Archivos que añade un elemento de menú al menú contextual para abrir una terminal en la carpeta actual.</p></description>
+    <description xml:lang="eu"><p>'Ireki terminala' Fitxategiak aplikazioarentzako osagarri bat da. Testuinguruko menuari elementu bat gehitzen dio terminal bat irekitzeko (uneko direktorioan kokatuta).</p></description>
     <description xml:lang="fi"><p>"Avaa pääte" on liitännäinen tiedostoselaimeen, joka lisää valikkotoiminnon kontekstivalikkoon selattavan kansion kohdalle.</p></description>
     <description xml:lang="fr"><p>Ouvrir un terminal est un greffon pour l'application Fichiers qui ajoute une entrée de menu dans le menu contextuel pour ouvrir un terminal dans le dossier en cours d'affichage.</p></description>
     <description xml:lang="fur"><p>Vierç terminâl al è un plugin par l'aplicazion File che al zonte un element tal menù di contest, par vierzi un terminâl te cartele atualmentri sfueade.</p></description>
     <description xml:lang="gl"><p>Abrir un Terminal é un engadido para o aplicativo Ficheiros que engade un elemento no menú contextual para abrir un terminal no cartafol que se está explorando actualmente.</p></description>
     <description xml:lang="hu"><p>A terminál megnyitása egy bővítmény a Fájlok alkalmazáshoz, amely egy menüelemet ad a helyi menühöz, ahonnan terminálablak nyitható az éppen nyitott mappában.</p></description>
+    <description xml:lang="id"><p>Open Terminal adalah suatu pengaya bagi aplikasi Berkas yang menambah suatu butir menu ke menu konteks untuk membuka sebuah terminal dalam direktori yang saat ini sedang diramban.</p></description>
+    <description xml:lang="it"><p>Apri terminale è un plugin per l'applicazione File che aggiunge una voce al menù contestuale per aprire un terminale nell'attuale directory in esplorazione.</p></description>
     <description xml:lang="ko"><p>터미널 열기는 파일 보기 프로그램의 현재 보고 있는 디렉터리에서 터미널을 여는 메뉴 항목을  컨텍스트 메뉴에 추가합니다.</p></description>
     <description xml:lang="lt"><p>Atverti terminalą yra Failų programai skirtas įskiepis, kuris prideda kontekstinio meniu elementą, atveriantį terminalą esamu metu naršomame kataloge.</p></description>
     <description xml:lang="lv"><p>“Atvērt termināli” ir spraudnis lietotnei “Datnes”, kas pievieno izvēlnes vienumu konteksta izvēlnei, kas atver termināli pārlūkotajā direktorijā.</p></description>
@@ -3797,6 +3839,7 @@
     <description xml:lang="sr@latin"><p>Otvori terminal je dodatak za program Datoteke, koji dodaje stavku menija za otvaranje terminala iz trenutnog direktorijuma.</p></description>
     <description xml:lang="sv"><p>Öppna terminal är en insticksmodul för programmet Filer som lägger till ett menyobjekt i kontextmenyn för att öppna en terminal i den öppnade katalogen.</p></description>
     <description xml:lang="uk"><p>Відкрити термінал — додаток для програми Файли, яка додає пункт в контекстне меню, щоб відкривати термінал у поточному каталозі.</p></description>
+    <description xml:lang="vi"><p>Mở Thiết bị cuối là phần bổ sung dành cho ứng dụng tập tin cái mà sẽ thêm một mục vào trình đơn ngữ cảnh để mở thiết bị cuối ở thư mục hiện đang được duyệt.</p></description>
     <description xml:lang="zh_TW"><p>Open Terminal 是一個 Files 應用程式的外掛程式，可以在目前瀏覽目錄的脈絡選單中加入開啟終端機的選單項目。</p></description>
     <kudos>
       <kudo>ModernToolkit</kudo>
@@ -3822,7 +3865,7 @@
       <lang percentage="98">az</lang>
       <lang percentage="83">be</lang>
       <lang percentage="83">be@latin</lang>
-      <lang percentage="87">bg</lang>
+      <lang percentage="91">bg</lang>
       <lang percentage="93">bn</lang>
       <lang percentage="85">bn_IN</lang>
       <lang percentage="41">br</lang>
@@ -3831,7 +3874,7 @@
       <lang percentage="85">ca@valencia</lang>
       <lang percentage="91">cs</lang>
       <lang percentage="65">cy</lang>
-      <lang percentage="86">da</lang>
+      <lang percentage="91">da</lang>
       <lang percentage="91">de</lang>
       <lang percentage="66">dz</lang>
       <lang percentage="91">el</lang>
@@ -3841,7 +3884,7 @@
       <lang percentage="80">eo</lang>
       <lang percentage="91">es</lang>
       <lang percentage="80">et</lang>
-      <lang percentage="84">eu</lang>
+      <lang percentage="91">eu</lang>
       <lang percentage="83">fa</lang>
       <lang percentage="88">fi</lang>
       <lang percentage="91">fr</lang>
@@ -3854,9 +3897,9 @@
       <lang percentage="81">hi</lang>
       <lang percentage="65">hr</lang>
       <lang percentage="91">hu</lang>
-      <lang percentage="84">id</lang>
+      <lang percentage="91">id</lang>
       <lang percentage="55">is</lang>
-      <lang percentage="84">it</lang>
+      <lang percentage="91">it</lang>
       <lang percentage="84">ja</lang>
       <lang percentage="35">ka</lang>
       <lang percentage="84">kk</lang>
@@ -3901,7 +3944,7 @@
       <lang percentage="84">tr</lang>
       <lang percentage="83">ug</lang>
       <lang percentage="91">uk</lang>
-      <lang percentage="84">vi</lang>
+      <lang percentage="91">vi</lang>
       <lang percentage="90">wa</lang>
       <lang percentage="100">xh</lang>
       <lang percentage="87">zh_CN</lang>
@@ -3909,7 +3952,7 @@
       <lang percentage="91">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">gnome-terminal-3.20.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">gnome-terminal-3.20.1-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">org.gnome.Terminal.desktop</value>
     </metadata>
   </component>
@@ -4536,7 +4579,7 @@
       <binary>vscode</binary>
     </provides>
     <metadata>
-      <value key="X-CacheID">vscode-0.10.12-0.x86_64.rpm</value>
+      <value key="X-CacheID">vscode-1.0.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="font">
