@@ -596,9 +596,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      <screenshot>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-05c08653b70269076c26ba2f74f03933.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -817,9 +817,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      <screenshot>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-05c08653b70269076c26ba2f74f03933.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -1038,9 +1038,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      <screenshot>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-05c08653b70269076c26ba2f74f03933.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -3734,6 +3734,165 @@
       <value key="X-CacheID">kmplot-15.12.1-0.x86_64.rpm</value>
     </metadata>
   </component>
+  <component type="desktop">
+    <id>mugshot.desktop</id>
+    <pkgname>mugshot</pkgname>
+    <name>Mugshot</name>
+    <name xml:lang="ca">Quant a mi</name>
+    <name xml:lang="ca@valencia">Quant a mi</name>
+    <name xml:lang="cs">O mně</name>
+    <name xml:lang="de">Persönliche Informationen</name>
+    <name xml:lang="el">Σχετικά Με Εμένα</name>
+    <name xml:lang="en_AU">About Me</name>
+    <name xml:lang="eo">Pri mi</name>
+    <name xml:lang="es">Acerca de mí</name>
+    <name xml:lang="eu">Niri buruz</name>
+    <name xml:lang="fi">Omat tiedot</name>
+    <name xml:lang="fr">À mon sujet</name>
+    <name xml:lang="gl">Acerca de min</name>
+    <name xml:lang="is">Um mig</name>
+    <name xml:lang="it">Informazioni personali</name>
+    <name xml:lang="ja">個人情報</name>
+    <name xml:lang="lt">Apie mane</name>
+    <name xml:lang="nl">Over mij</name>
+    <name xml:lang="pl">Informacje o użytkowniku</name>
+    <name xml:lang="pt">Sobre Mim</name>
+    <name xml:lang="pt_BR">Sobre Mim</name>
+    <name xml:lang="ru">Обо мне</name>
+    <name xml:lang="sk">O mne</name>
+    <name xml:lang="sl">O meni</name>
+    <name xml:lang="sr">О мени</name>
+    <name xml:lang="sv">Om mig</name>
+    <summary>Lightweight user configuration</summary>
+    <summary xml:lang="ca">Configureu l'imatge del perfil i les dades de contacte</summary>
+    <summary xml:lang="ca@valencia">Configureu l'imatge del perfil i les dades de contacte</summary>
+    <summary xml:lang="cs">Jednoduché uživatelské nastavení</summary>
+    <summary xml:lang="de">Einfache Nutzerkonfiguration</summary>
+    <summary xml:lang="el">Διαμορφώστε την εικόνα προφίλ και τις λεπτομέρειες επαφής σας</summary>
+    <summary xml:lang="en_AU">Configure your profile image and contact details</summary>
+    <summary xml:lang="es">Configuración de usuario superligera</summary>
+    <summary xml:lang="fi">Kevyt käyttäjätietojen muokkain</summary>
+    <summary xml:lang="fr">Configuration d'utilisateur minimale</summary>
+    <summary xml:lang="gl">Configure a imaxe do seu perfil e a información de contacto</summary>
+    <summary xml:lang="it">Semplice configurazione degli utenti</summary>
+    <summary xml:lang="ja">プロファイルの画像と連絡先の詳細を設定</summary>
+    <summary xml:lang="lt">Supaprastintas naudotojo konfigūravimas</summary>
+    <summary xml:lang="nl">Lichtgewicht hulpmiddel voor gebruikersinstellingen</summary>
+    <summary xml:lang="pl">Lekka konfiguracja użytkownika</summary>
+    <summary xml:lang="pt">Configuração de utilizador leve</summary>
+    <summary xml:lang="pt_BR">Configure sua imagem de perfil e dados da conta</summary>
+    <summary xml:lang="ru">Ресусрсоэффективная (Lightweight) пользовательская конфигурация.</summary>
+    <summary xml:lang="sk">Hlavné nastavenia užívateľa</summary>
+    <summary xml:lang="sl">Nastavite svojo sliko profila in podrobnosti stika</summary>
+    <summary xml:lang="sr">Подесите своју слику и податке о налогу</summary>
+    <summary xml:lang="sv">Resurssnål användarinställning</summary>
+    <description><p>Mugshot enables users to easily update personal contact information. With Mugshot, users are able to:</p><ul><li>Set the account photo displayed at login and optionally synchronize this photo with their Pidgin buddy icon</li><li>Set account details stored in /etc/passwd (usable with the finger command) and optionally synchronize with their LibreOffice contact information</li></ul></description>
+    <description xml:lang="cs"><p>Mugshot umožňuje uživatelům snadno aktualizovat osobní kontaktní informace. S Mugshotem jsou uživatelé schopni:</p><ul><li>Nastavit fotografii účtu, která se bude zobrazovat při přihlášení a případně ji nastavit jako ikonu v IM Pidgin</li><li>Nastavit detaily účtu v souboru /etc/passwd (použitelné s příkazem finger) a případně synchronizovat s jejich LibreOffice kontaktními informacemi</li></ul></description>
+    <description xml:lang="de"><p>Mugshot ermöglicht es Benutzern, auf einfache Weise persönliche Informationen zu ändern. Mit Mugshot können Sie:</p><ul><li>Das Profilfoto, das beim Anmelden angezeigt wird, einstellen und es optional mit dem Pidgin-Frundesymbol synchronisieren.</li><li>Kontodetails, die in /etc/passwd gespeichert werden einstellen und optional mit den LibreOffice-Kontaktinformationen synchronisieren.</li></ul></description>
+    <description xml:lang="el"><p>Η εφαρμογή Mugshot επιτρέπει στους χρήστες να ενημερώνουν πληροφορίες προσωπικών επαφών με ευκολία. Με το Mugshot , οι χρήστες είναι σε θέση:</p><ul><li>Να ορίσουν τη φωτογραφία λογαριασμού που εμφανίζεται στην οθόνη υποδοχής και προαιρετικά να συγχρονίσουν αυτή τη φωτογραφία με το εικονίδιο του Pidgin buddy.</li><li>Να ορίσουν τις λεπτομέρειες λογαριασμού που είναι απόθηκευμένες στο /etc/passwd (μπορεί να χρησιμοποιηθεί με την εντολή finger) και προαιρετικά να τις συγχρονίσουν με τις πληροφορίες επαφής του LibreOffice</li></ul></description>
+    <description xml:lang="es"><p>Fotografía le permite a los usuarios actualizar fácilmente la información de contacto personal. Con Fotografía, los usuarios son capaces de:</p><ul><li>Establecer la foto de la cuenta que aparece al iniciar la sesión y, opcionalmente, sincronizar esta foto con su icono de contacto de amigo de Pidgin</li><li>Establecer detalles de cuentas almacenadas en /etc/passwd (que pueden utilizarse con la orden de huella digital) y, opcionalmente, sincronizar su información de contacto con LibreOffice</li></ul></description>
+    <description xml:lang="fi"><p>Mugshotin avulla käyttäjät voivat päivittää henkilökohtaisia yhteystietoja helposti. Mugshotin avulla käyttäjät voivat:</p><ul><li>Asettaa tilin valokuvan, joka näytetään kirjautumisikkunassa ja valinnaisesti synkronoida tämän kuvan Pidginin kaverikuvakkeekseen</li><li>Asettaa tilin ominaisuuksia, joita säilytetään tiedostossa /etc/passwd (käytettävissä finger-komennolla) ja valinnaisesti synkronoida nämä tiedot LibreOfficen tietojen kanssa</li></ul></description>
+    <description xml:lang="fr"><p>Mugshot permet aux utilisateurs de mettre facilement à jour leurs coordonnées personnelles. Avec Mugshot, les utilisateurs peuvent :</p><ul><li>Définir la photo qui sera affichée pour la connexion à leur session et éventuellement synchroniser cette photo avec l'icône de leur compte Pidgin.</li><li>Définir les détails de leur compte dans /etc/passwd (utilisable avec la commande finger) and éventuellement le synchroniser avec leurs informations de contact LibreOffice.</li></ul></description>
+    <description xml:lang="it"><p>Mugshot consente agli utenti di aggiornare facilmente le informazioni personali di contatto. Con Mugshot, gli utenti possono:</p><ul><li>Impostare la foto dell'account mostrata al login ed opzionalmente sincronizzare questa foto con il proprio avatar Pidgin</li><li>Impostare i dettagli dell'account salvati in /etc/passwd (utilizzabile con il comando finger) ed opzionalmente sincronizzarli con le informazioni di contatto di LibreOffice</li></ul></description>
+    <description xml:lang="lt"><p>Mugshot įgalina naudotojus lengvai atnaujinti asmeninę kontaktinę informaciją. Su Mugshot, naudotojai gali:</p><ul><li>Nustatyti, prisijungimo metu rodomą, paskyros nuotrauką ir pasirinktinai sinchronizuoti šią nuotrauką su savo Pidgin naudotojo paveiksliuku</li><li>Nustatyti paskyros detales laikomas /etc/passwd (naudojama su finger komanda) ir pasirinktinai sinchronizuoti su LibreOffice kontaktine informacija.</li></ul></description>
+    <description xml:lang="nl"><p>Mugshot stelt gebruikers in staat om eenvoudig persoonlijke contactpersooninformatie bij te werken. Met Mugshot kunnen gebruikers:</p><ul><li>Stel de accountfoto in die getoond wordt bij aanmelding en synchroniseer deze foto desgewenst met hun Pidgin-pictogram</li><li>Stel accountbijzonderheden in die zijn opgeslagen in /etc/passwd (te gebruiken met de opdracht 'finger') en synchroniseer desgewenst met hun contactpersooninformatie in Libre Office.</li></ul></description>
+    <description xml:lang="pl"><p>Mugshot umożliwia użytkownikom łatwą aktualizację osobistych informacji kontaktowych. Z Mugshot użytkownicy mogą:</p><ul><li>Ustawić obraz konta wyświetlany podczas logowania i opcjonalnie synchronizowany ze swoją ikoną dla znajomych w Pidgin</li><li>Ustawić szczegóły konta przechowywane w /etc/passwd (dogodne przy ręcznych poleceniach) i opcjonalnie synchronizowane ze swoimi informacjami kontaktowymi w LibreOffice</li></ul></description>
+    <description xml:lang="pt"><p>O Mugshot permite aos utilizadores actualizar facilmente as informações de contato pessoal. Com o Mugshot, os utilizadores são capazes de:</p><ul><li>Definir a fotografia exibida na conta de início de sessão e opcionalmente sincronizar essa fotografia com o seu ícone de amigo no Pidgin</li><li>Defina os detalhes da conta armazenados em /etc/passwd (utilizáveis ​​com o comando finger) e opcionalmente sincronize com as suas informações de contato do LibreOffice</li></ul></description>
+    <description xml:lang="ru"><p>Mugshot позволяет пользователям легко обновлять личную контактную информацию . С Mugshot , пользователи могут:</p><ul><li>Установить фото профиля, отображаемое в окне входа, и опционально синхронизировать это фото с Pidgin.</li><li>Установить детали профиля, хранимые в /etc/passwd (удобно в использовании с командой finger), и опционально синхронизировать эту контактную информацию с Libreoffice.</li></ul></description>
+    <description xml:lang="sk"><p>S Mugshot si môže používateľ jednoducho upraviť kontaktné údaje. S Mugshot používatelia môžu:</p><ul><li>Nastaviť obrázok svojho účtu ktorý sa zobrazí pri prihlasovaní. a možnosť ho synchronizovať s ikonou v Pidgine</li><li>Nastaviť údaje účtu uložené v /etc/passwd (pre použitie s príkazom finger) a možnosť synchronizovať ich s kontaktnými údajmi v LibreOffice</li></ul></description>
+    <description xml:lang="sv"><p>Mugshot tillåter användare att enkelt uppdatera personlig kontaktinformation. Med Mugshot kan användare:</p><ul><li>Ställa in fotot för kontot som visas vid inloggning och valfritt synkronisera detta foto med sin Pidgin buddy ikon</li><li>Ställa in detaljer som sparas i /etc/passwd (går att använda med fingerkommandot) och valfritt synkronisera med sin kontaktinformation i LibreOffice</li></ul></description>
+    <icon height="128" width="128" type="cached">128x128/mugshot.png</icon>
+    <icon height="64" width="64" type="cached">64x64/mugshot.png</icon>
+    <categories>
+      <category>DesktopSettings</category>
+      <category>Settings</category>
+    </categories>
+    <keywords>
+      <keyword>Configuration</keyword>
+      <keyword>Profile</keyword>
+      <keyword>User</keyword>
+    </keywords>
+    <kudos>
+      <kudo>HiDpiIcon</kudo>
+    </kudos>
+    <vetos>
+      <veto>Has category X-GNOME-Settings-Panel</veto>
+    </vetos>
+    <project_license>GPL-3.0+</project_license>
+    <url type="bugtracker">https://bugs.launchpad.net/mugshot/</url>
+    <url type="help">http://wiki.smdavis.us/doku.php?id=mugshot-docs</url>
+    <url type="homepage">https://launchpad.net/mugshot/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source" height="360" width="640">http://screenshots.smdavis.us/mugshot/mugshot.png</image>
+      </screenshot>
+      <screenshot>
+        <image type="source" height="360" width="640">http://screenshots.smdavis.us/mugshot/mugshot-pidgin-sync.png</image>
+      </screenshot>
+    </screenshots>
+    <releases>
+      <release version="0.3.0" timestamp="1441648800">
+        <description><p>This development release upgrades the camera dialog to use Cheese and Clutter to display and capture the camera feed.</p></description>
+      </release>
+      <release version="0.2.5" timestamp="1409617800">
+        <description><p>This stable release improves Mugshot functionality for LDAP users, and includes the latest SudoDialog, improving the appearance and usability of the password dialog.</p></description>
+        <description xml:lang="cs"><p>Tato stabilní verze zlepšuje funkčnost Mugshotu pro uživatele LDAP, a zahrnuje nejnovější SudoDialog, zlepšení vzhledu a použitelnosti dialogu hesla.</p></description>
+        <description xml:lang="de"><p>Diese stabile Version verbessert die LDAP-Funktionalität und beinhaltet den aktuellsten SudoDialog, wodurch das Erscheinungsbild und die Nutzerfreundlichkeit des Passwortdialogs verbessert wird.</p></description>
+        <description xml:lang="el"><p>Αυτή η σταθερή έκδοση βελτιώνει τη λειτουργικότητα του Mugshot για χρήστες LDAP, και περιλαμβάνει το πιο πρόσφατο Παράθυρο Διαλόγου Sudo, βελτιώνοντας την εμφάνιση και τη χρηστικότητα του παραθύρου διαλόγου εισαγωγής συνθηματικού.</p></description>
+        <description xml:lang="es"><p>Esta versión estable mejora la funcionalidad de Fotografía para usuarios de LDAP, e incluye el último Diálogo de sudo, mejorando el aspecto y la usabilidad del diálogo de contraseña.</p></description>
+        <description xml:lang="fr"><p>Cette version stable améliore les fonctionnalités de Mugshot pour les utilisateurs LDAP et inclut le dernier SudoDialog, qui améliore l'apparence et l'ergonomie de la fenêtre de dialogue du mot de passe.</p></description>
+        <description xml:lang="it"><p>Questa release stabile migliore le funzionalità di Mugshot per utenti LDAP ed include il più recente SudoDialog, migliorando l'aspetto e l'usabilità della finestra di immissione password.</p></description>
+        <description xml:lang="lt"><p>Ši stabili laida patobulina Mugshot funkcionalumą LDAP naudotojams ir įtraukia vėliausią SudoDialogą, patobulindama slaptažodžio dialogo išvaizdą ir patogumą naudoti.</p></description>
+        <description xml:lang="pt"><p>Esta versão estável melhora a funcionalidade do Mugshot para utilizadores LDAP, e inclui o mais recente SudoDialog, melhorando a aparência e usabilidade do diálogo da senha.</p></description>
+        <description xml:lang="ru"><p>Это стабильный релиз улучшает функциональность Mugshot для пользователей LDAP , и включает в себя последнюю версию SudoDialog , улучшения внешнего вида и диалогового окна ввода пароля.</p></description>
+        <description xml:lang="sk"><p>Táto stabilná verzia vylepšuje funkcionalitu Mugshotu pre užívateľov LDAP, obsahuje nový SudoDialog, zlepšuje vzhľad a použiteľnosť dialógu na zadanie hesla.</p></description>
+        <description xml:lang="sv"><p>Denna stabila version förbättrar Mugshots funktionalitet för LDAP-användare, och inkluderar den senaste SudoDialog, som förbättrar utseende och användning av lösenordsdialogen.</p></description>
+      </release>
+      <release version="0.2.4" timestamp="1406977200">
+        <description><p>This stable release improves the user configuration (chfn) backend and prevents Mugshot from locking up. Mugshot also no longer depends on AccountsService, but can leverage it to better support some systems. A critical bug that prevented some users from starting Mugshot was also addressed.</p></description>
+        <description xml:lang="cs"><p>Tato stabilní verze zlepšuje uživatelskou konfiguraci (chfn) backendu a zabraňuje Mugshotu se zablokovat. Mugshot už také není závislý na službě Účty, ale mohou být využity pro lepší podporu některých systémů. Kritická chyba, která brání některým uživatelům spuštění Mugshotu, byla také vyřešena.</p></description>
+        <description xml:lang="de"><p>Diese stabile Version verbessert die Benutzerkonfiguration (chfn) und verhindert, dass Mugshot abstürzt. Mugshot hängt nun nicht mehr von AccountsService ab, kann es aber besser zur Unterstützung von bestimmten Systemen einsetzen. Ein kritischer Fehler, der manche Nutzer am Start von Mugshot hinderte wurde ebenfalls behoben.</p></description>
+        <description xml:lang="el"><p>Αυτή η σταθερή έκδοση βελτιώνει το παρασκήνιο (backend) διαμόρφωσης χρήστη (chfh) και εμποδίζει το κλέιδωμα του Mugshot. Ακόμη, τo Mugshot δεν εξαρτάται πλέον από την Υπηρεσία Λογαριασμών (AccountsService), αλλά μπορεί να την επηρρεάσει για καλύτερη υποστήριξη κάποιων συστημάτων. Επίσης, αντιμετωπίστηκε ένα σοβαρό bug, το οποίο εμπόδιζε κάποιους χρήστες από το να εκκινήσουν το Mugshot.</p></description>
+        <description xml:lang="es"><p>Esta versión estable mejora el backend de configuración de usuario (chfn) y evita que Mugshot se bloquee. Además, Mugshot no depende ya de AccountsService, pero puede aprovecharlo para dar mejor soporte a algunos sistemas. Un fallo crítico que impedía a algunos usuarios iniciar Mugshot también ha sido corregido.</p></description>
+        <description xml:lang="fr"><p>Cette version stable améliore la configuration utilisateur native (chfn) et empêche Mugshot de se bloquer. Mugshot ne dépend également plus de AccountsService, mais peut en tirer parti afin de mieux supporter certains systèmes. Un bug critique qui empêchais certains utilisateurs de démarrer Mugshot a également été corrigé.</p></description>
+        <description xml:lang="it"><p>Questa release stabile migliora il backend di configurazione utente (chfn) ed impedisce a Mugshot di bloccarsi. Inoltre Mugshot non dipende più da AccountsService, ma può sfruttarlo per supportare meglio alcuni sistemi. È stato anche risolto un bug critico che impediva ad alcuni utenti di avviare Mugshot.</p></description>
+        <description xml:lang="lt"><p>Ši stabili laida patobulina naudotojo konfigūracijos (chfn) vidinę pusę bei apsaugo Mugshot nuo užsirakinimo. Mugshot daugiau nebepriklauso nuo PaskyrųTarnybos, tačiau gali pasinaudoti ja, siekiant geresnio kai kurių sistemų palaikymo. Be to, buvo ištaisyta kritinė klaida, kuri kai kuriems naudotojams neleido paleisti Mugshot.</p></description>
+        <description xml:lang="pt"><p>Esta versão estável melhora a infra-estrutura de configuração do utilizador (chfn) e impede o Mugshot de bloquear sessões. O Mugshot também não depende mais do AccountsService, mas pode aproveitá-lo para melhor apoiar alguns sistemas. Um bug crítico que impediu alguns utilizadores de iniciar o Mugshot também foi abordado.</p></description>
+        <description xml:lang="sk"><p>Táto stabilná verzia vylepšuje backend konfigurácie používateľa (chfn) a zabraňuje uzamknutiu Mugshotu. Mugshot taktiež už nemá závislosť na AccountsService ale môže ho využiť na lepšiu podporu na niektorých systémoch. Taktiež bola opravená kritická chyba ktorá bránila spusteniu Mugshot.</p></description>
+        <description xml:lang="sv"><p>Denna stabila version förbättrar användarinställningen (chfn) bakänden och förhindrar Mugshot från att låsa sig. Mugshot också inte längre beroende av AccountsService, men kan använda det för stödja vissa system bättre. Ett kritiskt fel som förhindrade en del användare från att starta Mugshot har också åtgärdats.</p></description>
+      </release>
+    </releases>
+    <provides>
+      <binary>mugshot</binary>
+    </provides>
+    <languages>
+      <lang percentage="72">ca</lang>
+      <lang percentage="58">ca@valencia</lang>
+      <lang percentage="100">cs</lang>
+      <lang percentage="100">de</lang>
+      <lang percentage="98">el</lang>
+      <lang percentage="58">en_AU</lang>
+      <lang percentage="100">es</lang>
+      <lang percentage="88">fi</lang>
+      <lang percentage="100">fr</lang>
+      <lang percentage="28">is</lang>
+      <lang percentage="100">it</lang>
+      <lang percentage="72">ja</lang>
+      <lang percentage="100">lt</lang>
+      <lang percentage="88">nl</lang>
+      <lang percentage="88">pl</lang>
+      <lang percentage="100">pt</lang>
+      <lang percentage="80">pt_BR</lang>
+      <lang percentage="90">ru</lang>
+      <lang percentage="100">sk</lang>
+      <lang percentage="78">sl</lang>
+      <lang percentage="70">sr</lang>
+      <lang percentage="100">sv</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">mugshot-0.3.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
   <component type="addon">
     <id>org.gnome.Terminal.Nautilus</id>
     <pkgname>gnome-terminal</pkgname>
@@ -4203,8 +4362,9 @@
     <icon height="128" width="128" type="cached">128x128/org.kde.dragonplayer.png</icon>
     <icon height="64" width="64" type="cached">64x64/org.kde.dragonplayer.png</icon>
     <categories>
-      <category>AudioVideo</category>
+      <category>Audio</category>
       <category>Player</category>
+      <category>Video</category>
     </categories>
     <kudos>
       <kudo>HiDpiIcon</kudo>
