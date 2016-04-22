@@ -550,14 +550,14 @@
     <id>appstream-glib.x86_64</id>
     <pkgname>appstream-glib</pkgname>
     <metadata>
-      <value key="X-CacheID">appstream-glib-0.5.12-0.x86_64.rpm</value>
+      <value key="X-CacheID">appstream-glib-0.5.14-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>appstream-qt.x86_64</id>
     <pkgname>appstream-qt</pkgname>
     <metadata>
-      <value key="X-CacheID">appstream-qt-0.8.6-0.x86_64.rpm</value>
+      <value key="X-CacheID">appstream-qt-0.9.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -1831,7 +1831,7 @@
     <id>ccache.x86_64</id>
     <pkgname>ccache</pkgname>
     <metadata>
-      <value key="X-CacheID">ccache-3.2.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">ccache-3.2.5-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -2266,13 +2266,6 @@
     <pkgname>cld2</pkgname>
     <metadata>
       <value key="X-CacheID">cld2-0svn194-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>clementine.x86_64</id>
-    <pkgname>clementine</pkgname>
-    <metadata>
-      <value key="X-CacheID">clementine-1.2.3-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3378,7 +3371,7 @@
     <id>dejagnu.x86_64</id>
     <pkgname>dejagnu</pkgname>
     <metadata>
-      <value key="X-CacheID">dejagnu-1.5.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">dejagnu-1.6-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4225,7 +4218,7 @@
     <id>expect.x86_64</id>
     <pkgname>expect</pkgname>
     <metadata>
-      <value key="X-CacheID">expect-5.45-0.x86_64.rpm</value>
+      <value key="X-CacheID">expect-5.45-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6059,7 +6052,7 @@
     <id>google-chrome.x86_64</id>
     <pkgname>google-chrome</pkgname>
     <metadata>
-      <value key="X-CacheID">google-chrome-49.0.2623.87-0.x86_64.rpm</value>
+      <value key="X-CacheID">google-chrome-50.0.2661.75-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6437,7 +6430,7 @@
     <id>gst-plugins-good-1-0.x86_64</id>
     <pkgname>gst-plugins-good-1-0</pkgname>
     <metadata>
-      <value key="X-CacheID">gst-plugins-good-1-0-1.4.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">gst-plugins-good-1-0-1.8.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6598,7 +6591,7 @@
     <id>gtkd.x86_64</id>
     <pkgname>gtkd</pkgname>
     <metadata>
-      <value key="X-CacheID">gtkd-3.2.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">gtkd-3.3.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7473,7 +7466,7 @@
     <id>hwdata.x86_64</id>
     <pkgname>hwdata</pkgname>
     <metadata>
-      <value key="X-CacheID">hwdata-0.285-0.x86_64.rpm</value>
+      <value key="X-CacheID">hwdata-0.288-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9654,6 +9647,13 @@
     </metadata>
   </component>
   <component>
+    <id>ktorrent.x86_64</id>
+    <pkgname>ktorrent</pkgname>
+    <metadata>
+      <value key="X-CacheID">ktorrent-5.0.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>ktp-accounts-kcm.x86_64</id>
     <pkgname>ktp-accounts-kcm</pkgname>
     <metadata>
@@ -11386,7 +11386,7 @@
     <id>libktorrent.x86_64</id>
     <pkgname>libktorrent</pkgname>
     <metadata>
-      <value key="X-CacheID">libktorrent-4.14.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">libktorrent-2.0.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12128,7 +12128,7 @@
     <id>libraw1394.x86_64</id>
     <pkgname>libraw1394</pkgname>
     <metadata>
-      <value key="X-CacheID">libraw1394-2.1.0-1.x86_64.rpm</value>
+      <value key="X-CacheID">libraw1394-2.1.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -13521,7 +13521,7 @@
     <id>lrzip.x86_64</id>
     <pkgname>lrzip</pkgname>
     <metadata>
-      <value key="X-CacheID">lrzip-0.616-0.x86_64.rpm</value>
+      <value key="X-CacheID">lrzip-0.621-2.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15233,31 +15233,10 @@
     </metadata>
   </component>
   <component>
-    <id>networkmanager-openconnect.x86_64</id>
-    <pkgname>networkmanager-openconnect</pkgname>
-    <metadata>
-      <value key="X-CacheID">networkmanager-openconnect-1.0.2-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>networkmanager-openswan.x86_64</id>
     <pkgname>networkmanager-openswan</pkgname>
     <metadata>
       <value key="X-CacheID">networkmanager-openswan-1.0.8-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>networkmanager-openvpn.x86_64</id>
-    <pkgname>networkmanager-openvpn</pkgname>
-    <metadata>
-      <value key="X-CacheID">networkmanager-openvpn-1.0.8-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>networkmanager-pptp.x86_64</id>
-    <pkgname>networkmanager-pptp</pkgname>
-    <metadata>
-      <value key="X-CacheID">networkmanager-pptp-1.0.8-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15272,13 +15251,6 @@
     <pkgname>networkmanager-strongswan</pkgname>
     <metadata>
       <value key="X-CacheID">networkmanager-strongswan-1.3.1-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>networkmanager-vpnc.x86_64</id>
-    <pkgname>networkmanager-vpnc</pkgname>
-    <metadata>
-      <value key="X-CacheID">networkmanager-vpnc-1.0.8-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16104,7 +16076,7 @@
     <id>ostree.x86_64</id>
     <pkgname>ostree</pkgname>
     <metadata>
-      <value key="X-CacheID">ostree-2016.4-1.x86_64.rpm</value>
+      <value key="X-CacheID">ostree-2016.5-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16181,7 +16153,7 @@
     <id>packagekit-backend-aptcc.x86_64</id>
     <pkgname>packagekit-backend-aptcc</pkgname>
     <metadata>
-      <value key="X-CacheID">packagekit-backend-aptcc-1.0.6-0.x86_64.rpm</value>
+      <value key="X-CacheID">packagekit-backend-aptcc-1.1.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17532,7 +17504,7 @@
     <id>pesign.x86_64</id>
     <pkgname>pesign</pkgname>
     <metadata>
-      <value key="X-CacheID">pesign-0.111-0.x86_64.rpm</value>
+      <value key="X-CacheID">pesign-0.112-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -19310,7 +19282,7 @@
     <id>rest.x86_64</id>
     <pkgname>rest</pkgname>
     <metadata>
-      <value key="X-CacheID">rest-0.7.93-1.x86_64.rpm</value>
+      <value key="X-CacheID">rest-0.8.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21047,13 +21019,6 @@
     <pkgname>telepathy-salut</pkgname>
     <metadata>
       <value key="X-CacheID">telepathy-salut-0.8.1-1.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>terminix.x86_64</id>
-    <pkgname>terminix</pkgname>
-    <metadata>
-      <value key="X-CacheID">terminix-0.54.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -23727,7 +23692,7 @@
     <id>zathura.x86_64</id>
     <pkgname>zathura</pkgname>
     <metadata>
-      <value key="X-CacheID">zathura-0.3.5-0.x86_64.rpm</value>
+      <value key="X-CacheID">zathura-0.3.6-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
