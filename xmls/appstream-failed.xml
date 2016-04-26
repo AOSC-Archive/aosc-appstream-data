@@ -597,12 +597,8 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-e43113493e5fdac855218bed47526eb7.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+        <caption>DejaVu Sans – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-1baa6ad042c3b5858fe6c3fbe02f2c8d.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -826,12 +822,8 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-e43113493e5fdac855218bed47526eb7.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+        <caption>DejaVu Sans – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-1baa6ad042c3b5858fe6c3fbe02f2c8d.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -1055,12 +1047,8 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-e43113493e5fdac855218bed47526eb7.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+        <caption>DejaVu Sans – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-1baa6ad042c3b5858fe6c3fbe02f2c8d.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -3675,7 +3663,7 @@
       </screenshot>
     </screenshots>
     <metadata>
-      <value key="X-CacheID">google-chrome-50.0.2661.75-0.x86_64.rpm</value>
+      <value key="X-CacheID">google-chrome-50.0.2661.86-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4834,28 +4822,29 @@
       </screenshot>
     </screenshots>
     <languages>
-      <lang percentage="93">ca</lang>
-      <lang percentage="72">cs</lang>
-      <lang percentage="61">da</lang>
+      <lang percentage="79">ca</lang>
+      <lang percentage="62">cs</lang>
+      <lang percentage="52">da</lang>
       <lang percentage="100">de</lang>
-      <lang percentage="77">el</lang>
-      <lang percentage="94">es</lang>
-      <lang percentage="79">fr</lang>
-      <lang percentage="94">gl</lang>
-      <lang percentage="92">hu</lang>
-      <lang percentage="86">it</lang>
-      <lang percentage="86">ja</lang>
-      <lang percentage="84">nb</lang>
-      <lang percentage="80">pl</lang>
-      <lang percentage="82">pt_BR</lang>
-      <lang percentage="67">ru</lang>
-      <lang percentage="100">tr</lang>
-      <lang percentage="100">uk</lang>
-      <lang percentage="83">zh_CN</lang>
-      <lang percentage="82">zh_TW</lang>
+      <lang percentage="66">el</lang>
+      <lang percentage="98">es</lang>
+      <lang percentage="65">fi</lang>
+      <lang percentage="68">fr</lang>
+      <lang percentage="98">gl</lang>
+      <lang percentage="85">hu</lang>
+      <lang percentage="74">it</lang>
+      <lang percentage="74">ja</lang>
+      <lang percentage="72">nb</lang>
+      <lang percentage="68">pl</lang>
+      <lang percentage="70">pt_BR</lang>
+      <lang percentage="57">ru</lang>
+      <lang percentage="95">tr</lang>
+      <lang percentage="85">uk</lang>
+      <lang percentage="71">zh_CN</lang>
+      <lang percentage="70">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">wxmaxima-15.08.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">wxmaxima-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="desktop">
