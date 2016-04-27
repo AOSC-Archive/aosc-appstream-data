@@ -309,6 +309,20 @@
     </metadata>
   </component>
   <component>
+    <id>akonadi4-data.x86_64</id>
+    <pkgname>akonadi4-data</pkgname>
+    <metadata>
+      <value key="X-CacheID">akonadi4-data-1.13.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>akonadi4.x86_64</id>
+    <pkgname>akonadi4</pkgname>
+    <metadata>
+      <value key="X-CacheID">akonadi4-1.13.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>alabaster.x86_64</id>
     <pkgname>alabaster</pkgname>
     <metadata>
@@ -1131,7 +1145,7 @@
     <id>baloo-widgets.x86_64</id>
     <pkgname>baloo-widgets</pkgname>
     <metadata>
-      <value key="X-CacheID">baloo-widgets-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">baloo-widgets-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -1474,7 +1488,7 @@
     <id>bomber.x86_64</id>
     <pkgname>bomber</pkgname>
     <metadata>
-      <value key="X-CacheID">bomber-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">bomber-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -1502,7 +1516,7 @@
     <id>bovo.x86_64</id>
     <pkgname>bovo</pkgname>
     <metadata>
-      <value key="X-CacheID">bovo-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">bovo-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -1769,6 +1783,13 @@
     <pkgname>calamares</pkgname>
     <metadata>
       <value key="X-CacheID">calamares-1.1.4.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>calendarsupport.x86_64</id>
+    <pkgname>calendarsupport</pkgname>
+    <metadata>
+      <value key="X-CacheID">calendarsupport-16.04.0-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3749,7 +3770,7 @@
     <id>dragon.x86_64</id>
     <pkgname>dragon</pkgname>
     <metadata>
-      <value key="X-CacheID">dragon-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">dragon-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4184,6 +4205,13 @@
     <pkgname>evemu</pkgname>
     <metadata>
       <value key="X-CacheID">evemu-2.1.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>eventviews.x86_64</id>
+    <pkgname>eventviews</pkgname>
+    <metadata>
+      <value key="X-CacheID">eventviews-16.04.0-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6273,6 +6301,13 @@
     </metadata>
   </component>
   <component>
+    <id>grantleetheme.x86_64</id>
+    <pkgname>grantleetheme</pkgname>
+    <metadata>
+      <value key="X-CacheID">grantleetheme-16.04.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>graphicsmagick.x86_64</id>
     <pkgname>graphicsmagick</pkgname>
     <metadata>
@@ -7911,6 +7946,13 @@
     </metadata>
   </component>
   <component>
+    <id>incidenceeditor.x86_64</id>
+    <pkgname>incidenceeditor</pkgname>
+    <metadata>
+      <value key="X-CacheID">incidenceeditor-16.04.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>indicator-application.x86_64</id>
     <pkgname>indicator-application</pkgname>
     <metadata>
@@ -8523,7 +8565,7 @@
     <id>kblog.x86_64</id>
     <pkgname>kblog</pkgname>
     <metadata>
-      <value key="X-CacheID">kblog-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">kblog-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8544,14 +8586,14 @@
     <id>kbreakout.x86_64</id>
     <pkgname>kbreakout</pkgname>
     <metadata>
-      <value key="X-CacheID">kbreakout-15.08.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">kbreakout-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>kcachegrind.x86_64</id>
     <pkgname>kcachegrind</pkgname>
     <metadata>
-      <value key="X-CacheID">kcachegrind-15.04.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">kcachegrind-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8684,7 +8726,7 @@
     <id>kde-cli-tools.x86_64</id>
     <pkgname>kde-cli-tools</pkgname>
     <metadata>
-      <value key="X-CacheID">kde-cli-tools-5.4.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">kde-cli-tools-5.6.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8698,7 +8740,7 @@
     <id>kde-dev-scripts.x86_64</id>
     <pkgname>kde-dev-scripts</pkgname>
     <metadata>
-      <value key="X-CacheID">kde-dev-scripts-15.12.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kde-dev-scripts-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8754,7 +8796,7 @@
     <id>kdebugsettings.x86_64</id>
     <pkgname>kdebugsettings</pkgname>
     <metadata>
-      <value key="X-CacheID">kdebugsettings-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">kdebugsettings-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8796,7 +8838,7 @@
     <id>kdegraphics-mobipocket.x86_64</id>
     <pkgname>kdegraphics-mobipocket</pkgname>
     <metadata>
-      <value key="X-CacheID">kdegraphics-mobipocket-15.04.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">kdegraphics-mobipocket-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8842,6 +8884,20 @@
     </metadata>
   </component>
   <component>
+    <id>kdepim-addons.x86_64</id>
+    <pkgname>kdepim-addons</pkgname>
+    <metadata>
+      <value key="X-CacheID">kdepim-addons-16.04.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>kdepim-apps-libs.x86_64</id>
+    <pkgname>kdepim-apps-libs</pkgname>
+    <metadata>
+      <value key="X-CacheID">kdepim-apps-libs-16.04.0-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>kdepim-runtime.x86_64</id>
     <pkgname>kdepim-runtime</pkgname>
     <metadata>
@@ -8853,6 +8909,13 @@
     <pkgname>kdepimlibs</pkgname>
     <metadata>
       <value key="X-CacheID">kdepimlibs-15.08.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>kdepimlibs4.x86_64</id>
+    <pkgname>kdepimlibs4</pkgname>
+    <metadata>
+      <value key="X-CacheID">kdepimlibs4-4.14.10-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8916,6 +8979,13 @@
     <pkgname>kdf</pkgname>
     <metadata>
       <value key="X-CacheID">kdf-15.12.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>kdgantt2.x86_64</id>
+    <pkgname>kdgantt2</pkgname>
+    <metadata>
+      <value key="X-CacheID">kdgantt2-16.04.0-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9108,13 +9178,6 @@
     </metadata>
   </component>
   <component>
-    <id>kgpg.x86_64</id>
-    <pkgname>kgpg</pkgname>
-    <metadata>
-      <value key="X-CacheID">kgpg-4.14.3-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>kguiaddons.x86_64</id>
     <pkgname>kguiaddons</pkgname>
     <metadata>
@@ -9125,21 +9188,21 @@
     <id>khelpcenter.x86_64</id>
     <pkgname>khelpcenter</pkgname>
     <metadata>
-      <value key="X-CacheID">khelpcenter-5.6.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">khelpcenter-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>kholidays.x86_64</id>
     <pkgname>kholidays</pkgname>
     <metadata>
-      <value key="X-CacheID">kholidays-15.08.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">kholidays-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>khotkeys.x86_64</id>
     <pkgname>khotkeys</pkgname>
     <metadata>
-      <value key="X-CacheID">khotkeys-5.6.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">khotkeys-5.6.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9181,7 +9244,7 @@
     <id>kidentitymanagement.x86_64</id>
     <pkgname>kidentitymanagement</pkgname>
     <metadata>
-      <value key="X-CacheID">kidentitymanagement-15.08.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kidentitymanagement-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9230,7 +9293,7 @@
     <id>kinfocenter.x86_64</id>
     <pkgname>kinfocenter</pkgname>
     <metadata>
-      <value key="X-CacheID">kinfocenter-5.5.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">kinfocenter-5.6.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9251,7 +9314,7 @@
     <id>kio-extras.x86_64</id>
     <pkgname>kio-extras</pkgname>
     <metadata>
-      <value key="X-CacheID">kio-extras-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">kio-extras-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9328,7 +9391,7 @@
     <id>klickety.x86_64</id>
     <pkgname>klickety</pkgname>
     <metadata>
-      <value key="X-CacheID">klickety-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">klickety-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9342,7 +9405,7 @@
     <id>kmag.x86_64</id>
     <pkgname>kmag</pkgname>
     <metadata>
-      <value key="X-CacheID">kmag-15.04.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">kmag-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9384,7 +9447,7 @@
     <id>kmime.x86_64</id>
     <pkgname>kmime</pkgname>
     <metadata>
-      <value key="X-CacheID">kmime-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">kmime-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9398,7 +9461,7 @@
     <id>kmix.x86_64</id>
     <pkgname>kmix</pkgname>
     <metadata>
-      <value key="X-CacheID">kmix-15.08.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kmix-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9426,21 +9489,21 @@
     <id>kmplot.x86_64</id>
     <pkgname>kmplot</pkgname>
     <metadata>
-      <value key="X-CacheID">kmplot-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">kmplot-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>knavalbattle.x86_64</id>
     <pkgname>knavalbattle</pkgname>
     <metadata>
-      <value key="X-CacheID">knavalbattle-15.04.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">knavalbattle-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>knetwalk.x86_64</id>
     <pkgname>knetwalk</pkgname>
     <metadata>
-      <value key="X-CacheID">knetwalk-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">knetwalk-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9671,7 +9734,7 @@
     <id>kscreenlocker.x86_64</id>
     <pkgname>kscreenlocker</pkgname>
     <metadata>
-      <value key="X-CacheID">kscreenlocker-5.5.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kscreenlocker-5.6.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9741,14 +9804,14 @@
     <id>ksysguard.x86_64</id>
     <pkgname>ksysguard</pkgname>
     <metadata>
-      <value key="X-CacheID">ksysguard-5.6.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">ksysguard-5.6.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>ksystemlog.x86_64</id>
     <pkgname>ksystemlog</pkgname>
     <metadata>
-      <value key="X-CacheID">ksystemlog-15.12.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">ksystemlog-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9790,7 +9853,7 @@
     <id>ktp-accounts-kcm.x86_64</id>
     <pkgname>ktp-accounts-kcm</pkgname>
     <metadata>
-      <value key="X-CacheID">ktp-accounts-kcm-15.08.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">ktp-accounts-kcm-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9805,6 +9868,13 @@
     <pkgname>ktp-auth-handler</pkgname>
     <metadata>
       <value key="X-CacheID">ktp-auth-handler-15.08.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ktp-call-ui.x86_64</id>
+    <pkgname>ktp-call-ui</pkgname>
+    <metadata>
+      <value key="X-CacheID">ktp-call-ui-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -10189,7 +10259,7 @@
     <id>libaccounts-glib.x86_64</id>
     <pkgname>libaccounts-glib</pkgname>
     <metadata>
-      <value key="X-CacheID">libaccounts-glib-1.18+15.04.20150116-0.x86_64.rpm</value>
+      <value key="X-CacheID">libaccounts-glib-1.21-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -11166,6 +11236,13 @@
     </metadata>
   </component>
   <component>
+    <id>libgravatar.x86_64</id>
+    <pkgname>libgravatar</pkgname>
+    <metadata>
+      <value key="X-CacheID">libgravatar-16.04.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>libgrss.x86_64</id>
     <pkgname>libgrss</pkgname>
     <metadata>
@@ -11463,7 +11540,7 @@
     <id>libkdeedu.x86_64</id>
     <pkgname>libkdeedu</pkgname>
     <metadata>
-      <value key="X-CacheID">libkdeedu-4.14.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">libkdeedu-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -11478,6 +11555,13 @@
     <pkgname>libkdegames4</pkgname>
     <metadata>
       <value key="X-CacheID">libkdegames4-14.12.3-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libkdepim.x86_64</id>
+    <pkgname>libkdepim</pkgname>
+    <metadata>
+      <value key="X-CacheID">libkdepim-16.04.0-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -11519,7 +11603,7 @@
     <id>libkipi.x86_64</id>
     <pkgname>libkipi</pkgname>
     <metadata>
-      <value key="X-CacheID">libkipi-15.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">libkipi-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -11537,10 +11621,17 @@
     </metadata>
   </component>
   <component>
+    <id>libkleo.x86_64</id>
+    <pkgname>libkleo</pkgname>
+    <metadata>
+      <value key="X-CacheID">libkleo-16.04.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>libkmahjongg.x86_64</id>
     <pkgname>libkmahjongg</pkgname>
     <metadata>
-      <value key="X-CacheID">libkmahjongg-15.08.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">libkmahjongg-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -11589,7 +11680,7 @@
     <id>libksane.x86_64</id>
     <pkgname>libksane</pkgname>
     <metadata>
-      <value key="X-CacheID">libksane-4.14.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">libksane-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -11604,6 +11695,13 @@
     <pkgname>libkscreen</pkgname>
     <metadata>
       <value key="X-CacheID">libkscreen-5.5.4-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libksieve.x86_64</id>
+    <pkgname>libksieve</pkgname>
+    <metadata>
+      <value key="X-CacheID">libksieve-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -14316,6 +14414,20 @@
     </metadata>
   </component>
   <component>
+    <id>mailcommon.x86_64</id>
+    <pkgname>mailcommon</pkgname>
+    <metadata>
+      <value key="X-CacheID">mailcommon-16.04.0-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>mailimporter.x86_64</id>
+    <pkgname>mailimporter</pkgname>
+    <metadata>
+      <value key="X-CacheID">mailimporter-16.04.0-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>mailman.x86_64</id>
     <pkgname>mailman</pkgname>
     <metadata>
@@ -14810,6 +14922,13 @@
     <pkgname>mesa</pkgname>
     <metadata>
       <value key="X-CacheID">mesa-10.6.5-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>messagelib.x86_64</id>
+    <pkgname>messagelib</pkgname>
+    <metadata>
+      <value key="X-CacheID">messagelib-16.04.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17998,6 +18117,13 @@
     </metadata>
   </component>
   <component>
+    <id>pimcommon.x86_64</id>
+    <pkgname>pimcommon</pkgname>
+    <metadata>
+      <value key="X-CacheID">pimcommon-16.04.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>pinentry.x86_64</id>
     <pkgname>pinentry</pkgname>
     <metadata>
@@ -18120,7 +18246,7 @@
     <id>plasma-mediacenter.x86_64</id>
     <pkgname>plasma-mediacenter</pkgname>
     <metadata>
-      <value key="X-CacheID">plasma-mediacenter-5.3.2-1.x86_64.rpm</value>
+      <value key="X-CacheID">plasma-mediacenter-5.6.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -20346,7 +20472,7 @@
     <id>signon-plugin-oauth2.x86_64</id>
     <pkgname>signon-plugin-oauth2</pkgname>
     <metadata>
-      <value key="X-CacheID">signon-plugin-oauth2-0.22-0.x86_64.rpm</value>
+      <value key="X-CacheID">signon-plugin-oauth2-0.23-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21365,6 +21491,13 @@
     </metadata>
   </component>
   <component>
+    <id>telepathy-accounts-signon.x86_64</id>
+    <pkgname>telepathy-accounts-signon</pkgname>
+    <metadata>
+      <value key="X-CacheID">telepathy-accounts-signon-1.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>telepathy-farstream.x86_64</id>
     <pkgname>telepathy-farstream</pkgname>
     <metadata>
@@ -21431,7 +21564,7 @@
     <id>telepathy-qt.x86_64</id>
     <pkgname>telepathy-qt</pkgname>
     <metadata>
-      <value key="X-CacheID">telepathy-qt-0.9.6-2.x86_64.rpm</value>
+      <value key="X-CacheID">telepathy-qt-0.9.6.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22013,13 +22146,6 @@
     <pkgname>uim</pkgname>
     <metadata>
       <value key="X-CacheID">uim-1.8.6-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>umbrello.x86_64</id>
-    <pkgname>umbrello</pkgname>
-    <metadata>
-      <value key="X-CacheID">umbrello-15.04.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
