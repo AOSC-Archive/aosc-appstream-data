@@ -22086,6 +22086,13 @@
     </metadata>
   </component>
   <component>
+    <id>tzdata.noarch</id>
+    <pkgname>tzdata</pkgname>
+    <metadata>
+      <value key="X-CacheID">tzdata-2016d-1.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>tzdata.x86_64</id>
     <pkgname>tzdata</pkgname>
     <metadata>
