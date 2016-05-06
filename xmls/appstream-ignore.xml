@@ -1870,6 +1870,13 @@
     </metadata>
   </component>
   <component>
+    <id>casuarius.x86_64</id>
+    <pkgname>casuarius</pkgname>
+    <metadata>
+      <value key="X-CacheID">casuarius-1.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>catdoc.x86_64</id>
     <pkgname>catdoc</pkgname>
     <metadata>
@@ -3543,6 +3550,13 @@
     </metadata>
   </component>
   <component>
+    <id>distribute.x86_64</id>
+    <pkgname>distribute</pkgname>
+    <metadata>
+      <value key="X-CacheID">distribute-0.6.14-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>djvulibre.x86_64</id>
     <pkgname>djvulibre</pkgname>
     <metadata>
@@ -3763,7 +3777,7 @@
     <id>dpkg.x86_64</id>
     <pkgname>dpkg</pkgname>
     <metadata>
-      <value key="X-CacheID">dpkg-1.18.2-1.x86_64.rpm</value>
+      <value key="X-CacheID">dpkg-1.18.6-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4051,6 +4065,13 @@
     <pkgname>emscripten</pkgname>
     <metadata>
       <value key="X-CacheID">emscripten-1.36.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>enaml.x86_64</id>
+    <pkgname>enaml</pkgname>
+    <metadata>
+      <value key="X-CacheID">enaml-0.6.8-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5149,7 +5170,7 @@
     <id>gcc+32.x86_64</id>
     <pkgname>gcc+32</pkgname>
     <metadata>
-      <value key="X-CacheID">gcc+32-4.9.1-1.x86_64.rpm</value>
+      <value key="X-CacheID">gcc+32-6.1.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6179,6 +6200,13 @@
     <pkgname>gom</pkgname>
     <metadata>
       <value key="X-CacheID">gom-0.3.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>goocanvas.x86_64</id>
+    <pkgname>goocanvas</pkgname>
+    <metadata>
+      <value key="X-CacheID">goocanvas-2.0.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7914,7 +7942,7 @@
     <id>imagemagick.x86_64</id>
     <pkgname>imagemagick</pkgname>
     <metadata>
-      <value key="X-CacheID">imagemagick-6.9.1-3.x86_64.rpm</value>
+      <value key="X-CacheID">imagemagick-6.9.3+9-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12443,7 +12471,7 @@
     <id>libqmi.x86_64</id>
     <pkgname>libqmi</pkgname>
     <metadata>
-      <value key="X-CacheID">libqmi-1.12.6-1.x86_64.rpm</value>
+      <value key="X-CacheID">libqmi-1.14.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16423,6 +16451,13 @@
     </metadata>
   </component>
   <component>
+    <id>openssh-hpn.x86_64</id>
+    <pkgname>openssh-hpn</pkgname>
+    <metadata>
+      <value key="X-CacheID">openssh-hpn-7.2p2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>openssh.x86_64</id>
     <pkgname>openssh</pkgname>
     <metadata>
@@ -16433,7 +16468,7 @@
     <id>openssl+32.x86_64</id>
     <pkgname>openssl+32</pkgname>
     <metadata>
-      <value key="X-CacheID">openssl+32-1.0.2c-0.x86_64.rpm</value>
+      <value key="X-CacheID">openssl+32-1.0.2h-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16539,6 +16574,13 @@
     <pkgname>orca</pkgname>
     <metadata>
       <value key="X-CacheID">orca-3.18.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>oregano.x86_64</id>
+    <pkgname>oregano</pkgname>
+    <metadata>
+      <value key="X-CacheID">oregano-0.83.2.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21876,6 +21918,13 @@
     </metadata>
   </component>
   <component>
+    <id>traits.x86_64</id>
+    <pkgname>traits</pkgname>
+    <metadata>
+      <value key="X-CacheID">traits-4.5.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>transcode.x86_64</id>
     <pkgname>transcode</pkgname>
     <metadata>
@@ -22650,6 +22699,13 @@
     <pkgname>vino</pkgname>
     <metadata>
       <value key="X-CacheID">vino-3.16.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>virglrenderer.x86_64</id>
+    <pkgname>virglrenderer</pkgname>
+    <metadata>
+      <value key="X-CacheID">virglrenderer-0.5.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
