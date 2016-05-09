@@ -7942,7 +7942,7 @@
     <id>imagemagick.x86_64</id>
     <pkgname>imagemagick</pkgname>
     <metadata>
-      <value key="X-CacheID">imagemagick-6.9.3+9-0.x86_64.rpm</value>
+      <value key="X-CacheID">imagemagick-6.9.3+10-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -13795,6 +13795,13 @@
     <pkgname>linux-kernel-4.5.2</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-4.5.2-4.5.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-4.5.3.x86_64</id>
+    <pkgname>linux-kernel-4.5.3</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.5.3-4.5.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
