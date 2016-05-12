@@ -596,13 +596,25 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
+      <screenshot priority="-2">
+        <caption>DejaVu Serif – Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-46f3fbc375fa32403c1d28ebbb8ae6eb.png</image>
+      </screenshot>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
       <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-576ad642ba31c656bb89e3346425333d.png</image>
+        <caption>DejaVu Sans Mono – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-3ce30975d9c284d47bed47f040ae4411.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -817,13 +829,25 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
+      <screenshot priority="-2">
+        <caption>DejaVu Serif – Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-46f3fbc375fa32403c1d28ebbb8ae6eb.png</image>
+      </screenshot>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
       <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-576ad642ba31c656bb89e3346425333d.png</image>
+        <caption>DejaVu Sans Mono – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-3ce30975d9c284d47bed47f040ae4411.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -1038,13 +1062,25 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
+      <screenshot priority="-2">
+        <caption>DejaVu Serif – Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-46f3fbc375fa32403c1d28ebbb8ae6eb.png</image>
+      </screenshot>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
       <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-576ad642ba31c656bb89e3346425333d.png</image>
+        <caption>DejaVu Sans Mono – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-3ce30975d9c284d47bed47f040ae4411.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-d7d3a53ae98a2c623b304e3273fc55aa.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-576ad642ba31c656bb89e3346425333d.png</image>
       </screenshot>
     </screenshots>
     <languages>
