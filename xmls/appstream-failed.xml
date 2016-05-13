@@ -596,17 +596,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-2">
-        <caption>DejaVu Serif – Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-46f3fbc375fa32403c1d28ebbb8ae6eb.png</image>
-      </screenshot>
       <screenshot priority="-12">
         <caption>DejaVu Sans Light – ExtraLight</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Mono – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-3ce30975d9c284d47bed47f040ae4411.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -829,17 +821,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-2">
-        <caption>DejaVu Serif – Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-46f3fbc375fa32403c1d28ebbb8ae6eb.png</image>
-      </screenshot>
       <screenshot priority="-12">
         <caption>DejaVu Sans Light – ExtraLight</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Mono – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-3ce30975d9c284d47bed47f040ae4411.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -1062,17 +1046,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-2">
-        <caption>DejaVu Serif – Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-46f3fbc375fa32403c1d28ebbb8ae6eb.png</image>
-      </screenshot>
       <screenshot priority="-12">
         <caption>DejaVu Sans Light – ExtraLight</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Mono – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-3ce30975d9c284d47bed47f040ae4411.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -3396,7 +3372,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.20.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution-3.20.2-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -3503,7 +3479,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.20.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution-3.20.2-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -3654,7 +3630,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.20.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution-3.20.2-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -4057,6 +4033,7 @@
     <name xml:lang="lt">Terminalo įskiepis, skirtas Failams</name>
     <name xml:lang="lv">Termināļa spraudnis “Datnēm”</name>
     <name xml:lang="pl">Wtyczka terminala dla Menedżera plików</name>
+    <name xml:lang="pt">Plugins do terminal para Ficheiros</name>
     <name xml:lang="pt_BR">Plug-in do terminal para Arquivos</name>
     <name xml:lang="ru">Модуль терминала для Nautilus</name>
     <name xml:lang="sk">Zásuvný modul Terminál pre aplikáciu Súbory</name>
@@ -4088,6 +4065,7 @@
     <summary xml:lang="lt">Atverti terminalą iš Failų</summary>
     <summary xml:lang="lv">Atvērt termināli no “Datnēm”</summary>
     <summary xml:lang="pl">Otwieranie terminala w Menedżerze plików</summary>
+    <summary xml:lang="pt">Abrir um terminal a partir de Ficheiros</summary>
     <summary xml:lang="pt_BR">Abrir um terminal a partir de Arquivos</summary>
     <summary xml:lang="ru">Открывает терминал из Nautilus</summary>
     <summary xml:lang="sk">Otvorí terminál z aplikácie Súbory</summary>
@@ -4117,6 +4095,7 @@
     <description xml:lang="lt"><p>Atverti terminalą yra Failų programai skirtas įskiepis, kuris prideda kontekstinio meniu elementą, atveriantį terminalą esamu metu naršomame kataloge.</p></description>
     <description xml:lang="lv"><p>“Atvērt termināli” ir spraudnis lietotnei “Datnes”, kas pievieno izvēlnes vienumu konteksta izvēlnei, kas atver termināli pārlūkotajā direktorijā.</p></description>
     <description xml:lang="pl"><p>Wtyczka dla Menedżera plików dodająca element do menu kontekstowego otwierający terminal w obecnie przeglądanym katalogu.</p></description>
+    <description xml:lang="pt"><p>Abrir Terminal é um plugin para a aplicação Ficheiros que adiciona no menu de contexto abrir terminal na pasta atual.</p></description>
     <description xml:lang="pt_BR"><p>Open Terminal é um plug-in para o aplicativo Arquivos que adiciona um item de menu ao menu de contexto para abrir um terminal no diretório navegado no momento.</p></description>
     <description xml:lang="ru"><p>Открыть терминал — модуль для приложения Nautilus, который добавляет в строку в контекстном меню для открытия терминала в текущей просматриваемой папке.</p></description>
     <description xml:lang="sk"><p>Otvoriť terminál je zásuvný modul pre aplikáciu Súbory, ktorý pridáva položku kontextovej ponuky na otvorenie terminálu v aktuálne prehliadanom adresári.</p></description>
@@ -4211,7 +4190,7 @@
       <lang percentage="85">pa</lang>
       <lang percentage="93">pl</lang>
       <lang percentage="50">ps</lang>
-      <lang percentage="87">pt</lang>
+      <lang percentage="91">pt</lang>
       <lang percentage="91">pt_BR</lang>
       <lang percentage="94">ro</lang>
       <lang percentage="91">ru</lang>
@@ -4237,7 +4216,7 @@
       <lang percentage="91">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">gnome-terminal-3.20.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">gnome-terminal-3.20.2-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">org.gnome.Terminal.desktop</value>
     </metadata>
   </component>
