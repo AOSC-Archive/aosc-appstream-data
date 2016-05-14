@@ -5615,6 +5615,13 @@
     </metadata>
   </component>
   <component>
+    <id>glib-static.x86_64</id>
+    <pkgname>glib-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">glib-static-2.48.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>glib.x86_64</id>
     <pkgname>glib</pkgname>
     <metadata>
@@ -6227,7 +6234,7 @@
     <id>google-chrome.x86_64</id>
     <pkgname>google-chrome</pkgname>
     <metadata>
-      <value key="X-CacheID">google-chrome-50.0.2661.94-0.x86_64.rpm</value>
+      <value key="X-CacheID">google-chrome-50.0.2661.102-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7460,6 +7467,13 @@
     <pkgname>haskell-zlib</pkgname>
     <metadata>
       <value key="X-CacheID">haskell-zlib-0.6.1.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>haveged.x86_64</id>
+    <pkgname>haveged</pkgname>
+    <metadata>
+      <value key="X-CacheID">haveged-1.9.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -11124,6 +11138,13 @@
     </metadata>
   </component>
   <component>
+    <id>libgcrypt-static.x86_64</id>
+    <pkgname>libgcrypt-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">libgcrypt-static-1.6.3-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>libgcrypt.x86_64</id>
     <pkgname>libgcrypt</pkgname>
     <metadata>
@@ -11268,6 +11289,13 @@
     <pkgname>libgpg-error+32</pkgname>
     <metadata>
       <value key="X-CacheID">libgpg-error+32-1.15-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libgpg-error-static.x86_64</id>
+    <pkgname>libgpg-error-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">libgpg-error-static-1.22-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12087,6 +12115,13 @@
     <pkgname>libnfnetlink</pkgname>
     <metadata>
       <value key="X-CacheID">libnfnetlink-1.0.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libnfs-static.x86_64</id>
+    <pkgname>libnfs-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">libnfs-static-1.9.8-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -13823,6 +13858,13 @@
     <pkgname>linux-kernel-4.5.3</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-4.5.3-4.5.3-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-4.5.4.x86_64</id>
+    <pkgname>linux-kernel-4.5.4</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.5.4-4.5.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16994,6 +17036,13 @@
     <pkgname>pcre+32</pkgname>
     <metadata>
       <value key="X-CacheID">pcre+32-8.38-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>pcre-static.x86_64</id>
+    <pkgname>pcre-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">pcre-static-8.38-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -24147,7 +24196,7 @@
     <id>xplanet.x86_64</id>
     <pkgname>xplanet</pkgname>
     <metadata>
-      <value key="X-CacheID">xplanet-1.3.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">xplanet-1.3.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -24449,6 +24498,13 @@
     <pkgname>zlib+32</pkgname>
     <metadata>
       <value key="X-CacheID">zlib+32-1.2.8-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>zlib-static.x86_64</id>
+    <pkgname>zlib-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">zlib-static-1.2.8-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
