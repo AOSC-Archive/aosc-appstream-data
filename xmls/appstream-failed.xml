@@ -596,9 +596,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-34">
-        <caption>DejaVu Serif – Bold Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-df9a20816d3208e5589ffb8a54a04d95.png</image>
+      <screenshot>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-05c08653b70269076c26ba2f74f03933.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -821,9 +821,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-34">
-        <caption>DejaVu Serif – Bold Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-df9a20816d3208e5589ffb8a54a04d95.png</image>
+      <screenshot>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-05c08653b70269076c26ba2f74f03933.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -1046,9 +1046,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-34">
-        <caption>DejaVu Serif – Bold Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-df9a20816d3208e5589ffb8a54a04d95.png</image>
+      <screenshot>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-05c08653b70269076c26ba2f74f03933.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
