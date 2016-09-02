@@ -561,13 +561,6 @@
     </metadata>
   </component>
   <component>
-    <id>apparmor.x86_64</id>
-    <pkgname>apparmor</pkgname>
-    <metadata>
-      <value key="X-CacheID">apparmor-2.9.2-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>appdata-tools.x86_64</id>
     <pkgname>appdata-tools</pkgname>
     <metadata>
@@ -2510,7 +2503,7 @@
     <id>click.x86_64</id>
     <pkgname>click</pkgname>
     <metadata>
-      <value key="X-CacheID">click-3.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">click-6.6-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5615,6 +5608,13 @@
     </metadata>
   </component>
   <component>
+    <id>gengetopt.x86_64</id>
+    <pkgname>gengetopt</pkgname>
+    <metadata>
+      <value key="X-CacheID">gengetopt-2.22.6-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>genius.x86_64</id>
     <pkgname>genius</pkgname>
     <metadata>
@@ -6431,6 +6431,13 @@
     <pkgname>go</pkgname>
     <metadata>
       <value key="X-CacheID">go-1.5.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>goaccess.x86_64</id>
+    <pkgname>goaccess</pkgname>
+    <metadata>
+      <value key="X-CacheID">goaccess-1.0.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7782,6 +7789,13 @@
     <pkgname>hicolor-icon-theme</pkgname>
     <metadata>
       <value key="X-CacheID">hicolor-icon-theme-0.15-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>hidapi.x86_64</id>
+    <pkgname>hidapi</pkgname>
+    <metadata>
+      <value key="X-CacheID">hidapi-0.8.0rc1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -11964,6 +11978,13 @@
     </metadata>
   </component>
   <component>
+    <id>libmaxminddb.x86_64</id>
+    <pkgname>libmaxminddb</pkgname>
+    <metadata>
+      <value key="X-CacheID">libmaxminddb-1.2.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>libmbim.x86_64</id>
     <pkgname>libmbim</pkgname>
     <metadata>
@@ -13035,6 +13056,13 @@
     </metadata>
   </component>
   <component>
+    <id>libu2f-host.x86_64</id>
+    <pkgname>libu2f-host</pkgname>
+    <metadata>
+      <value key="X-CacheID">libu2f-host-1.1.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>libunicodenames.x86_64</id>
     <pkgname>libunicodenames</pkgname>
     <metadata>
@@ -13515,6 +13543,13 @@
     <pkgname>libxslt</pkgname>
     <metadata>
       <value key="X-CacheID">libxslt-1.1.28-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libykneomgr.x86_64</id>
+    <pkgname>libykneomgr</pkgname>
+    <metadata>
+      <value key="X-CacheID">libykneomgr-0.1.8-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -14858,7 +14893,7 @@
     <id>maxima.x86_64</id>
     <pkgname>maxima</pkgname>
     <metadata>
-      <value key="X-CacheID">maxima-5.38.1-1.x86_64.rpm</value>
+      <value key="X-CacheID">maxima-5.38.1-2.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15797,6 +15832,13 @@
     <pkgname>nethack</pkgname>
     <metadata>
       <value key="X-CacheID">nethack-3.6.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>nethogs.x86_64</id>
+    <pkgname>nethogs</pkgname>
+    <metadata>
+      <value key="X-CacheID">nethogs-0.8.5-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16930,7 +16972,7 @@
     <id>pango+32.x86_64</id>
     <pkgname>pango+32</pkgname>
     <metadata>
-      <value key="X-CacheID">pango+32-1.40.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">pango+32-1.40.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17095,6 +17137,13 @@
     </metadata>
   </component>
   <component>
+    <id>pbkdf2.x86_64</id>
+    <pkgname>pbkdf2</pkgname>
+    <metadata>
+      <value key="X-CacheID">pbkdf2-1.3-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>pbr.x86_64</id>
     <pkgname>pbr</pkgname>
     <metadata>
@@ -17106,6 +17155,13 @@
     <pkgname>pbzip2</pkgname>
     <metadata>
       <value key="X-CacheID">pbzip2-1.1.12-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>pcap-dnsproxy.x86_64</id>
+    <pkgname>pcap-dnsproxy</pkgname>
+    <metadata>
+      <value key="X-CacheID">pcap-dnsproxy-0.4.7.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17204,6 +17260,13 @@
     <pkgname>pdlzip</pkgname>
     <metadata>
       <value key="X-CacheID">pdlzip-1.6-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>pen.x86_64</id>
+    <pkgname>pen</pkgname>
+    <metadata>
+      <value key="X-CacheID">pen-0.33.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -18754,6 +18817,13 @@
     </metadata>
   </component>
   <component>
+    <id>privoxy.x86_64</id>
+    <pkgname>privoxy</pkgname>
+    <metadata>
+      <value key="X-CacheID">privoxy-3.0.26-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>procps.x86_64</id>
     <pkgname>procps</pkgname>
     <metadata>
@@ -19223,6 +19293,13 @@
     </metadata>
   </component>
   <component>
+    <id>pyscard.x86_64</id>
+    <pkgname>pyscard</pkgname>
+    <metadata>
+      <value key="X-CacheID">pyscard-1.9.4-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>pyside.x86_64</id>
     <pkgname>pyside</pkgname>
     <metadata>
@@ -19409,6 +19486,13 @@
     <pkgname>pyudev</pkgname>
     <metadata>
       <value key="X-CacheID">pyudev-0.19.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>pyusb.x86_64</id>
+    <pkgname>pyusb</pkgname>
+    <metadata>
+      <value key="X-CacheID">pyusb-1.0.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -19870,7 +19954,7 @@
     <id>rebar.x86_64</id>
     <pkgname>rebar</pkgname>
     <metadata>
-      <value key="X-CacheID">rebar-2.6.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">rebar-2.6.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -23164,6 +23248,13 @@
     </metadata>
   </component>
   <component>
+    <id>wondershaper.noarch</id>
+    <pkgname>wondershaper</pkgname>
+    <metadata>
+      <value key="X-CacheID">wondershaper-1.2.1-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>wpa-supplicant.x86_64</id>
     <pkgname>wpa-supplicant</pkgname>
     <metadata>
@@ -24406,7 +24497,28 @@
     <id>yubico-pam.x86_64</id>
     <pkgname>yubico-pam</pkgname>
     <metadata>
-      <value key="X-CacheID">yubico-pam-2.20-0.x86_64.rpm</value>
+      <value key="X-CacheID">yubico-pam-2.23-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>yubico-piv-tool.x86_64</id>
+    <pkgname>yubico-piv-tool</pkgname>
+    <metadata>
+      <value key="X-CacheID">yubico-piv-tool-1.4.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>yubikey-manager.x86_64</id>
+    <pkgname>yubikey-manager</pkgname>
+    <metadata>
+      <value key="X-CacheID">yubikey-manager-0.1.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>yubikey-personalization-gui.x86_64</id>
+    <pkgname>yubikey-personalization-gui</pkgname>
+    <metadata>
+      <value key="X-CacheID">yubikey-personalization-gui-3.1.24-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -24414,6 +24526,20 @@
     <pkgname>yubikey-personalization</pkgname>
     <metadata>
       <value key="X-CacheID">yubikey-personalization-1.17.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>yubikey-piv-manager.x86_64</id>
+    <pkgname>yubikey-piv-manager</pkgname>
+    <metadata>
+      <value key="X-CacheID">yubikey-piv-manager-1.3.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>yubioath-desktop.x86_64</id>
+    <pkgname>yubioath-desktop</pkgname>
+    <metadata>
+      <value key="X-CacheID">yubioath-desktop-3.0.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
