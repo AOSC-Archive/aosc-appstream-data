@@ -548,17 +548,13 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-d974327d7e2b443273283f8df6a73e8c.png</image>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-d5145152c7ad9b6187a1156a8d3fe535.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -773,17 +769,13 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d974327d7e2b443273283f8df6a73e8c.png</image>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-d5145152c7ad9b6187a1156a8d3fe535.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -998,17 +990,13 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-d974327d7e2b443273283f8df6a73e8c.png</image>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-d5145152c7ad9b6187a1156a8d3fe535.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -4149,6 +4137,242 @@
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
+  <component type="font">
+    <id>fonts-alee</id>
+    <pkgname>fonts-alee</pkgname>
+    <name>ALEE Hangul Fonts</name>
+    <summary>Free Hangul TrueType fonts</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <project_license>Unknown</project_license>
+    <url type="homepage">Unknown</url>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Bandal – Regular</caption>
+        <image type="source" height="48" width="640">file:/fonts-alee-753d99096ea7a222dfea7fe20b02665b.png</image>
+      </screenshot>
+    </screenshots>
+    <languages>
+      <lang>aa</lang>
+      <lang>an</lang>
+      <lang>ay</lang>
+      <lang>bi</lang>
+      <lang>br</lang>
+      <lang>ch</lang>
+      <lang>co</lang>
+      <lang>crh</lang>
+      <lang>da</lang>
+      <lang>de</lang>
+      <lang>en</lang>
+      <lang>es</lang>
+      <lang>et</lang>
+      <lang>eu</lang>
+      <lang>fi</lang>
+      <lang>fil</lang>
+      <lang>fj</lang>
+      <lang>fo</lang>
+      <lang>fr</lang>
+      <lang>fur</lang>
+      <lang>fy</lang>
+      <lang>gd</lang>
+      <lang>gl</lang>
+      <lang>gv</lang>
+      <lang>ho</lang>
+      <lang>ht</lang>
+      <lang>ia</lang>
+      <lang>id</lang>
+      <lang>ie</lang>
+      <lang>io</lang>
+      <lang>is</lang>
+      <lang>it</lang>
+      <lang>jv</lang>
+      <lang>kj</lang>
+      <lang>ko</lang>
+      <lang>ku-tr</lang>
+      <lang>kwm</lang>
+      <lang>lb</lang>
+      <lang>li</lang>
+      <lang>mg</lang>
+      <lang>ms</lang>
+      <lang>nb</lang>
+      <lang>nds</lang>
+      <lang>ng</lang>
+      <lang>nl</lang>
+      <lang>nn</lang>
+      <lang>no</lang>
+      <lang>nr</lang>
+      <lang>nso</lang>
+      <lang>oc</lang>
+      <lang>om</lang>
+      <lang>pap-an</lang>
+      <lang>pap-aw</lang>
+      <lang>pt</lang>
+      <lang>rm</lang>
+      <lang>rn</lang>
+      <lang>rw</lang>
+      <lang>sc</lang>
+      <lang>sg</lang>
+      <lang>sma</lang>
+      <lang>smj</lang>
+      <lang>sn</lang>
+      <lang>so</lang>
+      <lang>sq</lang>
+      <lang>ss</lang>
+      <lang>st</lang>
+      <lang>su</lang>
+      <lang>sv</lang>
+      <lang>sw</lang>
+      <lang>tl</lang>
+      <lang>tn</lang>
+      <lang>tr</lang>
+      <lang>ts</lang>
+      <lang>uz</lang>
+      <lang>vo</lang>
+      <lang>vot</lang>
+      <lang>wa</lang>
+      <lang>xh</lang>
+      <lang>yap</lang>
+      <lang>za</lang>
+      <lang>zu</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">fonts-alee-13.1-1.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component type="font">
+    <id>fonts-cwtex</id>
+    <pkgname>fonts-cwtex</pkgname>
+    <name>cwTeX TrueType Fonts</name>
+    <summary>TrueType Fonts from cwTeX</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <project_license>Unknown</project_license>
+    <url type="homepage">Unknown</url>
+    <screenshots>
+      <screenshot priority="-64" type="default">
+        <caption>cwTeXFangSong – Medium</caption>
+        <image type="source" height="48" width="640">file:/fonts-cwtex-753d99096ea7a222dfea7fe20b02665b.png</image>
+      </screenshot>
+    </screenshots>
+    <languages>
+      <lang>aa</lang>
+      <lang>af</lang>
+      <lang>an</lang>
+      <lang>av</lang>
+      <lang>ay</lang>
+      <lang>ba</lang>
+      <lang>be</lang>
+      <lang>bg</lang>
+      <lang>bi</lang>
+      <lang>br</lang>
+      <lang>bua</lang>
+      <lang>ca</lang>
+      <lang>ce</lang>
+      <lang>ch</lang>
+      <lang>co</lang>
+      <lang>da</lang>
+      <lang>de</lang>
+      <lang>el</lang>
+      <lang>en</lang>
+      <lang>es</lang>
+      <lang>et</lang>
+      <lang>eu</lang>
+      <lang>fi</lang>
+      <lang>fil</lang>
+      <lang>fj</lang>
+      <lang>fo</lang>
+      <lang>fr</lang>
+      <lang>fur</lang>
+      <lang>fy</lang>
+      <lang>gd</lang>
+      <lang>gl</lang>
+      <lang>gv</lang>
+      <lang>ho</lang>
+      <lang>ht</lang>
+      <lang>ia</lang>
+      <lang>id</lang>
+      <lang>ie</lang>
+      <lang>ik</lang>
+      <lang>io</lang>
+      <lang>is</lang>
+      <lang>it</lang>
+      <lang>jv</lang>
+      <lang>kaa</lang>
+      <lang>kj</lang>
+      <lang>kk</lang>
+      <lang>ko</lang>
+      <lang>kum</lang>
+      <lang>kwm</lang>
+      <lang>ky</lang>
+      <lang>lb</lang>
+      <lang>lez</lang>
+      <lang>lg</lang>
+      <lang>li</lang>
+      <lang>mg</lang>
+      <lang>mn-mn</lang>
+      <lang>ms</lang>
+      <lang>nb</lang>
+      <lang>nds</lang>
+      <lang>ng</lang>
+      <lang>nl</lang>
+      <lang>nn</lang>
+      <lang>no</lang>
+      <lang>nr</lang>
+      <lang>nso</lang>
+      <lang>oc</lang>
+      <lang>om</lang>
+      <lang>os</lang>
+      <lang>pap-an</lang>
+      <lang>pap-aw</lang>
+      <lang>pt</lang>
+      <lang>rm</lang>
+      <lang>rn</lang>
+      <lang>ru</lang>
+      <lang>rw</lang>
+      <lang>sc</lang>
+      <lang>sel</lang>
+      <lang>sg</lang>
+      <lang>sma</lang>
+      <lang>smj</lang>
+      <lang>sn</lang>
+      <lang>so</lang>
+      <lang>sq</lang>
+      <lang>sr</lang>
+      <lang>ss</lang>
+      <lang>st</lang>
+      <lang>su</lang>
+      <lang>sv</lang>
+      <lang>sw</lang>
+      <lang>tl</lang>
+      <lang>tn</lang>
+      <lang>ts</lang>
+      <lang>tt</lang>
+      <lang>tyv</lang>
+      <lang>uz</lang>
+      <lang>vo</lang>
+      <lang>vot</lang>
+      <lang>wa</lang>
+      <lang>wo</lang>
+      <lang>xh</lang>
+      <lang>yap</lang>
+      <lang>za</lang>
+      <lang>zh-tw</lang>
+      <lang>zu</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">fonts-cwtex-1.0-2.noarch.rpm</value>
+    </metadata>
+  </component>
   <component type="desktop">
     <id>google-chrome.desktop</id>
     <pkgname>google-chrome</pkgname>
@@ -4403,6 +4627,7 @@
     <summary xml:lang="fi">Kevyt käyttäjätietojen muokkain</summary>
     <summary xml:lang="fr">Configuration d'utilisateur minimale</summary>
     <summary xml:lang="gl">Configure a imaxe do seu perfil e a información de contacto</summary>
+    <summary xml:lang="hr">Konfigurirajte sliku profila i pojedinosti kontakta</summary>
     <summary xml:lang="it">Semplice configurazione degli utenti</summary>
     <summary xml:lang="ja">プロファイルの画像と連絡先の詳細を設定</summary>
     <summary xml:lang="lt">Supaprastintas naudotojo konfigūravimas</summary>
@@ -4423,7 +4648,7 @@
     <description xml:lang="fi"><p>Mugshotin avulla käyttäjät voivat päivittää henkilökohtaisia yhteystietoja helposti. Mugshotin avulla käyttäjät voivat:</p><ul><li>Asettaa tilin valokuvan, joka näytetään kirjautumisikkunassa ja valinnaisesti synkronoida tämän kuvan Pidginin kaverikuvakkeekseen</li><li>Asettaa tilin ominaisuuksia, joita säilytetään tiedostossa /etc/passwd (käytettävissä finger-komennolla) ja valinnaisesti synkronoida nämä tiedot LibreOfficen tietojen kanssa</li></ul></description>
     <description xml:lang="fr"><p>Mugshot permet aux utilisateurs de mettre facilement à jour leurs coordonnées personnelles. Avec Mugshot, les utilisateurs peuvent :</p><ul><li>Définir la photo qui sera affichée pour la connexion à leur session et éventuellement synchroniser cette photo avec l'icône de leur compte Pidgin.</li><li>Définir les détails de leur compte dans /etc/passwd (utilisable avec la commande finger) and éventuellement le synchroniser avec leurs informations de contact LibreOffice.</li></ul></description>
     <description xml:lang="it"><p>Mugshot consente agli utenti di aggiornare facilmente le informazioni personali di contatto. Con Mugshot, gli utenti possono:</p><ul><li>Impostare la foto dell'account mostrata al login ed opzionalmente sincronizzare questa foto con il proprio avatar Pidgin</li><li>Impostare i dettagli dell'account salvati in /etc/passwd (utilizzabile con il comando finger) ed opzionalmente sincronizzarli con le informazioni di contatto di LibreOffice</li></ul></description>
-    <description xml:lang="lt"><p>Mugshot įgalina naudotojus lengvai atnaujinti asmeninę kontaktinę informaciją. Su Mugshot, naudotojai gali:</p><ul><li>Nustatyti, prisijungimo metu rodomą, paskyros nuotrauką ir pasirinktinai sinchronizuoti šią nuotrauką su savo Pidgin naudotojo paveiksliuku</li><li>Nustatyti paskyros detales laikomas /etc/passwd (naudojama su finger komanda) ir pasirinktinai sinchronizuoti su LibreOffice kontaktine informacija.</li></ul></description>
+    <description xml:lang="lt"><p>Mugshot įgalina naudotojus lengvai atnaujinti asmeninę kontaktinę informaciją. Su Mugshot, naudotojai gali:</p><ul><li>Nustatyti, prisijungimo metu rodomą, paskyros nuotrauką ir pasirinktinai sinchronizuoti šią nuotrauką su savo Pidgin naudotojo paveiksliuku</li><li>Nustatyti išsamesnę paskyros informaciją, laikomą /etc/passwd (naudojama su finger komanda) ir pasirinktinai sinchronizuoti su LibreOffice kontaktine informacija.</li></ul></description>
     <description xml:lang="nl"><p>Mugshot stelt gebruikers in staat om eenvoudig persoonlijke contactpersooninformatie bij te werken. Met Mugshot kunnen gebruikers:</p><ul><li>Stel de accountfoto in die getoond wordt bij aanmelding en synchroniseer deze foto desgewenst met hun Pidgin-pictogram</li><li>Stel accountbijzonderheden in die zijn opgeslagen in /etc/passwd (te gebruiken met de opdracht 'finger') en synchroniseer desgewenst met hun contactpersooninformatie in Libre Office.</li></ul></description>
     <description xml:lang="pl"><p>Mugshot umożliwia użytkownikom łatwą aktualizację osobistych informacji kontaktowych. Z Mugshot użytkownicy mogą:</p><ul><li>Ustawić obraz konta wyświetlany podczas logowania i opcjonalnie synchronizowany ze swoją ikoną dla znajomych w Pidgin</li><li>Ustawić szczegóły konta przechowywane w /etc/passwd (dogodne przy ręcznych poleceniach) i opcjonalnie synchronizowane ze swoimi informacjami kontaktowymi w LibreOffice</li></ul></description>
     <description xml:lang="pt"><p>O Mugshot permite aos utilizadores actualizar facilmente as informações de contato pessoal. Com o Mugshot, os utilizadores são capazes de:</p><ul><li>Definir a fotografia exibida na conta de início de sessão e opcionalmente sincronizar essa fotografia com o seu ícone de amigo no Pidgin</li><li>Defina os detalhes da conta armazenados em /etc/passwd (utilizáveis ​​com o comando finger) e opcionalmente sincronize com as suas informações de contato do LibreOffice</li></ul></description>
@@ -4460,8 +4685,18 @@
       </screenshot>
     </screenshots>
     <releases>
+      <release version="0.3.1" timestamp="1459470600">
+        <description><p>This development release fixes a large number of bugs from previous releases. User properties that cannot be edited are now restricted to administrative users.</p></description>
+      </release>
       <release version="0.3.0" timestamp="1441648800">
         <description><p>This development release upgrades the camera dialog to use Cheese and Clutter to display and capture the camera feed.</p></description>
+        <description xml:lang="de"><p>Diese Entwickler-Version verbessert den Kamera-Dialog, der nun Cheese und Clutter für Anzeige und Aufnahme des Kamera Bildes nutzt.</p></description>
+        <description xml:lang="fr"><p>Cette version de développement améliore le dialogue de la caméra visant à utiliser Cheese et Clutter pour afficher et capturer le retour de la caméra.</p></description>
+        <description xml:lang="lt"><p>Ši kūrimo laida pagerina, kameros rodymui ir fotografavimui skirtą, kameros dialogą, naudojimui su Cheese ir Clutter.</p></description>
+        <description xml:lang="nl"><p>Deze ontwikkelversie waardeert de cameradialoog op om Cheese en Clutter te gebruiken voor het vertonen en vastleggen van de camera-invoer.</p></description>
+        <description xml:lang="pt"><p>Esta versão de desenvolvimento atualiza o diálogo da câmera para usar o Cheese e o Clutter para exibir e capturar a alimentação da câmera.</p></description>
+        <description xml:lang="sk"><p>Táto verzia programu zlepšuje kamerové okno použitím knižníc Cheese a Clutter na zobrazenie obrazu z kamery.</p></description>
+        <description xml:lang="sv"><p>Den här utvecklingsversionen uppgraderar kameradialogen till att använda Cheese och Clutter för att visa och fånga kamerainmatning.</p></description>
       </release>
       <release version="0.2.5" timestamp="1409617800">
         <description><p>This stable release improves Mugshot functionality for LDAP users, and includes the latest SudoDialog, improving the appearance and usability of the password dialog.</p></description>
@@ -4472,54 +4707,44 @@
         <description xml:lang="fr"><p>Cette version stable améliore les fonctionnalités de Mugshot pour les utilisateurs LDAP et inclut le dernier SudoDialog, qui améliore l'apparence et l'ergonomie de la fenêtre de dialogue du mot de passe.</p></description>
         <description xml:lang="it"><p>Questa release stabile migliore le funzionalità di Mugshot per utenti LDAP ed include il più recente SudoDialog, migliorando l'aspetto e l'usabilità della finestra di immissione password.</p></description>
         <description xml:lang="lt"><p>Ši stabili laida patobulina Mugshot funkcionalumą LDAP naudotojams ir įtraukia vėliausią SudoDialogą, patobulindama slaptažodžio dialogo išvaizdą ir patogumą naudoti.</p></description>
+        <description xml:lang="nl"><p>Deze stabiele versie verbetert de functionaliteit van Mugshot voor LDAP-gebruikers, en bevat de nieuwste SuDoDialog, wat een verbetering is van het uiterlijk en de bruikbaarheid van de wachtwoorddialoog.</p></description>
         <description xml:lang="pt"><p>Esta versão estável melhora a funcionalidade do Mugshot para utilizadores LDAP, e inclui o mais recente SudoDialog, melhorando a aparência e usabilidade do diálogo da senha.</p></description>
+        <description xml:lang="pt_BR"><p>Esta versão estável melhora a funcionalidade Mugshot para usuários LDAP e inclui a mais recente versão do SudoDialog, melhorando a aparência e usabilidade da caixa de diálogo de senha.</p></description>
         <description xml:lang="ru"><p>Это стабильный релиз улучшает функциональность Mugshot для пользователей LDAP , и включает в себя последнюю версию SudoDialog , улучшения внешнего вида и диалогового окна ввода пароля.</p></description>
         <description xml:lang="sk"><p>Táto stabilná verzia vylepšuje funkcionalitu Mugshotu pre užívateľov LDAP, obsahuje nový SudoDialog, zlepšuje vzhľad a použiteľnosť dialógu na zadanie hesla.</p></description>
         <description xml:lang="sv"><p>Denna stabila version förbättrar Mugshots funktionalitet för LDAP-användare, och inkluderar den senaste SudoDialog, som förbättrar utseende och användning av lösenordsdialogen.</p></description>
-      </release>
-      <release version="0.2.4" timestamp="1406977200">
-        <description><p>This stable release improves the user configuration (chfn) backend and prevents Mugshot from locking up. Mugshot also no longer depends on AccountsService, but can leverage it to better support some systems. A critical bug that prevented some users from starting Mugshot was also addressed.</p></description>
-        <description xml:lang="cs"><p>Tato stabilní verze zlepšuje uživatelskou konfiguraci (chfn) backendu a zabraňuje Mugshotu se zablokovat. Mugshot už také není závislý na službě Účty, ale mohou být využity pro lepší podporu některých systémů. Kritická chyba, která brání některým uživatelům spuštění Mugshotu, byla také vyřešena.</p></description>
-        <description xml:lang="de"><p>Diese stabile Version verbessert die Benutzerkonfiguration (chfn) und verhindert, dass Mugshot abstürzt. Mugshot hängt nun nicht mehr von AccountsService ab, kann es aber besser zur Unterstützung von bestimmten Systemen einsetzen. Ein kritischer Fehler, der manche Nutzer am Start von Mugshot hinderte wurde ebenfalls behoben.</p></description>
-        <description xml:lang="el"><p>Αυτή η σταθερή έκδοση βελτιώνει το παρασκήνιο (backend) διαμόρφωσης χρήστη (chfh) και εμποδίζει το κλέιδωμα του Mugshot. Ακόμη, τo Mugshot δεν εξαρτάται πλέον από την Υπηρεσία Λογαριασμών (AccountsService), αλλά μπορεί να την επηρρεάσει για καλύτερη υποστήριξη κάποιων συστημάτων. Επίσης, αντιμετωπίστηκε ένα σοβαρό bug, το οποίο εμπόδιζε κάποιους χρήστες από το να εκκινήσουν το Mugshot.</p></description>
-        <description xml:lang="es"><p>Esta versión estable mejora el backend de configuración de usuario (chfn) y evita que Mugshot se bloquee. Además, Mugshot no depende ya de AccountsService, pero puede aprovecharlo para dar mejor soporte a algunos sistemas. Un fallo crítico que impedía a algunos usuarios iniciar Mugshot también ha sido corregido.</p></description>
-        <description xml:lang="fr"><p>Cette version stable améliore la configuration utilisateur native (chfn) et empêche Mugshot de se bloquer. Mugshot ne dépend également plus de AccountsService, mais peut en tirer parti afin de mieux supporter certains systèmes. Un bug critique qui empêchais certains utilisateurs de démarrer Mugshot a également été corrigé.</p></description>
-        <description xml:lang="it"><p>Questa release stabile migliora il backend di configurazione utente (chfn) ed impedisce a Mugshot di bloccarsi. Inoltre Mugshot non dipende più da AccountsService, ma può sfruttarlo per supportare meglio alcuni sistemi. È stato anche risolto un bug critico che impediva ad alcuni utenti di avviare Mugshot.</p></description>
-        <description xml:lang="lt"><p>Ši stabili laida patobulina naudotojo konfigūracijos (chfn) vidinę pusę bei apsaugo Mugshot nuo užsirakinimo. Mugshot daugiau nebepriklauso nuo PaskyrųTarnybos, tačiau gali pasinaudoti ja, siekiant geresnio kai kurių sistemų palaikymo. Be to, buvo ištaisyta kritinė klaida, kuri kai kuriems naudotojams neleido paleisti Mugshot.</p></description>
-        <description xml:lang="pt"><p>Esta versão estável melhora a infra-estrutura de configuração do utilizador (chfn) e impede o Mugshot de bloquear sessões. O Mugshot também não depende mais do AccountsService, mas pode aproveitá-lo para melhor apoiar alguns sistemas. Um bug crítico que impediu alguns utilizadores de iniciar o Mugshot também foi abordado.</p></description>
-        <description xml:lang="sk"><p>Táto stabilná verzia vylepšuje backend konfigurácie používateľa (chfn) a zabraňuje uzamknutiu Mugshotu. Mugshot taktiež už nemá závislosť na AccountsService ale môže ho využiť na lepšiu podporu na niektorých systémoch. Taktiež bola opravená kritická chyba ktorá bránila spusteniu Mugshot.</p></description>
-        <description xml:lang="sv"><p>Denna stabila version förbättrar användarinställningen (chfn) bakänden och förhindrar Mugshot från att låsa sig. Mugshot också inte längre beroende av AccountsService, men kan använda det för stödja vissa system bättre. Ett kritiskt fel som förhindrade en del användare från att starta Mugshot har också åtgärdats.</p></description>
       </release>
     </releases>
     <provides>
       <binary>mugshot</binary>
     </provides>
     <languages>
-      <lang percentage="72">ca</lang>
-      <lang percentage="58">ca@valencia</lang>
-      <lang percentage="100">cs</lang>
+      <lang percentage="70">ca</lang>
+      <lang percentage="56">ca@valencia</lang>
+      <lang percentage="98">cs</lang>
       <lang percentage="100">de</lang>
-      <lang percentage="98">el</lang>
-      <lang percentage="58">en_AU</lang>
-      <lang percentage="100">es</lang>
-      <lang percentage="88">fi</lang>
+      <lang percentage="96">el</lang>
+      <lang percentage="56">en_AU</lang>
+      <lang percentage="98">es</lang>
+      <lang percentage="86">fi</lang>
       <lang percentage="100">fr</lang>
-      <lang percentage="28">is</lang>
-      <lang percentage="100">it</lang>
-      <lang percentage="72">ja</lang>
+      <lang percentage="27">hr</lang>
+      <lang percentage="27">is</lang>
+      <lang percentage="98">it</lang>
+      <lang percentage="70">ja</lang>
       <lang percentage="100">lt</lang>
-      <lang percentage="88">nl</lang>
-      <lang percentage="88">pl</lang>
+      <lang percentage="100">nl</lang>
+      <lang percentage="86">pl</lang>
       <lang percentage="100">pt</lang>
       <lang percentage="80">pt_BR</lang>
-      <lang percentage="90">ru</lang>
+      <lang percentage="88">ru</lang>
       <lang percentage="100">sk</lang>
-      <lang percentage="78">sl</lang>
-      <lang percentage="70">sr</lang>
+      <lang percentage="76">sl</lang>
+      <lang percentage="68">sr</lang>
       <lang percentage="100">sv</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">mugshot-0.3.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">mugshot-0.3.1-0.noarch.rpm</value>
     </metadata>
   </component>
   <component type="addon">
@@ -5080,6 +5305,12 @@
     </vetos>
     <project_license>Unknown</project_license>
     <url type="homepage">Unknown</url>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-c1960edb6d6f95521fa08883d8e1cefa.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
