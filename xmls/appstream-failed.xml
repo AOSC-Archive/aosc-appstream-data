@@ -548,13 +548,17 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      <screenshot priority="-34">
+        <caption>DejaVu Serif – Bold Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-c15dbee0ee8292a2381ae771d197b76f.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -769,13 +773,17 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      <screenshot priority="-34">
+        <caption>DejaVu Serif – Bold Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-c15dbee0ee8292a2381ae771d197b76f.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -990,13 +998,17 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      <screenshot priority="-34">
+        <caption>DejaVu Serif – Bold Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-c15dbee0ee8292a2381ae771d197b76f.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -4137,242 +4149,6 @@
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
-  <component type="font">
-    <id>fonts-alee</id>
-    <pkgname>fonts-alee</pkgname>
-    <name>ALEE Hangul Fonts</name>
-    <summary>Free Hangul TrueType fonts</summary>
-    <categories>
-      <category>Addons</category>
-      <category>Fonts</category>
-    </categories>
-    <vetos>
-      <veto>Has no Icon</veto>
-    </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
-    <screenshots>
-      <screenshot type="default">
-        <caption>Bandal – Regular</caption>
-        <image type="source" height="48" width="640">file:/fonts-alee-753d99096ea7a222dfea7fe20b02665b.png</image>
-      </screenshot>
-    </screenshots>
-    <languages>
-      <lang>aa</lang>
-      <lang>an</lang>
-      <lang>ay</lang>
-      <lang>bi</lang>
-      <lang>br</lang>
-      <lang>ch</lang>
-      <lang>co</lang>
-      <lang>crh</lang>
-      <lang>da</lang>
-      <lang>de</lang>
-      <lang>en</lang>
-      <lang>es</lang>
-      <lang>et</lang>
-      <lang>eu</lang>
-      <lang>fi</lang>
-      <lang>fil</lang>
-      <lang>fj</lang>
-      <lang>fo</lang>
-      <lang>fr</lang>
-      <lang>fur</lang>
-      <lang>fy</lang>
-      <lang>gd</lang>
-      <lang>gl</lang>
-      <lang>gv</lang>
-      <lang>ho</lang>
-      <lang>ht</lang>
-      <lang>ia</lang>
-      <lang>id</lang>
-      <lang>ie</lang>
-      <lang>io</lang>
-      <lang>is</lang>
-      <lang>it</lang>
-      <lang>jv</lang>
-      <lang>kj</lang>
-      <lang>ko</lang>
-      <lang>ku-tr</lang>
-      <lang>kwm</lang>
-      <lang>lb</lang>
-      <lang>li</lang>
-      <lang>mg</lang>
-      <lang>ms</lang>
-      <lang>nb</lang>
-      <lang>nds</lang>
-      <lang>ng</lang>
-      <lang>nl</lang>
-      <lang>nn</lang>
-      <lang>no</lang>
-      <lang>nr</lang>
-      <lang>nso</lang>
-      <lang>oc</lang>
-      <lang>om</lang>
-      <lang>pap-an</lang>
-      <lang>pap-aw</lang>
-      <lang>pt</lang>
-      <lang>rm</lang>
-      <lang>rn</lang>
-      <lang>rw</lang>
-      <lang>sc</lang>
-      <lang>sg</lang>
-      <lang>sma</lang>
-      <lang>smj</lang>
-      <lang>sn</lang>
-      <lang>so</lang>
-      <lang>sq</lang>
-      <lang>ss</lang>
-      <lang>st</lang>
-      <lang>su</lang>
-      <lang>sv</lang>
-      <lang>sw</lang>
-      <lang>tl</lang>
-      <lang>tn</lang>
-      <lang>tr</lang>
-      <lang>ts</lang>
-      <lang>uz</lang>
-      <lang>vo</lang>
-      <lang>vot</lang>
-      <lang>wa</lang>
-      <lang>xh</lang>
-      <lang>yap</lang>
-      <lang>za</lang>
-      <lang>zu</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">fonts-alee-13.1-1.noarch.rpm</value>
-    </metadata>
-  </component>
-  <component type="font">
-    <id>fonts-cwtex</id>
-    <pkgname>fonts-cwtex</pkgname>
-    <name>cwTeX TrueType Fonts</name>
-    <summary>TrueType Fonts from cwTeX</summary>
-    <categories>
-      <category>Addons</category>
-      <category>Fonts</category>
-    </categories>
-    <vetos>
-      <veto>Has no Icon</veto>
-    </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
-    <screenshots>
-      <screenshot priority="-64" type="default">
-        <caption>cwTeXFangSong – Medium</caption>
-        <image type="source" height="48" width="640">file:/fonts-cwtex-753d99096ea7a222dfea7fe20b02665b.png</image>
-      </screenshot>
-    </screenshots>
-    <languages>
-      <lang>aa</lang>
-      <lang>af</lang>
-      <lang>an</lang>
-      <lang>av</lang>
-      <lang>ay</lang>
-      <lang>ba</lang>
-      <lang>be</lang>
-      <lang>bg</lang>
-      <lang>bi</lang>
-      <lang>br</lang>
-      <lang>bua</lang>
-      <lang>ca</lang>
-      <lang>ce</lang>
-      <lang>ch</lang>
-      <lang>co</lang>
-      <lang>da</lang>
-      <lang>de</lang>
-      <lang>el</lang>
-      <lang>en</lang>
-      <lang>es</lang>
-      <lang>et</lang>
-      <lang>eu</lang>
-      <lang>fi</lang>
-      <lang>fil</lang>
-      <lang>fj</lang>
-      <lang>fo</lang>
-      <lang>fr</lang>
-      <lang>fur</lang>
-      <lang>fy</lang>
-      <lang>gd</lang>
-      <lang>gl</lang>
-      <lang>gv</lang>
-      <lang>ho</lang>
-      <lang>ht</lang>
-      <lang>ia</lang>
-      <lang>id</lang>
-      <lang>ie</lang>
-      <lang>ik</lang>
-      <lang>io</lang>
-      <lang>is</lang>
-      <lang>it</lang>
-      <lang>jv</lang>
-      <lang>kaa</lang>
-      <lang>kj</lang>
-      <lang>kk</lang>
-      <lang>ko</lang>
-      <lang>kum</lang>
-      <lang>kwm</lang>
-      <lang>ky</lang>
-      <lang>lb</lang>
-      <lang>lez</lang>
-      <lang>lg</lang>
-      <lang>li</lang>
-      <lang>mg</lang>
-      <lang>mn-mn</lang>
-      <lang>ms</lang>
-      <lang>nb</lang>
-      <lang>nds</lang>
-      <lang>ng</lang>
-      <lang>nl</lang>
-      <lang>nn</lang>
-      <lang>no</lang>
-      <lang>nr</lang>
-      <lang>nso</lang>
-      <lang>oc</lang>
-      <lang>om</lang>
-      <lang>os</lang>
-      <lang>pap-an</lang>
-      <lang>pap-aw</lang>
-      <lang>pt</lang>
-      <lang>rm</lang>
-      <lang>rn</lang>
-      <lang>ru</lang>
-      <lang>rw</lang>
-      <lang>sc</lang>
-      <lang>sel</lang>
-      <lang>sg</lang>
-      <lang>sma</lang>
-      <lang>smj</lang>
-      <lang>sn</lang>
-      <lang>so</lang>
-      <lang>sq</lang>
-      <lang>sr</lang>
-      <lang>ss</lang>
-      <lang>st</lang>
-      <lang>su</lang>
-      <lang>sv</lang>
-      <lang>sw</lang>
-      <lang>tl</lang>
-      <lang>tn</lang>
-      <lang>ts</lang>
-      <lang>tt</lang>
-      <lang>tyv</lang>
-      <lang>uz</lang>
-      <lang>vo</lang>
-      <lang>vot</lang>
-      <lang>wa</lang>
-      <lang>wo</lang>
-      <lang>xh</lang>
-      <lang>yap</lang>
-      <lang>za</lang>
-      <lang>zh-tw</lang>
-      <lang>zu</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">fonts-cwtex-1.0-2.noarch.rpm</value>
-    </metadata>
-  </component>
   <component type="desktop">
     <id>google-chrome.desktop</id>
     <pkgname>google-chrome</pkgname>
@@ -5308,7 +5084,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-c1960edb6d6f95521fa08883d8e1cefa.png</image>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-4446566d744f94b8bcda3d195ab9ee18.png</image>
       </screenshot>
     </screenshots>
     <languages>

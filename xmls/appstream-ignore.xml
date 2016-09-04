@@ -4306,6 +4306,13 @@
     </metadata>
   </component>
   <component>
+    <id>eclipse.x86_64</id>
+    <pkgname>eclipse</pkgname>
+    <metadata>
+      <value key="X-CacheID">eclipse-4.6.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>econnman.x86_64</id>
     <pkgname>econnman</pkgname>
     <metadata>
@@ -5216,24 +5223,10 @@
     </metadata>
   </component>
   <component>
-    <id>fonts-alee.noarch</id>
-    <pkgname>fonts-alee</pkgname>
-    <metadata>
-      <value key="X-CacheID">fonts-alee-13.1-1.noarch.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>fonts-alee.x86_64</id>
     <pkgname>fonts-alee</pkgname>
     <metadata>
       <value key="X-CacheID">fonts-alee-13.1-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>fonts-cwtex.noarch</id>
-    <pkgname>fonts-cwtex</pkgname>
-    <metadata>
-      <value key="X-CacheID">fonts-cwtex-1.0-2.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21452,7 +21445,7 @@
     <id>shadowsocks.noarch</id>
     <pkgname>shadowsocks</pkgname>
     <metadata>
-      <value key="X-CacheID">shadowsocks-20160718-0.noarch.rpm</value>
+      <value key="X-CacheID">shadowsocks-20160817-1.noarch.rpm</value>
     </metadata>
   </component>
   <component>
