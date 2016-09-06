@@ -5069,6 +5069,12 @@
     </vetos>
     <project_license>Unknown</project_license>
     <url type="homepage">Unknown</url>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-4446566d744f94b8bcda3d195ab9ee18.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
