@@ -4166,7 +4166,7 @@
       </screenshot>
     </screenshots>
     <metadata>
-      <value key="X-CacheID">google-chrome-52.0.2743.82-0.x86_64.rpm</value>
+      <value key="X-CacheID">google-chrome-53.0.2785.92-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -5069,12 +5069,6 @@
     </vetos>
     <project_license>Unknown</project_license>
     <url type="homepage">Unknown</url>
-    <screenshots>
-      <screenshot type="default">
-        <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-4446566d744f94b8bcda3d195ab9ee18.png</image>
-      </screenshot>
-    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>

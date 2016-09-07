@@ -641,7 +641,7 @@
     <id>apsw.x86_64</id>
     <pkgname>apsw</pkgname>
     <metadata>
-      <value key="X-CacheID">apsw-3.13.0-1.x86_64.rpm</value>
+      <value key="X-CacheID">apsw-3.14.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -964,6 +964,13 @@
     <pkgname>attr</pkgname>
     <metadata>
       <value key="X-CacheID">attr-2.4.47-2.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>attrs.noarch</id>
+    <pkgname>attrs</pkgname>
+    <metadata>
+      <value key="X-CacheID">attrs-16.1.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3945,7 +3952,7 @@
     <id>dkms.noarch</id>
     <pkgname>dkms</pkgname>
     <metadata>
-      <value key="X-CacheID">dkms-20151023-0.noarch.rpm</value>
+      <value key="X-CacheID">dkms-2.3-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4247,6 +4254,13 @@
     <pkgname>dub</pkgname>
     <metadata>
       <value key="X-CacheID">dub-0.9.25-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>duff.x86_64</id>
+    <pkgname>duff</pkgname>
+    <metadata>
+      <value key="X-CacheID">duff-0.5.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4618,6 +4632,13 @@
     <pkgname>evolution-data-server</pkgname>
     <metadata>
       <value key="X-CacheID">evolution-data-server-3.20.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>evopop-icon-theme.noarch</id>
+    <pkgname>evopop-icon-theme</pkgname>
+    <metadata>
+      <value key="X-CacheID">evopop-icon-theme-0.8-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5255,6 +5276,13 @@
     <pkgname>foo2zjs</pkgname>
     <metadata>
       <value key="X-CacheID">foo2zjs-20160613-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>foolscap.noarch</id>
+    <pkgname>foolscap</pkgname>
+    <metadata>
+      <value key="X-CacheID">foolscap-0.12.3-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6119,6 +6147,13 @@
     </metadata>
   </component>
   <component>
+    <id>glide.x86_64</id>
+    <pkgname>glide</pkgname>
+    <metadata>
+      <value key="X-CacheID">glide-0.12.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>glm.noarch</id>
     <pkgname>glm</pkgname>
     <metadata>
@@ -6710,7 +6745,7 @@
     <id>google-chrome.x86_64</id>
     <pkgname>google-chrome</pkgname>
     <metadata>
-      <value key="X-CacheID">google-chrome-52.0.2743.82-0.x86_64.rpm</value>
+      <value key="X-CacheID">google-chrome-53.0.2785.92-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -11733,6 +11768,13 @@
     </metadata>
   </component>
   <component>
+    <id>libgssglue.x86_64</id>
+    <pkgname>libgssglue</pkgname>
+    <metadata>
+      <value key="X-CacheID">libgssglue-0.4-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>libgsystem.x86_64</id>
     <pkgname>libgsystem</pkgname>
     <metadata>
@@ -15418,7 +15460,7 @@
     <id>meson.noarch</id>
     <pkgname>meson</pkgname>
     <metadata>
-      <value key="X-CacheID">meson-0.33.0-1.noarch.rpm</value>
+      <value key="X-CacheID">meson-0.34.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15485,6 +15527,13 @@
     </metadata>
   </component>
   <component>
+    <id>minicom.x86_64</id>
+    <pkgname>minicom</pkgname>
+    <metadata>
+      <value key="X-CacheID">minicom-2.7-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>miniupnpc.x86_64</id>
     <pkgname>miniupnpc</pkgname>
     <metadata>
@@ -15524,6 +15573,13 @@
     <pkgname>mkvtoolnix</pkgname>
     <metadata>
       <value key="X-CacheID">mkvtoolnix-8.9.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>mldonkey.x86_64</id>
+    <pkgname>mldonkey</pkgname>
+    <metadata>
+      <value key="X-CacheID">mldonkey-3.1.5-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15996,6 +16052,13 @@
     </metadata>
   </component>
   <component>
+    <id>n1.x86_64</id>
+    <pkgname>n1</pkgname>
+    <metadata>
+      <value key="X-CacheID">n1-0.4.51-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>nano.x86_64</id>
     <pkgname>nano</pkgname>
     <metadata>
@@ -16294,6 +16357,13 @@
     <pkgname>networkmanager</pkgname>
     <metadata>
       <value key="X-CacheID">networkmanager-1.0.12-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>nevow.noarch</id>
+    <pkgname>nevow</pkgname>
+    <metadata>
+      <value key="X-CacheID">nevow-0.14.2-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16930,7 +17000,7 @@
     <id>openimageio.x86_64</id>
     <pkgname>openimageio</pkgname>
     <metadata>
-      <value key="X-CacheID">openimageio-1.6.16-0.x86_64.rpm</value>
+      <value key="X-CacheID">openimageio-1.6.17-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -19594,6 +19664,13 @@
     </metadata>
   </component>
   <component>
+    <id>pycryptopp.x86_64</id>
+    <pkgname>pycryptopp</pkgname>
+    <metadata>
+      <value key="X-CacheID">pycryptopp-0.7.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>pycups.x86_64</id>
     <pkgname>pycups</pkgname>
     <metadata>
@@ -19982,7 +20059,7 @@
     <id>pytest.noarch</id>
     <pkgname>pytest</pkgname>
     <metadata>
-      <value key="X-CacheID">pytest-3.0.1-1.noarch.rpm</value>
+      <value key="X-CacheID">pytest-3.0.2-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -20017,7 +20094,7 @@
     <id>python-3.x86_64</id>
     <pkgname>python-3</pkgname>
     <metadata>
-      <value key="X-CacheID">python-3-3.4.3-3.x86_64.rpm</value>
+      <value key="X-CacheID">python-3-3.5.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -20172,6 +20249,13 @@
     <pkgname>pyusb</pkgname>
     <metadata>
       <value key="X-CacheID">pyusb-1.0.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>pyutil.noarch</id>
+    <pkgname>pyutil</pkgname>
+    <metadata>
+      <value key="X-CacheID">pyutil-2.0.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -20585,6 +20669,13 @@
     <pkgname>rcs</pkgname>
     <metadata>
       <value key="X-CacheID">rcs-5.9.4-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>rdesktop.x86_64</id>
+    <pkgname>rdesktop</pkgname>
+    <metadata>
+      <value key="X-CacheID">rdesktop-1.8.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21390,6 +21481,13 @@
     <pkgname>setuptools-scm</pkgname>
     <metadata>
       <value key="X-CacheID">setuptools-scm-1.11.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>setuptools.noarch</id>
+    <pkgname>setuptools</pkgname>
+    <metadata>
+      <value key="X-CacheID">setuptools-26.1.1-2.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22321,6 +22419,13 @@
     <pkgname>taglib</pkgname>
     <metadata>
       <value key="X-CacheID">taglib-1.10-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>tahoe-lafs.noarch</id>
+    <pkgname>tahoe-lafs</pkgname>
+    <metadata>
+      <value key="X-CacheID">tahoe-lafs-1.11.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -23258,7 +23363,7 @@
     <id>unifont.noarch</id>
     <pkgname>unifont</pkgname>
     <metadata>
-      <value key="X-CacheID">unifont-9.0.01-0.noarch.rpm</value>
+      <value key="X-CacheID">unifont-9.0.02-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -24168,7 +24273,7 @@
     <id>wxbase.x86_64</id>
     <pkgname>wxbase</pkgname>
     <metadata>
-      <value key="X-CacheID">wxbase-3.0.2-1.x86_64.rpm</value>
+      <value key="X-CacheID">wxbase-3.0.2-3.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -24210,7 +24315,7 @@
     <id>wxgtk3.x86_64</id>
     <pkgname>wxgtk3</pkgname>
     <metadata>
-      <value key="X-CacheID">wxgtk3-3.0.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">wxgtk3-3.0.2-3.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -25411,6 +25516,13 @@
     </metadata>
   </component>
   <component>
+    <id>zbase32.noarch</id>
+    <pkgname>zbase32</pkgname>
+    <metadata>
+      <value key="X-CacheID">zbase32-1.1.5-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>zeitgeist.x86_64</id>
     <pkgname>zeitgeist</pkgname>
     <metadata>
@@ -25443,6 +25555,13 @@
     <pkgname>zeromq</pkgname>
     <metadata>
       <value key="X-CacheID">zeromq-4.1.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>zfec.x86_64</id>
+    <pkgname>zfec</pkgname>
+    <metadata>
+      <value key="X-CacheID">zfec-1.4.24-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -25632,6 +25751,13 @@
     <pkgname>zziplib</pkgname>
     <metadata>
       <value key="X-CacheID">zziplib-0.13.62-2.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>zzuf.x86_64</id>
+    <pkgname>zzuf</pkgname>
+    <metadata>
+      <value key="X-CacheID">zzuf-0.15-0.x86_64.rpm</value>
     </metadata>
   </component>
 </components>
