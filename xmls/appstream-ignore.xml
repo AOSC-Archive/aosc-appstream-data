@@ -1712,7 +1712,7 @@
     <id>breeze-grub.noarch</id>
     <pkgname>breeze-grub</pkgname>
     <metadata>
-      <value key="X-CacheID">breeze-grub-5.7.2-0.noarch.rpm</value>
+      <value key="X-CacheID">breeze-grub-5.7.4-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -2307,7 +2307,7 @@
     <id>cffi.x86_64</id>
     <pkgname>cffi</pkgname>
     <metadata>
-      <value key="X-CacheID">cffi-1.2.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">cffi-1.8.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3476,7 +3476,7 @@
     <id>curl+32.x86_64</id>
     <pkgname>curl+32</pkgname>
     <metadata>
-      <value key="X-CacheID">curl+32-7.44.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">curl+32-7.50.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3928,6 +3928,13 @@
     </metadata>
   </component>
   <component>
+    <id>discover.x86_64</id>
+    <pkgname>discover</pkgname>
+    <metadata>
+      <value key="X-CacheID">discover-5.7.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>distcc.x86_64</id>
     <pkgname>distcc</pkgname>
     <metadata>
@@ -4183,7 +4190,7 @@
     <id>doxygen.x86_64</id>
     <pkgname>doxygen</pkgname>
     <metadata>
-      <value key="X-CacheID">doxygen-1.8.7-0.x86_64.rpm</value>
+      <value key="X-CacheID">doxygen-1.8.12-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5450,7 +5457,7 @@
     <id>freshplayerplugin.x86_64</id>
     <pkgname>freshplayerplugin</pkgname>
     <metadata>
-      <value key="X-CacheID">freshplayerplugin-0.3.0-1.x86_64.rpm</value>
+      <value key="X-CacheID">freshplayerplugin-0.3.4-3.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6675,7 +6682,7 @@
     <id>go.x86_64</id>
     <pkgname>go</pkgname>
     <metadata>
-      <value key="X-CacheID">go-1.5.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">go-1.7.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6871,7 +6878,7 @@
     <id>graphicsmagick.x86_64</id>
     <pkgname>graphicsmagick</pkgname>
     <metadata>
-      <value key="X-CacheID">graphicsmagick-1.3.20-0.x86_64.rpm</value>
+      <value key="X-CacheID">graphicsmagick-1.3.25-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8971,7 +8978,7 @@
     <id>kactivitymanagerd.x86_64</id>
     <pkgname>kactivitymanagerd</pkgname>
     <metadata>
-      <value key="X-CacheID">kactivitymanagerd-5.6.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kactivitymanagerd-5.7.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -10190,6 +10197,13 @@
     <pkgname>krfb</pkgname>
     <metadata>
       <value key="X-CacheID">krfb-15.08.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>krita.x86_64</id>
+    <pkgname>krita</pkgname>
+    <metadata>
+      <value key="X-CacheID">krita-3.0.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12296,7 +12310,7 @@
     <id>libmateweather.x86_64</id>
     <pkgname>libmateweather</pkgname>
     <metadata>
-      <value key="X-CacheID">libmateweather-1.8.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">libmateweather-1.14.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12793,7 +12807,7 @@
     <id>libpinyin.x86_64</id>
     <pkgname>libpinyin</pkgname>
     <metadata>
-      <value key="X-CacheID">libpinyin-1.5.91-0.x86_64.rpm</value>
+      <value key="X-CacheID">libpinyin-1.6.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12955,6 +12969,13 @@
     <pkgname>libreiserfs</pkgname>
     <metadata>
       <value key="X-CacheID">libreiserfs-0.3.0.5-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libreoffice-help.noarch</id>
+    <pkgname>libreoffice-help</pkgname>
+    <metadata>
+      <value key="X-CacheID">libreoffice-help-5.2.1-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -13584,7 +13605,7 @@
     <id>libvirt.x86_64</id>
     <pkgname>libvirt</pkgname>
     <metadata>
-      <value key="X-CacheID">libvirt-1.2.21-0.x86_64.rpm</value>
+      <value key="X-CacheID">libvirt-2.2.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -14267,6 +14288,13 @@
     </metadata>
   </component>
   <component>
+    <id>linux-kernel-4.7.3.x86_64</id>
+    <pkgname>linux-kernel-4.7.3</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.7.3-4.7.3-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>linux-pam.x86_64</id>
     <pkgname>linux-pam</pkgname>
     <metadata>
@@ -14606,7 +14634,7 @@
     <id>lxdm.x86_64</id>
     <pkgname>lxdm</pkgname>
     <metadata>
-      <value key="X-CacheID">lxdm-0.5.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">lxdm-0.5.3-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16454,7 +16482,7 @@
     <id>nodm.x86_64</id>
     <pkgname>nodm</pkgname>
     <metadata>
-      <value key="X-CacheID">nodm-0.11-0.x86_64.rpm</value>
+      <value key="X-CacheID">nodm-0.11-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17512,6 +17540,83 @@
     <pkgname>paper-icon-theme</pkgname>
     <metadata>
       <value key="X-CacheID">paper-icon-theme-20151227-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>papirus-color-scheme.noarch</id>
+    <pkgname>papirus-color-scheme</pkgname>
+    <metadata>
+      <value key="X-CacheID">papirus-color-scheme-20160615-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>papirus-gtk-theme.noarch</id>
+    <pkgname>papirus-gtk-theme</pkgname>
+    <metadata>
+      <value key="X-CacheID">papirus-gtk-theme-20160615-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>papirus-icon-theme-gtk.noarch</id>
+    <pkgname>papirus-icon-theme-gtk</pkgname>
+    <metadata>
+      <value key="X-CacheID">papirus-icon-theme-gtk-20160823-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>papirus-icon-theme-kde.noarch</id>
+    <pkgname>papirus-icon-theme-kde</pkgname>
+    <metadata>
+      <value key="X-CacheID">papirus-icon-theme-kde-20160823-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>papirus-konsole-colorscheme.noarch</id>
+    <pkgname>papirus-konsole-colorscheme</pkgname>
+    <metadata>
+      <value key="X-CacheID">papirus-konsole-colorscheme-20160615-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>papirus-kvantum-theme.noarch</id>
+    <pkgname>papirus-kvantum-theme</pkgname>
+    <metadata>
+      <value key="X-CacheID">papirus-kvantum-theme-20160811-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>papirus-libreoffice-theme.noarch</id>
+    <pkgname>papirus-libreoffice-theme</pkgname>
+    <metadata>
+      <value key="X-CacheID">papirus-libreoffice-theme-20160815-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>papirus-look-and-feel.noarch</id>
+    <pkgname>papirus-look-and-feel</pkgname>
+    <metadata>
+      <value key="X-CacheID">papirus-look-and-feel-20160618-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>papirus-plasma-theme.noarch</id>
+    <pkgname>papirus-plasma-theme</pkgname>
+    <metadata>
+      <value key="X-CacheID">papirus-plasma-theme-20160810-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>papirus-sddm-theme.noarch</id>
+    <pkgname>papirus-sddm-theme</pkgname>
+    <metadata>
+      <value key="X-CacheID">papirus-sddm-theme-20160618-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>papirus-wallpapers.noarch</id>
+    <pkgname>papirus-wallpapers</pkgname>
+    <metadata>
+      <value key="X-CacheID">papirus-wallpapers-20160615-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -18824,6 +18929,13 @@
     </metadata>
   </component>
   <component>
+    <id>phantomjs.x86_64</id>
+    <pkgname>phantomjs</pkgname>
+    <metadata>
+      <value key="X-CacheID">phantomjs-2.1.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>phodav.x86_64</id>
     <pkgname>phodav</pkgname>
     <metadata>
@@ -18849,6 +18961,13 @@
     <pkgname>phonon</pkgname>
     <metadata>
       <value key="X-CacheID">phonon-4.8.3-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>phoronix-test-suite.noarch</id>
+    <pkgname>phoronix-test-suite</pkgname>
+    <metadata>
+      <value key="X-CacheID">phoronix-test-suite-6.6.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -19065,7 +19184,7 @@
     <id>plasma-sdk.x86_64</id>
     <pkgname>plasma-sdk</pkgname>
     <metadata>
-      <value key="X-CacheID">plasma-sdk-5.7.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">plasma-sdk-5.4.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21256,7 +21375,7 @@
     <id>sddm.x86_64</id>
     <pkgname>sddm</pkgname>
     <metadata>
-      <value key="X-CacheID">sddm-2really0.11.0-2.x86_64.rpm</value>
+      <value key="X-CacheID">sddm-0.14.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
