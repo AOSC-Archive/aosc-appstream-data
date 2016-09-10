@@ -549,8 +549,8 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-fdf26ac3f9a3124cababa442c5336e17.png</image>
+        <caption>DejaVu Sans Condensed – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-a4bbbab118c4bacdc8f9bfa7ca2207ae.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -774,8 +774,8 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-fdf26ac3f9a3124cababa442c5336e17.png</image>
+        <caption>DejaVu Sans Condensed – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-a4bbbab118c4bacdc8f9bfa7ca2207ae.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -999,8 +999,8 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-fdf26ac3f9a3124cababa442c5336e17.png</image>
+        <caption>DejaVu Sans Condensed – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-a4bbbab118c4bacdc8f9bfa7ca2207ae.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -4948,12 +4948,6 @@
     </vetos>
     <project_license>Unknown</project_license>
     <url type="homepage">Unknown</url>
-    <screenshots>
-      <screenshot type="default">
-        <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-60f9a65be384486d62f9b066cbd94166.png</image>
-      </screenshot>
-    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>

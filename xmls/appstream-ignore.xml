@@ -1376,7 +1376,7 @@
     <id>bbswitch.x86_64</id>
     <pkgname>bbswitch</pkgname>
     <metadata>
-      <value key="X-CacheID">bbswitch-0.8-0.x86_64.rpm</value>
+      <value key="X-CacheID">bbswitch-0.8-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -2727,7 +2727,7 @@
     <id>clutter-gst-3.0.x86_64</id>
     <pkgname>clutter-gst-3.0</pkgname>
     <metadata>
-      <value key="X-CacheID">clutter-gst-3.0-3.0.14-0.x86_64.rpm</value>
+      <value key="X-CacheID">clutter-gst-3.0-3.0.20-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9556,31 +9556,10 @@
     </metadata>
   </component>
   <component>
-    <id>kernel-debian-3.16.7-ckt9.x86_64</id>
-    <pkgname>kernel-debian-3.16.7-ckt9</pkgname>
-    <metadata>
-      <value key="X-CacheID">kernel-debian-3.16.7-ckt9-3.16.7-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>kernel-fedora-3.19.2.x86_64</id>
-    <pkgname>kernel-fedora-3.19.2</pkgname>
-    <metadata>
-      <value key="X-CacheID">kernel-fedora-3.19.2-3.19.2-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>kernel-tools.x86_64</id>
     <pkgname>kernel-tools</pkgname>
     <metadata>
       <value key="X-CacheID">kernel-tools-4.5.1-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>kernel-uek-3.8.13-68.1.2.el6uek.x86_64</id>
-    <pkgname>kernel-uek-3.8.13-68.1.2.el6uek</pkgname>
-    <metadata>
-      <value key="X-CacheID">kernel-uek-3.8.13-68.1.2.el6uek-3.8.13-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -14015,13 +13994,6 @@
     </metadata>
   </component>
   <component>
-    <id>linux+kernel+uek.x86_64</id>
-    <pkgname>linux+kernel+uek</pkgname>
-    <metadata>
-      <value key="X-CacheID">linux+kernel+uek-0-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>linux+kernel.x86_64</id>
     <pkgname>linux+kernel</pkgname>
     <metadata>
@@ -16741,7 +16713,7 @@
     <id>nvidia-libgl.x86_64</id>
     <pkgname>nvidia-libgl</pkgname>
     <metadata>
-      <value key="X-CacheID">nvidia-libgl-364.19-0.x86_64.rpm</value>
+      <value key="X-CacheID">nvidia-libgl-370.28-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22908,7 +22880,7 @@
     <id>tigervnc.x86_64</id>
     <pkgname>tigervnc</pkgname>
     <metadata>
-      <value key="X-CacheID">tigervnc-1.6.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">tigervnc-1.7.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -25589,7 +25561,7 @@
     <id>yubioath-desktop.x86_64</id>
     <pkgname>yubioath-desktop</pkgname>
     <metadata>
-      <value key="X-CacheID">yubioath-desktop-3.0.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">yubioath-desktop-3.0.1-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
