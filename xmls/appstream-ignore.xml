@@ -1261,6 +1261,13 @@
     </metadata>
   </component>
   <component>
+    <id>badvpn.x86_64</id>
+    <pkgname>badvpn</pkgname>
+    <metadata>
+      <value key="X-CacheID">badvpn-1.999.130-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>baka-mplayer.x86_64</id>
     <pkgname>baka-mplayer</pkgname>
     <metadata>
@@ -1733,7 +1740,7 @@
     <id>breeze-icons.noarch</id>
     <pkgname>breeze-icons</pkgname>
     <metadata>
-      <value key="X-CacheID">breeze-icons-5.24.0-0.noarch.rpm</value>
+      <value key="X-CacheID">breeze-icons-5.26.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3707,7 +3714,7 @@
     <id>dbus-glib+32.x86_64</id>
     <pkgname>dbus-glib+32</pkgname>
     <metadata>
-      <value key="X-CacheID">dbus-glib+32-0.106-0.x86_64.rpm</value>
+      <value key="X-CacheID">dbus-glib+32-0.108-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4568,7 +4575,7 @@
     <id>epour.x86_64</id>
     <pkgname>epour</pkgname>
     <metadata>
-      <value key="X-CacheID">epour-0.6.0-1.x86_64.rpm</value>
+      <value key="X-CacheID">epour-0.6.0-4.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4722,7 +4729,7 @@
     <id>extra-cmake-modules.noarch</id>
     <pkgname>extra-cmake-modules</pkgname>
     <metadata>
-      <value key="X-CacheID">extra-cmake-modules-5.25.0-0.noarch.rpm</value>
+      <value key="X-CacheID">extra-cmake-modules-5.26.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4730,6 +4737,13 @@
     <pkgname>extra-cmake-modules</pkgname>
     <metadata>
       <value key="X-CacheID">extra-cmake-modules-5.12.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>extundelete.x86_64</id>
+    <pkgname>extundelete</pkgname>
+    <metadata>
+      <value key="X-CacheID">extundelete-0.2.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5142,7 +5156,7 @@
     <id>flatpak.x86_64</id>
     <pkgname>flatpak</pkgname>
     <metadata>
-      <value key="X-CacheID">flatpak-0.6.8-0.x86_64.rpm</value>
+      <value key="X-CacheID">flatpak-0.6.10-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5436,7 +5450,7 @@
     <id>freetype+32.x86_64</id>
     <pkgname>freetype+32</pkgname>
     <metadata>
-      <value key="X-CacheID">freetype+32-2.6.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">freetype+32-2.7-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6171,7 +6185,7 @@
     <id>glm.noarch</id>
     <pkgname>glm</pkgname>
     <metadata>
-      <value key="X-CacheID">glm-0.9.7.6-0.noarch.rpm</value>
+      <value key="X-CacheID">glm-0.9.8.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6759,7 +6773,7 @@
     <id>google-chrome.x86_64</id>
     <pkgname>google-chrome</pkgname>
     <metadata>
-      <value key="X-CacheID">google-chrome-53.0.2785.92-0.x86_64.rpm</value>
+      <value key="X-CacheID">google-chrome-53.0.2785.101-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7008,6 +7022,13 @@
     </metadata>
   </component>
   <component>
+    <id>gsmartcontrol.x86_64</id>
+    <pkgname>gsmartcontrol</pkgname>
+    <metadata>
+      <value key="X-CacheID">gsmartcontrol-0.8.7-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>gsoap.x86_64</id>
     <pkgname>gsoap</pkgname>
     <metadata>
@@ -7207,7 +7228,7 @@
     <id>gtk-2+32.x86_64</id>
     <pkgname>gtk-2+32</pkgname>
     <metadata>
-      <value key="X-CacheID">gtk-2+32-2.24.28-1.x86_64.rpm</value>
+      <value key="X-CacheID">gtk-2+32-2.24.31-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9167,7 +9188,7 @@
     <id>kcmutils.x86_64</id>
     <pkgname>kcmutils</pkgname>
     <metadata>
-      <value key="X-CacheID">kcmutils-5.23.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kcmutils-5.26.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9216,14 +9237,14 @@
     <id>kcoreaddons.x86_64</id>
     <pkgname>kcoreaddons</pkgname>
     <metadata>
-      <value key="X-CacheID">kcoreaddons-5.14.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kcoreaddons-5.26.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
     <id>kcrash.x86_64</id>
     <pkgname>kcrash</pkgname>
     <metadata>
-      <value key="X-CacheID">kcrash-5.25.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kcrash-5.26.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9349,7 +9370,7 @@
     <id>kded.x86_64</id>
     <pkgname>kded</pkgname>
     <metadata>
-      <value key="X-CacheID">kded-5.15.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kded-5.26.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -9923,7 +9944,7 @@
     <id>kmediaplayer.x86_64</id>
     <pkgname>kmediaplayer</pkgname>
     <metadata>
-      <value key="X-CacheID">kmediaplayer-5.14.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kmediaplayer-5.26.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -10064,6 +10085,13 @@
     <pkgname>kontactinterface</pkgname>
     <metadata>
       <value key="X-CacheID">kontactinterface-16.08.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>konversation.x86_64</id>
+    <pkgname>konversation</pkgname>
+    <metadata>
+      <value key="X-CacheID">konversation-1.6.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12856,7 +12884,7 @@
     <id>libpst.x86_64</id>
     <pkgname>libpst</pkgname>
     <metadata>
-      <value key="X-CacheID">libpst-0.6.66-0.x86_64.rpm</value>
+      <value key="X-CacheID">libpst-0.6.67-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -13396,6 +13424,13 @@
     <pkgname>libu2f-host</pkgname>
     <metadata>
       <value key="X-CacheID">libu2f-host-1.1.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libu2f-server.x86_64</id>
+    <pkgname>libu2f-server</pkgname>
+    <metadata>
+      <value key="X-CacheID">libu2f-server-1.0.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -14270,7 +14305,7 @@
     <id>linux-kernel-4.7.3.x86_64</id>
     <pkgname>linux-kernel-4.7.3</pkgname>
     <metadata>
-      <value key="X-CacheID">linux-kernel-4.7.3-4.7.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">linux-kernel-4.7.3-4.7.3-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17350,7 +17385,7 @@
     <id>oxygen-icons.noarch</id>
     <pkgname>oxygen-icons</pkgname>
     <metadata>
-      <value key="X-CacheID">oxygen-icons-5.23.0-0.noarch.rpm</value>
+      <value key="X-CacheID">oxygen-icons-5.26.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -17449,6 +17484,13 @@
     <pkgname>palemoon</pkgname>
     <metadata>
       <value key="X-CacheID">palemoon-26.1.1-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>pam-u2f.x86_64</id>
+    <pkgname>pam-u2f</pkgname>
+    <metadata>
+      <value key="X-CacheID">pam-u2f-1.0.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21585,7 +21627,7 @@
     <id>setuptools.noarch</id>
     <pkgname>setuptools</pkgname>
     <metadata>
-      <value key="X-CacheID">setuptools-26.1.1-2.noarch.rpm</value>
+      <value key="X-CacheID">setuptools-27.1.2-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22762,6 +22804,13 @@
     <pkgname>tesseract</pkgname>
     <metadata>
       <value key="X-CacheID">tesseract-3.04.01-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>testdisk.x86_64</id>
+    <pkgname>testdisk</pkgname>
+    <metadata>
+      <value key="X-CacheID">testdisk-7.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -23972,7 +24021,7 @@
     <id>vscode.x86_64</id>
     <pkgname>vscode</pkgname>
     <metadata>
-      <value key="X-CacheID">vscode-1.4.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">vscode-1.5.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
