@@ -792,6 +792,13 @@
     </metadata>
   </component>
   <component>
+    <id>aseman-qt-tools.x86_64</id>
+    <pkgname>aseman-qt-tools</pkgname>
+    <metadata>
+      <value key="X-CacheID">aseman-qt-tools-1.0.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>ash.x86_64</id>
     <pkgname>ash</pkgname>
     <metadata>
@@ -1653,6 +1660,13 @@
     </metadata>
   </component>
   <component>
+    <id>bmon.x86_64</id>
+    <pkgname>bmon</pkgname>
+    <metadata>
+      <value key="X-CacheID">bmon-3.9-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>bochs.x86_64</id>
     <pkgname>bochs</pkgname>
     <metadata>
@@ -1867,6 +1881,13 @@
     <pkgname>busybox</pkgname>
     <metadata>
       <value key="X-CacheID">busybox-1.23.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>bwm-ng.x86_64</id>
+    <pkgname>bwm-ng</pkgname>
+    <metadata>
+      <value key="X-CacheID">bwm-ng-0.6.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -2133,6 +2154,13 @@
     <pkgname>cbc</pkgname>
     <metadata>
       <value key="X-CacheID">cbc-2.9.4-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>cbm.x86_64</id>
+    <pkgname>cbm</pkgname>
+    <metadata>
+      <value key="X-CacheID">cbm-0.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -2850,6 +2878,13 @@
     </metadata>
   </component>
   <component>
+    <id>collectl.noarch</id>
+    <pkgname>collectl</pkgname>
+    <metadata>
+      <value key="X-CacheID">collectl-4.0.5-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>colorama.noarch</id>
     <pkgname>colorama</pkgname>
     <metadata>
@@ -3515,6 +3550,13 @@
     </metadata>
   </component>
   <component>
+    <id>cutegram.x86_64</id>
+    <pkgname>cutegram</pkgname>
+    <metadata>
+      <value key="X-CacheID">cutegram-20160817-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>cutive-fonts.noarch</id>
     <pkgname>cutive-fonts</pkgname>
     <metadata>
@@ -3701,13 +3743,6 @@
     <pkgname>dbus-factory</pkgname>
     <metadata>
       <value key="X-CacheID">dbus-factory-0.0.2git20141029130224~a36c657629-1.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>dbus-generator.x86_64</id>
-    <pkgname>dbus-generator</pkgname>
-    <metadata>
-      <value key="X-CacheID">dbus-generator-0.0.3+20141029124343-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4254,6 +4289,13 @@
     <pkgname>drumstick</pkgname>
     <metadata>
       <value key="X-CacheID">drumstick-1.0.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>dstat.noarch</id>
+    <pkgname>dstat</pkgname>
+    <metadata>
+      <value key="X-CacheID">dstat-0.7.3-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5269,6 +5311,13 @@
     <pkgname>fonts-alee</pkgname>
     <metadata>
       <value key="X-CacheID">fonts-alee-13.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>fonts-cwtex.noarch</id>
+    <pkgname>fonts-cwtex</pkgname>
+    <metadata>
+      <value key="X-CacheID">fonts-cwtex-1.0-2.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8429,6 +8478,13 @@
     </metadata>
   </component>
   <component>
+    <id>iftop.x86_64</id>
+    <pkgname>iftop</pkgname>
+    <metadata>
+      <value key="X-CacheID">iftop-1.0pre4-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>ifuse.x86_64</id>
     <pkgname>ifuse</pkgname>
     <metadata>
@@ -8643,6 +8699,13 @@
     <pkgname>iptables</pkgname>
     <metadata>
       <value key="X-CacheID">iptables-1.4.21-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>iptraf-ng.x86_64</id>
+    <pkgname>iptraf-ng</pkgname>
+    <metadata>
+      <value key="X-CacheID">iptraf-ng-1.1.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12923,6 +12986,13 @@
     </metadata>
   </component>
   <component>
+    <id>libqtelegram.x86_64</id>
+    <pkgname>libqtelegram</pkgname>
+    <metadata>
+      <value key="X-CacheID">libqtelegram-6.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>libqtshadowsocks.x86_64</id>
     <pkgname>libqtshadowsocks</pkgname>
     <metadata>
@@ -16297,6 +16367,13 @@
     </metadata>
   </component>
   <component>
+    <id>netdiag.x86_64</id>
+    <pkgname>netdiag</pkgname>
+    <metadata>
+      <value key="X-CacheID">netdiag-1.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>netease-cloud-music.x86_64</id>
     <pkgname>netease-cloud-music</pkgname>
     <metadata>
@@ -16472,6 +16549,13 @@
     </metadata>
   </component>
   <component>
+    <id>nload.x86_64</id>
+    <pkgname>nload</pkgname>
+    <metadata>
+      <value key="X-CacheID">nload-0.7.4-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>nmap.x86_64</id>
     <pkgname>nmap</pkgname>
     <metadata>
@@ -16630,6 +16714,13 @@
     <pkgname>ntfs-3g</pkgname>
     <metadata>
       <value key="X-CacheID">ntfs-3g-20140215-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ntfs-config.noarch</id>
+    <pkgname>ntfs-config</pkgname>
+    <metadata>
+      <value key="X-CacheID">ntfs-config-1.0.1-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -19160,6 +19251,13 @@
     </metadata>
   </component>
   <component>
+    <id>pktstat.x86_64</id>
+    <pkgname>pktstat</pkgname>
+    <metadata>
+      <value key="X-CacheID">pktstat-20160317-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>plasma-desktop.x86_64</id>
     <pkgname>plasma-desktop</pkgname>
     <metadata>
@@ -19423,6 +19521,13 @@
     <pkgname>powerdevil</pkgname>
     <metadata>
       <value key="X-CacheID">powerdevil-5.3.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>powertop.x86_64</id>
+    <pkgname>powertop</pkgname>
+    <metadata>
+      <value key="X-CacheID">powertop-2.8-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21890,6 +21995,13 @@
     </metadata>
   </component>
   <component>
+    <id>slurm.x86_64</id>
+    <pkgname>slurm</pkgname>
+    <metadata>
+      <value key="X-CacheID">slurm-0.4.3-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>smartmontools.x86_64</id>
     <pkgname>smartmontools</pkgname>
     <metadata>
@@ -22125,6 +22237,13 @@
     <pkgname>speech-dispatcher</pkgname>
     <metadata>
       <value key="X-CacheID">speech-dispatcher-0.8-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>speedometer.noarch</id>
+    <pkgname>speedometer</pkgname>
+    <metadata>
+      <value key="X-CacheID">speedometer-2.8-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22660,6 +22779,13 @@
     </metadata>
   </component>
   <component>
+    <id>tcptrack.x86_64</id>
+    <pkgname>tcptrack</pkgname>
+    <metadata>
+      <value key="X-CacheID">tcptrack-1.4.3-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>tcsh.x86_64</id>
     <pkgname>tcsh</pkgname>
     <metadata>
@@ -22692,6 +22818,13 @@
     <pkgname>telegram-purple</pkgname>
     <metadata>
       <value key="X-CacheID">telegram-purple-1.0.0b1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>telegramqml.x86_64</id>
+    <pkgname>telegramqml</pkgname>
+    <metadata>
+      <value key="X-CacheID">telegramqml-2.0.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -25274,7 +25407,7 @@
     <id>xinput-calibrator.x86_64</id>
     <pkgname>xinput-calibrator</pkgname>
     <metadata>
-      <value key="X-CacheID">xinput-calibrator-0.7.5-0.x86_64.rpm</value>
+      <value key="X-CacheID">xinput-calibrator-0.7.5-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
