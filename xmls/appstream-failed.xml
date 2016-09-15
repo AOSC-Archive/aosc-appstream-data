@@ -548,17 +548,13 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-d6d9b49af614da836986f7162c60b5c3.png</image>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans Condensed – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-60446d02f82f6035caa62196374fa72b.png</image>
       </screenshot>
       <screenshot>
         <caption>DejaVu Sans – Book</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-fdf26ac3f9a3124cababa442c5336e17.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Serif – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-f5aee5891a900f28110d748753f3fefc.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -781,17 +777,13 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d6d9b49af614da836986f7162c60b5c3.png</image>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans Condensed – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-60446d02f82f6035caa62196374fa72b.png</image>
       </screenshot>
       <screenshot>
         <caption>DejaVu Sans – Book</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-fdf26ac3f9a3124cababa442c5336e17.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Serif – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-f5aee5891a900f28110d748753f3fefc.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -1014,17 +1006,13 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-d6d9b49af614da836986f7162c60b5c3.png</image>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans Condensed – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-60446d02f82f6035caa62196374fa72b.png</image>
       </screenshot>
       <screenshot>
         <caption>DejaVu Sans – Book</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-fdf26ac3f9a3124cababa442c5336e17.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Serif – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-f5aee5891a900f28110d748753f3fefc.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -4171,135 +4159,6 @@
     <metadata>
       <value key="X-CacheID">evolution-3.20.5-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
-    </metadata>
-  </component>
-  <component type="font">
-    <id>fonts-cwtex</id>
-    <pkgname>fonts-cwtex</pkgname>
-    <name>cwTeX TrueType Fonts</name>
-    <summary>TrueType Fonts from cwTeX</summary>
-    <categories>
-      <category>Addons</category>
-      <category>Fonts</category>
-    </categories>
-    <vetos>
-      <veto>Has no Icon</veto>
-    </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
-    <screenshots>
-      <screenshot priority="-64" type="default">
-        <caption>cwTeXFangSong – Medium</caption>
-        <image type="source" height="48" width="640">file:/fonts-cwtex-753d99096ea7a222dfea7fe20b02665b.png</image>
-      </screenshot>
-    </screenshots>
-    <languages>
-      <lang>aa</lang>
-      <lang>af</lang>
-      <lang>an</lang>
-      <lang>av</lang>
-      <lang>ay</lang>
-      <lang>ba</lang>
-      <lang>be</lang>
-      <lang>bg</lang>
-      <lang>bi</lang>
-      <lang>br</lang>
-      <lang>bua</lang>
-      <lang>ca</lang>
-      <lang>ce</lang>
-      <lang>ch</lang>
-      <lang>co</lang>
-      <lang>da</lang>
-      <lang>de</lang>
-      <lang>el</lang>
-      <lang>en</lang>
-      <lang>es</lang>
-      <lang>et</lang>
-      <lang>eu</lang>
-      <lang>fi</lang>
-      <lang>fil</lang>
-      <lang>fj</lang>
-      <lang>fo</lang>
-      <lang>fr</lang>
-      <lang>fur</lang>
-      <lang>fy</lang>
-      <lang>gd</lang>
-      <lang>gl</lang>
-      <lang>gv</lang>
-      <lang>ho</lang>
-      <lang>ht</lang>
-      <lang>ia</lang>
-      <lang>id</lang>
-      <lang>ie</lang>
-      <lang>ik</lang>
-      <lang>io</lang>
-      <lang>is</lang>
-      <lang>it</lang>
-      <lang>jv</lang>
-      <lang>kaa</lang>
-      <lang>kj</lang>
-      <lang>kk</lang>
-      <lang>ko</lang>
-      <lang>kum</lang>
-      <lang>kwm</lang>
-      <lang>ky</lang>
-      <lang>lb</lang>
-      <lang>lez</lang>
-      <lang>lg</lang>
-      <lang>li</lang>
-      <lang>mg</lang>
-      <lang>mn-mn</lang>
-      <lang>ms</lang>
-      <lang>nb</lang>
-      <lang>nds</lang>
-      <lang>ng</lang>
-      <lang>nl</lang>
-      <lang>nn</lang>
-      <lang>no</lang>
-      <lang>nr</lang>
-      <lang>nso</lang>
-      <lang>oc</lang>
-      <lang>om</lang>
-      <lang>os</lang>
-      <lang>pap-an</lang>
-      <lang>pap-aw</lang>
-      <lang>pt</lang>
-      <lang>rm</lang>
-      <lang>rn</lang>
-      <lang>ru</lang>
-      <lang>rw</lang>
-      <lang>sc</lang>
-      <lang>sel</lang>
-      <lang>sg</lang>
-      <lang>sma</lang>
-      <lang>smj</lang>
-      <lang>sn</lang>
-      <lang>so</lang>
-      <lang>sq</lang>
-      <lang>sr</lang>
-      <lang>ss</lang>
-      <lang>st</lang>
-      <lang>su</lang>
-      <lang>sv</lang>
-      <lang>sw</lang>
-      <lang>tl</lang>
-      <lang>tn</lang>
-      <lang>ts</lang>
-      <lang>tt</lang>
-      <lang>tyv</lang>
-      <lang>uz</lang>
-      <lang>vo</lang>
-      <lang>vot</lang>
-      <lang>wa</lang>
-      <lang>wo</lang>
-      <lang>xh</lang>
-      <lang>yap</lang>
-      <lang>za</lang>
-      <lang>zh-tw</lang>
-      <lang>zu</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">fonts-cwtex-1.0-2.noarch.rpm</value>
     </metadata>
   </component>
   <component type="desktop">

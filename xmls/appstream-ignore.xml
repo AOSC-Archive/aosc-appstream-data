@@ -5314,13 +5314,6 @@
     </metadata>
   </component>
   <component>
-    <id>fonts-cwtex.noarch</id>
-    <pkgname>fonts-cwtex</pkgname>
-    <metadata>
-      <value key="X-CacheID">fonts-cwtex-1.0-2.noarch.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>fonts-cwtex.x86_64</id>
     <pkgname>fonts-cwtex</pkgname>
     <metadata>
