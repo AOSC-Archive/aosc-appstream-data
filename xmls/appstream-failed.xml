@@ -548,9 +548,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -769,9 +769,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -990,9 +990,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -4936,6 +4936,12 @@
     </vetos>
     <project_license>Unknown</project_license>
     <url type="homepage">Unknown</url>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-4446566d744f94b8bcda3d195ab9ee18.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
