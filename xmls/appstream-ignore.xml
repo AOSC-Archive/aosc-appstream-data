@@ -2836,6 +2836,13 @@
     </metadata>
   </component>
   <component>
+    <id>cmatrix.x86_64</id>
+    <pkgname>cmatrix</pkgname>
+    <metadata>
+      <value key="X-CacheID">cmatrix-1.2a-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>cmus.x86_64</id>
     <pkgname>cmus</pkgname>
     <metadata>
@@ -3302,6 +3309,13 @@
     <pkgname>convertall</pkgname>
     <metadata>
       <value key="X-CacheID">convertall-0.6.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>convmv.noarch</id>
+    <pkgname>convmv</pkgname>
+    <metadata>
+      <value key="X-CacheID">convmv-2.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5030,7 +5044,7 @@
     <id>feeluown.noarch</id>
     <pkgname>feeluown</pkgname>
     <metadata>
-      <value key="X-CacheID">feeluown-9.2a-0.noarch.rpm</value>
+      <value key="X-CacheID">feeluown-9.2a-1.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7610,6 +7624,13 @@
     </metadata>
   </component>
   <component>
+    <id>harvid.x86_64</id>
+    <pkgname>harvid</pkgname>
+    <metadata>
+      <value key="X-CacheID">harvid-0.8.1-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>hashID.x86_64</id>
     <pkgname>hashID</pkgname>
     <metadata>
@@ -8958,6 +8979,13 @@
     <pkgname>jovie</pkgname>
     <metadata>
       <value key="X-CacheID">jovie-15.08.3-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>jpexs-decompiler.noarch</id>
+    <pkgname>jpexs-decompiler</pkgname>
+    <metadata>
+      <value key="X-CacheID">jpexs-decompiler-9.0.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12342,6 +12370,13 @@
     </metadata>
   </component>
   <component>
+    <id>libltc.x86_64</id>
+    <pkgname>libltc</pkgname>
+    <metadata>
+      <value key="X-CacheID">libltc-1.2.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>liblxqt-mount.x86_64</id>
     <pkgname>liblxqt-mount</pkgname>
     <metadata>
@@ -14092,6 +14127,13 @@
     </metadata>
   </component>
   <component>
+    <id>lilv.x86_64</id>
+    <pkgname>lilv</pkgname>
+    <metadata>
+      <value key="X-CacheID">lilv-0.22.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>limba.x86_64</id>
     <pkgname>limba</pkgname>
     <metadata>
@@ -14414,6 +14456,13 @@
     </metadata>
   </component>
   <component>
+    <id>liteide.x86_64</id>
+    <pkgname>liteide</pkgname>
+    <metadata>
+      <value key="X-CacheID">liteide-30.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>lksctp-tools.x86_64</id>
     <pkgname>lksctp-tools</pkgname>
     <metadata>
@@ -14677,6 +14726,13 @@
     <pkgname>luv-icon-theme</pkgname>
     <metadata>
       <value key="X-CacheID">luv-icon-theme-0.4-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>lv2.x86_64</id>
+    <pkgname>lv2</pkgname>
+    <metadata>
+      <value key="X-CacheID">lv2-1.12.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -18565,6 +18621,13 @@
     </metadata>
   </component>
   <component>
+    <id>perl-file-desktopentry.noarch</id>
+    <pkgname>perl-file-desktopentry</pkgname>
+    <metadata>
+      <value key="X-CacheID">perl-file-desktopentry-0.22-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>perl-file-listing.noarch</id>
     <pkgname>perl-file-listing</pkgname>
     <metadata>
@@ -18576,6 +18639,13 @@
     <pkgname>perl-file-listing</pkgname>
     <metadata>
       <value key="X-CacheID">perl-file-listing-6.04-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>perl-file-mimeinfo.noarch</id>
+    <pkgname>perl-file-mimeinfo</pkgname>
+    <metadata>
+      <value key="X-CacheID">perl-file-mimeinfo-0.27-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22408,6 +22478,13 @@
     </metadata>
   </component>
   <component>
+    <id>serd.x86_64</id>
+    <pkgname>serd</pkgname>
+    <metadata>
+      <value key="X-CacheID">serd-0.22.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>serf.x86_64</id>
     <pkgname>serf</pkgname>
     <metadata>
@@ -22856,6 +22933,13 @@
     </metadata>
   </component>
   <component>
+    <id>sord.x86_64</id>
+    <pkgname>sord</pkgname>
+    <metadata>
+      <value key="X-CacheID">sord-0.14.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>sound-theme-freedesktop.noarch</id>
     <pkgname>sound-theme-freedesktop</pkgname>
     <metadata>
@@ -23108,6 +23192,13 @@
     </metadata>
   </component>
   <component>
+    <id>sratom.x86_64</id>
+    <pkgname>sratom</pkgname>
+    <metadata>
+      <value key="X-CacheID">sratom-0.4.6-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>srtp+32.x86_64</id>
     <pkgname>srtp+32</pkgname>
     <metadata>
@@ -23231,6 +23322,13 @@
     <pkgname>sudo</pkgname>
     <metadata>
       <value key="X-CacheID">sudo-1.8.14p3-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>suil.x86_64</id>
+    <pkgname>suil</pkgname>
+    <metadata>
+      <value key="X-CacheID">suil-0.8.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -26136,6 +26234,13 @@
     <pkgname>xinput-calibrator</pkgname>
     <metadata>
       <value key="X-CacheID">xinput-calibrator-0.7.5-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>xjadeo.x86_64</id>
+    <pkgname>xjadeo</pkgname>
+    <metadata>
+      <value key="X-CacheID">xjadeo-0.8.5-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
