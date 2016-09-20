@@ -549,6 +549,10 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-240a4f205fd7e51a3c93a550929a5f73.png</image>
+      </screenshot>
+      <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-d5145152c7ad9b6187a1156a8d3fe535.png</image>
       </screenshot>
@@ -766,6 +770,10 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-240a4f205fd7e51a3c93a550929a5f73.png</image>
+      </screenshot>
+      <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-d5145152c7ad9b6187a1156a8d3fe535.png</image>
       </screenshot>
@@ -982,6 +990,10 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-240a4f205fd7e51a3c93a550929a5f73.png</image>
+      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-d5145152c7ad9b6187a1156a8d3fe535.png</image>
@@ -4154,7 +4166,7 @@
       </screenshot>
     </screenshots>
     <metadata>
-      <value key="X-CacheID">google-chrome-53.0.2785.101-0.x86_64.rpm</value>
+      <value key="X-CacheID">google-chrome-53.0.2785.116-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4962,7 +4974,7 @@
       <binary>vscode</binary>
     </provides>
     <metadata>
-      <value key="X-CacheID">vscode-1.5.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">vscode-1.5.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="font">

@@ -4537,13 +4537,6 @@
     </metadata>
   </component>
   <component>
-    <id>emacs.x86_64</id>
-    <pkgname>emacs</pkgname>
-    <metadata>
-      <value key="X-CacheID">emacs-24.5-3.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>emerald.x86_64</id>
     <pkgname>emerald</pkgname>
     <metadata>
@@ -4603,7 +4596,7 @@
     <id>enlightenment.x86_64</id>
     <pkgname>enlightenment</pkgname>
     <metadata>
-      <value key="X-CacheID">enlightenment-0.20.8-0.x86_64.rpm</value>
+      <value key="X-CacheID">enlightenment-0.21.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4631,7 +4624,7 @@
     <id>enventor.x86_64</id>
     <pkgname>enventor</pkgname>
     <metadata>
-      <value key="X-CacheID">enventor-0.9.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">enventor-1.0.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -5247,7 +5240,7 @@
     <id>flightgear.x86_64</id>
     <pkgname>flightgear</pkgname>
     <metadata>
-      <value key="X-CacheID">flightgear-2016.2.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">flightgear-2016.3.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -6843,7 +6836,7 @@
     <id>google-chrome.x86_64</id>
     <pkgname>google-chrome</pkgname>
     <metadata>
-      <value key="X-CacheID">google-chrome-53.0.2785.101-0.x86_64.rpm</value>
+      <value key="X-CacheID">google-chrome-53.0.2785.116-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -8524,6 +8517,13 @@
     <pkgname>iio-sensor-proxy</pkgname>
     <metadata>
       <value key="X-CacheID">iio-sensor-proxy-20160718-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ijs.x86_64</id>
+    <pkgname>ijs</pkgname>
+    <metadata>
+      <value key="X-CacheID">ijs-0.35-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -14432,6 +14432,13 @@
     <pkgname>linux-kernel-4.7.3</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-4.7.3-4.7.3-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-4.7.4.x86_64</id>
+    <pkgname>linux-kernel-4.7.4</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.7.4-4.7.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22698,7 +22705,7 @@
     <id>simgear.x86_64</id>
     <pkgname>simgear</pkgname>
     <metadata>
-      <value key="X-CacheID">simgear-2016.2.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">simgear-2016.3.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -24980,7 +24987,7 @@
     <id>vscode.x86_64</id>
     <pkgname>vscode</pkgname>
     <metadata>
-      <value key="X-CacheID">vscode-1.5.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">vscode-1.5.2-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -25827,7 +25834,7 @@
     <id>xf86-video-ati.x86_64</id>
     <pkgname>xf86-video-ati</pkgname>
     <metadata>
-      <value key="X-CacheID">xf86-video-ati-7.5.0git20151026-0.x86_64.rpm</value>
+      <value key="X-CacheID">xf86-video-ati-7.7.1-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
