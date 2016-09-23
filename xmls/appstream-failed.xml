@@ -549,12 +549,20 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-fdf26ac3f9a3124cababa442c5336e17.png</image>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-05c08653b70269076c26ba2f74f03933.png</image>
       </screenshot>
       <screenshot>
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-546b911ac64553e9f6b15063d3d8800e.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans Condensed – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-60446d02f82f6035caa62196374fa72b.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-d974327d7e2b443273283f8df6a73e8c.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -778,12 +786,20 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-fdf26ac3f9a3124cababa442c5336e17.png</image>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-05c08653b70269076c26ba2f74f03933.png</image>
       </screenshot>
       <screenshot>
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-546b911ac64553e9f6b15063d3d8800e.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans Condensed – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-60446d02f82f6035caa62196374fa72b.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d974327d7e2b443273283f8df6a73e8c.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -1007,12 +1023,20 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-fdf26ac3f9a3124cababa442c5336e17.png</image>
+        <caption>DejaVu Sans Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-05c08653b70269076c26ba2f74f03933.png</image>
       </screenshot>
       <screenshot>
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-546b911ac64553e9f6b15063d3d8800e.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans Condensed – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-60446d02f82f6035caa62196374fa72b.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-d974327d7e2b443273283f8df6a73e8c.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -4960,6 +4984,12 @@
     </vetos>
     <project_license>Unknown</project_license>
     <url type="homepage">Unknown</url>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-4446566d744f94b8bcda3d195ab9ee18.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
