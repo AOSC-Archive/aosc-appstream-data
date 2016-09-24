@@ -1051,6 +1051,13 @@
     </metadata>
   </component>
   <component>
+    <id>autoconf.noarch</id>
+    <pkgname>autoconf</pkgname>
+    <metadata>
+      <value key="X-CacheID">autoconf-2.69-3.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>autoconf.x86_64</id>
     <pkgname>autoconf</pkgname>
     <metadata>
@@ -1076,6 +1083,13 @@
     <pkgname>automake-1.14</pkgname>
     <metadata>
       <value key="X-CacheID">automake-1.14-1.14.1-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>automake.noarch</id>
+    <pkgname>automake</pkgname>
+    <metadata>
+      <value key="X-CacheID">automake-1.15-1.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -1335,6 +1349,13 @@
     <pkgname>bash-completion</pkgname>
     <metadata>
       <value key="X-CacheID">bash-completion-2.2git20150405-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>bash-startup.noarch</id>
+    <pkgname>bash-startup</pkgname>
+    <metadata>
+      <value key="X-CacheID">bash-startup-0.4.2.5-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4138,6 +4159,13 @@
     </metadata>
   </component>
   <component>
+    <id>docbook-sgml.noarch</id>
+    <pkgname>docbook-sgml</pkgname>
+    <metadata>
+      <value key="X-CacheID">docbook-sgml-4.5-2.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>docbook-sgml.x86_64</id>
     <pkgname>docbook-sgml</pkgname>
     <metadata>
@@ -4145,10 +4173,24 @@
     </metadata>
   </component>
   <component>
+    <id>docbook-xml.noarch</id>
+    <pkgname>docbook-xml</pkgname>
+    <metadata>
+      <value key="X-CacheID">docbook-xml-4.5-2.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>docbook-xml.x86_64</id>
     <pkgname>docbook-xml</pkgname>
     <metadata>
       <value key="X-CacheID">docbook-xml-4.5-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>docbook-xsl.noarch</id>
+    <pkgname>docbook-xsl</pkgname>
+    <metadata>
+      <value key="X-CacheID">docbook-xsl-1.79.1-2.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -7316,6 +7358,13 @@
     </metadata>
   </component>
   <component>
+    <id>gtk-doc.noarch</id>
+    <pkgname>gtk-doc</pkgname>
+    <metadata>
+      <value key="X-CacheID">gtk-doc-1.25-1.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>gtk-doc.x86_64</id>
     <pkgname>gtk-doc</pkgname>
     <metadata>
@@ -8128,6 +8177,13 @@
     </metadata>
   </component>
   <component>
+    <id>hicolor-icon-theme.noarch</id>
+    <pkgname>hicolor-icon-theme</pkgname>
+    <metadata>
+      <value key="X-CacheID">hicolor-icon-theme-0.15-3.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>hicolor-icon-theme.x86_64</id>
     <pkgname>hicolor-icon-theme</pkgname>
     <metadata>
@@ -8653,6 +8709,13 @@
     </metadata>
   </component>
   <component>
+    <id>intltool.noarch</id>
+    <pkgname>intltool</pkgname>
+    <metadata>
+      <value key="X-CacheID">intltool-0.51.0-1.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>intltool.x86_64</id>
     <pkgname>intltool</pkgname>
     <metadata>
@@ -8832,6 +8895,13 @@
     <pkgname>itsdangerous</pkgname>
     <metadata>
       <value key="X-CacheID">itsdangerous-0.24-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>itstool.noarch</id>
+    <pkgname>itstool</pkgname>
+    <metadata>
+      <value key="X-CacheID">itstool-2.0.2-2.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -14610,6 +14680,13 @@
     </metadata>
   </component>
   <component>
+    <id>lsb-release.noarch</id>
+    <pkgname>lsb-release</pkgname>
+    <metadata>
+      <value key="X-CacheID">lsb-release-1.4-2.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>lsb-release.x86_64</id>
     <pkgname>lsb-release</pkgname>
     <metadata>
@@ -16917,6 +16994,13 @@
     <pkgname>nvidia+32</pkgname>
     <metadata>
       <value key="X-CacheID">nvidia+32-364.16-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>nvidia-libgl+32.x86_64</id>
+    <pkgname>nvidia-libgl+32</pkgname>
+    <metadata>
+      <value key="X-CacheID">nvidia-libgl+32-370.28-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22569,6 +22653,13 @@
     </metadata>
   </component>
   <component>
+    <id>sgml-common.noarch</id>
+    <pkgname>sgml-common</pkgname>
+    <metadata>
+      <value key="X-CacheID">sgml-common-0.6.3-2.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>sgml-common.x86_64</id>
     <pkgname>sgml-common</pkgname>
     <metadata>
@@ -23028,6 +23119,13 @@
     <pkgname>sparsehash</pkgname>
     <metadata>
       <value key="X-CacheID">sparsehash-2.0.2-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>spdx-licenses.noarch</id>
+    <pkgname>spdx-licenses</pkgname>
+    <metadata>
+      <value key="X-CacheID">spdx-licenses-20160826-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -25716,6 +25814,13 @@
     <pkgname>xdg-user-dirs</pkgname>
     <metadata>
       <value key="X-CacheID">xdg-user-dirs-0.15-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>xdg-utils.noarch</id>
+    <pkgname>xdg-utils</pkgname>
+    <metadata>
+      <value key="X-CacheID">xdg-utils-1.1.1-1.noarch.rpm</value>
     </metadata>
   </component>
   <component>
