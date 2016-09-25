@@ -214,7 +214,9 @@
     <summary xml:lang="be">Файлавы кіраўнік асяроддзя MATE</summary>
     <summary xml:lang="bg">Файлов мениджър за работната среда MATE</summary>
     <summary xml:lang="br">Ardoer restroù evit an endro burev MATE</summary>
+    <summary xml:lang="bs">Upravitelj datoteka za MATE desktop</summary>
     <summary xml:lang="ca">Gestor de fitxers per a l'entorn d'escriptori MATE</summary>
+    <summary xml:lang="ca@valencia">Gestor de fitxers per a l'entorn d'escriptori MATE</summary>
     <summary xml:lang="cs">Správce souborů pro prostředí plochy MATE</summary>
     <summary xml:lang="da">Filhåndtering for skrivebordsmiljøet MATE</summary>
     <summary xml:lang="de">Dateiverwaltung für die Mate-Arbeitsumgebung</summary>
@@ -247,6 +249,7 @@
     <summary xml:lang="sl">Upravljalnik datotek za namizno okolje MATE</summary>
     <summary xml:lang="sr">Управник датотека за Мејтово радно окружење</summary>
     <summary xml:lang="sv">Filhanterare för skrivbordsmiljön MATE</summary>
+    <summary xml:lang="th">เครื่องมือจัดการแฟ้มสำหรับสภาพแวดล้อมเดสก์ท็อป MATE</summary>
     <summary xml:lang="tr">MATE masaüstü ortamı için dosya yöneticisi</summary>
     <summary xml:lang="uk">Керівник файлами для стільничного середовища МАТЕ</summary>
     <summary xml:lang="uz">MATE ish stoli muhiti uchun fayl boshqaruvchi</summary>
@@ -258,10 +261,11 @@
     <description xml:lang="bg"><p>Caja е официалният файлов мениджър за работната среда MATE. Той ползволява разглеждане на папки, както и показване на файлове и стартиране на приложенията свързани с тях. Също така отговаря за иконите на работната среда MATE. Той работи както на местни, така и на отделечени файлови системи.</p></description>
     <description xml:lang="br"><p>Caja a zo an ardoer restroù kefridiel evit ar burev MATE. Gantañ e c'hallit merdeiñ dre ar c'havlec'hiadoù kement ha rakwelout ar restroù ha lañsañ an arloadoù kenereet ouzh ar restroù-mañ. Da zornata an afelloù war burev MATE ez eo atebek ivez. Gant reizhiadoù restroù lec'hel pe a-bell ez a en-dro.</p></description>
     <description xml:lang="ca"><p>Caja és el gestor de fitxers oficial de l'escriptori MATE. Permet navegar pels directoris, així com la presentació preliminar dels fitxers i el llançament de les aplicacions associades aquests fitxers. També és el responsable del maneig de les icones a l'escriptori MATE. Funciona amb fitxers de sistemes locals i remots.</p></description>
+    <description xml:lang="ca@valencia"><p>El Caja és el gestor de fitxers oficial de l'escriptori MATE. Permet navegar pels directoris, així com la presentació preliminar dels fitxers i l'execució de les aplicacions associades a aquests fitxers. També és el responsable del maneig de les icones a l'escriptori MATE. Funciona amb fitxers de sistemes locals i remots.</p></description>
     <description xml:lang="cs"><p>Caja je oficiální správce souborů pro plochu MATE. Umožňuje procházení adresářů stejně tak dobře jako náhledy souborů a spouštění aplikací s nimi asociovaných. Je také zodpovědný za správu ikon plochy MATE. Pracuje na místních a vzdálených souborových systémech.</p></description>
     <description xml:lang="da"><p>Caja er den officielle filhåndtering for skrivebordet MATE. Programmet giver mulighed for at gennemse mapper samt forhåndsvise filer og starte programmer associeret med disse filer. Programmet er også ansvarlig for håndtering af ikoner på MATE-skrivebordet. Fungerer på lokale og eksterne filsystemer. Udfoldelsesmuligheder tilsvarende udvidelsesmoduler for GNOME Nautilus, som Caja er en forgrening af.</p></description>
     <description xml:lang="de"><p>Caja ist die offizielle Dateiverwaltung für die MATE-Arbeitsumgebung. Es ermöglicht das Durchsuchen von Verzeichnissen, Dateivorschau sowie das Starten von mit Dateitypen verknüpften Anwendungen. Es ist auch für den Umgang mit den Symbolen auf dem MATE-Schreibtisch zuständig. Es funktioniert auf lokalen und entfernten Dateisystemen.</p></description>
-    <description xml:lang="el"><p>Caja είναι ο επίσημος διαχειριστής αρχείων για το γραφικό περιβάλλον MATE. Σου δίνει τη δυνατότητα να πλοηγηθείς στα αρχεία σου όπως επίσης να ξεκινήσεις εφαρμογές που σχετίζονται με αυτά. Είναι επίσης υπεύθυνο να διαχειρίζεται τα εικονίδια στην επιφάνεια εργασίας.  Λειτουργεί σε τοπικά και απομακρυσμένα συστήματα αρχείων.</p></description>
+    <description xml:lang="el"><p>Ο Caja είναι ο επίσημος διαχειριστής αρχείων για το γραφικό περιβάλλον MATE. Παρέχει τη δυνατότητα πλοήγησης σε φακέλους, όπως επίσης την προεπισκόπηση αρχείων και την εκκίνηση εφαρμογών που σχετίζονται με αυτά. Είναι επίσης υπεύθυνος να διαχειρίζεται τα εικονίδια στο περιβάλλον MATE.  Λειτουργεί σε τοπικά και απομακρυσμένα συστήματα αρχείων.</p></description>
     <description xml:lang="en_AU"><p>Caja is the official file manager for the MATE desktop. It allows for browsing directories, as well as previewing files and launching applications associated with them. It is also responsible for handling the icons on the MATE desktop. It works on local and remote file systems.</p></description>
     <description xml:lang="en_GB"><p>Caja is the official file manager for the MATE desktop. It allows for browsing directories, as well as previewing files and launching applications associated with them. It is also responsible for handling the icons on the MATE desktop. It works on local and remote file systems.</p></description>
     <description xml:lang="es"><p>Caja es el gestor de archivos oficial para el escritorio MATE. Permite la exploración de directorios, así como previsualizar archivos y ejecutar aplicaciones asociadas con ellos. También es responsable de manejar los iconos en el escritorio MATE. Funciona en sistemas de archivos locales y remotos.</p></description>
@@ -316,26 +320,26 @@
       <dbus type="session">org.freedesktop.FileManager1</dbus>
     </provides>
     <languages>
-      <lang percentage="68">af</lang>
+      <lang percentage="67">af</lang>
       <lang percentage="61">am</lang>
       <lang percentage="96">ar</lang>
-      <lang percentage="85">as</lang>
-      <lang percentage="85">ast</lang>
+      <lang percentage="84">as</lang>
+      <lang percentage="84">ast</lang>
       <lang percentage="43">az</lang>
       <lang percentage="98">be</lang>
       <lang percentage="99">bg</lang>
       <lang percentage="87">bn</lang>
       <lang percentage="87">bn_IN</lang>
       <lang percentage="99">br</lang>
-      <lang percentage="43">bs</lang>
-      <lang percentage="100">ca</lang>
-      <lang percentage="87">ca@valencia</lang>
+      <lang percentage="47">bs</lang>
+      <lang percentage="99">ca</lang>
+      <lang percentage="99">ca@valencia</lang>
       <lang percentage="98">cmn</lang>
       <lang percentage="87">crh</lang>
       <lang percentage="99">cs</lang>
       <lang percentage="26">cy</lang>
-      <lang percentage="99">da</lang>
-      <lang percentage="100">de</lang>
+      <lang percentage="100">da</lang>
+      <lang percentage="99">de</lang>
       <lang percentage="53">dz</lang>
       <lang percentage="99">el</lang>
       <lang percentage="99">en_AU</lang>
@@ -356,9 +360,9 @@
       <lang percentage="87">gu</lang>
       <lang percentage="43">ha</lang>
       <lang percentage="98">he</lang>
-      <lang percentage="85">hi</lang>
+      <lang percentage="84">hi</lang>
       <lang percentage="99">hr</lang>
-      <lang percentage="100">hu</lang>
+      <lang percentage="99">hu</lang>
       <lang percentage="99">hy</lang>
       <lang percentage="100">id</lang>
       <lang percentage="43">ig</lang>
@@ -368,16 +372,16 @@
       <lang percentage="73">ka</lang>
       <lang percentage="56">kk</lang>
       <lang percentage="81">kn</lang>
-      <lang percentage="100">ko</lang>
+      <lang percentage="99">ko</lang>
       <lang percentage="47">ku</lang>
       <lang percentage="50">ky</lang>
       <lang percentage="29">li</lang>
-      <lang percentage="100">lt</lang>
+      <lang percentage="99">lt</lang>
       <lang percentage="98">lv</lang>
       <lang percentage="56">mai</lang>
       <lang percentage="49">mg</lang>
       <lang percentage="74">mk</lang>
-      <lang percentage="87">ml</lang>
+      <lang percentage="86">ml</lang>
       <lang percentage="43">mn</lang>
       <lang percentage="98">mr</lang>
       <lang percentage="99">ms</lang>
@@ -385,50 +389,50 @@
       <lang percentage="50">nds</lang>
       <lang percentage="56">ne</lang>
       <lang percentage="99">nl</lang>
-      <lang percentage="87">nn</lang>
+      <lang percentage="86">nn</lang>
       <lang percentage="42">nso</lang>
       <lang percentage="87">oc</lang>
       <lang percentage="86">or</lang>
-      <lang percentage="91">pa</lang>
+      <lang percentage="90">pa</lang>
       <lang percentage="99">pl</lang>
       <lang percentage="30">ps</lang>
-      <lang percentage="99">pt</lang>
-      <lang percentage="99">pt_BR</lang>
+      <lang percentage="100">pt</lang>
+      <lang percentage="100">pt_BR</lang>
       <lang percentage="99">ro</lang>
-      <lang percentage="100">ru</lang>
+      <lang percentage="99">ru</lang>
       <lang percentage="42">si</lang>
-      <lang percentage="100">sk</lang>
+      <lang percentage="99">sk</lang>
       <lang percentage="99">sl</lang>
-      <lang percentage="84">sq</lang>
-      <lang percentage="99">sr</lang>
+      <lang percentage="83">sq</lang>
+      <lang percentage="100">sr</lang>
       <lang percentage="86">sr@latin</lang>
       <lang percentage="99">sv</lang>
       <lang percentage="80">ta</lang>
-      <lang percentage="85">te</lang>
-      <lang percentage="90">th</lang>
+      <lang percentage="84">te</lang>
+      <lang percentage="98">th</lang>
       <lang percentage="36">tk</lang>
       <lang percentage="99">tr</lang>
       <lang percentage="86">ug</lang>
-      <lang percentage="100">uk</lang>
+      <lang percentage="99">uk</lang>
       <lang percentage="98">ur</lang>
-      <lang percentage="72">uz</lang>
+      <lang percentage="74">uz</lang>
       <lang percentage="79">vi</lang>
       <lang percentage="45">xh</lang>
       <lang percentage="43">yo</lang>
-      <lang percentage="99">zh_CN</lang>
+      <lang percentage="100">zh_CN</lang>
       <lang percentage="87">zh_HK</lang>
-      <lang percentage="100">zh_TW</lang>
+      <lang percentage="99">zh_TW</lang>
       <lang percentage="42">zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">caja-1.14.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">caja-1.16.0-0.x86_64.rpm</value>
       <value key="X-MATE-AutoRestart">true</value>
       <value key="X-MATE-Autostart-Notify">true</value>
       <value key="X-MATE-Autostart-Phase">Desktop</value>
       <value key="X-MATE-Bugzilla-Bugzilla">MATE</value>
       <value key="X-MATE-Bugzilla-Component">general</value>
       <value key="X-MATE-Bugzilla-Product">caja</value>
-      <value key="X-MATE-Bugzilla-Version">1.14.2</value>
+      <value key="X-MATE-Bugzilla-Version">1.16.0</value>
       <value key="X-MATE-Provides">filemanager</value>
     </metadata>
   </component>
@@ -549,8 +553,8 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-fdf26ac3f9a3124cababa442c5336e17.png</image>
+        <caption>DejaVu Sans Mono – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-d6d9b49af614da836986f7162c60b5c3.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -774,8 +778,8 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-fdf26ac3f9a3124cababa442c5336e17.png</image>
+        <caption>DejaVu Sans Mono – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d6d9b49af614da836986f7162c60b5c3.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -999,8 +1003,8 @@
     <extends>dejavu-fonts</extends>
     <screenshots>
       <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-fdf26ac3f9a3124cababa442c5336e17.png</image>
+        <caption>DejaVu Sans Mono – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-d6d9b49af614da836986f7162c60b5c3.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -4980,7 +4984,7 @@
       <binary>vscode</binary>
     </provides>
     <metadata>
-      <value key="X-CacheID">vscode-1.5.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">vscode-1.5.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component type="font">

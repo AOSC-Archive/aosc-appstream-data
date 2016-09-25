@@ -2062,7 +2062,7 @@
     <id>caja.x86_64</id>
     <pkgname>caja</pkgname>
     <metadata>
-      <value key="X-CacheID">caja-1.14.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">caja-1.16.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -2801,13 +2801,6 @@
     </metadata>
   </component>
   <component>
-    <id>clutter-gtk-compat.x86_64</id>
-    <pkgname>clutter-gtk-compat</pkgname>
-    <metadata>
-      <value key="X-CacheID">clutter-gtk-compat-1.6.0-1.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>clutter-gtk.x86_64</id>
     <pkgname>clutter-gtk</pkgname>
     <metadata>
@@ -2875,13 +2868,6 @@
     <pkgname>coffeescript</pkgname>
     <metadata>
       <value key="X-CacheID">coffeescript-1.8.0-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>cogl-compat.x86_64</id>
-    <pkgname>cogl-compat</pkgname>
-    <metadata>
-      <value key="X-CacheID">cogl-compat-1.18.2-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -3316,13 +3302,6 @@
     <pkgname>consolekit</pkgname>
     <metadata>
       <value key="X-CacheID">consolekit-0.4.6-2.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
-    <id>contractor.x86_64</id>
-    <pkgname>contractor</pkgname>
-    <metadata>
-      <value key="X-CacheID">contractor-0+136-3.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -4502,13 +4481,6 @@
     </metadata>
   </component>
   <component>
-    <id>eidete.x86_64</id>
-    <pkgname>eidete</pkgname>
-    <metadata>
-      <value key="X-CacheID">eidete-0really195-0.x86_64.rpm</value>
-    </metadata>
-  </component>
-  <component>
     <id>eigen-2.x86_64</id>
     <pkgname>eigen-2</pkgname>
     <metadata>
@@ -4582,7 +4554,7 @@
     <id>emerald.x86_64</id>
     <pkgname>emerald</pkgname>
     <metadata>
-      <value key="X-CacheID">emerald-0.9.5-0.x86_64.rpm</value>
+      <value key="X-CacheID">emerald-0.8.12.4-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15306,7 +15278,7 @@
     <id>mate-backgrounds.noarch</id>
     <pkgname>mate-backgrounds</pkgname>
     <metadata>
-      <value key="X-CacheID">mate-backgrounds-1.14.0-1.noarch.rpm</value>
+      <value key="X-CacheID">mate-backgrounds-1.16.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15320,7 +15292,7 @@
     <id>mate-common.noarch</id>
     <pkgname>mate-common</pkgname>
     <metadata>
-      <value key="X-CacheID">mate-common-1.14.0-1.noarch.rpm</value>
+      <value key="X-CacheID">mate-common-1.16.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15362,7 +15334,7 @@
     <id>mate-icon-theme-faenza.noarch</id>
     <pkgname>mate-icon-theme-faenza</pkgname>
     <metadata>
-      <value key="X-CacheID">mate-icon-theme-faenza-1.14.0-1.noarch.rpm</value>
+      <value key="X-CacheID">mate-icon-theme-faenza-1.16.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15397,7 +15369,7 @@
     <id>mate-media.x86_64</id>
     <pkgname>mate-media</pkgname>
     <metadata>
-      <value key="X-CacheID">mate-media-1.12.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">mate-media-1.16.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15488,7 +15460,7 @@
     <id>mate-user-guide.noarch</id>
     <pkgname>mate-user-guide</pkgname>
     <metadata>
-      <value key="X-CacheID">mate-user-guide-1.14.0-1.noarch.rpm</value>
+      <value key="X-CacheID">mate-user-guide-1.16.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -16014,6 +15986,13 @@
     <pkgname>mozjpeg</pkgname>
     <metadata>
       <value key="X-CacheID">mozjpeg-3.1-1.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>mozo.noarch</id>
+    <pkgname>mozo</pkgname>
+    <metadata>
+      <value key="X-CacheID">mozo-1.16.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -21939,6 +21918,13 @@
     </metadata>
   </component>
   <component>
+    <id>repo.noarch</id>
+    <pkgname>repo</pkgname>
+    <metadata>
+      <value key="X-CacheID">repo-1.12.36-0.noarch.rpm</value>
+    </metadata>
+  </component>
+  <component>
     <id>repo.x86_64</id>
     <pkgname>repo</pkgname>
     <metadata>
@@ -22565,7 +22551,7 @@
     <id>ser2net.x86_64</id>
     <pkgname>ser2net</pkgname>
     <metadata>
-      <value key="X-CacheID">ser2net-3.0rc3-0.x86_64.rpm</value>
+      <value key="X-CacheID">ser2net-3.0-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -22594,6 +22580,13 @@
     <pkgname>service-identity</pkgname>
     <metadata>
       <value key="X-CacheID">service-identity-1.0.0-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>setconf.noarch</id>
+    <pkgname>setconf</pkgname>
+    <metadata>
+      <value key="X-CacheID">setconf-0.7.3-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -25085,7 +25078,7 @@
     <id>vscode.x86_64</id>
     <pkgname>vscode</pkgname>
     <metadata>
-      <value key="X-CacheID">vscode-1.5.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">vscode-1.5.3-0.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -25184,6 +25177,13 @@
     <pkgname>wavtool-pl</pkgname>
     <metadata>
       <value key="X-CacheID">wavtool-pl-0.20150501-0.x86_64.rpm</value>
+    </metadata>
+  </component>
+  <component>
+    <id>wayland-protocols.noarch</id>
+    <pkgname>wayland-protocols</pkgname>
+    <metadata>
+      <value key="X-CacheID">wayland-protocols-1.7-0.noarch.rpm</value>
     </metadata>
   </component>
   <component>
