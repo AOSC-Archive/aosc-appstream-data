@@ -552,9 +552,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-d6d9b49af614da836986f7162c60b5c3.png</image>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -777,9 +777,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d6d9b49af614da836986f7162c60b5c3.png</image>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -1002,9 +1002,9 @@
     <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-d6d9b49af614da836986f7162c60b5c3.png</image>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
       </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
@@ -2038,6 +2038,7 @@
       <veto>partially absorbing evince-comicsdocument into evince.desktop</veto>
     </vetos>
     <mimetypes>
+      <mimetype>application/vnd.comicbook+zip</mimetype>
       <mimetype>application/x-cb7</mimetype>
       <mimetype>application/x-cbr</mimetype>
       <mimetype>application/x-cbt</mimetype>
@@ -2057,7 +2058,7 @@
     <languages>
       <lang percentage="87">af</lang>
       <lang percentage="90">an</lang>
-      <lang percentage="100">ar</lang>
+      <lang percentage="99">ar</lang>
       <lang percentage="89">as</lang>
       <lang percentage="92">ast</lang>
       <lang percentage="88">be</lang>
@@ -2077,7 +2078,7 @@
       <lang percentage="99">el</lang>
       <lang percentage="76">en@shaw</lang>
       <lang percentage="92">en_CA</lang>
-      <lang percentage="93">en_GB</lang>
+      <lang percentage="99">en_GB</lang>
       <lang percentage="91">eo</lang>
       <lang percentage="99">es</lang>
       <lang percentage="91">et</lang>
@@ -2087,7 +2088,7 @@
       <lang percentage="99">fr</lang>
       <lang percentage="99">fur</lang>
       <lang percentage="51">ga</lang>
-      <lang percentage="92">gd</lang>
+      <lang percentage="99">gd</lang>
       <lang percentage="99">gl</lang>
       <lang percentage="89">gu</lang>
       <lang percentage="99">he</lang>
@@ -2114,10 +2115,10 @@
       <lang percentage="89">mr</lang>
       <lang percentage="92">ms</lang>
       <lang percentage="82">my</lang>
-      <lang percentage="99">nb</lang>
+      <lang percentage="100">nb</lang>
       <lang percentage="61">nds</lang>
       <lang percentage="73">ne</lang>
-      <lang percentage="91">nl</lang>
+      <lang percentage="99">nl</lang>
       <lang percentage="92">nn</lang>
       <lang percentage="95">oc</lang>
       <lang percentage="93">or</lang>
@@ -2130,7 +2131,7 @@
       <lang percentage="99">ru</lang>
       <lang percentage="31">si</lang>
       <lang percentage="99">sk</lang>
-      <lang percentage="90">sl</lang>
+      <lang percentage="92">sl</lang>
       <lang percentage="73">sq</lang>
       <lang percentage="99">sr</lang>
       <lang percentage="99">sr@latin</lang>
@@ -2138,7 +2139,7 @@
       <lang percentage="89">ta</lang>
       <lang percentage="89">te</lang>
       <lang percentage="91">tg</lang>
-      <lang percentage="99">th</lang>
+      <lang percentage="100">th</lang>
       <lang percentage="90">tr</lang>
       <lang percentage="93">ug</lang>
       <lang percentage="99">uk</lang>
@@ -2150,7 +2151,7 @@
       <lang percentage="90">zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.20.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -2275,7 +2276,7 @@
     <summary xml:lang="nl">Voegt ondersteuning toe voor het lezen van DjVu-documenten</summary>
     <summary xml:lang="oc">Apond la presa en carga de la lectura dels documents Djvu</summary>
     <summary xml:lang="pa">DjVu ਦਸਤਾਵੇਜ਼ ਪੜ੍ਹਨ ਲਈ ਸਹਾਇਤਾ ਜੋੜਦੀ ਹੈ</summary>
-    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie DjVu</summary>
+    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie DjVu</summary>
     <summary xml:lang="pt">Adiciona suporte para ler documentos DjVu</summary>
     <summary xml:lang="pt_BR">Adiciona suporte para leitura de documentos DjVu</summary>
     <summary xml:lang="ro">Adaugă suport pentru citirea documenteleor DjVu</summary>
@@ -2319,7 +2320,7 @@
     <languages>
       <lang percentage="87">af</lang>
       <lang percentage="90">an</lang>
-      <lang percentage="100">ar</lang>
+      <lang percentage="99">ar</lang>
       <lang percentage="89">as</lang>
       <lang percentage="92">ast</lang>
       <lang percentage="88">be</lang>
@@ -2339,7 +2340,7 @@
       <lang percentage="99">el</lang>
       <lang percentage="76">en@shaw</lang>
       <lang percentage="92">en_CA</lang>
-      <lang percentage="93">en_GB</lang>
+      <lang percentage="99">en_GB</lang>
       <lang percentage="91">eo</lang>
       <lang percentage="99">es</lang>
       <lang percentage="91">et</lang>
@@ -2349,7 +2350,7 @@
       <lang percentage="99">fr</lang>
       <lang percentage="99">fur</lang>
       <lang percentage="51">ga</lang>
-      <lang percentage="92">gd</lang>
+      <lang percentage="99">gd</lang>
       <lang percentage="99">gl</lang>
       <lang percentage="89">gu</lang>
       <lang percentage="99">he</lang>
@@ -2376,10 +2377,10 @@
       <lang percentage="89">mr</lang>
       <lang percentage="92">ms</lang>
       <lang percentage="82">my</lang>
-      <lang percentage="99">nb</lang>
+      <lang percentage="100">nb</lang>
       <lang percentage="61">nds</lang>
       <lang percentage="73">ne</lang>
-      <lang percentage="91">nl</lang>
+      <lang percentage="99">nl</lang>
       <lang percentage="92">nn</lang>
       <lang percentage="95">oc</lang>
       <lang percentage="93">or</lang>
@@ -2392,7 +2393,7 @@
       <lang percentage="99">ru</lang>
       <lang percentage="31">si</lang>
       <lang percentage="99">sk</lang>
-      <lang percentage="90">sl</lang>
+      <lang percentage="92">sl</lang>
       <lang percentage="73">sq</lang>
       <lang percentage="99">sr</lang>
       <lang percentage="99">sr@latin</lang>
@@ -2400,7 +2401,7 @@
       <lang percentage="89">ta</lang>
       <lang percentage="89">te</lang>
       <lang percentage="91">tg</lang>
-      <lang percentage="99">th</lang>
+      <lang percentage="100">th</lang>
       <lang percentage="90">tr</lang>
       <lang percentage="93">ug</lang>
       <lang percentage="99">uk</lang>
@@ -2412,282 +2413,7 @@
       <lang percentage="90">zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.20.1-0.x86_64.rpm</value>
-      <value key="X-Merge-With-Parent">evince.desktop</value>
-    </metadata>
-  </component>
-  <component type="addon">
-    <id>evince-dvidocument</id>
-    <pkgname>evince</pkgname>
-    <name>DVI Documents</name>
-    <name xml:lang="af">DVI-dokumente</name>
-    <name xml:lang="an">Documentos DVI</name>
-    <name xml:lang="ar">مستندات DVI</name>
-    <name xml:lang="as">DVI দস্তাবেজসমূহ</name>
-    <name xml:lang="ast">Documentos DVI</name>
-    <name xml:lang="be">DVI-дакументы</name>
-    <name xml:lang="be@latin">Dakumenty DVI</name>
-    <name xml:lang="bg">Документи DVI</name>
-    <name xml:lang="bn">DVI নথি</name>
-    <name xml:lang="bn_IN">DVI ডকুমেন্ট</name>
-    <name xml:lang="br">Teulieù DVI</name>
-    <name xml:lang="bs">DVI dokumenti</name>
-    <name xml:lang="ca">Documents DVI</name>
-    <name xml:lang="ca@valencia">Documents DVI</name>
-    <name xml:lang="cs">Dokumenty DVI</name>
-    <name xml:lang="cy">Dogfennau DVI</name>
-    <name xml:lang="da">DVI-dokumenter</name>
-    <name xml:lang="de">DVI-Dokumente</name>
-    <name xml:lang="dz">ཌི་ཝི་ཨའི་ཡིག་ཆ་ཚུ།</name>
-    <name xml:lang="el">Έγγραφα DVI</name>
-    <name xml:lang="en@shaw">DVI 𐑛𐑪𐑒𐑿𐑥𐑩𐑯𐑑𐑕</name>
-    <name xml:lang="eo">DVI-dokumentoj</name>
-    <name xml:lang="es">Documentos DVI</name>
-    <name xml:lang="et">DVI-dokumendid</name>
-    <name xml:lang="eu">DVI dokumentuak</name>
-    <name xml:lang="fa">سندهای DVI</name>
-    <name xml:lang="fi">DVI-asiakirjat</name>
-    <name xml:lang="fr">Documents DVI</name>
-    <name xml:lang="fur">Documents DVI</name>
-    <name xml:lang="ga">Cáipéisí DVI</name>
-    <name xml:lang="gd">Sgrìobhainnean DVI</name>
-    <name xml:lang="gl">Documentos DVI</name>
-    <name xml:lang="gu">DVI દસ્તાવેજો</name>
-    <name xml:lang="he">מסמכי DVI</name>
-    <name xml:lang="hi">DVI दस्तावेज़</name>
-    <name xml:lang="hu">DVI-dokumentumok</name>
-    <name xml:lang="id">Dokumen DVI</name>
-    <name xml:lang="is">DVI skjöl</name>
-    <name xml:lang="it">Documenti DVI</name>
-    <name xml:lang="ja">DVI ドキュメント</name>
-    <name xml:lang="ka">DVI დოკუმენტები</name>
-    <name xml:lang="kk">DVI құжаттары</name>
-    <name xml:lang="km">ឯកសារ DVI</name>
-    <name xml:lang="kn">DVI ದಸ್ತಾವೇಜುಗಳು</name>
-    <name xml:lang="ko">DVI 문서</name>
-    <name xml:lang="ks">डीवी आई कागजात</name>
-    <name xml:lang="ku">Belgeyên DVI</name>
-    <name xml:lang="lt">DVI dokumentai</name>
-    <name xml:lang="lv">DVI dokumenti</name>
-    <name xml:lang="mai">DVI दस्ताबेज</name>
-    <name xml:lang="mg">Tahirin-kevitra DVI</name>
-    <name xml:lang="mk">DVI документи</name>
-    <name xml:lang="ml">DVI രേഖകള്‍</name>
-    <name xml:lang="mn">DVI Баримт бичиг</name>
-    <name xml:lang="mr">DVI दस्तऐवज</name>
-    <name xml:lang="ms">Dokumen-dokumen DVI</name>
-    <name xml:lang="my">DVI ဖိုင်များ</name>
-    <name xml:lang="nb">DVI-dokumenter</name>
-    <name xml:lang="nds">DVI Dokumente</name>
-    <name xml:lang="ne">डि भि आइ कागजातहरु</name>
-    <name xml:lang="nl">DVI-documenten</name>
-    <name xml:lang="nn">DVI-dokument</name>
-    <name xml:lang="oc">Documents DVI</name>
-    <name xml:lang="or">DVI ଦଲିଲ</name>
-    <name xml:lang="pa">DVI ਦਸਤਾਵੇਜ਼</name>
-    <name xml:lang="pl">Dokumenty DVI</name>
-    <name xml:lang="ps">لاسوندونه DVI</name>
-    <name xml:lang="pt">Documentos DVI</name>
-    <name xml:lang="pt_BR">Documentos DVI</name>
-    <name xml:lang="ro">Documente DVI</name>
-    <name xml:lang="ru">Документы формата DVI</name>
-    <name xml:lang="si">DVI ලේඛන</name>
-    <name xml:lang="sk">Dokumenty typu DVI</name>
-    <name xml:lang="sl">DVI Dokumenti</name>
-    <name xml:lang="sq">Dokumente DVI</name>
-    <name xml:lang="sr">ДВИ документи</name>
-    <name xml:lang="sr@latin">DVI dokumenti</name>
-    <name xml:lang="sv">DVI-dokument</name>
-    <name xml:lang="ta">DVI ஆவணங்கள்</name>
-    <name xml:lang="te">DVI పత్రాలు</name>
-    <name xml:lang="tg">Ҳуҷҷатҳои DVI</name>
-    <name xml:lang="th">เอกสาร DVI</name>
-    <name xml:lang="tr">DVI Belgeleri</name>
-    <name xml:lang="ug">DVI پۈتۈكى</name>
-    <name xml:lang="uk">Документи DVI</name>
-    <name xml:lang="vi">Tài liệu DVI</name>
-    <name xml:lang="zh_CN">DVI 文档</name>
-    <name xml:lang="zh_HK">DVI 文件</name>
-    <name xml:lang="zh_TW">DVI 文件</name>
-    <name xml:lang="zu">Amadokhumende we-DVI</name>
-    <summary>Adds support for reading DVI documents</summary>
-    <summary xml:lang="an">Anyade capacidat ta leyer documentos DVI</summary>
-    <summary xml:lang="ar">يضيف دعم قراءة مستندات DVI</summary>
-    <summary xml:lang="as">DVI দস্তাবেজসমূহ পঢ়াৰ সমৰ্থন যোগ কৰিছে</summary>
-    <summary xml:lang="bg">Добавя поддръжка за четене на документи DVI</summary>
-    <summary xml:lang="bn_IN">DVI নথিপত্র পড়ার জন্য সহায়তা যোগ করে</summary>
-    <summary xml:lang="bs">Dodaje podršku za čitanje DVI dokumenata</summary>
-    <summary xml:lang="ca">Permet la lectura de documents DVI</summary>
-    <summary xml:lang="ca@valencia">Permet la lectura de documents DVI</summary>
-    <summary xml:lang="cs">Přidává podporu pro čtení dokumentů DVI</summary>
-    <summary xml:lang="da">Tilføjer understøttelse af DVI-dokumenter</summary>
-    <summary xml:lang="de">Fügt Unterstützung für das Lesen von DVI-Dokumenten hinzu</summary>
-    <summary xml:lang="el">Προσθέτει υποστήριξη για την ανάγνωση εγγράφων DVI</summary>
-    <summary xml:lang="eo">Aldonas subtenon por legi DVI-dokumentojn</summary>
-    <summary xml:lang="es">Añade soporte para leer documentos DVI</summary>
-    <summary xml:lang="eu">DVI dokumentuak irakurtzeko euskarria gehitzen du</summary>
-    <summary xml:lang="fa">پشتیبانی از خواندن سندهای DVI را اضافه می‌کند</summary>
-    <summary xml:lang="fi">Lisää tuen DVI-asiakirjojen lukemiselle</summary>
-    <summary xml:lang="fr">Ajoute la prise en charge de la lecture des documents DVI</summary>
-    <summary xml:lang="fur">Al zonte il supuart par lei i documents DVI</summary>
-    <summary xml:lang="gd">Cuiridh seo taic gus sgrìobhainnean DVI a leughadh ris</summary>
-    <summary xml:lang="gl">Engade compatibilidade para ler documentos DVI</summary>
-    <summary xml:lang="gu">DVI દસ્તાવેજોને વાંચવા માટે આધારને ઉમેરે છે</summary>
-    <summary xml:lang="he">הוספת תמיכה לקריאת מסמכי DVI</summary>
-    <summary xml:lang="hi">DVI दस्तावेज़ पढ़ने के लिए समर्थन देता है</summary>
-    <summary xml:lang="hu">Támogatást nyújt DVI dokumentumok olvasásához</summary>
-    <summary xml:lang="id">Menambahkan dukungan untuk membaca dokumen DVI</summary>
-    <summary xml:lang="is">Bætir við stuðningi til lestrar á DVI skjölum</summary>
-    <summary xml:lang="it">Aggiunge il supporto per la lettura dei documenti DVI</summary>
-    <summary xml:lang="ja">DVI ドキュメントの読み込みサポートを追加する</summary>
-    <summary xml:lang="kk">DVI құжаттарын оқу мүмкіндігін қосады</summary>
-    <summary xml:lang="kn">DVI ದಸ್ತಾವೇಜುಗಳನ್ನು ಓದಲು ಬೆಂಬಲವನ್ನು ಸೇರಿಸುತ್ತದೆ</summary>
-    <summary xml:lang="ko">DVI 문서를 읽는 기능을 추가합니다</summary>
-    <summary xml:lang="lt">Prideda DVI dokumentų palaikymą</summary>
-    <summary xml:lang="lv">Pievieno atbalstu DVI dokumentu lasīšanai</summary>
-    <summary xml:lang="mr">DVI दस्तऐवज वाचण्याकरिता समर्थन समाविष्ट करते</summary>
-    <summary xml:lang="nb">Legger til støtte for å lese DVI-dokumenter</summary>
-    <summary xml:lang="nl">Voegt ondersteuning toe voor het lezen van DVI-documenten</summary>
-    <summary xml:lang="oc">Apond la presa en carga de la lectura dels documents DVI</summary>
-    <summary xml:lang="pa">DVI ਦਸਤਾਵੇਜ਼ ਪੜ੍ਹਨ ਲਈ ਸਹਾਇਤਾ ਜੋੜਦੀ ਹੈ</summary>
-    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie DVI</summary>
-    <summary xml:lang="pt">Adiciona suporte para ler documentos DVI</summary>
-    <summary xml:lang="pt_BR">Adiciona suporte para leitura de documentos DVI</summary>
-    <summary xml:lang="ro">Adaugă suport pentru citirea documenteleor DVI</summary>
-    <summary xml:lang="ru">Добавляет поддержку для чтения документов в формате DVI</summary>
-    <summary xml:lang="sk">Pridá podporu na čítanie dokumentov typu DVI</summary>
-    <summary xml:lang="sl">Doda podporo za branje datotek DVI</summary>
-    <summary xml:lang="sr">Додајте подршку за читање ДВИ докумената</summary>
-    <summary xml:lang="sr@latin">Dodajte podršku za čitanje DVI dokumenata</summary>
-    <summary xml:lang="sv">Lägger till stöd för att läsa DVI-dokument</summary>
-    <summary xml:lang="ta">DVI ஆவணங்களைப் படிப்பதற்கான ஆதரவைச் சேர்க்கிறது</summary>
-    <summary xml:lang="te">DVI పత్రములు చదువుటకు తోడ్పాటు జతచేయును</summary>
-    <summary xml:lang="tg">Барои хониши ҳуҷҷатҳои DVI дастгириро илова мекунад</summary>
-    <summary xml:lang="th">เพิ่มการรองรับการอ่านเอกสาร DVI</summary>
-    <summary xml:lang="tr">DVI belgelerini görüntüleme desteği ekler</summary>
-    <summary xml:lang="uk">Додає підтримування читання документів DVI</summary>
-    <summary xml:lang="vi">Thêm hỗ trợ đọc các tài liệu DVI</summary>
-    <summary xml:lang="zh_CN">增加支持阅读 DVI 文档的功能</summary>
-    <summary xml:lang="zh_HK">加入讀取 DVI 文件的支援</summary>
-    <summary xml:lang="zh_TW">加入讀取 DVI 文件的支援</summary>
-    <kudos>
-      <kudo>HighContrast</kudo>
-      <kudo>ModernToolkit</kudo>
-      <kudo>UserDocs</kudo>
-    </kudos>
-    <vetos>
-      <veto>partially absorbing evince-dvidocument into evince.desktop</veto>
-    </vetos>
-    <mimetypes>
-      <mimetype>application/x-bzdvi</mimetype>
-      <mimetype>application/x-dvi</mimetype>
-      <mimetype>application/x-ext-dvi</mimetype>
-      <mimetype>application/x-gzdvi</mimetype>
-    </mimetypes>
-    <project_license>GPL-2.0+</project_license>
-    <url type="homepage">https://wiki.gnome.org/Apps/Evince/SupportedDocumentFormats</url>
-    <project_group>GNOME</project_group>
-    <extends>evince.desktop</extends>
-    <provides>
-      <dbus type="session">org.gnome.evince.Daemon</dbus>
-    </provides>
-    <languages>
-      <lang percentage="87">af</lang>
-      <lang percentage="90">an</lang>
-      <lang percentage="100">ar</lang>
-      <lang percentage="89">as</lang>
-      <lang percentage="92">ast</lang>
-      <lang percentage="88">be</lang>
-      <lang percentage="79">be@latin</lang>
-      <lang percentage="99">bg</lang>
-      <lang percentage="84">bn</lang>
-      <lang percentage="89">bn_IN</lang>
-      <lang percentage="50">br</lang>
-      <lang percentage="91">bs</lang>
-      <lang percentage="99">ca</lang>
-      <lang percentage="89">ca@valencia</lang>
-      <lang percentage="99">cs</lang>
-      <lang percentage="55">cy</lang>
-      <lang percentage="99">da</lang>
-      <lang percentage="99">de</lang>
-      <lang percentage="73">dz</lang>
-      <lang percentage="99">el</lang>
-      <lang percentage="76">en@shaw</lang>
-      <lang percentage="92">en_CA</lang>
-      <lang percentage="93">en_GB</lang>
-      <lang percentage="91">eo</lang>
-      <lang percentage="99">es</lang>
-      <lang percentage="91">et</lang>
-      <lang percentage="99">eu</lang>
-      <lang percentage="95">fa</lang>
-      <lang percentage="98">fi</lang>
-      <lang percentage="99">fr</lang>
-      <lang percentage="99">fur</lang>
-      <lang percentage="51">ga</lang>
-      <lang percentage="92">gd</lang>
-      <lang percentage="99">gl</lang>
-      <lang percentage="89">gu</lang>
-      <lang percentage="99">he</lang>
-      <lang percentage="89">hi</lang>
-      <lang percentage="99">hu</lang>
-      <lang percentage="99">id</lang>
-      <lang percentage="99">is</lang>
-      <lang percentage="99">it</lang>
-      <lang percentage="99">ja</lang>
-      <lang percentage="63">ka</lang>
-      <lang percentage="99">kk</lang>
-      <lang percentage="96">km</lang>
-      <lang percentage="89">kn</lang>
-      <lang percentage="99">ko</lang>
-      <lang percentage="58">ks</lang>
-      <lang percentage="75">ku</lang>
-      <lang percentage="99">lt</lang>
-      <lang percentage="99">lv</lang>
-      <lang percentage="62">mai</lang>
-      <lang percentage="62">mg</lang>
-      <lang percentage="92">mk</lang>
-      <lang percentage="93">ml</lang>
-      <lang percentage="84">mn</lang>
-      <lang percentage="89">mr</lang>
-      <lang percentage="92">ms</lang>
-      <lang percentage="82">my</lang>
-      <lang percentage="99">nb</lang>
-      <lang percentage="61">nds</lang>
-      <lang percentage="73">ne</lang>
-      <lang percentage="91">nl</lang>
-      <lang percentage="92">nn</lang>
-      <lang percentage="95">oc</lang>
-      <lang percentage="93">or</lang>
-      <lang percentage="99">pa</lang>
-      <lang percentage="99">pl</lang>
-      <lang percentage="62">ps</lang>
-      <lang percentage="99">pt</lang>
-      <lang percentage="99">pt_BR</lang>
-      <lang percentage="92">ro</lang>
-      <lang percentage="99">ru</lang>
-      <lang percentage="31">si</lang>
-      <lang percentage="99">sk</lang>
-      <lang percentage="90">sl</lang>
-      <lang percentage="73">sq</lang>
-      <lang percentage="99">sr</lang>
-      <lang percentage="99">sr@latin</lang>
-      <lang percentage="99">sv</lang>
-      <lang percentage="89">ta</lang>
-      <lang percentage="89">te</lang>
-      <lang percentage="91">tg</lang>
-      <lang percentage="99">th</lang>
-      <lang percentage="90">tr</lang>
-      <lang percentage="93">ug</lang>
-      <lang percentage="99">uk</lang>
-      <lang percentage="99">vi</lang>
-      <lang percentage="37">wa</lang>
-      <lang percentage="90">zh_CN</lang>
-      <lang percentage="89">zh_HK</lang>
-      <lang percentage="99">zh_TW</lang>
-      <lang percentage="90">zu</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">evince-3.20.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -2826,7 +2552,7 @@
     <summary xml:lang="nl">Voegt ondersteuning toe voor het lezen van PDF-documenten</summary>
     <summary xml:lang="oc">Apond la presa en carga de la lectura dels documents PDF</summary>
     <summary xml:lang="pa">PDF ਦਸਤਾਵੇਜ਼ ਪੜ੍ਹਨ ਲਈ ਸਹਾਇਤਾ ਜੋੜਦੀ ਹੈ</summary>
-    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie PDF</summary>
+    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie PDF</summary>
     <summary xml:lang="pt">Adiciona suporte para ler documentos PDF</summary>
     <summary xml:lang="pt_BR">Adiciona suporte para leitura de documentos PDF</summary>
     <summary xml:lang="ro">Adaugă suport pentru citirea documentelor PDF</summary>
@@ -2871,7 +2597,7 @@
     <languages>
       <lang percentage="87">af</lang>
       <lang percentage="90">an</lang>
-      <lang percentage="100">ar</lang>
+      <lang percentage="99">ar</lang>
       <lang percentage="89">as</lang>
       <lang percentage="92">ast</lang>
       <lang percentage="88">be</lang>
@@ -2891,7 +2617,7 @@
       <lang percentage="99">el</lang>
       <lang percentage="76">en@shaw</lang>
       <lang percentage="92">en_CA</lang>
-      <lang percentage="93">en_GB</lang>
+      <lang percentage="99">en_GB</lang>
       <lang percentage="91">eo</lang>
       <lang percentage="99">es</lang>
       <lang percentage="91">et</lang>
@@ -2901,7 +2627,7 @@
       <lang percentage="99">fr</lang>
       <lang percentage="99">fur</lang>
       <lang percentage="51">ga</lang>
-      <lang percentage="92">gd</lang>
+      <lang percentage="99">gd</lang>
       <lang percentage="99">gl</lang>
       <lang percentage="89">gu</lang>
       <lang percentage="99">he</lang>
@@ -2928,10 +2654,10 @@
       <lang percentage="89">mr</lang>
       <lang percentage="92">ms</lang>
       <lang percentage="82">my</lang>
-      <lang percentage="99">nb</lang>
+      <lang percentage="100">nb</lang>
       <lang percentage="61">nds</lang>
       <lang percentage="73">ne</lang>
-      <lang percentage="91">nl</lang>
+      <lang percentage="99">nl</lang>
       <lang percentage="92">nn</lang>
       <lang percentage="95">oc</lang>
       <lang percentage="93">or</lang>
@@ -2944,7 +2670,7 @@
       <lang percentage="99">ru</lang>
       <lang percentage="31">si</lang>
       <lang percentage="99">sk</lang>
-      <lang percentage="90">sl</lang>
+      <lang percentage="92">sl</lang>
       <lang percentage="73">sq</lang>
       <lang percentage="99">sr</lang>
       <lang percentage="99">sr@latin</lang>
@@ -2952,7 +2678,7 @@
       <lang percentage="89">ta</lang>
       <lang percentage="89">te</lang>
       <lang percentage="91">tg</lang>
-      <lang percentage="99">th</lang>
+      <lang percentage="100">th</lang>
       <lang percentage="90">tr</lang>
       <lang percentage="93">ug</lang>
       <lang percentage="99">uk</lang>
@@ -2964,7 +2690,7 @@
       <lang percentage="90">zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.20.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -3101,7 +2827,7 @@
     <summary xml:lang="nl">Voegt ondersteuning toe voor het lezen van PostScript-documenten</summary>
     <summary xml:lang="oc">Apond la presa en carga de la lectura dels documents PostScript</summary>
     <summary xml:lang="pa">ਪੋਸਟਸਕ੍ਰਿਪਟ ਦਸਤਾਵੇਜ਼ ਪੜ੍ਹਨ ਲਈ ਸਹਾਇਤਾ ਜੋੜਦੀ ਹੈ</summary>
-    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie PostScript</summary>
+    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie PostScript</summary>
     <summary xml:lang="pt">Adiciona suporte para ler documentos PostScript</summary>
     <summary xml:lang="pt_BR">Adiciona suporte para leitura de documentos PostScript</summary>
     <summary xml:lang="ro">Adaugă suport pentru citirea documentelor PostScript</summary>
@@ -3149,7 +2875,7 @@
     <languages>
       <lang percentage="87">af</lang>
       <lang percentage="90">an</lang>
-      <lang percentage="100">ar</lang>
+      <lang percentage="99">ar</lang>
       <lang percentage="89">as</lang>
       <lang percentage="92">ast</lang>
       <lang percentage="88">be</lang>
@@ -3169,7 +2895,7 @@
       <lang percentage="99">el</lang>
       <lang percentage="76">en@shaw</lang>
       <lang percentage="92">en_CA</lang>
-      <lang percentage="93">en_GB</lang>
+      <lang percentage="99">en_GB</lang>
       <lang percentage="91">eo</lang>
       <lang percentage="99">es</lang>
       <lang percentage="91">et</lang>
@@ -3179,7 +2905,7 @@
       <lang percentage="99">fr</lang>
       <lang percentage="99">fur</lang>
       <lang percentage="51">ga</lang>
-      <lang percentage="92">gd</lang>
+      <lang percentage="99">gd</lang>
       <lang percentage="99">gl</lang>
       <lang percentage="89">gu</lang>
       <lang percentage="99">he</lang>
@@ -3206,10 +2932,10 @@
       <lang percentage="89">mr</lang>
       <lang percentage="92">ms</lang>
       <lang percentage="82">my</lang>
-      <lang percentage="99">nb</lang>
+      <lang percentage="100">nb</lang>
       <lang percentage="61">nds</lang>
       <lang percentage="73">ne</lang>
-      <lang percentage="91">nl</lang>
+      <lang percentage="99">nl</lang>
       <lang percentage="92">nn</lang>
       <lang percentage="95">oc</lang>
       <lang percentage="93">or</lang>
@@ -3222,7 +2948,7 @@
       <lang percentage="99">ru</lang>
       <lang percentage="31">si</lang>
       <lang percentage="99">sk</lang>
-      <lang percentage="90">sl</lang>
+      <lang percentage="92">sl</lang>
       <lang percentage="73">sq</lang>
       <lang percentage="99">sr</lang>
       <lang percentage="99">sr@latin</lang>
@@ -3230,7 +2956,7 @@
       <lang percentage="89">ta</lang>
       <lang percentage="89">te</lang>
       <lang percentage="91">tg</lang>
-      <lang percentage="99">th</lang>
+      <lang percentage="100">th</lang>
       <lang percentage="90">tr</lang>
       <lang percentage="93">ug</lang>
       <lang percentage="99">uk</lang>
@@ -3242,7 +2968,7 @@
       <lang percentage="90">zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.20.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -3357,7 +3083,7 @@
     <summary xml:lang="nl">Voegt ondersteuning toe voor het lezen TIFF-documenten</summary>
     <summary xml:lang="oc">Apond la presa en carga de la lectura dels documents TIFF</summary>
     <summary xml:lang="pa">TIFF ਦਸਤਾਵੇਜ਼ ਪੜ੍ਹਨ ਲਈ ਸਹਾਇਤਾ ਜੋੜਦੀ ਹੈ</summary>
-    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie TIFF</summary>
+    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie TIFF</summary>
     <summary xml:lang="pt">Adiciona suporte para ler documentos TIFF</summary>
     <summary xml:lang="pt_BR">Adiciona suporte para leitura de documentos TIFF</summary>
     <summary xml:lang="ro">Adaugă support pentru citirea documentelor TIFF</summary>
@@ -3398,7 +3124,7 @@
     <languages>
       <lang percentage="87">af</lang>
       <lang percentage="90">an</lang>
-      <lang percentage="100">ar</lang>
+      <lang percentage="99">ar</lang>
       <lang percentage="89">as</lang>
       <lang percentage="92">ast</lang>
       <lang percentage="88">be</lang>
@@ -3418,7 +3144,7 @@
       <lang percentage="99">el</lang>
       <lang percentage="76">en@shaw</lang>
       <lang percentage="92">en_CA</lang>
-      <lang percentage="93">en_GB</lang>
+      <lang percentage="99">en_GB</lang>
       <lang percentage="91">eo</lang>
       <lang percentage="99">es</lang>
       <lang percentage="91">et</lang>
@@ -3428,7 +3154,7 @@
       <lang percentage="99">fr</lang>
       <lang percentage="99">fur</lang>
       <lang percentage="51">ga</lang>
-      <lang percentage="92">gd</lang>
+      <lang percentage="99">gd</lang>
       <lang percentage="99">gl</lang>
       <lang percentage="89">gu</lang>
       <lang percentage="99">he</lang>
@@ -3455,10 +3181,10 @@
       <lang percentage="89">mr</lang>
       <lang percentage="92">ms</lang>
       <lang percentage="82">my</lang>
-      <lang percentage="99">nb</lang>
+      <lang percentage="100">nb</lang>
       <lang percentage="61">nds</lang>
       <lang percentage="73">ne</lang>
-      <lang percentage="91">nl</lang>
+      <lang percentage="99">nl</lang>
       <lang percentage="92">nn</lang>
       <lang percentage="95">oc</lang>
       <lang percentage="93">or</lang>
@@ -3471,7 +3197,7 @@
       <lang percentage="99">ru</lang>
       <lang percentage="31">si</lang>
       <lang percentage="99">sk</lang>
-      <lang percentage="90">sl</lang>
+      <lang percentage="92">sl</lang>
       <lang percentage="73">sq</lang>
       <lang percentage="99">sr</lang>
       <lang percentage="99">sr@latin</lang>
@@ -3479,7 +3205,7 @@
       <lang percentage="89">ta</lang>
       <lang percentage="89">te</lang>
       <lang percentage="91">tg</lang>
-      <lang percentage="99">th</lang>
+      <lang percentage="100">th</lang>
       <lang percentage="90">tr</lang>
       <lang percentage="93">ug</lang>
       <lang percentage="99">uk</lang>
@@ -3491,7 +3217,7 @@
       <lang percentage="90">zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.20.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -3606,7 +3332,7 @@
     <summary xml:lang="nl">Voegt ondersteuning toe voor het lezen van XPS-documenten</summary>
     <summary xml:lang="oc">Apond la presa en carga de la lectura dels documents XPS</summary>
     <summary xml:lang="pa">XPS ਦਸਤਾਵੇਜ਼ ਪੜ੍ਹਨ ਲਈ ਸਹਾਇਤਾ ਜੋੜਦੀ ਹੈ</summary>
-    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie XPS</summary>
+    <summary xml:lang="pl">Dodaje obsługę dokumentów w formacie XPS</summary>
     <summary xml:lang="pt">Adiciona suporte para ler documentos XPS</summary>
     <summary xml:lang="pt_BR">Adiciona suporte para leitura de documentos XPS</summary>
     <summary xml:lang="ro">Adaugă suport pentru citirea documentelor XPS</summary>
@@ -3648,7 +3374,7 @@
     <languages>
       <lang percentage="87">af</lang>
       <lang percentage="90">an</lang>
-      <lang percentage="100">ar</lang>
+      <lang percentage="99">ar</lang>
       <lang percentage="89">as</lang>
       <lang percentage="92">ast</lang>
       <lang percentage="88">be</lang>
@@ -3668,7 +3394,7 @@
       <lang percentage="99">el</lang>
       <lang percentage="76">en@shaw</lang>
       <lang percentage="92">en_CA</lang>
-      <lang percentage="93">en_GB</lang>
+      <lang percentage="99">en_GB</lang>
       <lang percentage="91">eo</lang>
       <lang percentage="99">es</lang>
       <lang percentage="91">et</lang>
@@ -3678,7 +3404,7 @@
       <lang percentage="99">fr</lang>
       <lang percentage="99">fur</lang>
       <lang percentage="51">ga</lang>
-      <lang percentage="92">gd</lang>
+      <lang percentage="99">gd</lang>
       <lang percentage="99">gl</lang>
       <lang percentage="89">gu</lang>
       <lang percentage="99">he</lang>
@@ -3705,10 +3431,10 @@
       <lang percentage="89">mr</lang>
       <lang percentage="92">ms</lang>
       <lang percentage="82">my</lang>
-      <lang percentage="99">nb</lang>
+      <lang percentage="100">nb</lang>
       <lang percentage="61">nds</lang>
       <lang percentage="73">ne</lang>
-      <lang percentage="91">nl</lang>
+      <lang percentage="99">nl</lang>
       <lang percentage="92">nn</lang>
       <lang percentage="95">oc</lang>
       <lang percentage="93">or</lang>
@@ -3721,7 +3447,7 @@
       <lang percentage="99">ru</lang>
       <lang percentage="31">si</lang>
       <lang percentage="99">sk</lang>
-      <lang percentage="90">sl</lang>
+      <lang percentage="92">sl</lang>
       <lang percentage="73">sq</lang>
       <lang percentage="99">sr</lang>
       <lang percentage="99">sr@latin</lang>
@@ -3729,7 +3455,7 @@
       <lang percentage="89">ta</lang>
       <lang percentage="89">te</lang>
       <lang percentage="91">tg</lang>
-      <lang percentage="99">th</lang>
+      <lang percentage="100">th</lang>
       <lang percentage="90">tr</lang>
       <lang percentage="93">ug</lang>
       <lang percentage="99">uk</lang>
@@ -3741,7 +3467,7 @@
       <lang percentage="90">zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.20.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -3779,7 +3505,7 @@
     <summary xml:lang="nb">Søppelfilter bruker Bogofilter</summary>
     <summary xml:lang="nl">Spamfilter gebruikmakend van Bogofilter</summary>
     <summary xml:lang="oc">Filtre de corrièr indesirable qu'utiliza Bogofilter</summary>
-    <summary xml:lang="pl">Filtrowanie niechcianych wiadomości używając Bogofilter</summary>
+    <summary xml:lang="pl">Filtrowanie niechcianych wiadomości za pomocą Bogofilter</summary>
     <summary xml:lang="pt">Filtrar não solicitado usando Bogofilter</summary>
     <summary xml:lang="pt_BR">Filtro de spam usando Bogofilter</summary>
     <summary xml:lang="ru">Фильтр спама с помощью Bogofilter</summary>
@@ -3808,7 +3534,7 @@
     <languages>
       <lang percentage="49">af</lang>
       <lang percentage="85">an</lang>
-      <lang percentage="80">ar</lang>
+      <lang percentage="79">ar</lang>
       <lang percentage="85">as</lang>
       <lang percentage="85">ast</lang>
       <lang percentage="55">az</lang>
@@ -3817,38 +3543,38 @@
       <lang percentage="84">bg</lang>
       <lang percentage="91">bn</lang>
       <lang percentage="85">bn_IN</lang>
-      <lang percentage="96">bs</lang>
-      <lang percentage="100">ca</lang>
+      <lang percentage="95">bs</lang>
+      <lang percentage="99">ca</lang>
       <lang percentage="85">ca@valencia</lang>
       <lang percentage="100">cs</lang>
       <lang percentage="75">cy</lang>
       <lang percentage="100">da</lang>
       <lang percentage="100">de</lang>
-      <lang percentage="94">dz</lang>
-      <lang percentage="100">el</lang>
+      <lang percentage="93">dz</lang>
+      <lang percentage="99">el</lang>
       <lang percentage="78">en@shaw</lang>
       <lang percentage="86">en_CA</lang>
-      <lang percentage="85">en_GB</lang>
+      <lang percentage="100">en_GB</lang>
       <lang percentage="57">eo</lang>
       <lang percentage="100">es</lang>
       <lang percentage="88">et</lang>
       <lang percentage="100">eu</lang>
       <lang percentage="50">fa</lang>
-      <lang percentage="80">fi</lang>
-      <lang percentage="99">fr</lang>
+      <lang percentage="81">fi</lang>
+      <lang percentage="100">fr</lang>
       <lang percentage="43">ga</lang>
       <lang percentage="100">gl</lang>
       <lang percentage="85">gu</lang>
-      <lang percentage="62">he</lang>
+      <lang percentage="61">he</lang>
       <lang percentage="85">hi</lang>
-      <lang percentage="78">hr</lang>
+      <lang percentage="77">hr</lang>
       <lang percentage="100">hu</lang>
-      <lang percentage="93">id</lang>
+      <lang percentage="94">id</lang>
       <lang percentage="41">is</lang>
-      <lang percentage="100">it</lang>
+      <lang percentage="99">it</lang>
       <lang percentage="84">ja</lang>
       <lang percentage="29">ka</lang>
-      <lang percentage="25">kk</lang>
+      <lang percentage="28">kk</lang>
       <lang percentage="85">kn</lang>
       <lang percentage="100">ko</lang>
       <lang percentage="100">lt</lang>
@@ -3866,8 +3592,8 @@
       <lang percentage="85">or</lang>
       <lang percentage="85">pa</lang>
       <lang percentage="100">pl</lang>
-      <lang percentage="58">ps</lang>
-      <lang percentage="100">pt</lang>
+      <lang percentage="57">ps</lang>
+      <lang percentage="99">pt</lang>
       <lang percentage="100">pt_BR</lang>
       <lang percentage="88">ro</lang>
       <lang percentage="86">ru</lang>
@@ -3878,20 +3604,20 @@
       <lang percentage="100">sr</lang>
       <lang percentage="100">sr@latin</lang>
       <lang percentage="100">sv</lang>
-      <lang percentage="95">ta</lang>
+      <lang percentage="94">ta</lang>
       <lang percentage="82">te</lang>
-      <lang percentage="86">th</lang>
+      <lang percentage="85">th</lang>
       <lang percentage="97">tr</lang>
       <lang percentage="85">ug</lang>
       <lang percentage="100">uk</lang>
       <lang percentage="83">vi</lang>
       <lang percentage="68">xh</lang>
-      <lang percentage="98">zh_CN</lang>
+      <lang percentage="97">zh_CN</lang>
       <lang percentage="85">zh_HK</lang>
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.20.5-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution-3.22.0-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -3915,7 +3641,7 @@
     <languages>
       <lang percentage="49">af</lang>
       <lang percentage="85">an</lang>
-      <lang percentage="80">ar</lang>
+      <lang percentage="79">ar</lang>
       <lang percentage="85">as</lang>
       <lang percentage="85">ast</lang>
       <lang percentage="55">az</lang>
@@ -3924,38 +3650,38 @@
       <lang percentage="84">bg</lang>
       <lang percentage="91">bn</lang>
       <lang percentage="85">bn_IN</lang>
-      <lang percentage="96">bs</lang>
-      <lang percentage="100">ca</lang>
+      <lang percentage="95">bs</lang>
+      <lang percentage="99">ca</lang>
       <lang percentage="85">ca@valencia</lang>
       <lang percentage="100">cs</lang>
       <lang percentage="75">cy</lang>
       <lang percentage="100">da</lang>
       <lang percentage="100">de</lang>
-      <lang percentage="94">dz</lang>
-      <lang percentage="100">el</lang>
+      <lang percentage="93">dz</lang>
+      <lang percentage="99">el</lang>
       <lang percentage="78">en@shaw</lang>
       <lang percentage="86">en_CA</lang>
-      <lang percentage="85">en_GB</lang>
+      <lang percentage="100">en_GB</lang>
       <lang percentage="57">eo</lang>
       <lang percentage="100">es</lang>
       <lang percentage="88">et</lang>
       <lang percentage="100">eu</lang>
       <lang percentage="50">fa</lang>
-      <lang percentage="80">fi</lang>
-      <lang percentage="99">fr</lang>
+      <lang percentage="81">fi</lang>
+      <lang percentage="100">fr</lang>
       <lang percentage="43">ga</lang>
       <lang percentage="100">gl</lang>
       <lang percentage="85">gu</lang>
-      <lang percentage="62">he</lang>
+      <lang percentage="61">he</lang>
       <lang percentage="85">hi</lang>
-      <lang percentage="78">hr</lang>
+      <lang percentage="77">hr</lang>
       <lang percentage="100">hu</lang>
-      <lang percentage="93">id</lang>
+      <lang percentage="94">id</lang>
       <lang percentage="41">is</lang>
-      <lang percentage="100">it</lang>
+      <lang percentage="99">it</lang>
       <lang percentage="84">ja</lang>
       <lang percentage="29">ka</lang>
-      <lang percentage="25">kk</lang>
+      <lang percentage="28">kk</lang>
       <lang percentage="85">kn</lang>
       <lang percentage="100">ko</lang>
       <lang percentage="100">lt</lang>
@@ -3973,8 +3699,8 @@
       <lang percentage="85">or</lang>
       <lang percentage="85">pa</lang>
       <lang percentage="100">pl</lang>
-      <lang percentage="58">ps</lang>
-      <lang percentage="100">pt</lang>
+      <lang percentage="57">ps</lang>
+      <lang percentage="99">pt</lang>
       <lang percentage="100">pt_BR</lang>
       <lang percentage="88">ro</lang>
       <lang percentage="86">ru</lang>
@@ -3985,20 +3711,20 @@
       <lang percentage="100">sr</lang>
       <lang percentage="100">sr@latin</lang>
       <lang percentage="100">sv</lang>
-      <lang percentage="95">ta</lang>
+      <lang percentage="94">ta</lang>
       <lang percentage="82">te</lang>
-      <lang percentage="86">th</lang>
+      <lang percentage="85">th</lang>
       <lang percentage="97">tr</lang>
       <lang percentage="85">ug</lang>
       <lang percentage="100">uk</lang>
       <lang percentage="83">vi</lang>
       <lang percentage="68">xh</lang>
-      <lang percentage="98">zh_CN</lang>
+      <lang percentage="97">zh_CN</lang>
       <lang percentage="85">zh_HK</lang>
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.20.5-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution-3.22.0-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -4025,6 +3751,7 @@
     <summary xml:lang="el">Φίλτρο ανεπιθύμητων χρησιμοποιώντας το SpamAssassin</summary>
     <summary xml:lang="es">Filtro de spam usando SpamAssassin</summary>
     <summary xml:lang="eu">Baztergarriak iragazteko SpamAssassin erabiltzen</summary>
+    <summary xml:lang="fi">Roskapostisuodatus SpamAssassinia käyttäen</summary>
     <summary xml:lang="fr">Filtre de pourriel utilisant SpamAssassin</summary>
     <summary xml:lang="gl">Filtrar spam usando SpamAssassin</summary>
     <summary xml:lang="hu">Levélszemétszűrő szoftver SpamAssassin használatával</summary>
@@ -4037,14 +3764,14 @@
     <summary xml:lang="nb">Søppelfilter bruker SpamAssassin</summary>
     <summary xml:lang="nl">Spamfilter gebruikmakend van SpamAssassin</summary>
     <summary xml:lang="oc">Filtra de corrièr electronic indesirable utilizant SpamAssassin</summary>
-    <summary xml:lang="pl">Filtrowanie niechcianych wiadomości używając SpamAssassin</summary>
+    <summary xml:lang="pl">Filtrowanie niechcianych wiadomości za pomocą SpamAssassin</summary>
     <summary xml:lang="pt">Filtrar não solicitado usando SpamAssassin</summary>
     <summary xml:lang="pt_BR">Filtro de spam usando SpamAssassin</summary>
     <summary xml:lang="ru">Фильтр спама с помощью SpamAssassin</summary>
     <summary xml:lang="sk">Filtrovanie nevyžiadanej pošty pomocou programu SpamAssassin</summary>
     <summary xml:lang="sl">Filtriranje neželenih sporočil s SpamAssassin</summary>
-    <summary xml:lang="sr">Филтер непожељне поруке помоћу SpamAssassin</summary>
-    <summary xml:lang="sr@latin">Filter nepoželjne poruke pomoću SpamAssassin</summary>
+    <summary xml:lang="sr">Филтер непожељне поруке помоћу Убице спама</summary>
+    <summary xml:lang="sr@latin">Filter nepoželjne poruke pomoću Ubice spama</summary>
     <summary xml:lang="sv">Skräppostfilter som använder SpamAssassin</summary>
     <summary xml:lang="ta">SpamAssassin பயன்படுத்தி குப்பை வடிகட்டி</summary>
     <summary xml:lang="tr">SpamAssassin kullanarak önemsiz ileti filtrele</summary>
@@ -4066,7 +3793,7 @@
     <languages>
       <lang percentage="49">af</lang>
       <lang percentage="85">an</lang>
-      <lang percentage="80">ar</lang>
+      <lang percentage="79">ar</lang>
       <lang percentage="85">as</lang>
       <lang percentage="85">ast</lang>
       <lang percentage="55">az</lang>
@@ -4075,38 +3802,38 @@
       <lang percentage="84">bg</lang>
       <lang percentage="91">bn</lang>
       <lang percentage="85">bn_IN</lang>
-      <lang percentage="96">bs</lang>
-      <lang percentage="100">ca</lang>
+      <lang percentage="95">bs</lang>
+      <lang percentage="99">ca</lang>
       <lang percentage="85">ca@valencia</lang>
       <lang percentage="100">cs</lang>
       <lang percentage="75">cy</lang>
       <lang percentage="100">da</lang>
       <lang percentage="100">de</lang>
-      <lang percentage="94">dz</lang>
-      <lang percentage="100">el</lang>
+      <lang percentage="93">dz</lang>
+      <lang percentage="99">el</lang>
       <lang percentage="78">en@shaw</lang>
       <lang percentage="86">en_CA</lang>
-      <lang percentage="85">en_GB</lang>
+      <lang percentage="100">en_GB</lang>
       <lang percentage="57">eo</lang>
       <lang percentage="100">es</lang>
       <lang percentage="88">et</lang>
       <lang percentage="100">eu</lang>
       <lang percentage="50">fa</lang>
-      <lang percentage="80">fi</lang>
-      <lang percentage="99">fr</lang>
+      <lang percentage="81">fi</lang>
+      <lang percentage="100">fr</lang>
       <lang percentage="43">ga</lang>
       <lang percentage="100">gl</lang>
       <lang percentage="85">gu</lang>
-      <lang percentage="62">he</lang>
+      <lang percentage="61">he</lang>
       <lang percentage="85">hi</lang>
-      <lang percentage="78">hr</lang>
+      <lang percentage="77">hr</lang>
       <lang percentage="100">hu</lang>
-      <lang percentage="93">id</lang>
+      <lang percentage="94">id</lang>
       <lang percentage="41">is</lang>
-      <lang percentage="100">it</lang>
+      <lang percentage="99">it</lang>
       <lang percentage="84">ja</lang>
       <lang percentage="29">ka</lang>
-      <lang percentage="25">kk</lang>
+      <lang percentage="28">kk</lang>
       <lang percentage="85">kn</lang>
       <lang percentage="100">ko</lang>
       <lang percentage="100">lt</lang>
@@ -4124,8 +3851,8 @@
       <lang percentage="85">or</lang>
       <lang percentage="85">pa</lang>
       <lang percentage="100">pl</lang>
-      <lang percentage="58">ps</lang>
-      <lang percentage="100">pt</lang>
+      <lang percentage="57">ps</lang>
+      <lang percentage="99">pt</lang>
       <lang percentage="100">pt_BR</lang>
       <lang percentage="88">ro</lang>
       <lang percentage="86">ru</lang>
@@ -4136,20 +3863,20 @@
       <lang percentage="100">sr</lang>
       <lang percentage="100">sr@latin</lang>
       <lang percentage="100">sv</lang>
-      <lang percentage="95">ta</lang>
+      <lang percentage="94">ta</lang>
       <lang percentage="82">te</lang>
-      <lang percentage="86">th</lang>
+      <lang percentage="85">th</lang>
       <lang percentage="97">tr</lang>
       <lang percentage="85">ug</lang>
       <lang percentage="100">uk</lang>
       <lang percentage="83">vi</lang>
       <lang percentage="68">xh</lang>
-      <lang percentage="98">zh_CN</lang>
+      <lang percentage="97">zh_CN</lang>
       <lang percentage="85">zh_HK</lang>
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.20.5-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution-3.22.0-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -4541,17 +4268,20 @@
     <name xml:lang="el">Πρόσθετο τερματικού για το Αρχεία</name>
     <name xml:lang="es">Complemento de terminal para Archivos</name>
     <name xml:lang="eu">Terminalaren osagarria Fitxategientzako</name>
+    <name xml:lang="fa">افزونه پایانه برای برنامه «پرونده‌ها»</name>
     <name xml:lang="fi">Pääteliitännäinen tiedostoselaimeen</name>
     <name xml:lang="fr">Greffon de terminal pour Fichiers</name>
     <name xml:lang="fur">Plugin terminâl par File</name>
+    <name xml:lang="gd">Plugan an tèirmineil airson Faidhlichean</name>
     <name xml:lang="gl">Engadido de Terminal para Ficheiros</name>
     <name xml:lang="hu">Terminál bővítmény a Fájlokhoz</name>
     <name xml:lang="id">Plugin Terminal bagi Berkas</name>
     <name xml:lang="it">Plugin del terminale per File</name>
     <name xml:lang="kk">Файлдар қолданбасы үшін терминал плагині</name>
-    <name xml:lang="ko">파일 보기에서 터미널 플러그인</name>
+    <name xml:lang="ko">파일 보기용 터미널 플러그인</name>
     <name xml:lang="lt">Terminalo įskiepis, skirtas Failams</name>
     <name xml:lang="lv">Termināļa spraudnis “Datnēm”</name>
+    <name xml:lang="nb">Terminaltillegg for Filer</name>
     <name xml:lang="pl">Wtyczka terminala dla Menedżera plików</name>
     <name xml:lang="pt">Plugins do terminal para Ficheiros</name>
     <name xml:lang="pt_BR">Plug-in do terminal para Arquivos</name>
@@ -4560,6 +4290,8 @@
     <name xml:lang="sr">Прикључак терминала за Датотеке:</name>
     <name xml:lang="sr@latin">Priključak terminala za Datoteke:</name>
     <name xml:lang="sv">Terminalinsticksmodul för Filer</name>
+    <name xml:lang="th">ปลั๊กอินเทอร์มินัลสำหรับ “แฟ้ม”</name>
+    <name xml:lang="tr">Dosyalar için Uçbirim eklentisi</name>
     <name xml:lang="uk">Додаток для Файлів</name>
     <name xml:lang="vi">Phần bổ sung Thiết bị cuối cho “Tập tin”</name>
     <name xml:lang="zh_TW">給 Files 的終端機外掛程式</name>
@@ -4573,9 +4305,11 @@
     <summary xml:lang="el">Άνοιγμα τερματικού από τα Αρχεία</summary>
     <summary xml:lang="es">Abrir una terminal desde Archivos</summary>
     <summary xml:lang="eu">Ireki terminal bat Fitxategietatik</summary>
+    <summary xml:lang="fa">باز کردن یک پایانه در برنامه «پرونده‌ها»</summary>
     <summary xml:lang="fi">Avaa pääte tiedostoselaimesta</summary>
     <summary xml:lang="fr">Ouvrir un terminal à partir de Fichiers</summary>
     <summary xml:lang="fur">Vierç un terminâl da File</summary>
+    <summary xml:lang="gd">Fosgail tèirmineal o Fhaidhlichean</summary>
     <summary xml:lang="gl">Abrir unha terminal desde Ficheiros</summary>
     <summary xml:lang="hu">Terminál megnyitása a Fájlokban</summary>
     <summary xml:lang="id">Buka sebuah terminal dari Berkas</summary>
@@ -4584,7 +4318,8 @@
     <summary xml:lang="ko">파일 보기에서 터미널을 엽니다</summary>
     <summary xml:lang="lt">Atverti terminalą iš Failų</summary>
     <summary xml:lang="lv">Atvērt termināli no “Datnēm”</summary>
-    <summary xml:lang="pl">Otwieranie terminala w Menedżerze plików</summary>
+    <summary xml:lang="nb">Åpne en terminal fra Filer</summary>
+    <summary xml:lang="pl">Otwieranie terminala w Menedżerze plików</summary>
     <summary xml:lang="pt">Abrir um terminal a partir de Ficheiros</summary>
     <summary xml:lang="pt_BR">Abrir um terminal a partir de Arquivos</summary>
     <summary xml:lang="ru">Открывает терминал из Nautilus</summary>
@@ -4592,39 +4327,12 @@
     <summary xml:lang="sr">Отвара терминал из Датотека</summary>
     <summary xml:lang="sr@latin">Otvara terminal iz Datoteka</summary>
     <summary xml:lang="sv">Öppna en terminal från Filer</summary>
+    <summary xml:lang="th">เปิดเทอร์มินัลจาก “แฟ้ม”</summary>
+    <summary xml:lang="tr">Dosyalar uygulaması içinden bir Uçbirim açın</summary>
     <summary xml:lang="uk">Відкрити термінал з Файлів</summary>
     <summary xml:lang="vi">Mở Thiết bị cuối từ “Tập tin”</summary>
     <summary xml:lang="zh_TW">從 Files 開啟終端機</summary>
-    <description><p>Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p></description>
-    <description xml:lang="bg"><p>Това е приставка за програмата „Файлове“, която добавя команда за отваряне на терминала в текущата папка.</p></description>
-    <description xml:lang="ca"><p>Open Terminal és un connector per l'aplicació de fitxers que afegeix un element de menú al menú contextual per obrir un terminal al directori actual de navegació.</p></description>
-    <description xml:lang="cs"><p>Otevřít terminál je zásuvný modul pro aplikaci Soubory, který přidává do kontextové nabídky položku pro otevření terminálu v právě procházené složce.</p></description>
-    <description xml:lang="da"><p>Åbn terminal er et plugin til Filer-programmet, som tilføjer et menupunkt til genvejsmenuen til at åbne en terminal i den aktuelle mappe.</p></description>
-    <description xml:lang="de"><p>Terminal Öffnen ist eine Erweiterung für die Dateien-Anwendung, die einen Menüeintrag in das Kontextmenü einfügt, das ein Terminal im aktuell besuchten Verzeichnis öffnet.</p></description>
-    <description xml:lang="el"><p>Το «Άνοιγμα τερματικού» είναι μια επέκταση για τα Αρχεία που προσθέτει ένα αντικείμενο στο μενού περιεχομένων, όπου ανοίγει ένα τερματικό στην τρέχουσα θέση του καταλόγου.</p></description>
-    <description xml:lang="es"><p>Abrir terminal es un complemento para la aplicación Archivos que añade un elemento de menú al menú contextual para abrir una terminal en la carpeta actual.</p></description>
-    <description xml:lang="eu"><p>'Ireki terminala' Fitxategiak aplikazioarentzako osagarri bat da. Testuinguruko menuari elementu bat gehitzen dio terminal bat irekitzeko (uneko direktorioan kokatuta).</p></description>
-    <description xml:lang="fi"><p>"Avaa pääte" on liitännäinen tiedostoselaimeen, joka lisää valikkotoiminnon kontekstivalikkoon selattavan kansion kohdalle.</p></description>
-    <description xml:lang="fr"><p>Ouvrir un terminal est un greffon pour l'application Fichiers qui ajoute une entrée de menu dans le menu contextuel pour ouvrir un terminal dans le dossier en cours d'affichage.</p></description>
-    <description xml:lang="fur"><p>Vierç terminâl al è un plugin par l'aplicazion File che al zonte un element tal menù di contest, par vierzi un terminâl te cartele atualmentri sfueade.</p></description>
-    <description xml:lang="gl"><p>Abrir un Terminal é un engadido para o aplicativo Ficheiros que engade un elemento no menú contextual para abrir un terminal no cartafol que se está explorando actualmente.</p></description>
-    <description xml:lang="hu"><p>A terminál megnyitása egy bővítmény a Fájlok alkalmazáshoz, amely egy menüelemet ad a helyi menühöz, ahonnan terminálablak nyitható az éppen nyitott mappában.</p></description>
-    <description xml:lang="id"><p>Open Terminal adalah suatu pengaya bagi aplikasi Berkas yang menambah suatu butir menu ke menu konteks untuk membuka sebuah terminal dalam direktori yang saat ini sedang diramban.</p></description>
-    <description xml:lang="it"><p>Apri terminale è un plugin per l'applicazione File che aggiunge una voce al menù contestuale per aprire un terminale nell'attuale directory in esplorazione.</p></description>
-    <description xml:lang="ko"><p>터미널 열기는 파일 보기 프로그램의 현재 보고 있는 디렉터리에서 터미널을 여는 메뉴 항목을  컨텍스트 메뉴에 추가합니다.</p></description>
-    <description xml:lang="lt"><p>Atverti terminalą yra Failų programai skirtas įskiepis, kuris prideda kontekstinio meniu elementą, atveriantį terminalą esamu metu naršomame kataloge.</p></description>
-    <description xml:lang="lv"><p>“Atvērt termināli” ir spraudnis lietotnei “Datnes”, kas pievieno izvēlnes vienumu konteksta izvēlnei, kas atver termināli pārlūkotajā direktorijā.</p></description>
-    <description xml:lang="pl"><p>Wtyczka dla Menedżera plików dodająca element do menu kontekstowego otwierający terminal w obecnie przeglądanym katalogu.</p></description>
-    <description xml:lang="pt"><p>Abrir Terminal é um plugin para a aplicação Ficheiros que adiciona no menu de contexto abrir terminal na pasta atual.</p></description>
-    <description xml:lang="pt_BR"><p>Open Terminal é um plug-in para o aplicativo Arquivos que adiciona um item de menu ao menu de contexto para abrir um terminal no diretório navegado no momento.</p></description>
-    <description xml:lang="ru"><p>Открыть терминал — модуль для приложения Nautilus, который добавляет в строку в контекстном меню для открытия терминала в текущей просматриваемой папке.</p></description>
-    <description xml:lang="sk"><p>Otvoriť terminál je zásuvný modul pre aplikáciu Súbory, ktorý pridáva položku kontextovej ponuky na otvorenie terminálu v aktuálne prehliadanom adresári.</p></description>
-    <description xml:lang="sr"><p>Отвори терминал је додатак за програм Датотеке, који додаје ставку менија за отварање терминала из тренутног директоријума.</p></description>
-    <description xml:lang="sr@latin"><p>Otvori terminal je dodatak za program Datoteke, koji dodaje stavku menija za otvaranje terminala iz trenutnog direktorijuma.</p></description>
-    <description xml:lang="sv"><p>Öppna terminal är en insticksmodul för programmet Filer som lägger till ett menyobjekt i kontextmenyn för att öppna en terminal i den öppnade katalogen.</p></description>
-    <description xml:lang="uk"><p>Відкрити термінал — додаток для програми Файли, яка додає пункт в контекстне меню, щоб відкривати термінал у поточному каталозі.</p></description>
-    <description xml:lang="vi"><p>Mở Thiết bị cuối là phần bổ sung dành cho ứng dụng tập tin cái mà sẽ thêm một mục vào trình đơn ngữ cảnh để mở thiết bị cuối ở thư mục hiện đang được duyệt.</p></description>
-    <description xml:lang="zh_TW"><p>Open Terminal 是一個 Files 應用程式的外掛程式，可以在目前瀏覽目錄的脈絡選單中加入開啟終端機的選單項目。</p></description>
+    <description><p>Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="bg">Това е приставка за програмата „Файлове“, която добавя команда за отваряне на терминала в текущата папка.</p><p xml:lang="ca">Open Terminal és un connector per l'aplicació de fitxers que afegeix un element de menú al menú contextual per obrir un terminal al directori actual de navegació.</p><p xml:lang="cs">Otevřít terminál je zásuvný modul pro aplikaci Soubory, který přidává do kontextové nabídky položku pro otevření terminálu v právě procházené složce.</p><p xml:lang="da">Åbn terminal er et plugin til Filer-programmet, som tilføjer et menupunkt til genvejsmenuen til at åbne en terminal i den aktuelle mappe.</p><p xml:lang="de">Terminal Öffnen ist eine Erweiterung für die Dateien-Anwendung, die einen Menüeintrag in das Kontextmenü einfügt, das ein Terminal im aktuell besuchten Verzeichnis öffnet.</p><p xml:lang="el">Το «Άνοιγμα τερματικού» είναι μια επέκταση για τα Αρχεία που προσθέτει ένα αντικείμενο στο μενού περιεχομένων, όπου ανοίγει ένα τερματικό στην τρέχουσα θέση του καταλόγου.</p><p xml:lang="en_GB">Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="es">Abrir terminal es un complemento para la aplicación Archivos que añade un elemento de menú al menú contextual para abrir una terminal en la carpeta actual.</p><p xml:lang="eu">'Ireki terminala' Fitxategiak aplikazioarentzako osagarri bat da. Testuinguruko menuari elementu bat gehitzen dio terminal bat irekitzeko (uneko direktorioan kokatuta).</p><p xml:lang="fa">«باز کردن در پایانه» یک افزونه برای برنامه «پرونده‌ها» است که یک مورد به منو کلیک راست آن اضافه می‌کند، تا از آن طریق بتوان یک پنجرهٔ پایانه در شاخه فعلی باز کند.</p><p xml:lang="fi">"Avaa pääte" on liitännäinen tiedostoselaimeen, joka lisää valikkotoiminnon kontekstivalikkoon selattavan kansion kohdalle.</p><p xml:lang="fr">Ouvrir un terminal est un greffon pour l'application Fichiers qui ajoute une entrée de menu dans le menu contextuel pour ouvrir un terminal dans le dossier en cours d'affichage.</p><p xml:lang="fur">Vierç terminâl al è un plugin par l'aplicazion File che al zonte un element tal menù di contest, par vierzi un terminâl te cartele atualmentri sfueade.</p><p xml:lang="gd">'S e plugan a th' ann am "Fosgail tèirmineal" airson aplacaid nam faidhlichean a chuireas nì ris a' chlàr-taice cho-theacsail gus tèirmineal fhosgladh sa phasgan a thagh thu.</p><p xml:lang="gl">Abrir un Terminal é un engadido para o aplicativo Ficheiros que engade un elemento no menú contextual para abrir un terminal no cartafol que se está explorando actualmente.</p><p xml:lang="he">Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="hu">A terminál megnyitása egy bővítmény a Fájlok alkalmazáshoz, amely egy menüelemet ad a helyi menühöz, ahonnan terminálablak nyitható az éppen nyitott mappában.</p><p xml:lang="id">Open Terminal adalah suatu pengaya bagi aplikasi Berkas yang menambah suatu butir menu ke menu konteks untuk membuka sebuah terminal dalam direktori yang saat ini sedang diramban.</p><p xml:lang="it">Apri terminale è un plugin per l'applicazione File che aggiunge una voce al menù contestuale per aprire un terminale nell'attuale directory in esplorazione.</p><p xml:lang="ko">터미널 열기는 파일 보기 프로그램의 현재 보고 있는 디렉터리에서 터미널을 여는 메뉴 항목을 컨텍스트 메뉴에 추가합니다.</p><p xml:lang="lt">Atverti terminalą yra Failų programai skirtas įskiepis, kuris prideda kontekstinio meniu elementą, atveriantį terminalą esamu metu naršomame kataloge.</p><p xml:lang="lv">“Atvērt termināli” ir spraudnis lietotnei “Datnes”, kas pievieno izvēlnes vienumu konteksta izvēlnei, kas atver termināli pārlūkotajā direktorijā.</p><p xml:lang="pl">Wtyczka dla Menedżera plików dodająca element do menu kontekstowego otwierający terminal w obecnie przeglądanym katalogu.</p><p xml:lang="pt">Abrir Terminal é um plugin para a aplicação Ficheiros que adiciona no menu de contexto abrir terminal na pasta atual.</p><p xml:lang="pt_BR">Open Terminal é um plug-in para o aplicativo Arquivos que adiciona um item de menu ao menu de contexto para abrir um terminal no diretório navegado no momento.</p><p xml:lang="ru">Открыть терминал — модуль для приложения Nautilus, который добавляет в строку в контекстном меню для открытия терминала в текущей просматриваемой папке.</p><p xml:lang="sk">Otvoriť terminál je zásuvný modul pre aplikáciu Súbory, ktorý pridáva položku kontextovej ponuky na otvorenie terminálu v aktuálne prehliadanom adresári.</p><p xml:lang="sr">Отвори терминал је додатак за програм Датотеке, који додаје ставку менија за отварање терминала из тренутног директоријума.</p><p xml:lang="sr@latin">Otvori terminal je dodatak za program Datoteke, koji dodaje stavku menija za otvaranje terminala iz trenutnog direktorijuma.</p><p xml:lang="sv">Öppna terminal är en insticksmodul för programmet Filer som lägger till ett menyobjekt i kontextmenyn för att öppna en terminal i den öppnade katalogen.</p><p xml:lang="th">“เปิดเทอร์มินัล” เป็นปลั๊กอินสำหรับโปรแกรม “แฟ้ม” ที่จะเพิ่มรายการในเมนูคลิกขวา เพื่อใช้เปิดเทอร์มินัลในไดเรกทอรีที่กำลังท่องดูในขณะนั้น</p><p xml:lang="uk">Відкрити термінал — додаток для програми Файли, яка додає пункт в контекстне меню, щоб відкривати термінал у поточному каталозі.</p><p xml:lang="vi">Mở Thiết bị cuối là phần bổ sung dành cho ứng dụng tập tin cái mà sẽ thêm một mục vào trình đơn ngữ cảnh để mở thiết bị cuối ở thư mục hiện đang được duyệt.</p><p xml:lang="zh_TW">Open Terminal 是一個 Files 應用程式的外掛程式，可以在目前瀏覽目錄的脈絡選單中加入開啟終端機的選單項目。</p></description>
     <kudos>
       <kudo>ModernToolkit</kudo>
       <kudo>SearchProvider</kudo>
@@ -4643,7 +4351,7 @@
     <languages>
       <lang percentage="34">am</lang>
       <lang percentage="84">an</lang>
-      <lang percentage="79">ar</lang>
+      <lang percentage="81">ar</lang>
       <lang percentage="85">as</lang>
       <lang percentage="94">ast</lang>
       <lang percentage="98">az</lang>
@@ -4656,43 +4364,43 @@
       <lang percentage="84">bs</lang>
       <lang percentage="91">ca</lang>
       <lang percentage="85">ca@valencia</lang>
-      <lang percentage="91">cs</lang>
+      <lang percentage="92">cs</lang>
       <lang percentage="65">cy</lang>
-      <lang percentage="91">da</lang>
-      <lang percentage="91">de</lang>
+      <lang percentage="92">da</lang>
+      <lang percentage="92">de</lang>
       <lang percentage="66">dz</lang>
-      <lang percentage="91">el</lang>
+      <lang percentage="92">el</lang>
       <lang percentage="95">en@shaw</lang>
       <lang percentage="98">en_CA</lang>
-      <lang percentage="83">en_GB</lang>
+      <lang percentage="92">en_GB</lang>
       <lang percentage="80">eo</lang>
-      <lang percentage="91">es</lang>
+      <lang percentage="92">es</lang>
       <lang percentage="80">et</lang>
       <lang percentage="91">eu</lang>
-      <lang percentage="83">fa</lang>
+      <lang percentage="90">fa</lang>
       <lang percentage="88">fi</lang>
-      <lang percentage="91">fr</lang>
-      <lang percentage="89">fur</lang>
+      <lang percentage="92">fr</lang>
+      <lang percentage="90">fur</lang>
       <lang percentage="58">ga</lang>
-      <lang percentage="87">gd</lang>
-      <lang percentage="91">gl</lang>
+      <lang percentage="92">gd</lang>
+      <lang percentage="92">gl</lang>
       <lang percentage="82">gu</lang>
-      <lang percentage="91">he</lang>
+      <lang percentage="92">he</lang>
       <lang percentage="81">hi</lang>
       <lang percentage="65">hr</lang>
-      <lang percentage="91">hu</lang>
-      <lang percentage="91">id</lang>
+      <lang percentage="92">hu</lang>
+      <lang percentage="92">id</lang>
       <lang percentage="55">is</lang>
-      <lang percentage="91">it</lang>
+      <lang percentage="92">it</lang>
       <lang percentage="84">ja</lang>
       <lang percentage="35">ka</lang>
-      <lang percentage="84">kk</lang>
+      <lang percentage="85">kk</lang>
       <lang percentage="83">km</lang>
       <lang percentage="85">kn</lang>
-      <lang percentage="88">ko</lang>
+      <lang percentage="92">ko</lang>
       <lang percentage="71">ku</lang>
-      <lang percentage="91">lt</lang>
-      <lang percentage="91">lv</lang>
+      <lang percentage="92">lt</lang>
+      <lang percentage="92">lv</lang>
       <lang percentage="67">mai</lang>
       <lang percentage="98">mg</lang>
       <lang percentage="94">mk</lang>
@@ -4700,7 +4408,7 @@
       <lang percentage="91">mn</lang>
       <lang percentage="85">mr</lang>
       <lang percentage="93">ms</lang>
-      <lang percentage="87">nb</lang>
+      <lang percentage="89">nb</lang>
       <lang percentage="45">nds</lang>
       <lang percentage="63">ne</lang>
       <lang percentage="84">nl</lang>
@@ -4710,25 +4418,25 @@
       <lang percentage="85">pa</lang>
       <lang percentage="93">pl</lang>
       <lang percentage="50">ps</lang>
-      <lang percentage="91">pt</lang>
-      <lang percentage="91">pt_BR</lang>
+      <lang percentage="92">pt</lang>
+      <lang percentage="92">pt_BR</lang>
       <lang percentage="94">ro</lang>
-      <lang percentage="91">ru</lang>
+      <lang percentage="92">ru</lang>
       <lang percentage="52">si</lang>
-      <lang percentage="91">sk</lang>
-      <lang percentage="84">sl</lang>
+      <lang percentage="92">sk</lang>
+      <lang percentage="86">sl</lang>
       <lang percentage="95">sq</lang>
-      <lang percentage="91">sr</lang>
-      <lang percentage="91">sr@latin</lang>
-      <lang percentage="91">sv</lang>
+      <lang percentage="92">sr</lang>
+      <lang percentage="92">sr@latin</lang>
+      <lang percentage="92">sv</lang>
       <lang percentage="85">ta</lang>
       <lang percentage="85">te</lang>
       <lang percentage="84">tg</lang>
-      <lang percentage="87">th</lang>
-      <lang percentage="84">tr</lang>
+      <lang percentage="92">th</lang>
+      <lang percentage="89">tr</lang>
       <lang percentage="83">ug</lang>
-      <lang percentage="91">uk</lang>
-      <lang percentage="91">vi</lang>
+      <lang percentage="92">uk</lang>
+      <lang percentage="92">vi</lang>
       <lang percentage="90">wa</lang>
       <lang percentage="100">xh</lang>
       <lang percentage="87">zh_CN</lang>
@@ -4736,8 +4444,175 @@
       <lang percentage="91">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">gnome-terminal-3.20.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">gnome-terminal-3.22.0-0.x86_64.rpm</value>
       <value key="X-Merge-With-Parent">org.gnome.Terminal.desktop</value>
+    </metadata>
+  </component>
+  <component type="desktop">
+    <id>org.gnome.accerciser.desktop</id>
+    <pkgname>accerciser</pkgname>
+    <translation type="gettext">accerciser</translation>
+    <name>Accerciser</name>
+    <name xml:lang="ar">أكسرسايزر</name>
+    <name xml:lang="et">Hõlbustaja</name>
+    <name xml:lang="hi">एक्सेर्साइसर</name>
+    <name xml:lang="ko">액서사이저</name>
+    <name xml:lang="ml">അക്സര്‍സൈസര്‍</name>
+    <name xml:lang="sr">Аксерсајзер</name>
+    <name xml:lang="sr@latin">Aksersajzer</name>
+    <name xml:lang="te">ఎక్సర్‌సైజర్</name>
+    <summary>Accessibility explorer for the GNOME desktop</summary>
+    <summary xml:lang="bg">Проверка на достъпността в графичната среда GNOME</summary>
+    <summary xml:lang="bs">Accerciser istraživač pristupačnosti</summary>
+    <summary xml:lang="cs">Průzkumník přístupnosti pro pracovní prostředí GNOME</summary>
+    <summary xml:lang="da">Tilgængelighedsnavigatør til GNOME-skrivebordet</summary>
+    <summary xml:lang="de">Erkundungswergzeug für die barrierefreie GNOME-Arbeitsumgebung</summary>
+    <summary xml:lang="el">Περιηγητής προσιτότητας για την επιφάνεια εργασίας του GNOME</summary>
+    <summary xml:lang="es">Explorador de accesibilidad para el escritorio GNOME</summary>
+    <summary xml:lang="et">GNOME töölaua ligipääsetavuse avastaja</summary>
+    <summary xml:lang="eu">GNOME mahaigainaren erabilgarritasunaren arakatzailea</summary>
+    <summary xml:lang="fr">Explorateur d'accessibilité pour le bureau GNOME</summary>
+    <summary xml:lang="gl">Explorador de accesibilidade para o escritorio GNOME</summary>
+    <summary xml:lang="hu">Akadálymentesítés-felderítő a GNOME asztalhoz</summary>
+    <summary xml:lang="id">Pengeksplorasi aksesibilitas bagi desktop GNOME</summary>
+    <summary xml:lang="it">Esplora l'accessibilità dell'ambiente grafico GNOME</summary>
+    <summary xml:lang="ko">그놈 데스크톱용 접근성 탐색기</summary>
+    <summary xml:lang="lt">Prieigos tyrinėtojas GNOME darbalaukiui</summary>
+    <summary xml:lang="lv">Pieejamības pārlūks GNOME darbvirsmai</summary>
+    <summary xml:lang="nb">Utforsker for tilgjengelighet på skrivebordet GNOME</summary>
+    <summary xml:lang="oc">Explorador d'accessibilitat pel burèu GNOME</summary>
+    <summary xml:lang="pl">Przeglądarka funkcji dostępności dla środowiska GNOME</summary>
+    <summary xml:lang="pt">Explorador de acessibilidade para o ambiente de trabalho do GNOME</summary>
+    <summary xml:lang="pt_BR">Navegador de acessibilidade para o ambiente GNOME</summary>
+    <summary xml:lang="ru">Обозреватель доступности для рабочего стола GNOME</summary>
+    <summary xml:lang="sk">Prieskumník prístupnosti prostredia GNOME</summary>
+    <summary xml:lang="sl">Raziskovalec dostopnosti za namizje GNOME</summary>
+    <summary xml:lang="sr">Истраживач приступачности за Гномову радну површ</summary>
+    <summary xml:lang="sr@latin">Istraživač pristupačnosti za Gnomovu radnu površ</summary>
+    <summary xml:lang="sv">Hjälpmedelsutforskare för GNOME-skrivbordet</summary>
+    <summary xml:lang="tr">GNOME masaüstü için erişilebilirlik gezgini</summary>
+    <summary xml:lang="zh_TW">GNOME 桌面的無障礙功能瀏覽器</summary>
+    <description><p>Accerciser is an interactive Python accessibility explorer for the GNOME desktop. It uses AT-SPI to inspect and control widgets, allowing you to check if an application is providing correct information to assistive technologies and automated test frameworks.</p><p>Accerciser has a simple plugin framework which you can use to create custom views of accessibility information.</p></description>
+    <description xml:lang="bg"><p>Accerciser е интерактивен инструмент за Python за изследване на достъпността  за графичната среда GNOME. Използва интерфейса AT-SPI за разглеждане и контролиране на графични обекти, позволявайки ви да проверите дали програмата предоставя коректна информация на технологиите за достъпност и програмите за автоматична проверка.</p><p>Accerciser има проста система за приставки, която можете да използвате за създаването на потребителски изгледи с информация за достъпността.</p></description>
+    <description xml:lang="bs"><p>Accerciser je interaktivni istraživač dostupnosti napisan u jeziku Python za GNOME desktop. On koristi AT-SPI za inspekciju i provjeru grafičkih kontrola, omogućavajući vam da provjerite da li aplikacija pruža tačne podatke za pomoćne tehnologije i automatizirane testne okvire.</p><p>Accerciser ima jednostavan okvir dodataka koji možete koristiti za stvaranje prilagođenih pogleda na informacije o pristupačnosti.</p></description>
+    <description xml:lang="cs"><p>Accerciser je interaktivní průzkumník přístupnosti pro pracovní prostředí GNOME v jazyce Python. Používá AT-SPI k prohlížení a ovládání widgetů a umožní vám zkontrolovat, jestli aplikace poskytuje správné informace technologiím zpřístupnění a automatizovat test vývojového rámce.</p><p>Accerciser má jednoduchý systém zásuvných modulů, který můžete použít k vytváření vlastních zobrazení informací o přístupnosti.</p></description>
+    <description xml:lang="da"><p>Accerciser er en interaktiv tilgængelighedsnavigatør til GNOME-skrivebordet skrevet i Python. Programmet bruger AT-SPI til at inspicere og tjekke kontroller, hvilket lader dig se om et program giver korrekte oplysninger til hjælpeteknologier og automatiske testsystemer.</p><p>Accerciser har et simpelt udvidelsesmodulsystem, som lader dig oprette brugertilpassede oversigter over tilgængelighedsinformation.</p></description>
+    <description xml:lang="de"><p>Accerciser ist ein interaktives Erkundungswerkzeug für eine barrierefreie Gnome-Arbeitsumgebung. Es verwendet AT-SPI, um Widgets zu erkunden und zu steuern und dabei herauszufinden, ob die Anwendung die passenden Informationen für unterstützende Technologien und automatisierte Test-Frameworks bereitstellt.</p><p>Accerciser hat ein einfaches Erweiterungs-Framework, das für eigene Ansichten von Informationen über Barrierefreiheit genutz werden kann.</p></description>
+    <description xml:lang="el"><p>Το Accerciser είναι ένας διαδραστικός περιηγητής προσιτότητας, γραμμένος σε Python, για την επιφάνεια εργασίας του GNOME. Χρησιμοποιεί το AT-SPI για να επιθεωρήσει και να ελέγξει τα γραφικά στοιχεία, επιτρέποντας σας να δείτε αν μια εφαρμογή παρέχει σωστές πληροφορίες σε υποστηρικτικές τεχνολογίες και αυτοματοποιημένα πλαίσια δοκιμών.</p><p>Το Accerciser έχει ένα απλό πλαίσιο υποστήριξης, το οποίο μπορείτε να χρησιμοποιήσετε για να δημιουργήσετε προσαρμοσμένες προβολές των πληροφοριών προσιτότητας.</p></description>
+    <description xml:lang="es"><p>Accerciser es un explorador interactivo de accesibilidad escrito en Python para el escritorio GNOME. Usa AT_SPI para inspeccionar y controlar widgets, permitiéndole comprobar si un aplicación proporciona la información correcta a las tecnologías de asistencia y entornos de trabajo de pruebas automatizadas.</p><p>Accerciser tiene un entorno de trabajo complementos sencillo que puede usar para crear vistas personalizadas de la información de accesibilidad.</p></description>
+    <description xml:lang="et"><p>Accerciser on interaktiivne Pythoni ligipääsetavuse avastaja GNOME töölaual. See kasutab AT-SPI'd et vidinaid uurida ja juhtida, võimaldades kontrollida, kas rakendus pakub abistavate tehnikate ja automaatse testimise jaoks õiget infot.</p><p>Accerciser'il on lihtne pluginate raamistik, mida võib kasutada abistava info näitamiseks kohandatud viisil.</p></description>
+    <description xml:lang="eu"><p>Accerciser aplikazioa Python elkarreragilean garatutako GNOME mahaigainaren erabilgarritasunaren arakatzailea da. AT-SPI darabil trepetak aztertu eta kontrolatzeko aplikazio batek informazio zuzena eskaintzen duen ziurtatzea baimentzen dizu laguntzako teknologia eta probako lan-marko automatizatzeko.</p><p>Accerciser-ek osagaien lan-marko xume bat du, eta horrekin erabilgarritasunaren informazio pertsonalizatuak sor ditzakezu.</p></description>
+    <description xml:lang="fr"><p>Accerciser est un explorateur d'accessibilité interactif en Python pour le bureau GNOME. Il utilise AT-SPI pour inspecter et contrôler les composants, permettant de contrôler si une application fournit les informations suffisantes pour les aides techniques et les systèmes de tests automatisés.</p><p>Accerciser possède une infrastructure simple de greffon que vous pouvez exploiter pour créer des vues personnalisées des informations d'accessibilité.</p></description>
+    <description xml:lang="gl"><p>Accerciser é un explorador interactivo de accesibilidade en Python para o escritorio GNOME. Emprega AT-SPI para inspeccionar e controlar os widgets, o que lle permite comprobar se un aplicativo está fornecendo a información correcta ás tecnoloxías de asistencia e marcos de traballo de probas automatizados.</p><p>Accerciser ten un marco de traballo de engadidos doado o cal lle permite usalo para crear vistas personalizadas de información accesibilidade.</p></description>
+    <description xml:lang="hu"><p>Az Accerciser egy interaktív Python akadálymentesítés-felderítő a GNOME asztalhoz. A felületi elemek vizsgálatához és vezérléséhez AT-SPI-t használ, amely lehetővé teszi annak ellenőrzését, hogy egy alkalmazás helyes információkat szolgáltat-e a kisegítő technológiákhoz és az automatizált teszt keretrendszerekhez.</p><p>Az Accerciser egy egyszerű bővítmény keretrendszerrel rendelkezik, amelyet akadálymentesítési információk egyéni nézeteinek létrehozásához használhat.</p></description>
+    <description xml:lang="id"><p>Accerciser adalah suatu pengekplorasi aksesiblitas Python interaktif bagi desktop GNOME. Ini memakai AT-SPI untuk memeriksa dan mengendalikan widget, memungkinkan Anda memeriksa apakah suatu aplikasi menyediakan informasi yang benar bagi teknologi bantu dan kerangka kerja uji terotomasi.</p><p>Accerciser memiliki kerangka kerja plugin sederhana yang dapat Anda pakai untuk membuat tilikan tersuai atas informasi aksesibilitas.</p></description>
+    <description xml:lang="it"><p>Accerciser è uno strumento in Python in grado di esplorare dinamicamente il grado di accessibilità dell'ambiente grafico GNOME. Sfrutta AT-SPI per ispezionare e controllare i widget, consentendo così la verifica delle informazioni fornite da un'applicazione alle tecnologie assistive e ai framework di test automatici.</p><p>Accerciser è dotato di un semplice framework per plugin che consente di create viste personalizzare delle informazioni di accessibilità.</p></description>
+    <description xml:lang="ko"><p>액서사이저는 그놈 데스크톱용 대화식 파이썬 접근성 탐색기입니다. 위젯을 살펴보고 제어하는데 AT-SPI를 사용하며, 프로그램이 보조 기술과 자동화 테스트 프레임워크에 대한 올바른 정보를 제공하는지 확인할 수 있도록 해줍니다.</p><p>액서사이저는 접근 성 정보를 표시하는 사용자 정의 뷰를 만들 수 있도록 하는 간단한 플러그인 프레임워크입니다.</p></description>
+    <description xml:lang="lt"><p>Accerciser yra interaktyvus Python prieigos tyrinėtojas GNOME darbalaukiui. Jis naudoja AT-SPI valdiklių tyrinėjimui ir valdymui, leidžia jums patikrinti, ar programa pateikia teisingą informaciją pagalbinėms technologijoms ir automatinio testavimo karkasams.</p><p>Accerciser turi paprastą įskiepių karkasą, kurį galite naudoti pasirinktinių prieigos informacijos vaizdų sukūrimui.</p></description>
+    <description xml:lang="lv"><p>Accerciser ir interaktīvs pieejamības pārlūks GNOME darbvirsmai. Tas izmanto AT-SPI, lai izpētītu un kontrolētu logdaļas, kas ļauj pārbaudīt, vai lietotne sniedz pareizu informāciju pieejamības tehnoloģijām un automatizētajiem testēšanas ietvariem.</p><p>Accerciser ir pieejams vienkāršs spraudņu ietvars, ko varat izmantot pielāgotai pieejamības informācijas skatu veidošanai.</p></description>
+    <description xml:lang="nb"><p>Accerciser er en interaktiv utforsker for tilgjengelighetsfunksjoner for GNOME skrivebordet. Det bruker AT-SPI for å inspisere og kontrollere komponenter, og lar deg sjekke om en applikasjon gir korrekt informasjon til hjelpeteknologier og automatiserte testrammeverk.</p><p>Accerciser har et enkelt rammeverk for tillegg som du kan bruke til å lage egendefinerte visninger av tilgjengelighetsinformasjon.</p></description>
+    <description xml:lang="oc"><p>Accerciser es un explorador d'accessibilitat interactiu en Python pel burèu GNOME. Utiliza AT-SPI per inspectar e contrarotlar los components, que permet de contrarotlar se una aplicacion provesís las informacions sufisentas per las ajudas tecnicas e los sistèmas de tèsts automatizats.</p><p>Accerciser possedís una infrastructura simpla d'empeutons que podètz espleitar per crear de vistas personalizadas d'informacions d'accessibilitat.</p></description>
+    <description xml:lang="pl"><p>Accerciser to interaktywna przeglądarka funkcji dostępności w języku Python dla środowiska GNOME. Używa AT-SPI do badania i kontrolowania widżetów, umożliwiając sprawdzanie, czy program dostarcza poprawne informacje technologiom ułatwień dostępu i zautomatyzowanych mechanizmów testowania.</p><p>Accerciser posiada prosty mechanizm wtyczek, którego można używać do tworzenia własnych widoków informacji o dostępności.</p></description>
+    <description xml:lang="pt"><p>O Accerciser é um explorador de acessibilidade interativo escrito em Python para o GNOME. Usa AT-SPI para inspecionar e controlar widgets, permitindo-lhe verificar se uma aplicação está a fornecer informação correta a tecnologias de assistência e estruturas de teste automatizadas.</p><p>O Accerciser tem uma estrutura de extensões simples, que pode ser usada para criar vistas personalizadas de informação de acessibilidade.</p></description>
+    <description xml:lang="pt_BR"><p>Accerciser é um navegador interativo de acessibilidade Python para o ambiente GNOME. Ele usa AT-SPI para inspecionar e controlar componentes, permitindo que você verifique se um aplicativo está fornecendo informação correta para tecnologias assistivas e frameworks de teste automatizado.</p><p>Accerciser possui um framework de plugins simples o qual você pode usar para criar visões personalizadas da informação de acessibilidade.</p></description>
+    <description xml:lang="ru"><p>Accerciser — интерактивный обозреватель доступности на языке Python для рабочего стола GNOME. Accerciser использует AT-SPI для проверки и контроля виджетов, который позволяет проверить предоставляет ли приложение верную информацию вспомогательным технологиям и автоматизированной системе тестирования.</p><p>В Accerciser есть простой модуль фреймворка, который можно использовать для создания своих областей доступности информации.</p></description>
+    <description xml:lang="sk"><p>Accerciser je interaktívny prieskumník prístupnosti jazyka Python pre prostredie GNOME. Využíva AT-SPI na kontrolu a ovládanie miniaplikácií, umožňujúc vám skontrolovať, či aplikácia poskytuje správne informácie asistujúcim technológiám a automatizovaným skúšobným rozhraniam.</p></description>
+    <description xml:lang="sl"><p>Acceriser je interavktivni raziskovalec za namizje GNOME. Za delovanje in nadzor gradnikov uporablja paket AT_SPI, s čimer je omogočen ustrezen nadzor nad tehnologijami dostopnosti in samodejnimi okolji za preizkušanje.</p><p>Program Accerciser vključuje enostaven vstavek, ki omogoča prikazovanje podrobnosti o dostopnosti.</p></description>
+    <description xml:lang="sr"><p>Аксерсајзер је међудејствени Питонов истраживач приступачности за Гномову радну површ. Користи АТ-СПИ за прегледањеи управљање елементима, омогућавајући вам да проверите да ли неки програм доставља исправне податке технологијама испомоћи и осамостаљеним радним склоповима пробе.</p><p>Аксерсајзер има једноставан радни склоп прикључка који можете да користите да направите произвољне прегледе података приступачности.</p></description>
+    <description xml:lang="sr@latin"><p>Aksersajzer je međudejstveni Pitonov istraživač pristupačnosti za Gnomovu radnu površ. Koristi AT-SPI za pregledanjei upravljanje elementima, omogućavajući vam da proverite da li neki program dostavlja ispravne podatke tehnologijama ispomoći i osamostaljenim radnim sklopovima probe.</p><p>Aksersajzer ima jednostavan radni sklop priključka koji možete da koristite da napravite proizvoljne preglede podataka pristupačnosti.</p></description>
+    <description xml:lang="sv"><p>Accerciser är en interaktiv Python-hjälpmedelsutforskare för GNOME-skrivbordet. Det använder AT-SPI för att inspektera och kontrollera gränssnittskomponenter, vilket låter dig se om ett program tillhandahåller riktig information till hjälpmedelstekniker och automatiserade testramverk.</p><p>Accerciser har ett enkelt ramverk för insticksmoduler som du kan använda för att skapa anpassade vyer över hjälpmedelsinformation.</p></description>
+    <description xml:lang="tr"><p>Accerciser, GNOME masaüstü için etkileşimli bir Python erişilebilirlik gezginidir. Parçacıkları incelemek ve denetlemek için AT-SPI kullanır; bu da bir uygulamanın yardımcı teknolojilere ve otomatik sınama çerçevelerine doğru bilgiler sağlayıp sağlamadığını denetlemenize izin verir.</p><p>Accerciser, erişilebilirlik bilgilerinin özel görünümlerini oluşturmak için kullanabileceğiniz basit bir eklenti çerçevesine sahiptir.</p></description>
+    <description xml:lang="zh_TW"><p>Accerciser 是 GNOME 桌面的互動式 Python 無障礙功能瀏覽器。它使用 AT-SPI 檢查並控制元件，允許您檢查應用程式是否提供正確的資訊給輔助科技與自動化測試框架。</p><p>Accerciser 具有簡易外掛程式框架，讓您可以用來建立無障礙資計的自訂檢視。</p></description>
+    <kudos>
+      <kudo>HighContrast</kudo>
+      <kudo>UserDocs</kudo>
+    </kudos>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <project_license>Unknown</project_license>
+    <url type="homepage">https://wiki.gnome.org/action/show/Apps/Accerciser</url>
+    <project_group>GNOME</project_group>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://git.gnome.org/browse/accerciser/plain/help/C/figures/api_browser.png</image>
+      </screenshot>
+    </screenshots>
+    <languages>
+      <lang percentage="91">ar</lang>
+      <lang percentage="98">as</lang>
+      <lang percentage="98">ast</lang>
+      <lang percentage="91">be</lang>
+      <lang percentage="100">bg</lang>
+      <lang percentage="91">bn</lang>
+      <lang percentage="74">bn_IN</lang>
+      <lang percentage="26">br</lang>
+      <lang percentage="100">bs</lang>
+      <lang percentage="98">ca</lang>
+      <lang percentage="98">ca@valencia</lang>
+      <lang percentage="100">cs</lang>
+      <lang percentage="100">da</lang>
+      <lang percentage="100">de</lang>
+      <lang percentage="70">dz</lang>
+      <lang percentage="100">el</lang>
+      <lang percentage="77">en@shaw</lang>
+      <lang percentage="74">en_CA</lang>
+      <lang percentage="100">en_GB</lang>
+      <lang percentage="48">eo</lang>
+      <lang percentage="100">es</lang>
+      <lang percentage="100">et</lang>
+      <lang percentage="100">eu</lang>
+      <lang percentage="92">fi</lang>
+      <lang percentage="100">fr</lang>
+      <lang percentage="100">gl</lang>
+      <lang percentage="74">gu</lang>
+      <lang percentage="98">he</lang>
+      <lang percentage="91">hi</lang>
+      <lang percentage="100">hu</lang>
+      <lang percentage="91">hy</lang>
+      <lang percentage="100">id</lang>
+      <lang percentage="100">it</lang>
+      <lang percentage="98">ja</lang>
+      <lang percentage="34">kk</lang>
+      <lang percentage="98">km</lang>
+      <lang percentage="54">kn</lang>
+      <lang percentage="100">ko</lang>
+      <lang percentage="100">lt</lang>
+      <lang percentage="100">lv</lang>
+      <lang percentage="29">mai</lang>
+      <lang percentage="74">mk</lang>
+      <lang percentage="98">ml</lang>
+      <lang percentage="92">mr</lang>
+      <lang percentage="100">nb</lang>
+      <lang percentage="91">nl</lang>
+      <lang percentage="100">oc</lang>
+      <lang percentage="92">or</lang>
+      <lang percentage="56">pa</lang>
+      <lang percentage="100">pl</lang>
+      <lang percentage="100">pt</lang>
+      <lang percentage="100">pt_BR</lang>
+      <lang percentage="91">ro</lang>
+      <lang percentage="100">ru</lang>
+      <lang percentage="25">si</lang>
+      <lang percentage="99">sk</lang>
+      <lang percentage="100">sl</lang>
+      <lang percentage="91">sq</lang>
+      <lang percentage="100">sr</lang>
+      <lang percentage="100">sr@latin</lang>
+      <lang percentage="100">sv</lang>
+      <lang percentage="98">te</lang>
+      <lang percentage="59">tg</lang>
+      <lang percentage="88">th</lang>
+      <lang percentage="100">tr</lang>
+      <lang percentage="98">ug</lang>
+      <lang percentage="98">uk</lang>
+      <lang percentage="92">vi</lang>
+      <lang percentage="98">zh_CN</lang>
+      <lang percentage="98">zh_HK</lang>
+      <lang percentage="100">zh_TW</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">accerciser-3.22.0-0.noarch.rpm</value>
     </metadata>
   </component>
   <component type="desktop">
