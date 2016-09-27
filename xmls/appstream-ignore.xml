@@ -2062,7 +2062,7 @@
     <id>caja.x86_64</id>
     <pkgname>caja</pkgname>
     <metadata>
-      <value key="X-CacheID">caja-1.16.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">caja-1.16.0-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -12541,7 +12541,7 @@
     <id>libmatemixer.x86_64</id>
     <pkgname>libmatemixer</pkgname>
     <metadata>
-      <value key="X-CacheID">libmatemixer-1.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">libmatemixer-1.16.0-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15348,7 +15348,7 @@
     <id>mate-applets.x86_64</id>
     <pkgname>mate-applets</pkgname>
     <metadata>
-      <value key="X-CacheID">mate-applets-1.12.1-0.x86_64.rpm</value>
+      <value key="X-CacheID">mate-applets-1.16.0-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15411,7 +15411,7 @@
     <id>mate-icon-theme-faenza.noarch</id>
     <pkgname>mate-icon-theme-faenza</pkgname>
     <metadata>
-      <value key="X-CacheID">mate-icon-theme-faenza-1.16.0-0.noarch.rpm</value>
+      <value key="X-CacheID">mate-icon-theme-faenza-1.16.0-1.noarch.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15488,7 +15488,7 @@
     <id>mate-polkit.x86_64</id>
     <pkgname>mate-polkit</pkgname>
     <metadata>
-      <value key="X-CacheID">mate-polkit-1.10.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">mate-polkit-1.16.0-1.x86_64.rpm</value>
     </metadata>
   </component>
   <component>
@@ -15544,7 +15544,7 @@
     <id>mate-user-guide.noarch</id>
     <pkgname>mate-user-guide</pkgname>
     <metadata>
-      <value key="X-CacheID">mate-user-guide-1.16.0-0.noarch.rpm</value>
+      <value key="X-CacheID">mate-user-guide-1.16.0-1.noarch.rpm</value>
     </metadata>
   </component>
   <component>
