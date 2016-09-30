@@ -1,185 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <components version="0.8" builder_id="appstream-glib:4" origin="aosc-failed">
   <component type="desktop">
-    <id>apper.desktop</id>
-    <pkgname>apper</pkgname>
-    <name>Apper</name>
-    <name xml:lang="mr">एप्पर</name>
-    <name xml:lang="pa">ਅੱਪਰ</name>
-    <name xml:lang="zh_CN">Apper 软件包管理器</name>
-    <summary>KDE application and package management tool</summary>
-    <summary xml:lang="bg">Инструмент за изтегляне и управление на програми</summary>
-    <summary xml:lang="bs">KDE aplikacija i alat za upravljanje paketom</summary>
-    <summary xml:lang="ca">Eina de gestió d'aplicacions i paquets del KDE</summary>
-    <summary xml:lang="ca@valencia">Aplicació per obtindre i gestionar programari</summary>
-    <summary xml:lang="cs">Nástroj KDE pro správu aplikací a balíčků</summary>
-    <summary xml:lang="da">KDE-værktøj til håndtering af programmer og pakker</summary>
-    <summary xml:lang="de">KDE-Dienstprogramm für Paketverwaltung</summary>
-    <summary xml:lang="el">Εργαλείο διαχείρισης εφαρμογών και πακέτων για το KDE</summary>
-    <summary xml:lang="es">Herramienta de gestión de aplicaciones y paquetes de KDE</summary>
-    <summary xml:lang="et">Tarkvara hankimise ja haldamise tarkvara</summary>
-    <summary xml:lang="fi">KDE:n sovellusten ja pakettien hallintatyökalu</summary>
-    <summary xml:lang="fr">Outil KDE de gestion des applications et des paquets</summary>
-    <summary xml:lang="gl">Aplicativo para obter e xestionar software</summary>
-    <summary xml:lang="hr">Aplikacija za dohvaćanje i upravljanje softverom</summary>
-    <summary xml:lang="hu">KDE alkalmazás és csomagkezelő eszköz</summary>
-    <summary xml:lang="it">Strumento di gestione dei pacchetti e delle applicazioni di KDE</summary>
-    <summary xml:lang="lt">Programinės įrangos atsiuntimo ir tvarkymo programa</summary>
-    <summary xml:lang="mr">सॉफ्टवेअर व्यवस्थापन व प्रतिष्ठापन करण्याकरिता अनुप्रयोग</summary>
-    <summary xml:lang="nb">Apper er en app som henter og styrer programvare</summary>
-    <summary xml:lang="nds">KDE sien Programm- un Paketpleeg-Warktüüch</summary>
-    <summary xml:lang="nl">Hulpmiddel voor beheer van pakketten van KDE toepassingen</summary>
-    <summary xml:lang="pa">ਸਾਫਟਵੇਅਰ ਲੈਣ ਤੇ ਉਨ੍ਹਾਂ ਦੇ ਪਰਬੰਧ ਲਈ ਐਪਲੀਕੇਸ਼ਨ</summary>
-    <summary xml:lang="pl">Narzędzie do zarządzania aplikacjami i pakietami KDE</summary>
-    <summary xml:lang="pt">Ferramenta de gestão de aplicações e pacotes do KDE</summary>
-    <summary xml:lang="pt_BR">Ferramenta de gerenciamento de aplicativos e pacotes do KDE</summary>
-    <summary xml:lang="ro">Unealtă KDE peu gestiunea aplicațiilor și pachetelor</summary>
-    <summary xml:lang="ru">Загрузка и управление программами</summary>
-    <summary xml:lang="sk">KDE aplikácia a nástroj na správu balíkov</summary>
-    <summary xml:lang="sl">Program za KDE in orodje za upravljanje s paketi</summary>
-    <summary xml:lang="sv">KDE-program och pakethanteringsverktyg</summary>
-    <summary xml:lang="tr">Yazılımları indirmek ve yönetmek için kullanılan bir uygulama</summary>
-    <summary xml:lang="uk">Програма KDE для керування пакунками</summary>
-    <summary xml:lang="wa">Programe po cweri eyet manaedjî ses programes</summary>
-    <summary xml:lang="zh_CN">获取和管理软件的程序</summary>
-    <summary xml:lang="zh_TW">KDE 應用程式與軟體套件管理工具</summary>
-    <developer_name>The KDE Community</developer_name>
-    <developer_name xml:lang="bs">KDE zajednica</developer_name>
-    <developer_name xml:lang="ca">La comunitat KDE</developer_name>
-    <developer_name xml:lang="cs">Komunita KDE</developer_name>
-    <developer_name xml:lang="da">KDE-fællesskabet</developer_name>
-    <developer_name xml:lang="de">Die KDE-Gemeinschaft</developer_name>
-    <developer_name xml:lang="el">Η Κοινότητα του KDE</developer_name>
-    <developer_name xml:lang="es">La Comunidad de KDE</developer_name>
-    <developer_name xml:lang="fi">KDE-yhteisö</developer_name>
-    <developer_name xml:lang="fr">La communauté KDE</developer_name>
-    <developer_name xml:lang="hu">A KDE közösség</developer_name>
-    <developer_name xml:lang="it">La Comunità di KDE</developer_name>
-    <developer_name xml:lang="nl">De KDE gemeenschap</developer_name>
-    <developer_name xml:lang="pl">Społeczność KDE</developer_name>
-    <developer_name xml:lang="pt">A Comunidade do KDE</developer_name>
-    <developer_name xml:lang="pt_BR">KDE Community</developer_name>
-    <developer_name xml:lang="sk">KDE komunita</developer_name>
-    <developer_name xml:lang="sl">Skupnost KDE</developer_name>
-    <developer_name xml:lang="sv">KDE-gemenskapen</developer_name>
-    <developer_name xml:lang="uk">Спільнота KDE</developer_name>
-    <developer_name xml:lang="zh_TW">KDE 社群</developer_name>
-    <description><p>Apper is a graphical management tool for packages and applications provided by a Linux distribution.</p><p>It allows installing new software as well as keeping the system up to date by installing updates.</p><p>Features:</p><ul><li>Distribution-agnostic management of software packages</li><li>Application management for users unexperienced with packages</li><li>Editor for software sources and PackageKit settings</li><li>System software updates notifier and installer</li><li>Close integration with the KDE Plasma desktop</li></ul></description>
-    <description xml:lang="bs"><p>Apper je grafički alat za upravljanje paketima i aplikacijama obezbjeđenim od strane Linux distribucije.</p><p>Dopušta instaliranje novog softvera kao i održavanje sistema instaliranjem ažuriranja.</p><p>Svojstva:</p><ul><li>Distribucijsko-nevezano upravljanje softverskim paketima</li><li>Upravljanje aplikacijom za korisnike bez iskustva sa paketima</li><li>Uređivač izvora softvera i PackageKit postavki</li><li>Obavještenja i instalacijski program ažuriranja sistemskog softvera</li><li>Zatvori integraciju sa KDE Plazma radnom površinom</li></ul></description>
-    <description xml:lang="ca"><p>L'Apper és una eina de gestió gràfica per paquets i aplicacions proporcionats per una distribució Linux.</p><p>Permet instal·lar programari nou i també mantenir el sistema al dia instal·lant les actualitzacions.</p><p>Característiques:</p><ul><li>Gestió de paquets de programari independent de la distribució</li><li>Gestió d'aplicacions per usuaris sense experiència amb els paquets</li><li>Editor per fonts de programari i paràmetres del PackageKit</li><li>Notificador i instal·lador d'actualitzacions de programari del sistema</li><li>Integració estreta amb l'escriptori Plasma del KDE</li></ul></description>
-    <description xml:lang="cs"><p>Apper je grafický nástroj pro správu balíčků a aplikací poskytovaných linuxovou distribucí.</p><p>Umožňuje instalaci nového softwaru stejně jako udržování systému aktuálního za pomocí instalace aktualizací.</p><p>Vlastnosti:</p><ul><li>Na distribuci nezávislá správa balíčků softwaru</li><li>Správa aplikací pro uživatele, jež nemají zkušenosti s balíčky</li><li>Editor zdrojů softwaru a nastavení PackageKitu</li><li>Integrace s grafickým prostředím KDE Plasma</li></ul></description>
-    <description xml:lang="da"><p>Apper er et grafisk værktøj til at håndtere pakker og programmer som leveres af en Linux-distribution.</p><p>Det muliggør installation af ny software og at holde systemet opdateret ved at installere opdateringer.</p><p>Funktioner:</p><ul><li>Distribution-uafhængig håndtering af softwarepakker</li><li>Programhåndtering for brugere som ikke er så erfarne med pakker</li><li>Editor til softwarekilder og PackageKit-indstillinger</li><li>Bekendtgørelse og installation af opdateringer af systemsoftware</li><li>Tæt integration med KDE's Plasma-skrivebordsmiljø</li></ul></description>
-    <description xml:lang="de"><p>Apper ist ein graphisches Verwaltungsprogramm für Software-Pakete und Anwendungen, die von Linux-Distributionen angeboten werden.</p><p>Ermöglicht die Installation neuer Software und die Aktualisierung des Systems durch Installation von Aktualisierungen.</p><p>Leistungsmerkmale:</p><ul><li>Verwaltung von Software-Paketen unabhängig von der verwendeten Distribution</li><li>Verwaltung von Anwendungen für Benutzer ohne Erfahrung mit Paketverwaltungen</li><li>Editor für Paketquellen und Einstellungen für PackageKit</li><li>Benachrichtigung und Installation von Software-Aktualisierungen des Systems</li><li>Einbindung in die KDE-Plasma-Arbeitsfläche</li></ul></description>
-    <description xml:lang="el"><p>Το apper είναι ένα εργαλείο διαχείρισης με γραφικά για πακέτα και εφαρμογές που παρέχει μια διανομή Linux.</p><p>Επιτρέπει την εγκατάσταση νέου λογισμικού καθώς επίσης και τη διατήρηση της καλής κατάστασης του συστήματος με την εγκατάσταση ενημερώσεων.</p><p>Χαρακτηριστικά:</p><ul><li>Ουδέτερη από διανομές διαχείριση πακέτων λογισμικού</li><li>Διαχείριση εφαρμογών για χρήστες χωρίς εμπειρία με πακέτα εφαρμογών</li><li>Κειμενογράφος για πηγές λογισμικού και ρυθμίσεις του PackageKit</li><li>Ειδοποιήσεις και εγκατάσταση ενημερώσεων λογισμικού συστήματος</li><li>Στενή ενοποίηση με το περιβάλλον γραφείου KDE Plasma</li></ul></description>
-    <description xml:lang="en_GB"><p>Apper is a graphical management tool for packages and applications provided by a Linux distribution.</p><p>It allows installing new software as well as keeping the system up to date by installing updates.</p><p>Features:</p><ul><li>Distribution-agnostic management of software packages</li><li>Application management for users inexperienced with packages</li><li>Editor for software sources and PackageKit settings</li><li>System software updates notifier and installer</li><li>Close integration with the KDE Plasma desktop</li></ul></description>
-    <description xml:lang="es"><p>Apper es una herramienta gráfica para gestión de los paquetes y de los aplicaciones proporcionadas por una distribución de Linux.</p><p>Permite instalar nuevo software, así como mantener el sistema al día, instalando actualizaciones.</p><p>Características:</p><ul><li>Gestión de los paquetes de software independiente de la distribución</li><li>Gestión de aplicaciones para usuarios sin experiencia en el manejo de paquetes</li><li>Editor de fuentes de software y preferencias de PackageKit</li><li>Notificador e instalador de las actualizaciones del software del sistema</li><li>Alta integración con el escritorio Plasma de KDE</li></ul></description>
-    <description xml:lang="fi"><p>Apper on graafinen hallintatyökalu Linux-jakelun tarjoamille paketeille ja sovelluksille.</p><p>Apperilla voi asentaa uusia ohjelmia sekä pitää järjestelmän ajan tasalla asentamalla päivitykset.</p><p>Ominaisuudet:</p><ul><li>Jakeluriippumaton ohjelmapakettien hallinta</li><li>Sovellusten hallinta käyttäjille, joilla ei ole kokemusta paketeista</li><li>Ohjelmalähteiden ja PackageKit-asetusten muokkaus</li><li>Järjestelmäohjelmiston päivitysten ilmoitin ja asennin</li><li>Hyvä KDE Plasma-työpöydän integraatio</li></ul></description>
-    <description xml:lang="fr"><p>Apper est une interface graphique pour gérer les applications et les paquets fournis par une distribution Linux.</p><p>Ceci permet d'installer de nouveaux logiciels et de maintenir à jour ceux déjà installés.</p><p>Fonctionnalités :</p><ul><li>Gestion des paquets logiciels de manière agnostique à la distribution</li><li>Application de gestion de paquets pour utilisateurs débutants</li><li>Éditeur pour les sources d'applications et le paramétrage de Packagekit</li><li>Notification système de mise à jour ou d'installation</li><li>Intégration avec le bureau Plasma de KDE</li></ul></description>
-    <description xml:lang="hu"><p>Az Apper egy grafikus kezelőeszköz a Linux disztribúció által szolgáltatott csomagokhoz és alkalmazásokhoz.</p><p>Lehetővé teszi új szoftverek telepítését, valamit a rendszer naprakészen tartását frissítések telepítésével.</p><p>Szolgáltatások:</p><ul><li>Szoftvercsomagok disztribúció-agnosztikus kezelése</li><li>Alkalmazáskezelés a csomagokban tapasztalatlan felhasználóknak</li><li>Szerkesztő a szoftverforrásokhoz és PackageKit beállításokhoz</li><li>Rendszerszoftver frissítések értesítő és telepítő</li><li>Szoros integráció a KDE Plasma asztallal</li></ul></description>
-    <description xml:lang="it"><p>Apper è uno strumento a interfaccia grafica per la gestione dei pacchetti e delle applicazioni fornite da una distribuzione Linux.</p><p>Consente di installare nuovo software e di mantenere aggiornato il sistema tramite aggiornamenti.</p><p>Caratteristiche:</p><ul><li>Gestione dei pacchetti software indipendente dalla distribuzione</li><li>Gestione delle applicazioni per gli utenti con poca esperienza sui pacchetti</li><li>Editor delle fonti software e delle impostazioni di PackageKit</li><li>Gestore di sistema per la notifica e l'installazione degli aggiornamenti software</li><li>Stretta integrazione col desktop Plasma di KDE</li></ul></description>
-    <description xml:lang="nds"><p>Apper is en graafsch Pleegwarktüüch för de Paketen un Programmen, de en Distributschoon praastellt.</p><p>Du kannst dor nieg Paketen mit installeren un Opfrischen för't Systeem inspelen.</p><p>Markmalen:</p><ul><li>Distributschoon-Unafhängig Pleeg vun Software-Paketen</li><li>Programmpleeg för Brukers, de nich veel vun Paketen af weet.</li><li>Editor för Software-Borns un PackageKit-Instellen</li><li>Gifft Bescheed över Software-Opfrischen un installeert de ok</li><li>Drang Integreren mit den KDE-Plasma-Schriefdisch</li></ul></description>
-    <description xml:lang="nl"><p>Apper is een grafisch hulpmiddel voor beheer van pakketten en toepassingen geleverd door een Linux-distributie.</p><p>Het stelt u in staat nieuwe software te installeren evenals het systeem bij de tijd te houden door elementen voor bijwerken te installeren.</p><p>Mogelijkheden:</p><ul><li>Beheer van software pakketten ongeacht de distributie</li><li>Beheer van toepassingen voor gebruikers zonder ervaring met pakketten</li><li>Bewerker voor softwarebronnen en instellingen van PackageKit</li><li>Melder van elementen voor bijwerken van software en toepassing voor installeren</li><li>Nauwe integratie met het bureaublad KDE Plasma</li></ul></description>
-    <description xml:lang="pl"><p>Apper jest graficznym narzędziem do zarządzania pakietami i aplikacjami dostarczanymi wraz z dystrybucjami Linuksa.</p><p>Umożliwia zarówno wgrywanie nowego oprogramowania, jak i utrzymywanie systemu na czasie poprzez wgrywanie uaktualnień.</p><p>Możliwości:</p><ul><li>Agnostyczne względem dystrybucji rozpowszechnianie pakietów oprogramowania</li><li>Zarządzanie aplikacjami dla użytkowników bez doświadczenia w pakietach</li><li>Edytor dla źródeł oprogramowania oraz ustawień PackageKit</li><li>Wgrywanie i powiadamianie o uaktualnieniach systemu</li><li>Ścisła jednolitość z pulpitem Plazmy KDE</li></ul></description>
-    <description xml:lang="pt"><p>O Apper é uma ferramenta gráfica de gestão dos pacotes e aplicações oferecidos por uma distribuição de Linux.</p><p>Permite a instalação de aplicações novas, assim como manter o sistema actualizado através da instalação das actualizações.</p><p>Funcionalidades:</p><ul><li>Gestão agnóstica da distribuição dos pacotes de aplicações</li><li>Gestão de aplicações para utilizadores pouco habituados aos pacotes</li><li>Editor de fontes de aplicações e da configuração do PackageKit</li><li>Notificação e instalação das actualizações de aplicações do sistema</li><li>Integração próxima com o ambiente de trabalho Plasma</li></ul></description>
-    <description xml:lang="pt_BR"><p>O Apper é uma ferramenta gráfica de gerenciamento dos pacotes e aplicativos oferecidos por uma distribuição de Linux.</p><p>Permite a instalação de novos aplicativos e mantém o sistema atualizado.</p><p>Funcionalidades:</p><ul><li>Gerenciamento independentemente da distribuição dos pacotes de aplicativos</li><li>Gerenciamento de aplicativos para usuários com pouca experiência no tratamento de pacotes</li><li>Editor de fontes de aplicativos e das configurações do PackageKit</li><li>Notificação e instalação das atualizações de aplicativos do sistema</li><li>Integração com o ambiente de trabalho Plasma</li></ul></description>
-    <description xml:lang="ro"><p>Caracteristici:</p><ul></ul></description>
-    <description xml:lang="sk"><p>Apper je grafický nástroj na správu balíkov a aplikácií poskytovaných Linuxovými distribúciami.</p><p>Umožní vám inštalovanie nového softvéru ako aj udržanie vášho systému aktuálneho inštalovaním aktualizácií.</p><p>Funkcie:</p><ul><li>Distribučno-agnostická správa softvérových balíkov</li><li>Správa aplikácií pre používateľov bez skúseností s balíkmi</li><li>Editor softvérových zdrojov a nastavenia PackageKit</li><li>Pripomienkovač a inštalátor systémových softvérových aktualizácií</li><li>Blízka integrácia s pracovnou plochou KDE Plasma</li></ul></description>
-    <description xml:lang="sl"><p>Apper je grafično orodje za upravljanje paketov in programov, ki jih ponuja vaša distribucija Linuxa.</p><p>Dovoljuje nameščanje novih programov kot tudi vzdrževanje posodobljenega sistema z nameščanjem posodobitev.</p><p>Zmožnosti:</p><ul><li>Upravljanje programskih paketov neodvisno od distribucije</li><li>Upravljanje programov za uporabnike, ki nimajo izkušenj s paketi</li><li>Urejanje programskih virov in nastavljanje PackageKit</li><li>Nameščanje in obveščanje o posodobitvah programske opreme</li><li>Vključitev v namizno okolje KDE Plasma</li></ul></description>
-    <description xml:lang="sv"><p>Apper är ett grafiskt hanteringsverktyg för paket och program som tillhandahålls av en Linux-distribution.</p><p>Det tillåter att ny programvara installeras, samt att hålla systemet uppdaterat genom att installera uppdateringar.</p><p>Funktioner:</p><ul><li>Hantering av programvarupaket oberoende av distribution</li><li>Programhantering för användare som är ovana vid paket</li><li>Editor för programvarukällor och PackageKit-inställningar</li><li>Underrättelse vid uppdateringar och installation av systemprogramvara</li><li>Nära integrering med KDE:s Plasma-skrivbord</li></ul></description>
-    <description xml:lang="uk"><p>Apper — графічний інтерфейс для керування пакунками та програмами, які є частиною дистрибутива Linux.</p><p>Ця програма надає змогу встановлювати нове програмне забезпечення та підтримувати актуальність системи шляхом встановлення оновлень.</p><p>Можливості:</p><ul><li>Однаковий для усіх дистрибутивів інтерфейс для керування пакунками програмного забезпечення.</li><li>Доступ до керування пакунками навіть для користувачів без досвіду.</li><li>Редактор джерел програмного забезпечення та параметрів PackageKit.</li><li>Засоби сповіщення та встановлення оновлень програмного забезпечення системи.</li><li>Тісна інтеграція зі стільничним середовищем Плазми KDE.</li></ul></description>
-    <description xml:lang="zh_TW"><p>Apper 是一套管理軟體與應用程式套件的圖形化工具。</p><p>它可以安裝新軟體，或更新軟體。</p><p>功能：</p><ul><li>軟體套件管理，不管發行套件為何</li><li>讓不熟悉軟體管理的使用者可以輕鬆管理軟體</li><li>編輯軟體來源設定</li><li>系統軟體更新通知與安裝</li><li>與 KDE Plasma 桌面高度整合</li></ul></description>
-    <categories>
-      <category>PackageManager</category>
-      <category>System</category>
-    </categories>
-    <vetos>
-      <veto>Failed to find icon: Failed to find icon appset</veto>
-      <veto>Has no Icon</veto>
-    </vetos>
-    <project_license>GPL-2.0+</project_license>
-    <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=apper</url>
-    <url type="homepage">https://projects.kde.org/projects/extragear/sysadmin/apper/</url>
-    <project_group>KDE</project_group>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">https://userbase.kde.org/images.userbase/0/06/Apper-window.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>The main window showing a description of the selected package</caption>
-        <caption xml:lang="bs">Glavni prozor prikazuje opis označenog paketa</caption>
-        <caption xml:lang="ca">La finestra principal de Apper mostrant una descripció del paquet seleccionat</caption>
-        <caption xml:lang="da">Hovedvinduet viser en beskrivelse af den valgte pakke</caption>
-        <caption xml:lang="de">Das  Hauptfenster mit einer Beschreibung des ausgewählten Pakets</caption>
-        <caption xml:lang="el">Το κύριο παράθυρο εμφανίζει μια περιγραφή του επιλεγμένου πακέτου</caption>
-        <caption xml:lang="es">La ventana principal con una descripción del paquete seleccionado</caption>
-        <caption xml:lang="fi">Pääikkuna näyttämässä valitun paketin kuvausta</caption>
-        <caption xml:lang="fr">La fenêtre principale, qui affiche une description du paquet sélectionné</caption>
-        <caption xml:lang="hu">A főablak a kijelölt csomag leírását jeleníti meg</caption>
-        <caption xml:lang="it">La finestra principale mostra una descrizione del pacchetto selezionato</caption>
-        <caption xml:lang="nl">Het hoofdvenster dat een beschrijving toont van het geselecteerde pakket</caption>
-        <caption xml:lang="pl">Okno główne wyświetlające opis wybranego pakietu</caption>
-        <caption xml:lang="pt">A janela principal, que mostra uma descrição do pacote seleccionado</caption>
-        <caption xml:lang="pt-BR">Janela principal mostrando uma descrição do pacote selecionado</caption>
-        <caption xml:lang="sk">Hlavné okno zobrazuje popis vybraného balíka</caption>
-        <caption xml:lang="sl">Glavno okno, ki prikazuje opis izbranega paketa</caption>
-        <caption xml:lang="sv">Huvudfönstret som visar en beskrivning av det markerade paketet</caption>
-        <caption xml:lang="uk">Головне вікно, у якому буде показано опис позначеного пакунка.</caption>
-        <caption xml:lang="zh-TW">主視窗顯示選取的套件的描述</caption>
-        <image type="source">https://userbase.kde.org/images.userbase/0/07/Apper-window1.png</image>
-      </screenshot>
-    </screenshots>
-    <provides>
-      <binary>apper</binary>
-    </provides>
-    <languages>
-      <lang percentage="33">ast</lang>
-      <lang percentage="71">bg</lang>
-      <lang percentage="100">bs</lang>
-      <lang percentage="100">ca</lang>
-      <lang percentage="99">ca@valencia</lang>
-      <lang percentage="97">cs</lang>
-      <lang percentage="100">da</lang>
-      <lang percentage="100">de</lang>
-      <lang percentage="99">el</lang>
-      <lang percentage="100">en_GB</lang>
-      <lang percentage="100">es</lang>
-      <lang percentage="97">et</lang>
-      <lang percentage="100">fi</lang>
-      <lang percentage="100">fr</lang>
-      <lang percentage="45">ga</lang>
-      <lang percentage="99">gl</lang>
-      <lang percentage="88">hr</lang>
-      <lang percentage="99">hu</lang>
-      <lang percentage="100">it</lang>
-      <lang percentage="59">ja</lang>
-      <lang percentage="99">lt</lang>
-      <lang percentage="99">nb</lang>
-      <lang percentage="57">nds</lang>
-      <lang percentage="100">nl</lang>
-      <lang percentage="31">nn</lang>
-      <lang percentage="99">pa</lang>
-      <lang percentage="100">pl</lang>
-      <lang percentage="100">pt</lang>
-      <lang percentage="100">pt_BR</lang>
-      <lang percentage="78">ro</lang>
-      <lang percentage="99">ru</lang>
-      <lang percentage="100">sk</lang>
-      <lang percentage="100">sl</lang>
-      <lang percentage="100">sv</lang>
-      <lang percentage="99">tr</lang>
-      <lang percentage="60">ug</lang>
-      <lang percentage="100">uk</lang>
-      <lang percentage="97">wa</lang>
-      <lang percentage="83">zh_CN</lang>
-      <lang percentage="99">zh_TW</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">apper-0.9.2-0.x86_64.rpm</value>
-      <value key="X-DBUS-ServiceName">org.kde.apper</value>
-      <value key="X-DBUS-StartupType">Unique</value>
-    </metadata>
-  </component>
-  <component type="desktop">
     <id>caja.desktop</id>
     <pkgname>caja</pkgname>
     <name>Caja</name>
@@ -297,7 +118,6 @@
     <icon type="stock">system-file-manager</icon>
     <kudos>
       <kudo>HiDpiIcon</kudo>
-      <kudo>ModernToolkit</kudo>
     </kudos>
     <vetos>
       <veto>NoDisplay=true</veto>
@@ -318,114 +138,129 @@
     </screenshots>
     <provides>
       <dbus type="session">org.freedesktop.FileManager1</dbus>
+      <dbus type="session">org.gtk.vfs.AfcVolumeMonitor</dbus>
+      <dbus type="session">org.gtk.vfs.Daemon</dbus>
+      <dbus type="session">org.gtk.vfs.GPhoto2VolumeMonitor</dbus>
+      <dbus type="session">org.gtk.vfs.GoaVolumeMonitor</dbus>
+      <dbus type="session">org.gtk.vfs.MTPVolumeMonitor</dbus>
+      <dbus type="session">org.gtk.vfs.Metadata</dbus>
+      <dbus type="session">org.gtk.vfs.UDisks2VolumeMonitor</dbus>
+      <dbus type="system">org.freedesktop.PackageKit</dbus>
     </provides>
     <languages>
-      <lang percentage="67">af</lang>
-      <lang percentage="61">am</lang>
-      <lang percentage="96">ar</lang>
-      <lang percentage="84">as</lang>
-      <lang percentage="84">ast</lang>
-      <lang percentage="43">az</lang>
-      <lang percentage="98">be</lang>
-      <lang percentage="99">bg</lang>
-      <lang percentage="87">bn</lang>
-      <lang percentage="87">bn_IN</lang>
-      <lang percentage="99">br</lang>
-      <lang percentage="47">bs</lang>
-      <lang percentage="99">ca</lang>
-      <lang percentage="99">ca@valencia</lang>
-      <lang percentage="98">cmn</lang>
-      <lang percentage="87">crh</lang>
-      <lang percentage="99">cs</lang>
-      <lang percentage="26">cy</lang>
-      <lang percentage="100">da</lang>
-      <lang percentage="99">de</lang>
-      <lang percentage="53">dz</lang>
-      <lang percentage="99">el</lang>
-      <lang percentage="99">en_AU</lang>
-      <lang percentage="56">en_CA</lang>
-      <lang percentage="99">en_GB</lang>
-      <lang percentage="73">eo</lang>
-      <lang percentage="99">es</lang>
-      <lang percentage="99">es_CO</lang>
-      <lang percentage="99">et</lang>
-      <lang percentage="97">eu</lang>
-      <lang percentage="52">fa</lang>
-      <lang percentage="92">fi</lang>
-      <lang percentage="99">fr</lang>
-      <lang percentage="43">fur</lang>
-      <lang percentage="30">fy</lang>
-      <lang percentage="53">ga</lang>
-      <lang percentage="98">gl</lang>
-      <lang percentage="87">gu</lang>
-      <lang percentage="43">ha</lang>
-      <lang percentage="98">he</lang>
-      <lang percentage="84">hi</lang>
-      <lang percentage="99">hr</lang>
-      <lang percentage="99">hu</lang>
-      <lang percentage="99">hy</lang>
-      <lang percentage="100">id</lang>
-      <lang percentage="43">ig</lang>
-      <lang percentage="94">is</lang>
-      <lang percentage="99">it</lang>
-      <lang percentage="99">ja</lang>
-      <lang percentage="73">ka</lang>
-      <lang percentage="56">kk</lang>
-      <lang percentage="81">kn</lang>
-      <lang percentage="99">ko</lang>
-      <lang percentage="47">ku</lang>
-      <lang percentage="50">ky</lang>
-      <lang percentage="29">li</lang>
-      <lang percentage="99">lt</lang>
-      <lang percentage="98">lv</lang>
-      <lang percentage="56">mai</lang>
-      <lang percentage="49">mg</lang>
-      <lang percentage="74">mk</lang>
-      <lang percentage="86">ml</lang>
-      <lang percentage="43">mn</lang>
-      <lang percentage="98">mr</lang>
-      <lang percentage="99">ms</lang>
-      <lang percentage="99">nb</lang>
-      <lang percentage="50">nds</lang>
-      <lang percentage="56">ne</lang>
-      <lang percentage="99">nl</lang>
-      <lang percentage="86">nn</lang>
-      <lang percentage="42">nso</lang>
-      <lang percentage="87">oc</lang>
-      <lang percentage="86">or</lang>
-      <lang percentage="90">pa</lang>
-      <lang percentage="99">pl</lang>
-      <lang percentage="30">ps</lang>
-      <lang percentage="100">pt</lang>
-      <lang percentage="100">pt_BR</lang>
-      <lang percentage="99">ro</lang>
-      <lang percentage="99">ru</lang>
-      <lang percentage="42">si</lang>
-      <lang percentage="99">sk</lang>
-      <lang percentage="99">sl</lang>
-      <lang percentage="83">sq</lang>
-      <lang percentage="100">sr</lang>
-      <lang percentage="86">sr@latin</lang>
-      <lang percentage="99">sv</lang>
-      <lang percentage="80">ta</lang>
-      <lang percentage="84">te</lang>
-      <lang percentage="98">th</lang>
-      <lang percentage="36">tk</lang>
-      <lang percentage="99">tr</lang>
-      <lang percentage="86">ug</lang>
-      <lang percentage="99">uk</lang>
-      <lang percentage="98">ur</lang>
-      <lang percentage="74">uz</lang>
-      <lang percentage="79">vi</lang>
-      <lang percentage="45">xh</lang>
-      <lang percentage="43">yo</lang>
-      <lang percentage="100">zh_CN</lang>
-      <lang percentage="87">zh_HK</lang>
-      <lang percentage="99">zh_TW</lang>
-      <lang percentage="42">zu</lang>
+      <lang percentage="48">af</lang>
+      <lang percentage="43">am</lang>
+      <lang percentage="45">an</lang>
+      <lang percentage="68">ar</lang>
+      <lang percentage="60">as</lang>
+      <lang percentage="60">ast</lang>
+      <lang percentage="31">az</lang>
+      <lang percentage="69">be</lang>
+      <lang percentage="35">be@latin</lang>
+      <lang percentage="70">bg</lang>
+      <lang percentage="61">bn</lang>
+      <lang percentage="61">bn_IN</lang>
+      <lang percentage="70">br</lang>
+      <lang percentage="33">bs</lang>
+      <lang percentage="70">ca</lang>
+      <lang percentage="70">ca@valencia</lang>
+      <lang percentage="69">cmn</lang>
+      <lang percentage="61">crh</lang>
+      <lang percentage="70">cs</lang>
+      <lang percentage="70">da</lang>
+      <lang percentage="70">de</lang>
+      <lang percentage="38">dz</lang>
+      <lang percentage="70">el</lang>
+      <lang percentage="37">en@shaw</lang>
+      <lang percentage="70">en_AU</lang>
+      <lang percentage="40">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang percentage="52">eo</lang>
+      <lang percentage="70">es</lang>
+      <lang percentage="70">es_CO</lang>
+      <lang percentage="70">et</lang>
+      <lang percentage="68">eu</lang>
+      <lang percentage="37">fa</lang>
+      <lang percentage="65">fi</lang>
+      <lang percentage="70">fr</lang>
+      <lang percentage="30">fur</lang>
+      <lang percentage="38">ga</lang>
+      <lang percentage="54">gd</lang>
+      <lang percentage="69">gl</lang>
+      <lang percentage="61">gu</lang>
+      <lang percentage="30">ha</lang>
+      <lang percentage="69">he</lang>
+      <lang percentage="60">hi</lang>
+      <lang percentage="70">hr</lang>
+      <lang percentage="70">hu</lang>
+      <lang percentage="70">hy</lang>
+      <lang percentage="70">id</lang>
+      <lang percentage="30">ig</lang>
+      <lang percentage="66">is</lang>
+      <lang percentage="70">it</lang>
+      <lang percentage="70">ja</lang>
+      <lang percentage="52">ka</lang>
+      <lang percentage="46">kg</lang>
+      <lang percentage="40">kk</lang>
+      <lang percentage="44">km</lang>
+      <lang percentage="57">kn</lang>
+      <lang percentage="70">ko</lang>
+      <lang percentage="33">ku</lang>
+      <lang percentage="35">ky</lang>
+      <lang percentage="32">lg</lang>
+      <lang percentage="70">lt</lang>
+      <lang percentage="69">lv</lang>
+      <lang percentage="39">mai</lang>
+      <lang percentage="35">mg</lang>
+      <lang percentage="52">mk</lang>
+      <lang percentage="61">ml</lang>
+      <lang percentage="30">mn</lang>
+      <lang percentage="69">mr</lang>
+      <lang percentage="70">ms</lang>
+      <lang percentage="36">my</lang>
+      <lang percentage="70">nb</lang>
+      <lang percentage="35">nds</lang>
+      <lang percentage="40">ne</lang>
+      <lang percentage="70">nl</lang>
+      <lang percentage="61">nn</lang>
+      <lang percentage="29">nso</lang>
+      <lang percentage="61">oc</lang>
+      <lang percentage="61">or</lang>
+      <lang percentage="64">pa</lang>
+      <lang percentage="70">pl</lang>
+      <lang percentage="70">pt</lang>
+      <lang percentage="70">pt_BR</lang>
+      <lang percentage="70">ro</lang>
+      <lang percentage="70">ru</lang>
+      <lang percentage="29">si</lang>
+      <lang percentage="70">sk</lang>
+      <lang percentage="70">sl</lang>
+      <lang percentage="59">sq</lang>
+      <lang percentage="70">sr</lang>
+      <lang percentage="42">sr@ije</lang>
+      <lang percentage="61">sr@latin</lang>
+      <lang percentage="70">sv</lang>
+      <lang percentage="56">ta</lang>
+      <lang percentage="60">te</lang>
+      <lang percentage="49">tg</lang>
+      <lang percentage="69">th</lang>
+      <lang percentage="25">tk</lang>
+      <lang percentage="70">tr</lang>
+      <lang percentage="61">ug</lang>
+      <lang percentage="70">uk</lang>
+      <lang percentage="69">ur</lang>
+      <lang percentage="52">uz</lang>
+      <lang percentage="26">uz@cyrillic</lang>
+      <lang percentage="56">vi</lang>
+      <lang percentage="32">xh</lang>
+      <lang percentage="30">yo</lang>
+      <lang percentage="70">zh_CN</lang>
+      <lang percentage="61">zh_HK</lang>
+      <lang percentage="70">zh_TW</lang>
+      <lang percentage="29">zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">caja-1.16.0-1.x86_64.rpm</value>
+      <value key="X-CacheID">caja_1.16.0-1_amd64.deb</value>
       <value key="X-MATE-AutoRestart">true</value>
       <value key="X-MATE-Autostart-Notify">true</value>
       <value key="X-MATE-Autostart-Phase">Desktop</value>
@@ -530,7 +365,7 @@
       <lang percentage="98">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">choqok-1.5-1.x86_64.rpm</value>
+      <value key="X-CacheID">choqok_1.5-1_amd64.deb</value>
       <value key="X-DBUS-StartupType">Unique</value>
       <value key="X-Ubuntu-Gettext-Domain">desktop_kdesdk</value>
     </metadata>
@@ -539,7 +374,7 @@
     <id>dejavu-sans</id>
     <pkgname>dejavu-fonts</pkgname>
     <name>DejaVu Sans</name>
-    <summary>A Bold font from DejaVu Sans</summary>
+    <summary>A Oblique font from DejaVu Sans</summary>
     <icon height="64" width="64" type="cached">64x64/dejavu-sans.png</icon>
     <categories>
       <category>Addons</category>
@@ -548,29 +383,19 @@
     <vetos>
       <veto>dejavu-sans was merged into dejavu-fonts</veto>
     </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-fdf26ac3f9a3124cababa442c5336e17.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Serif Condensed – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-4fb9d4942694d8057e4b30dd7acde553.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans Condensed – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-60446d02f82f6035caa62196374fa72b.png</image>
       </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      <screenshot>
+        <caption>DejaVu Sans – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-546b911ac64553e9f6b15063d3d8800e.png</image>
       </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-240a4f205fd7e51a3c93a550929a5f73.png</image>
+      <screenshot priority="-34">
+        <caption>DejaVu Serif Condensed – Bold Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-5e003dde5d94f8ab0bbc4cb74d4d218a.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -765,14 +590,14 @@
       <lang>zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">dejavu-fonts-2.35-2.noarch.rpm</value>
+      <value key="X-CacheID">dejavu-fonts_2.35-2_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
     <id>dejavu-sans-mono</id>
     <pkgname>dejavu-fonts</pkgname>
     <name>DejaVu Sans</name>
-    <summary>A Bold font from DejaVu Sans</summary>
+    <summary>A Oblique font from DejaVu Sans</summary>
     <icon height="64" width="64" type="cached">64x64/dejavu-sans-mono.png</icon>
     <categories>
       <category>Addons</category>
@@ -781,29 +606,19 @@
     <vetos>
       <veto>dejavu-sans-mono was merged into dejavu-fonts</veto>
     </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-fdf26ac3f9a3124cababa442c5336e17.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Serif Condensed – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-4fb9d4942694d8057e4b30dd7acde553.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans Condensed – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-60446d02f82f6035caa62196374fa72b.png</image>
       </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      <screenshot>
+        <caption>DejaVu Sans – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-546b911ac64553e9f6b15063d3d8800e.png</image>
       </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-240a4f205fd7e51a3c93a550929a5f73.png</image>
+      <screenshot priority="-34">
+        <caption>DejaVu Serif Condensed – Bold Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5e003dde5d94f8ab0bbc4cb74d4d218a.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -998,14 +813,14 @@
       <lang>zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">dejavu-fonts-2.35-2.noarch.rpm</value>
+      <value key="X-CacheID">dejavu-fonts_2.35-2_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
     <id>dejavu-serif</id>
     <pkgname>dejavu-fonts</pkgname>
     <name>DejaVu Sans</name>
-    <summary>A Bold font from DejaVu Sans</summary>
+    <summary>A Oblique font from DejaVu Sans</summary>
     <icon height="64" width="64" type="cached">64x64/dejavu-serif.png</icon>
     <categories>
       <category>Addons</category>
@@ -1014,29 +829,19 @@
     <vetos>
       <veto>dejavu-serif was merged into dejavu-fonts</veto>
     </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-fdf26ac3f9a3124cababa442c5336e17.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Serif Condensed – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-4fb9d4942694d8057e4b30dd7acde553.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans Condensed – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-60446d02f82f6035caa62196374fa72b.png</image>
       </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      <screenshot>
+        <caption>DejaVu Sans – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-546b911ac64553e9f6b15063d3d8800e.png</image>
       </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-240a4f205fd7e51a3c93a550929a5f73.png</image>
+      <screenshot priority="-34">
+        <caption>DejaVu Serif Condensed – Bold Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-5e003dde5d94f8ab0bbc4cb74d4d218a.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -1231,7 +1036,7 @@
       <lang>zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">dejavu-fonts-2.35-2.noarch.rpm</value>
+      <value key="X-CacheID">dejavu-fonts_2.35-2_noarch.deb</value>
     </metadata>
   </component>
   <component type="addon">
@@ -1294,15 +1099,18 @@
     <developer_name xml:lang="sv">Digikam-projektet</developer_name>
     <developer_name xml:lang="uk">Проект digiKam</developer_name>
     <developer_name xml:lang="zh_CN">digiKam 项目</developer_name>
-    <kudos>
-      <kudo>ModernToolkit</kudo>
-    </kudos>
     <vetos>
       <veto>partially absorbing digiKam-ImagePlugin_Color into digikam.desktop</veto>
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">http://www.digikam.org/</url>
     <extends>digikam.desktop</extends>
+    <provides>
+      <dbus type="session">org.kde.kcookiejar5</dbus>
+      <dbus type="session">org.kde.kiod5</dbus>
+      <dbus type="session">org.kde.kpasswdserver</dbus>
+      <dbus type="session">org.kde.kssld5</dbus>
+    </provides>
     <languages>
       <lang percentage="26">bg</lang>
       <lang percentage="84">bs</lang>
@@ -1346,7 +1154,7 @@
       <lang percentage="82">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">digikam-5.1.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">digikam_5.1.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">digikam.desktop</value>
     </metadata>
   </component>
@@ -1410,15 +1218,18 @@
     <developer_name xml:lang="sv">Digikam-projektet</developer_name>
     <developer_name xml:lang="uk">Проект digiKam</developer_name>
     <developer_name xml:lang="zh_CN">digiKam 项目</developer_name>
-    <kudos>
-      <kudo>ModernToolkit</kudo>
-    </kudos>
     <vetos>
       <veto>partially absorbing digiKam-ImagePlugin_Decorate into digikam.desktop</veto>
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">http://www.digikam.org/</url>
     <extends>digikam.desktop</extends>
+    <provides>
+      <dbus type="session">org.kde.kcookiejar5</dbus>
+      <dbus type="session">org.kde.kiod5</dbus>
+      <dbus type="session">org.kde.kpasswdserver</dbus>
+      <dbus type="session">org.kde.kssld5</dbus>
+    </provides>
     <languages>
       <lang percentage="26">bg</lang>
       <lang percentage="84">bs</lang>
@@ -1462,7 +1273,7 @@
       <lang percentage="82">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">digikam-5.1.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">digikam_5.1.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">digikam.desktop</value>
     </metadata>
   </component>
@@ -1526,15 +1337,18 @@
     <developer_name xml:lang="sv">Digikam-projektet</developer_name>
     <developer_name xml:lang="uk">Проект digiKam</developer_name>
     <developer_name xml:lang="zh_CN">digiKam 项目</developer_name>
-    <kudos>
-      <kudo>ModernToolkit</kudo>
-    </kudos>
     <vetos>
       <veto>partially absorbing digiKam-ImagePlugin_Enhance into digikam.desktop</veto>
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">http://www.digikam.org/</url>
     <extends>digikam.desktop</extends>
+    <provides>
+      <dbus type="session">org.kde.kcookiejar5</dbus>
+      <dbus type="session">org.kde.kiod5</dbus>
+      <dbus type="session">org.kde.kpasswdserver</dbus>
+      <dbus type="session">org.kde.kssld5</dbus>
+    </provides>
     <languages>
       <lang percentage="26">bg</lang>
       <lang percentage="84">bs</lang>
@@ -1578,7 +1392,7 @@
       <lang percentage="82">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">digikam-5.1.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">digikam_5.1.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">digikam.desktop</value>
     </metadata>
   </component>
@@ -1643,15 +1457,18 @@
     <developer_name xml:lang="sv">Digikam-projektet</developer_name>
     <developer_name xml:lang="uk">Проект digiKam</developer_name>
     <developer_name xml:lang="zh_CN">digiKam 项目</developer_name>
-    <kudos>
-      <kudo>ModernToolkit</kudo>
-    </kudos>
     <vetos>
       <veto>partially absorbing digiKam-ImagePlugin_FxFilters into digikam.desktop</veto>
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">http://www.digikam.org/</url>
     <extends>digikam.desktop</extends>
+    <provides>
+      <dbus type="session">org.kde.kcookiejar5</dbus>
+      <dbus type="session">org.kde.kiod5</dbus>
+      <dbus type="session">org.kde.kpasswdserver</dbus>
+      <dbus type="session">org.kde.kssld5</dbus>
+    </provides>
     <languages>
       <lang percentage="26">bg</lang>
       <lang percentage="84">bs</lang>
@@ -1695,7 +1512,7 @@
       <lang percentage="82">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">digikam-5.1.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">digikam_5.1.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">digikam.desktop</value>
     </metadata>
   </component>
@@ -1760,15 +1577,18 @@
     <developer_name xml:lang="sv">Digikam-projektet</developer_name>
     <developer_name xml:lang="uk">Проект digiKam</developer_name>
     <developer_name xml:lang="zh_CN">digiKam 项目</developer_name>
-    <kudos>
-      <kudo>ModernToolkit</kudo>
-    </kudos>
     <vetos>
       <veto>partially absorbing digiKam-ImagePlugin_Transform into digikam.desktop</veto>
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">http://www.digikam.org/</url>
     <extends>digikam.desktop</extends>
+    <provides>
+      <dbus type="session">org.kde.kcookiejar5</dbus>
+      <dbus type="session">org.kde.kiod5</dbus>
+      <dbus type="session">org.kde.kpasswdserver</dbus>
+      <dbus type="session">org.kde.kssld5</dbus>
+    </provides>
     <languages>
       <lang percentage="26">bg</lang>
       <lang percentage="84">bs</lang>
@@ -1812,7 +1632,7 @@
       <lang percentage="82">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">digikam-5.1.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">digikam_5.1.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">digikam.desktop</value>
     </metadata>
   </component>
@@ -1863,42 +1683,104 @@
     <project_group>GNOME</project_group>
     <extends>org.gnome.Nautilus.desktop</extends>
     <languages>
-      <lang percentage="63">bg</lang>
-      <lang percentage="100">bs</lang>
-      <lang percentage="96">ca</lang>
-      <lang percentage="99">cs</lang>
-      <lang percentage="71">da</lang>
-      <lang percentage="99">de</lang>
-      <lang percentage="96">el</lang>
-      <lang percentage="99">en_GB</lang>
-      <lang percentage="99">es</lang>
-      <lang percentage="99">fr</lang>
-      <lang percentage="67">he</lang>
-      <lang percentage="99">hu</lang>
-      <lang percentage="46">id</lang>
-      <lang percentage="96">it</lang>
-      <lang percentage="81">ja</lang>
-      <lang percentage="99">ko</lang>
-      <lang percentage="48">lt</lang>
-      <lang percentage="99">nb</lang>
-      <lang percentage="57">nl</lang>
-      <lang percentage="99">pl</lang>
-      <lang percentage="99">pt</lang>
-      <lang percentage="84">pt_BR</lang>
-      <lang percentage="65">ro</lang>
-      <lang percentage="98">ru</lang>
-      <lang percentage="90">sl</lang>
-      <lang percentage="99">sr</lang>
-      <lang percentage="99">sr@latin</lang>
-      <lang percentage="99">sv</lang>
-      <lang percentage="26">te</lang>
-      <lang percentage="99">tr</lang>
-      <lang percentage="39">uk</lang>
-      <lang percentage="81">zh_CN</lang>
-      <lang percentage="78">zh_TW</lang>
+      <lang percentage="37">af</lang>
+      <lang percentage="45">an</lang>
+      <lang percentage="49">ar</lang>
+      <lang percentage="54">as</lang>
+      <lang percentage="38">ast</lang>
+      <lang percentage="42">az</lang>
+      <lang percentage="49">be</lang>
+      <lang percentage="35">be@latin</lang>
+      <lang percentage="30">bg</lang>
+      <lang percentage="41">bn</lang>
+      <lang percentage="45">bn_IN</lang>
+      <lang percentage="48">bs</lang>
+      <lang percentage="46">ca</lang>
+      <lang percentage="54">ca@valencia</lang>
+      <lang percentage="37">crh</lang>
+      <lang percentage="48">cs</lang>
+      <lang percentage="31">cy</lang>
+      <lang percentage="34">da</lang>
+      <lang percentage="48">de</lang>
+      <lang percentage="60">dz</lang>
+      <lang percentage="47">el</lang>
+      <lang percentage="37">en@shaw</lang>
+      <lang percentage="65">en_CA</lang>
+      <lang percentage="48">en_GB</lang>
+      <lang percentage="43">eo</lang>
+      <lang percentage="48">es</lang>
+      <lang percentage="44">et</lang>
+      <lang percentage="58">eu</lang>
+      <lang percentage="52">fa</lang>
+      <lang percentage="48">fi</lang>
+      <lang percentage="48">fr</lang>
+      <lang percentage="42">ga</lang>
+      <lang percentage="54">gd</lang>
+      <lang percentage="58">gl</lang>
+      <lang percentage="52">gu</lang>
+      <lang percentage="32">he</lang>
+      <lang percentage="54">hi</lang>
+      <lang percentage="49">hr</lang>
+      <lang percentage="48">hu</lang>
+      <lang percentage="77">hy</lang>
+      <lang percentage="44">ia</lang>
+      <lang percentage="57">is</lang>
+      <lang percentage="47">it</lang>
+      <lang percentage="39">ja</lang>
+      <lang percentage="56">ka</lang>
+      <lang percentage="46">kg</lang>
+      <lang percentage="58">kk</lang>
+      <lang percentage="44">km</lang>
+      <lang percentage="54">kn</lang>
+      <lang percentage="48">ko</lang>
+      <lang percentage="36">ku</lang>
+      <lang percentage="32">lg</lang>
+      <lang percentage="32">li</lang>
+      <lang percentage="54">lv</lang>
+      <lang percentage="37">mai</lang>
+      <lang percentage="64">mk</lang>
+      <lang percentage="45">ml</lang>
+      <lang percentage="42">mn</lang>
+      <lang percentage="54">mr</lang>
+      <lang percentage="39">ms</lang>
+      <lang percentage="36">my</lang>
+      <lang percentage="48">nb</lang>
+      <lang percentage="27">nds</lang>
+      <lang percentage="48">ne</lang>
+      <lang percentage="28">nl</lang>
+      <lang percentage="40">nn</lang>
+      <lang percentage="42">nso</lang>
+      <lang percentage="59">oc</lang>
+      <lang percentage="45">or</lang>
+      <lang percentage="58">pa</lang>
+      <lang percentage="48">pl</lang>
+      <lang percentage="48">pt</lang>
+      <lang percentage="41">pt_BR</lang>
+      <lang percentage="32">ro</lang>
+      <lang percentage="47">ru</lang>
+      <lang percentage="58">sk</lang>
+      <lang percentage="44">sl</lang>
+      <lang percentage="35">sq</lang>
+      <lang percentage="48">sr</lang>
+      <lang percentage="42">sr@ije</lang>
+      <lang percentage="48">sr@latin</lang>
+      <lang percentage="48">sv</lang>
+      <lang percentage="54">ta</lang>
+      <lang percentage="49">tg</lang>
+      <lang percentage="49">th</lang>
+      <lang percentage="48">tr</lang>
+      <lang percentage="44">ug</lang>
+      <lang percentage="26">uz</lang>
+      <lang percentage="26">uz@cyrillic</lang>
+      <lang percentage="58">vi</lang>
+      <lang percentage="47">xh</lang>
+      <lang percentage="32">yi</lang>
+      <lang percentage="39">zh_CN</lang>
+      <lang percentage="54">zh_HK</lang>
+      <lang percentage="38">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">easytag-2.4.2-1.x86_64.rpm</value>
+      <value key="X-CacheID">easytag_2.4.2-1_amd64.deb</value>
       <value key="X-Merge-With-Parent">easytag.desktop</value>
     </metadata>
   </component>
@@ -2077,105 +1959,27 @@
     <project_group>GNOME</project_group>
     <extends>evince.desktop</extends>
     <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
       <dbus type="session">org.gnome.evince.Daemon</dbus>
     </provides>
     <languages>
-      <lang percentage="87">af</lang>
-      <lang percentage="90">an</lang>
-      <lang percentage="99">ar</lang>
-      <lang percentage="89">as</lang>
-      <lang percentage="92">ast</lang>
-      <lang percentage="88">be</lang>
-      <lang percentage="79">be@latin</lang>
-      <lang percentage="99">bg</lang>
-      <lang percentage="84">bn</lang>
-      <lang percentage="89">bn_IN</lang>
-      <lang percentage="50">br</lang>
-      <lang percentage="91">bs</lang>
-      <lang percentage="99">ca</lang>
-      <lang percentage="89">ca@valencia</lang>
-      <lang percentage="99">cs</lang>
-      <lang percentage="55">cy</lang>
-      <lang percentage="99">da</lang>
-      <lang percentage="99">de</lang>
-      <lang percentage="73">dz</lang>
-      <lang percentage="99">el</lang>
-      <lang percentage="76">en@shaw</lang>
-      <lang percentage="92">en_CA</lang>
-      <lang percentage="99">en_GB</lang>
-      <lang percentage="91">eo</lang>
-      <lang percentage="99">es</lang>
-      <lang percentage="91">et</lang>
-      <lang percentage="99">eu</lang>
-      <lang percentage="95">fa</lang>
-      <lang percentage="98">fi</lang>
-      <lang percentage="99">fr</lang>
-      <lang percentage="99">fur</lang>
-      <lang percentage="51">ga</lang>
-      <lang percentage="99">gd</lang>
-      <lang percentage="99">gl</lang>
-      <lang percentage="89">gu</lang>
-      <lang percentage="99">he</lang>
-      <lang percentage="89">hi</lang>
-      <lang percentage="99">hu</lang>
-      <lang percentage="99">id</lang>
-      <lang percentage="99">is</lang>
-      <lang percentage="99">it</lang>
-      <lang percentage="99">ja</lang>
-      <lang percentage="63">ka</lang>
-      <lang percentage="99">kk</lang>
-      <lang percentage="96">km</lang>
-      <lang percentage="89">kn</lang>
-      <lang percentage="99">ko</lang>
-      <lang percentage="58">ks</lang>
-      <lang percentage="75">ku</lang>
-      <lang percentage="99">lt</lang>
-      <lang percentage="99">lv</lang>
-      <lang percentage="62">mai</lang>
-      <lang percentage="62">mg</lang>
-      <lang percentage="92">mk</lang>
-      <lang percentage="93">ml</lang>
-      <lang percentage="84">mn</lang>
-      <lang percentage="89">mr</lang>
-      <lang percentage="92">ms</lang>
-      <lang percentage="82">my</lang>
-      <lang percentage="100">nb</lang>
-      <lang percentage="61">nds</lang>
-      <lang percentage="73">ne</lang>
-      <lang percentage="99">nl</lang>
-      <lang percentage="92">nn</lang>
-      <lang percentage="95">oc</lang>
-      <lang percentage="93">or</lang>
-      <lang percentage="99">pa</lang>
-      <lang percentage="99">pl</lang>
-      <lang percentage="62">ps</lang>
-      <lang percentage="99">pt</lang>
-      <lang percentage="99">pt_BR</lang>
-      <lang percentage="92">ro</lang>
-      <lang percentage="99">ru</lang>
-      <lang percentage="31">si</lang>
-      <lang percentage="99">sk</lang>
-      <lang percentage="92">sl</lang>
-      <lang percentage="73">sq</lang>
-      <lang percentage="99">sr</lang>
-      <lang percentage="99">sr@latin</lang>
-      <lang percentage="99">sv</lang>
-      <lang percentage="89">ta</lang>
-      <lang percentage="89">te</lang>
-      <lang percentage="91">tg</lang>
-      <lang percentage="100">th</lang>
-      <lang percentage="90">tr</lang>
-      <lang percentage="93">ug</lang>
-      <lang percentage="99">uk</lang>
-      <lang percentage="99">vi</lang>
-      <lang percentage="37">wa</lang>
-      <lang percentage="90">zh_CN</lang>
-      <lang percentage="89">zh_HK</lang>
-      <lang percentage="99">zh_TW</lang>
-      <lang percentage="90">zu</lang>
+      <lang percentage="52">az</lang>
+      <lang percentage="46">crh</lang>
+      <lang percentage="61">hr</lang>
+      <lang percentage="29">hy</lang>
+      <lang percentage="55">ia</lang>
+      <lang percentage="57">kg</lang>
+      <lang percentage="40">lg</lang>
+      <lang percentage="40">li</lang>
+      <lang percentage="52">nso</lang>
+      <lang percentage="52">sr@ije</lang>
+      <lang percentage="32">uz</lang>
+      <lang percentage="32">uz@cyrillic</lang>
+      <lang percentage="59">xh</lang>
+      <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince_3.22.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -2339,105 +2143,27 @@
     <project_group>GNOME</project_group>
     <extends>evince.desktop</extends>
     <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
       <dbus type="session">org.gnome.evince.Daemon</dbus>
     </provides>
     <languages>
-      <lang percentage="87">af</lang>
-      <lang percentage="90">an</lang>
-      <lang percentage="99">ar</lang>
-      <lang percentage="89">as</lang>
-      <lang percentage="92">ast</lang>
-      <lang percentage="88">be</lang>
-      <lang percentage="79">be@latin</lang>
-      <lang percentage="99">bg</lang>
-      <lang percentage="84">bn</lang>
-      <lang percentage="89">bn_IN</lang>
-      <lang percentage="50">br</lang>
-      <lang percentage="91">bs</lang>
-      <lang percentage="99">ca</lang>
-      <lang percentage="89">ca@valencia</lang>
-      <lang percentage="99">cs</lang>
-      <lang percentage="55">cy</lang>
-      <lang percentage="99">da</lang>
-      <lang percentage="99">de</lang>
-      <lang percentage="73">dz</lang>
-      <lang percentage="99">el</lang>
-      <lang percentage="76">en@shaw</lang>
-      <lang percentage="92">en_CA</lang>
-      <lang percentage="99">en_GB</lang>
-      <lang percentage="91">eo</lang>
-      <lang percentage="99">es</lang>
-      <lang percentage="91">et</lang>
-      <lang percentage="99">eu</lang>
-      <lang percentage="95">fa</lang>
-      <lang percentage="98">fi</lang>
-      <lang percentage="99">fr</lang>
-      <lang percentage="99">fur</lang>
-      <lang percentage="51">ga</lang>
-      <lang percentage="99">gd</lang>
-      <lang percentage="99">gl</lang>
-      <lang percentage="89">gu</lang>
-      <lang percentage="99">he</lang>
-      <lang percentage="89">hi</lang>
-      <lang percentage="99">hu</lang>
-      <lang percentage="99">id</lang>
-      <lang percentage="99">is</lang>
-      <lang percentage="99">it</lang>
-      <lang percentage="99">ja</lang>
-      <lang percentage="63">ka</lang>
-      <lang percentage="99">kk</lang>
-      <lang percentage="96">km</lang>
-      <lang percentage="89">kn</lang>
-      <lang percentage="99">ko</lang>
-      <lang percentage="58">ks</lang>
-      <lang percentage="75">ku</lang>
-      <lang percentage="99">lt</lang>
-      <lang percentage="99">lv</lang>
-      <lang percentage="62">mai</lang>
-      <lang percentage="62">mg</lang>
-      <lang percentage="92">mk</lang>
-      <lang percentage="93">ml</lang>
-      <lang percentage="84">mn</lang>
-      <lang percentage="89">mr</lang>
-      <lang percentage="92">ms</lang>
-      <lang percentage="82">my</lang>
-      <lang percentage="100">nb</lang>
-      <lang percentage="61">nds</lang>
-      <lang percentage="73">ne</lang>
-      <lang percentage="99">nl</lang>
-      <lang percentage="92">nn</lang>
-      <lang percentage="95">oc</lang>
-      <lang percentage="93">or</lang>
-      <lang percentage="99">pa</lang>
-      <lang percentage="99">pl</lang>
-      <lang percentage="62">ps</lang>
-      <lang percentage="99">pt</lang>
-      <lang percentage="99">pt_BR</lang>
-      <lang percentage="92">ro</lang>
-      <lang percentage="99">ru</lang>
-      <lang percentage="31">si</lang>
-      <lang percentage="99">sk</lang>
-      <lang percentage="92">sl</lang>
-      <lang percentage="73">sq</lang>
-      <lang percentage="99">sr</lang>
-      <lang percentage="99">sr@latin</lang>
-      <lang percentage="99">sv</lang>
-      <lang percentage="89">ta</lang>
-      <lang percentage="89">te</lang>
-      <lang percentage="91">tg</lang>
-      <lang percentage="100">th</lang>
-      <lang percentage="90">tr</lang>
-      <lang percentage="93">ug</lang>
-      <lang percentage="99">uk</lang>
-      <lang percentage="99">vi</lang>
-      <lang percentage="37">wa</lang>
-      <lang percentage="90">zh_CN</lang>
-      <lang percentage="89">zh_HK</lang>
-      <lang percentage="99">zh_TW</lang>
-      <lang percentage="90">zu</lang>
+      <lang percentage="52">az</lang>
+      <lang percentage="46">crh</lang>
+      <lang percentage="61">hr</lang>
+      <lang percentage="29">hy</lang>
+      <lang percentage="55">ia</lang>
+      <lang percentage="57">kg</lang>
+      <lang percentage="40">lg</lang>
+      <lang percentage="40">li</lang>
+      <lang percentage="52">nso</lang>
+      <lang percentage="52">sr@ije</lang>
+      <lang percentage="32">uz</lang>
+      <lang percentage="32">uz@cyrillic</lang>
+      <lang percentage="59">xh</lang>
+      <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince_3.22.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -2616,105 +2342,27 @@
     <project_group>GNOME</project_group>
     <extends>evince.desktop</extends>
     <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
       <dbus type="session">org.gnome.evince.Daemon</dbus>
     </provides>
     <languages>
-      <lang percentage="87">af</lang>
-      <lang percentage="90">an</lang>
-      <lang percentage="99">ar</lang>
-      <lang percentage="89">as</lang>
-      <lang percentage="92">ast</lang>
-      <lang percentage="88">be</lang>
-      <lang percentage="79">be@latin</lang>
-      <lang percentage="99">bg</lang>
-      <lang percentage="84">bn</lang>
-      <lang percentage="89">bn_IN</lang>
-      <lang percentage="50">br</lang>
-      <lang percentage="91">bs</lang>
-      <lang percentage="99">ca</lang>
-      <lang percentage="89">ca@valencia</lang>
-      <lang percentage="99">cs</lang>
-      <lang percentage="55">cy</lang>
-      <lang percentage="99">da</lang>
-      <lang percentage="99">de</lang>
-      <lang percentage="73">dz</lang>
-      <lang percentage="99">el</lang>
-      <lang percentage="76">en@shaw</lang>
-      <lang percentage="92">en_CA</lang>
-      <lang percentage="99">en_GB</lang>
-      <lang percentage="91">eo</lang>
-      <lang percentage="99">es</lang>
-      <lang percentage="91">et</lang>
-      <lang percentage="99">eu</lang>
-      <lang percentage="95">fa</lang>
-      <lang percentage="98">fi</lang>
-      <lang percentage="99">fr</lang>
-      <lang percentage="99">fur</lang>
-      <lang percentage="51">ga</lang>
-      <lang percentage="99">gd</lang>
-      <lang percentage="99">gl</lang>
-      <lang percentage="89">gu</lang>
-      <lang percentage="99">he</lang>
-      <lang percentage="89">hi</lang>
-      <lang percentage="99">hu</lang>
-      <lang percentage="99">id</lang>
-      <lang percentage="99">is</lang>
-      <lang percentage="99">it</lang>
-      <lang percentage="99">ja</lang>
-      <lang percentage="63">ka</lang>
-      <lang percentage="99">kk</lang>
-      <lang percentage="96">km</lang>
-      <lang percentage="89">kn</lang>
-      <lang percentage="99">ko</lang>
-      <lang percentage="58">ks</lang>
-      <lang percentage="75">ku</lang>
-      <lang percentage="99">lt</lang>
-      <lang percentage="99">lv</lang>
-      <lang percentage="62">mai</lang>
-      <lang percentage="62">mg</lang>
-      <lang percentage="92">mk</lang>
-      <lang percentage="93">ml</lang>
-      <lang percentage="84">mn</lang>
-      <lang percentage="89">mr</lang>
-      <lang percentage="92">ms</lang>
-      <lang percentage="82">my</lang>
-      <lang percentage="100">nb</lang>
-      <lang percentage="61">nds</lang>
-      <lang percentage="73">ne</lang>
-      <lang percentage="99">nl</lang>
-      <lang percentage="92">nn</lang>
-      <lang percentage="95">oc</lang>
-      <lang percentage="93">or</lang>
-      <lang percentage="99">pa</lang>
-      <lang percentage="99">pl</lang>
-      <lang percentage="62">ps</lang>
-      <lang percentage="99">pt</lang>
-      <lang percentage="99">pt_BR</lang>
-      <lang percentage="92">ro</lang>
-      <lang percentage="99">ru</lang>
-      <lang percentage="31">si</lang>
-      <lang percentage="99">sk</lang>
-      <lang percentage="92">sl</lang>
-      <lang percentage="73">sq</lang>
-      <lang percentage="99">sr</lang>
-      <lang percentage="99">sr@latin</lang>
-      <lang percentage="99">sv</lang>
-      <lang percentage="89">ta</lang>
-      <lang percentage="89">te</lang>
-      <lang percentage="91">tg</lang>
-      <lang percentage="100">th</lang>
-      <lang percentage="90">tr</lang>
-      <lang percentage="93">ug</lang>
-      <lang percentage="99">uk</lang>
-      <lang percentage="99">vi</lang>
-      <lang percentage="37">wa</lang>
-      <lang percentage="90">zh_CN</lang>
-      <lang percentage="89">zh_HK</lang>
-      <lang percentage="99">zh_TW</lang>
-      <lang percentage="90">zu</lang>
+      <lang percentage="52">az</lang>
+      <lang percentage="46">crh</lang>
+      <lang percentage="61">hr</lang>
+      <lang percentage="29">hy</lang>
+      <lang percentage="55">ia</lang>
+      <lang percentage="57">kg</lang>
+      <lang percentage="40">lg</lang>
+      <lang percentage="40">li</lang>
+      <lang percentage="52">nso</lang>
+      <lang percentage="52">sr@ije</lang>
+      <lang percentage="32">uz</lang>
+      <lang percentage="32">uz@cyrillic</lang>
+      <lang percentage="59">xh</lang>
+      <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince_3.22.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -2894,105 +2542,27 @@
     <project_group>GNOME</project_group>
     <extends>evince.desktop</extends>
     <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
       <dbus type="session">org.gnome.evince.Daemon</dbus>
     </provides>
     <languages>
-      <lang percentage="87">af</lang>
-      <lang percentage="90">an</lang>
-      <lang percentage="99">ar</lang>
-      <lang percentage="89">as</lang>
-      <lang percentage="92">ast</lang>
-      <lang percentage="88">be</lang>
-      <lang percentage="79">be@latin</lang>
-      <lang percentage="99">bg</lang>
-      <lang percentage="84">bn</lang>
-      <lang percentage="89">bn_IN</lang>
-      <lang percentage="50">br</lang>
-      <lang percentage="91">bs</lang>
-      <lang percentage="99">ca</lang>
-      <lang percentage="89">ca@valencia</lang>
-      <lang percentage="99">cs</lang>
-      <lang percentage="55">cy</lang>
-      <lang percentage="99">da</lang>
-      <lang percentage="99">de</lang>
-      <lang percentage="73">dz</lang>
-      <lang percentage="99">el</lang>
-      <lang percentage="76">en@shaw</lang>
-      <lang percentage="92">en_CA</lang>
-      <lang percentage="99">en_GB</lang>
-      <lang percentage="91">eo</lang>
-      <lang percentage="99">es</lang>
-      <lang percentage="91">et</lang>
-      <lang percentage="99">eu</lang>
-      <lang percentage="95">fa</lang>
-      <lang percentage="98">fi</lang>
-      <lang percentage="99">fr</lang>
-      <lang percentage="99">fur</lang>
-      <lang percentage="51">ga</lang>
-      <lang percentage="99">gd</lang>
-      <lang percentage="99">gl</lang>
-      <lang percentage="89">gu</lang>
-      <lang percentage="99">he</lang>
-      <lang percentage="89">hi</lang>
-      <lang percentage="99">hu</lang>
-      <lang percentage="99">id</lang>
-      <lang percentage="99">is</lang>
-      <lang percentage="99">it</lang>
-      <lang percentage="99">ja</lang>
-      <lang percentage="63">ka</lang>
-      <lang percentage="99">kk</lang>
-      <lang percentage="96">km</lang>
-      <lang percentage="89">kn</lang>
-      <lang percentage="99">ko</lang>
-      <lang percentage="58">ks</lang>
-      <lang percentage="75">ku</lang>
-      <lang percentage="99">lt</lang>
-      <lang percentage="99">lv</lang>
-      <lang percentage="62">mai</lang>
-      <lang percentage="62">mg</lang>
-      <lang percentage="92">mk</lang>
-      <lang percentage="93">ml</lang>
-      <lang percentage="84">mn</lang>
-      <lang percentage="89">mr</lang>
-      <lang percentage="92">ms</lang>
-      <lang percentage="82">my</lang>
-      <lang percentage="100">nb</lang>
-      <lang percentage="61">nds</lang>
-      <lang percentage="73">ne</lang>
-      <lang percentage="99">nl</lang>
-      <lang percentage="92">nn</lang>
-      <lang percentage="95">oc</lang>
-      <lang percentage="93">or</lang>
-      <lang percentage="99">pa</lang>
-      <lang percentage="99">pl</lang>
-      <lang percentage="62">ps</lang>
-      <lang percentage="99">pt</lang>
-      <lang percentage="99">pt_BR</lang>
-      <lang percentage="92">ro</lang>
-      <lang percentage="99">ru</lang>
-      <lang percentage="31">si</lang>
-      <lang percentage="99">sk</lang>
-      <lang percentage="92">sl</lang>
-      <lang percentage="73">sq</lang>
-      <lang percentage="99">sr</lang>
-      <lang percentage="99">sr@latin</lang>
-      <lang percentage="99">sv</lang>
-      <lang percentage="89">ta</lang>
-      <lang percentage="89">te</lang>
-      <lang percentage="91">tg</lang>
-      <lang percentage="100">th</lang>
-      <lang percentage="90">tr</lang>
-      <lang percentage="93">ug</lang>
-      <lang percentage="99">uk</lang>
-      <lang percentage="99">vi</lang>
-      <lang percentage="37">wa</lang>
-      <lang percentage="90">zh_CN</lang>
-      <lang percentage="89">zh_HK</lang>
-      <lang percentage="99">zh_TW</lang>
-      <lang percentage="90">zu</lang>
+      <lang percentage="52">az</lang>
+      <lang percentage="46">crh</lang>
+      <lang percentage="61">hr</lang>
+      <lang percentage="29">hy</lang>
+      <lang percentage="55">ia</lang>
+      <lang percentage="57">kg</lang>
+      <lang percentage="40">lg</lang>
+      <lang percentage="40">li</lang>
+      <lang percentage="52">nso</lang>
+      <lang percentage="52">sr@ije</lang>
+      <lang percentage="32">uz</lang>
+      <lang percentage="32">uz@cyrillic</lang>
+      <lang percentage="59">xh</lang>
+      <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince_3.22.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -3143,105 +2713,27 @@
     <project_group>GNOME</project_group>
     <extends>evince.desktop</extends>
     <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
       <dbus type="session">org.gnome.evince.Daemon</dbus>
     </provides>
     <languages>
-      <lang percentage="87">af</lang>
-      <lang percentage="90">an</lang>
-      <lang percentage="99">ar</lang>
-      <lang percentage="89">as</lang>
-      <lang percentage="92">ast</lang>
-      <lang percentage="88">be</lang>
-      <lang percentage="79">be@latin</lang>
-      <lang percentage="99">bg</lang>
-      <lang percentage="84">bn</lang>
-      <lang percentage="89">bn_IN</lang>
-      <lang percentage="50">br</lang>
-      <lang percentage="91">bs</lang>
-      <lang percentage="99">ca</lang>
-      <lang percentage="89">ca@valencia</lang>
-      <lang percentage="99">cs</lang>
-      <lang percentage="55">cy</lang>
-      <lang percentage="99">da</lang>
-      <lang percentage="99">de</lang>
-      <lang percentage="73">dz</lang>
-      <lang percentage="99">el</lang>
-      <lang percentage="76">en@shaw</lang>
-      <lang percentage="92">en_CA</lang>
-      <lang percentage="99">en_GB</lang>
-      <lang percentage="91">eo</lang>
-      <lang percentage="99">es</lang>
-      <lang percentage="91">et</lang>
-      <lang percentage="99">eu</lang>
-      <lang percentage="95">fa</lang>
-      <lang percentage="98">fi</lang>
-      <lang percentage="99">fr</lang>
-      <lang percentage="99">fur</lang>
-      <lang percentage="51">ga</lang>
-      <lang percentage="99">gd</lang>
-      <lang percentage="99">gl</lang>
-      <lang percentage="89">gu</lang>
-      <lang percentage="99">he</lang>
-      <lang percentage="89">hi</lang>
-      <lang percentage="99">hu</lang>
-      <lang percentage="99">id</lang>
-      <lang percentage="99">is</lang>
-      <lang percentage="99">it</lang>
-      <lang percentage="99">ja</lang>
-      <lang percentage="63">ka</lang>
-      <lang percentage="99">kk</lang>
-      <lang percentage="96">km</lang>
-      <lang percentage="89">kn</lang>
-      <lang percentage="99">ko</lang>
-      <lang percentage="58">ks</lang>
-      <lang percentage="75">ku</lang>
-      <lang percentage="99">lt</lang>
-      <lang percentage="99">lv</lang>
-      <lang percentage="62">mai</lang>
-      <lang percentage="62">mg</lang>
-      <lang percentage="92">mk</lang>
-      <lang percentage="93">ml</lang>
-      <lang percentage="84">mn</lang>
-      <lang percentage="89">mr</lang>
-      <lang percentage="92">ms</lang>
-      <lang percentage="82">my</lang>
-      <lang percentage="100">nb</lang>
-      <lang percentage="61">nds</lang>
-      <lang percentage="73">ne</lang>
-      <lang percentage="99">nl</lang>
-      <lang percentage="92">nn</lang>
-      <lang percentage="95">oc</lang>
-      <lang percentage="93">or</lang>
-      <lang percentage="99">pa</lang>
-      <lang percentage="99">pl</lang>
-      <lang percentage="62">ps</lang>
-      <lang percentage="99">pt</lang>
-      <lang percentage="99">pt_BR</lang>
-      <lang percentage="92">ro</lang>
-      <lang percentage="99">ru</lang>
-      <lang percentage="31">si</lang>
-      <lang percentage="99">sk</lang>
-      <lang percentage="92">sl</lang>
-      <lang percentage="73">sq</lang>
-      <lang percentage="99">sr</lang>
-      <lang percentage="99">sr@latin</lang>
-      <lang percentage="99">sv</lang>
-      <lang percentage="89">ta</lang>
-      <lang percentage="89">te</lang>
-      <lang percentage="91">tg</lang>
-      <lang percentage="100">th</lang>
-      <lang percentage="90">tr</lang>
-      <lang percentage="93">ug</lang>
-      <lang percentage="99">uk</lang>
-      <lang percentage="99">vi</lang>
-      <lang percentage="37">wa</lang>
-      <lang percentage="90">zh_CN</lang>
-      <lang percentage="89">zh_HK</lang>
-      <lang percentage="99">zh_TW</lang>
-      <lang percentage="90">zu</lang>
+      <lang percentage="52">az</lang>
+      <lang percentage="46">crh</lang>
+      <lang percentage="61">hr</lang>
+      <lang percentage="29">hy</lang>
+      <lang percentage="55">ia</lang>
+      <lang percentage="57">kg</lang>
+      <lang percentage="40">lg</lang>
+      <lang percentage="40">li</lang>
+      <lang percentage="52">nso</lang>
+      <lang percentage="52">sr@ije</lang>
+      <lang percentage="32">uz</lang>
+      <lang percentage="32">uz@cyrillic</lang>
+      <lang percentage="59">xh</lang>
+      <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince_3.22.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -3393,105 +2885,27 @@
     <project_group>GNOME</project_group>
     <extends>evince.desktop</extends>
     <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
       <dbus type="session">org.gnome.evince.Daemon</dbus>
     </provides>
     <languages>
-      <lang percentage="87">af</lang>
-      <lang percentage="90">an</lang>
-      <lang percentage="99">ar</lang>
-      <lang percentage="89">as</lang>
-      <lang percentage="92">ast</lang>
-      <lang percentage="88">be</lang>
-      <lang percentage="79">be@latin</lang>
-      <lang percentage="99">bg</lang>
-      <lang percentage="84">bn</lang>
-      <lang percentage="89">bn_IN</lang>
-      <lang percentage="50">br</lang>
-      <lang percentage="91">bs</lang>
-      <lang percentage="99">ca</lang>
-      <lang percentage="89">ca@valencia</lang>
-      <lang percentage="99">cs</lang>
-      <lang percentage="55">cy</lang>
-      <lang percentage="99">da</lang>
-      <lang percentage="99">de</lang>
-      <lang percentage="73">dz</lang>
-      <lang percentage="99">el</lang>
-      <lang percentage="76">en@shaw</lang>
-      <lang percentage="92">en_CA</lang>
-      <lang percentage="99">en_GB</lang>
-      <lang percentage="91">eo</lang>
-      <lang percentage="99">es</lang>
-      <lang percentage="91">et</lang>
-      <lang percentage="99">eu</lang>
-      <lang percentage="95">fa</lang>
-      <lang percentage="98">fi</lang>
-      <lang percentage="99">fr</lang>
-      <lang percentage="99">fur</lang>
-      <lang percentage="51">ga</lang>
-      <lang percentage="99">gd</lang>
-      <lang percentage="99">gl</lang>
-      <lang percentage="89">gu</lang>
-      <lang percentage="99">he</lang>
-      <lang percentage="89">hi</lang>
-      <lang percentage="99">hu</lang>
-      <lang percentage="99">id</lang>
-      <lang percentage="99">is</lang>
-      <lang percentage="99">it</lang>
-      <lang percentage="99">ja</lang>
-      <lang percentage="63">ka</lang>
-      <lang percentage="99">kk</lang>
-      <lang percentage="96">km</lang>
-      <lang percentage="89">kn</lang>
-      <lang percentage="99">ko</lang>
-      <lang percentage="58">ks</lang>
-      <lang percentage="75">ku</lang>
-      <lang percentage="99">lt</lang>
-      <lang percentage="99">lv</lang>
-      <lang percentage="62">mai</lang>
-      <lang percentage="62">mg</lang>
-      <lang percentage="92">mk</lang>
-      <lang percentage="93">ml</lang>
-      <lang percentage="84">mn</lang>
-      <lang percentage="89">mr</lang>
-      <lang percentage="92">ms</lang>
-      <lang percentage="82">my</lang>
-      <lang percentage="100">nb</lang>
-      <lang percentage="61">nds</lang>
-      <lang percentage="73">ne</lang>
-      <lang percentage="99">nl</lang>
-      <lang percentage="92">nn</lang>
-      <lang percentage="95">oc</lang>
-      <lang percentage="93">or</lang>
-      <lang percentage="99">pa</lang>
-      <lang percentage="99">pl</lang>
-      <lang percentage="62">ps</lang>
-      <lang percentage="99">pt</lang>
-      <lang percentage="99">pt_BR</lang>
-      <lang percentage="92">ro</lang>
-      <lang percentage="99">ru</lang>
-      <lang percentage="31">si</lang>
-      <lang percentage="99">sk</lang>
-      <lang percentage="92">sl</lang>
-      <lang percentage="73">sq</lang>
-      <lang percentage="99">sr</lang>
-      <lang percentage="99">sr@latin</lang>
-      <lang percentage="99">sv</lang>
-      <lang percentage="89">ta</lang>
-      <lang percentage="89">te</lang>
-      <lang percentage="91">tg</lang>
-      <lang percentage="100">th</lang>
-      <lang percentage="90">tr</lang>
-      <lang percentage="93">ug</lang>
-      <lang percentage="99">uk</lang>
-      <lang percentage="99">vi</lang>
-      <lang percentage="37">wa</lang>
-      <lang percentage="90">zh_CN</lang>
-      <lang percentage="89">zh_HK</lang>
-      <lang percentage="99">zh_TW</lang>
-      <lang percentage="90">zu</lang>
+      <lang percentage="52">az</lang>
+      <lang percentage="46">crh</lang>
+      <lang percentage="61">hr</lang>
+      <lang percentage="29">hy</lang>
+      <lang percentage="55">ia</lang>
+      <lang percentage="57">kg</lang>
+      <lang percentage="40">lg</lang>
+      <lang percentage="40">li</lang>
+      <lang percentage="52">nso</lang>
+      <lang percentage="52">sr@ije</lang>
+      <lang percentage="32">uz</lang>
+      <lang percentage="32">uz@cyrillic</lang>
+      <lang percentage="59">xh</lang>
+      <lang percentage="40">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evince-3.22.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evince_3.22.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evince.desktop</value>
     </metadata>
   </component>
@@ -3551,10 +2965,17 @@
     <vetos>
       <veto>partially absorbing evolution-bogofilter into evolution.desktop</veto>
     </vetos>
-    <project_license>Unknown</project_license>
     <url type="homepage">https://live.gnome.org/Apps/Evolution</url>
     <project_group>GNOME</project_group>
     <extends>evolution.desktop</extends>
+    <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.AddressBook9</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.Calendar7</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.Sources5</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.UserPrompter0</dbus>
+      <dbus type="session">org.gnome.seahorse</dbus>
+    </provides>
     <languages>
       <lang percentage="49">af</lang>
       <lang percentage="85">an</lang>
@@ -3641,7 +3062,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.22.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution_3.22.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -3658,10 +3079,17 @@
     <vetos>
       <veto>partially absorbing evolution-pst into evolution.desktop</veto>
     </vetos>
-    <project_license>Unknown</project_license>
     <url type="homepage">https://live.gnome.org/Apps/Evolution</url>
     <project_group>GNOME</project_group>
     <extends>evolution.desktop</extends>
+    <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.AddressBook9</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.Calendar7</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.Sources5</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.UserPrompter0</dbus>
+      <dbus type="session">org.gnome.seahorse</dbus>
+    </provides>
     <languages>
       <lang percentage="49">af</lang>
       <lang percentage="85">an</lang>
@@ -3748,7 +3176,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.22.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution_3.22.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -3810,10 +3238,17 @@
     <vetos>
       <veto>partially absorbing evolution-spamassassin into evolution.desktop</veto>
     </vetos>
-    <project_license>Unknown</project_license>
     <url type="homepage">https://live.gnome.org/Apps/Evolution</url>
     <project_group>GNOME</project_group>
     <extends>evolution.desktop</extends>
+    <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.AddressBook9</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.Calendar7</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.Sources5</dbus>
+      <dbus type="session">org.gnome.evolution.dataserver.UserPrompter0</dbus>
+      <dbus type="session">org.gnome.seahorse</dbus>
+    </provides>
     <languages>
       <lang percentage="49">af</lang>
       <lang percentage="85">an</lang>
@@ -3900,7 +3335,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution-3.22.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">evolution_3.22.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -3910,6 +3345,9 @@
     <name>Google Chrome</name>
     <summary>The Web browser from Google</summary>
     <description><p>Google Chrome is a Web browser created by Google bundled with integration with Google services.</p><p>Chromium is an open-source browser project that aims to build a safer, faster and more stable way for all Internet users to experience the web.</p><p>Chromium serves as a base for Google Chrome, which is Chromium rebranded (name and logo) with very few additions such as usage tracking and an auto-updater system.</p></description>
+    <kudos>
+      <kudo>HighContrast</kudo>
+    </kudos>
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
@@ -3932,8 +3370,109 @@
         <image type="source">https://repo.aosc.io/appdata/screenshots/Chrome-5.png</image>
       </screenshot>
     </screenshots>
+    <provides>
+      <dbus type="session">org.gnome.GConf</dbus>
+      <dbus type="system">org.gnome.GConf.Defaults</dbus>
+    </provides>
+    <languages>
+      <lang percentage="51">af</lang>
+      <lang percentage="82">ar</lang>
+      <lang percentage="87">as</lang>
+      <lang percentage="88">ast</lang>
+      <lang percentage="51">az</lang>
+      <lang percentage="39">be</lang>
+      <lang percentage="77">be@latin</lang>
+      <lang percentage="89">bg</lang>
+      <lang percentage="89">bn</lang>
+      <lang percentage="89">bn_IN</lang>
+      <lang percentage="27">br</lang>
+      <lang percentage="51">bs</lang>
+      <lang percentage="89">ca</lang>
+      <lang percentage="89">ca@valencia</lang>
+      <lang percentage="85">crh</lang>
+      <lang percentage="89">cs</lang>
+      <lang percentage="78">cy</lang>
+      <lang percentage="89">da</lang>
+      <lang percentage="100">de</lang>
+      <lang percentage="72">dz</lang>
+      <lang percentage="89">el</lang>
+      <lang percentage="25">en@shaw</lang>
+      <lang percentage="78">en_CA</lang>
+      <lang percentage="90">en_GB</lang>
+      <lang percentage="26">eo</lang>
+      <lang percentage="89">es</lang>
+      <lang percentage="43">et</lang>
+      <lang percentage="89">eu</lang>
+      <lang percentage="89">fi</lang>
+      <lang percentage="89">fr</lang>
+      <lang percentage="51">ga</lang>
+      <lang percentage="89">gl</lang>
+      <lang percentage="87">gu</lang>
+      <lang percentage="89">he</lang>
+      <lang percentage="87">hi</lang>
+      <lang percentage="59">hr</lang>
+      <lang percentage="90">hu</lang>
+      <lang percentage="25">hy</lang>
+      <lang percentage="45">ia</lang>
+      <lang percentage="89">id</lang>
+      <lang percentage="90">it</lang>
+      <lang percentage="89">ja</lang>
+      <lang percentage="67">ka</lang>
+      <lang percentage="45">kk</lang>
+      <lang percentage="26">km</lang>
+      <lang percentage="88">kn</lang>
+      <lang percentage="89">ko</lang>
+      <lang percentage="32">ku</lang>
+      <lang percentage="39">li</lang>
+      <lang percentage="89">lt</lang>
+      <lang percentage="78">lv</lang>
+      <lang percentage="87">mai</lang>
+      <lang percentage="25">mg</lang>
+      <lang percentage="77">mk</lang>
+      <lang percentage="87">ml</lang>
+      <lang percentage="51">mn</lang>
+      <lang percentage="89">mr</lang>
+      <lang percentage="48">ms</lang>
+      <lang percentage="86">my</lang>
+      <lang percentage="77">nb</lang>
+      <lang percentage="29">nds</lang>
+      <lang percentage="58">ne</lang>
+      <lang percentage="85">nl</lang>
+      <lang percentage="47">nn</lang>
+      <lang percentage="51">nso</lang>
+      <lang percentage="87">or</lang>
+      <lang percentage="89">pa</lang>
+      <lang percentage="90">pl</lang>
+      <lang percentage="26">ps</lang>
+      <lang percentage="89">pt</lang>
+      <lang percentage="89">pt_BR</lang>
+      <lang percentage="90">ro</lang>
+      <lang percentage="89">ru</lang>
+      <lang percentage="25">si</lang>
+      <lang percentage="81">sk</lang>
+      <lang percentage="89">sl</lang>
+      <lang percentage="82">sq</lang>
+      <lang percentage="89">sr</lang>
+      <lang percentage="51">sr@ije</lang>
+      <lang percentage="89">sr@latin</lang>
+      <lang percentage="89">sv</lang>
+      <lang percentage="87">ta</lang>
+      <lang percentage="87">te</lang>
+      <lang percentage="45">th</lang>
+      <lang percentage="85">tr</lang>
+      <lang percentage="45">ug</lang>
+      <lang percentage="89">uk</lang>
+      <lang percentage="32">uz</lang>
+      <lang percentage="32">uz@cyrillic</lang>
+      <lang percentage="89">vi</lang>
+      <lang percentage="57">xh</lang>
+      <lang percentage="39">yi</lang>
+      <lang percentage="89">zh_CN</lang>
+      <lang percentage="89">zh_HK</lang>
+      <lang percentage="89">zh_TW</lang>
+    </languages>
     <metadata>
-      <value key="X-CacheID">google-chrome-53.0.2785.116-0.x86_64.rpm</value>
+      <value key="X-CacheID">google-chrome_53.0.2785.116-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3993,9 +3532,6 @@
     <description xml:lang="tr"><p>KmPlot fonksiyonların grafiklerini, integral ve türevlerini çizen bir programdır. Grafikler renklendirilebilir ve çokça yapılandırılabilir, ölçeklenebilir ve yakınlaştırılabilirler. Program güçlü bir matematik ayrıştırıcısı, farklı çizim türleri (kartezyen, parametrik, kutupsal, kesin, türevli) ve bir fonksiyonun en yüksek ve düşük değerlerini bulan basit matematik araçları sunar. Parametrik fonksiyonlar değişken parametreleri kullanılarak görselleştirilebilirler. Çizimler bitmap resim biçimlerinde (BMP, PNG) dışa aktarılabilir ve yazdırılabilirler.</p></description>
     <description xml:lang="uk"><p>KmPlot — програма для малювання графіків функцій, їхніх первісних або похідних. Передбачено можливість розфарбовування ліній графіків та гнучкі налаштування панелі перегляду з можливістю зміни масштабу та пересування області перегляду на площині. У програмі ви зможете скористатися потужним засобом обробки формул, накреслити графіки декількох типів (у декартовій та полярній системах координат, графіки функцій заданих параметрично, неявно, графіки похідних) та скористатися простими математичними інструментами, зокрема інструментом пошуку мінімумів та максимумів функції. Передбачено можливість роботи з параметризованими функціями, зміну параметра у яких можна здійснювати за допомогою повзунка змінної. Зображення графіків можна експортувати до файлів растрових зображень (BMP, PNG) та друкувати.</p></description>
     <description xml:lang="zh_TW"><p>KmPlot 是一套用來繪製函數、函數的積分與微分圖形的程式。圖形可以上色，可以設定檢視模式，也可以縮放調整。這個應用程式中包含了一套強大的數學剖析器，不同的繪圖樣式（直角座標、極座標等），並提供簡單的數學工具，如找出函數最大、最小值等等。函數的參數可以做視覺化，用滑動器來調整參數值。最後繪製的圖形可以匯出為 bmp 或 png 格式的圖檔來列印。</p></description>
-    <kudos>
-      <kudo>ModernToolkit</kudo>
-    </kudos>
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
@@ -4012,8 +3548,89 @@
     <provides>
       <binary>kmplot</binary>
     </provides>
+    <languages>
+      <lang percentage="32">af</lang>
+      <lang percentage="65">ar</lang>
+      <lang percentage="25">be</lang>
+      <lang percentage="38">be@latin</lang>
+      <lang percentage="63">bg</lang>
+      <lang percentage="25">bn_IN</lang>
+      <lang percentage="27">br</lang>
+      <lang percentage="97">bs</lang>
+      <lang percentage="100">ca</lang>
+      <lang percentage="100">ca@valencia</lang>
+      <lang percentage="98">cs</lang>
+      <lang percentage="26">csb</lang>
+      <lang percentage="31">cy</lang>
+      <lang percentage="100">da</lang>
+      <lang percentage="99">de</lang>
+      <lang percentage="98">el</lang>
+      <lang percentage="98">en_GB</lang>
+      <lang percentage="61">eo</lang>
+      <lang percentage="100">es</lang>
+      <lang percentage="97">et</lang>
+      <lang percentage="94">eu</lang>
+      <lang percentage="49">fa</lang>
+      <lang percentage="100">fi</lang>
+      <lang percentage="99">fr</lang>
+      <lang percentage="36">fy</lang>
+      <lang percentage="95">ga</lang>
+      <lang percentage="98">gd</lang>
+      <lang percentage="100">gl</lang>
+      <lang percentage="53">gu</lang>
+      <lang percentage="79">he</lang>
+      <lang percentage="42">hi</lang>
+      <lang percentage="73">hr</lang>
+      <lang percentage="98">hu</lang>
+      <lang percentage="98">ia</lang>
+      <lang percentage="74">id</lang>
+      <lang percentage="69">is</lang>
+      <lang percentage="100">it</lang>
+      <lang percentage="94">ja</lang>
+      <lang percentage="97">kk</lang>
+      <lang percentage="97">km</lang>
+      <lang percentage="81">ko</lang>
+      <lang percentage="52">lt</lang>
+      <lang percentage="56">lv</lang>
+      <lang percentage="47">mai</lang>
+      <lang percentage="47">mk</lang>
+      <lang percentage="58">ml</lang>
+      <lang percentage="90">mr</lang>
+      <lang percentage="36">ms</lang>
+      <lang percentage="100">nb</lang>
+      <lang percentage="98">nds</lang>
+      <lang percentage="43">ne</lang>
+      <lang percentage="100">nl</lang>
+      <lang percentage="58">nn</lang>
+      <lang percentage="67">pa</lang>
+      <lang percentage="100">pl</lang>
+      <lang percentage="100">pt</lang>
+      <lang percentage="100">pt_BR</lang>
+      <lang percentage="97">ro</lang>
+      <lang percentage="98">ru</lang>
+      <lang percentage="56">se</lang>
+      <lang percentage="98">sk</lang>
+      <lang percentage="100">sl</lang>
+      <lang percentage="26">sq</lang>
+      <lang percentage="100">sr</lang>
+      <lang percentage="100">sr@ijekavian</lang>
+      <lang percentage="100">sr@ijekavianlatin</lang>
+      <lang percentage="100">sr@latin</lang>
+      <lang percentage="100">sv</lang>
+      <lang percentage="46">ta</lang>
+      <lang percentage="46">te</lang>
+      <lang percentage="36">tg</lang>
+      <lang percentage="47">th</lang>
+      <lang percentage="98">tr</lang>
+      <lang percentage="66">ug</lang>
+      <lang percentage="100">uk</lang>
+      <lang percentage="37">vi</lang>
+      <lang percentage="46">wa</lang>
+      <lang percentage="98">zh_CN</lang>
+      <lang percentage="98">zh_TW</lang>
+    </languages>
     <metadata>
-      <value key="X-CacheID">kmplot-16.08.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kmplot_16.08.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4101,7 +3718,6 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <project_license>Unknown</project_license>
     <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=konqueror</url>
     <url type="help">http://docs.kde.org/stable/en/applications/konqueror/index.html</url>
     <url type="homepage">http://www.konqueror.org</url>
@@ -4115,7 +3731,7 @@
       <binary>konqueror</binary>
     </provides>
     <metadata>
-      <value key="X-CacheID">kde-baseapps-16.08.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">kde-baseapps_16.08.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4248,34 +3864,37 @@
     </releases>
     <provides>
       <binary>mugshot</binary>
+      <dbus type="system">org.freedesktop.Accounts</dbus>
     </provides>
     <languages>
-      <lang percentage="70">ca</lang>
-      <lang percentage="56">ca@valencia</lang>
-      <lang percentage="98">cs</lang>
-      <lang percentage="100">de</lang>
-      <lang percentage="96">el</lang>
-      <lang percentage="56">en_AU</lang>
-      <lang percentage="98">es</lang>
-      <lang percentage="86">fi</lang>
-      <lang percentage="100">fr</lang>
-      <lang percentage="27">hr</lang>
-      <lang percentage="27">is</lang>
-      <lang percentage="98">it</lang>
-      <lang percentage="70">ja</lang>
-      <lang percentage="100">lt</lang>
-      <lang percentage="100">nl</lang>
-      <lang percentage="86">pl</lang>
-      <lang percentage="100">pt</lang>
-      <lang percentage="80">pt_BR</lang>
-      <lang percentage="88">ru</lang>
-      <lang percentage="100">sk</lang>
-      <lang percentage="76">sl</lang>
-      <lang percentage="68">sr</lang>
-      <lang percentage="100">sv</lang>
+      <lang percentage="100">bg</lang>
+      <lang percentage="26">cs</lang>
+      <lang percentage="100">da</lang>
+      <lang percentage="26">de</lang>
+      <lang percentage="25">el</lang>
+      <lang percentage="26">es</lang>
+      <lang percentage="26">fr</lang>
+      <lang percentage="98">hu</lang>
+      <lang percentage="100">id</lang>
+      <lang percentage="26">it</lang>
+      <lang percentage="26">lt</lang>
+      <lang percentage="100">lv</lang>
+      <lang percentage="47">mt</lang>
+      <lang percentage="43">nb</lang>
+      <lang percentage="26">nl</lang>
+      <lang percentage="26">pt</lang>
+      <lang percentage="94">ro</lang>
+      <lang percentage="26">sk</lang>
+      <lang percentage="26">sv</lang>
+      <lang percentage="100">tr</lang>
+      <lang percentage="100">uk</lang>
+      <lang percentage="94">vi</lang>
+      <lang percentage="42">zh_CN</lang>
+      <lang percentage="41">zh_HK</lang>
+      <lang percentage="41">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">mugshot-0.3.1-0.noarch.rpm</value>
+      <value key="X-CacheID">mugshot_0.3.1-0_noarch.deb</value>
     </metadata>
   </component>
   <component type="addon">
@@ -4358,7 +3977,6 @@
     <summary xml:lang="zh_TW">從 Files 開啟終端機</summary>
     <description><p>Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="bg">Това е приставка за програмата „Файлове“, която добавя команда за отваряне на терминала в текущата папка.</p><p xml:lang="ca">Open Terminal és un connector per l'aplicació de fitxers que afegeix un element de menú al menú contextual per obrir un terminal al directori actual de navegació.</p><p xml:lang="cs">Otevřít terminál je zásuvný modul pro aplikaci Soubory, který přidává do kontextové nabídky položku pro otevření terminálu v právě procházené složce.</p><p xml:lang="da">Åbn terminal er et plugin til Filer-programmet, som tilføjer et menupunkt til genvejsmenuen til at åbne en terminal i den aktuelle mappe.</p><p xml:lang="de">Terminal Öffnen ist eine Erweiterung für die Dateien-Anwendung, die einen Menüeintrag in das Kontextmenü einfügt, das ein Terminal im aktuell besuchten Verzeichnis öffnet.</p><p xml:lang="el">Το «Άνοιγμα τερματικού» είναι μια επέκταση για τα Αρχεία που προσθέτει ένα αντικείμενο στο μενού περιεχομένων, όπου ανοίγει ένα τερματικό στην τρέχουσα θέση του καταλόγου.</p><p xml:lang="en_GB">Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="es">Abrir terminal es un complemento para la aplicación Archivos que añade un elemento de menú al menú contextual para abrir una terminal en la carpeta actual.</p><p xml:lang="eu">'Ireki terminala' Fitxategiak aplikazioarentzako osagarri bat da. Testuinguruko menuari elementu bat gehitzen dio terminal bat irekitzeko (uneko direktorioan kokatuta).</p><p xml:lang="fa">«باز کردن در پایانه» یک افزونه برای برنامه «پرونده‌ها» است که یک مورد به منو کلیک راست آن اضافه می‌کند، تا از آن طریق بتوان یک پنجرهٔ پایانه در شاخه فعلی باز کند.</p><p xml:lang="fi">"Avaa pääte" on liitännäinen tiedostoselaimeen, joka lisää valikkotoiminnon kontekstivalikkoon selattavan kansion kohdalle.</p><p xml:lang="fr">Ouvrir un terminal est un greffon pour l'application Fichiers qui ajoute une entrée de menu dans le menu contextuel pour ouvrir un terminal dans le dossier en cours d'affichage.</p><p xml:lang="fur">Vierç terminâl al è un plugin par l'aplicazion File che al zonte un element tal menù di contest, par vierzi un terminâl te cartele atualmentri sfueade.</p><p xml:lang="gd">'S e plugan a th' ann am "Fosgail tèirmineal" airson aplacaid nam faidhlichean a chuireas nì ris a' chlàr-taice cho-theacsail gus tèirmineal fhosgladh sa phasgan a thagh thu.</p><p xml:lang="gl">Abrir un Terminal é un engadido para o aplicativo Ficheiros que engade un elemento no menú contextual para abrir un terminal no cartafol que se está explorando actualmente.</p><p xml:lang="he">Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="hu">A terminál megnyitása egy bővítmény a Fájlok alkalmazáshoz, amely egy menüelemet ad a helyi menühöz, ahonnan terminálablak nyitható az éppen nyitott mappában.</p><p xml:lang="id">Open Terminal adalah suatu pengaya bagi aplikasi Berkas yang menambah suatu butir menu ke menu konteks untuk membuka sebuah terminal dalam direktori yang saat ini sedang diramban.</p><p xml:lang="it">Apri terminale è un plugin per l'applicazione File che aggiunge una voce al menù contestuale per aprire un terminale nell'attuale directory in esplorazione.</p><p xml:lang="ko">터미널 열기는 파일 보기 프로그램의 현재 보고 있는 디렉터리에서 터미널을 여는 메뉴 항목을 컨텍스트 메뉴에 추가합니다.</p><p xml:lang="lt">Atverti terminalą yra Failų programai skirtas įskiepis, kuris prideda kontekstinio meniu elementą, atveriantį terminalą esamu metu naršomame kataloge.</p><p xml:lang="lv">“Atvērt termināli” ir spraudnis lietotnei “Datnes”, kas pievieno izvēlnes vienumu konteksta izvēlnei, kas atver termināli pārlūkotajā direktorijā.</p><p xml:lang="pl">Wtyczka dla Menedżera plików dodająca element do menu kontekstowego otwierający terminal w obecnie przeglądanym katalogu.</p><p xml:lang="pt">Abrir Terminal é um plugin para a aplicação Ficheiros que adiciona no menu de contexto abrir terminal na pasta atual.</p><p xml:lang="pt_BR">Open Terminal é um plug-in para o aplicativo Arquivos que adiciona um item de menu ao menu de contexto para abrir um terminal no diretório navegado no momento.</p><p xml:lang="ru">Открыть терминал — модуль для приложения Nautilus, который добавляет в строку в контекстном меню для открытия терминала в текущей просматриваемой папке.</p><p xml:lang="sk">Otvoriť terminál je zásuvný modul pre aplikáciu Súbory, ktorý pridáva položku kontextovej ponuky na otvorenie terminálu v aktuálne prehliadanom adresári.</p><p xml:lang="sr">Отвори терминал је додатак за програм Датотеке, који додаје ставку менија за отварање терминала из тренутног директоријума.</p><p xml:lang="sr@latin">Otvori terminal je dodatak za program Datoteke, koji dodaje stavku menija za otvaranje terminala iz trenutnog direktorijuma.</p><p xml:lang="sv">Öppna terminal är en insticksmodul för programmet Filer som lägger till ett menyobjekt i kontextmenyn för att öppna en terminal i den öppnade katalogen.</p><p xml:lang="th">“เปิดเทอร์มินัล” เป็นปลั๊กอินสำหรับโปรแกรม “แฟ้ม” ที่จะเพิ่มรายการในเมนูคลิกขวา เพื่อใช้เปิดเทอร์มินัลในไดเรกทอรีที่กำลังท่องดูในขณะนั้น</p><p xml:lang="uk">Відкрити термінал — додаток для програми Файли, яка додає пункт в контекстне меню, щоб відкривати термінал у поточному каталозі.</p><p xml:lang="vi">Mở Thiết bị cuối là phần bổ sung dành cho ứng dụng tập tin cái mà sẽ thêm một mục vào trình đơn ngữ cảnh để mở thiết bị cuối ở thư mục hiện đang được duyệt.</p><p xml:lang="zh_TW">Open Terminal 是一個 Files 應用程式的外掛程式，可以在目前瀏覽目錄的脈絡選單中加入開啟終端機的選單項目。</p></description>
     <kudos>
-      <kudo>ModernToolkit</kudo>
       <kudo>SearchProvider</kudo>
       <kudo>UserDocs</kudo>
     </kudos>
@@ -4370,6 +3988,7 @@
     <project_group>GNOME</project_group>
     <extends>org.gnome.Nautilus.desktop</extends>
     <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
       <dbus type="session">org.gnome.Terminal</dbus>
     </provides>
     <languages>
@@ -4468,7 +4087,7 @@
       <lang percentage="91">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">gnome-terminal-3.22.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">gnome-terminal_3.22.0-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">org.gnome.Terminal.desktop</value>
     </metadata>
   </component>
@@ -4554,7 +4173,6 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <project_license>Unknown</project_license>
     <url type="homepage">https://wiki.gnome.org/action/show/Apps/Accerciser</url>
     <project_group>GNOME</project_group>
     <screenshots>
@@ -4563,80 +4181,39 @@
       </screenshot>
     </screenshots>
     <languages>
-      <lang percentage="91">ar</lang>
-      <lang percentage="98">as</lang>
-      <lang percentage="98">ast</lang>
-      <lang percentage="91">be</lang>
-      <lang percentage="100">bg</lang>
-      <lang percentage="91">bn</lang>
-      <lang percentage="74">bn_IN</lang>
-      <lang percentage="26">br</lang>
-      <lang percentage="100">bs</lang>
-      <lang percentage="98">ca</lang>
-      <lang percentage="98">ca@valencia</lang>
-      <lang percentage="100">cs</lang>
-      <lang percentage="100">da</lang>
-      <lang percentage="100">de</lang>
-      <lang percentage="70">dz</lang>
-      <lang percentage="100">el</lang>
-      <lang percentage="77">en@shaw</lang>
-      <lang percentage="74">en_CA</lang>
-      <lang percentage="100">en_GB</lang>
-      <lang percentage="48">eo</lang>
-      <lang percentage="100">es</lang>
-      <lang percentage="100">et</lang>
-      <lang percentage="100">eu</lang>
-      <lang percentage="92">fi</lang>
-      <lang percentage="100">fr</lang>
-      <lang percentage="100">gl</lang>
-      <lang percentage="74">gu</lang>
-      <lang percentage="98">he</lang>
-      <lang percentage="91">hi</lang>
-      <lang percentage="100">hu</lang>
-      <lang percentage="91">hy</lang>
-      <lang percentage="100">id</lang>
-      <lang percentage="100">it</lang>
-      <lang percentage="98">ja</lang>
-      <lang percentage="34">kk</lang>
-      <lang percentage="98">km</lang>
-      <lang percentage="54">kn</lang>
-      <lang percentage="100">ko</lang>
-      <lang percentage="100">lt</lang>
-      <lang percentage="100">lv</lang>
-      <lang percentage="29">mai</lang>
-      <lang percentage="74">mk</lang>
-      <lang percentage="98">ml</lang>
-      <lang percentage="92">mr</lang>
-      <lang percentage="100">nb</lang>
-      <lang percentage="91">nl</lang>
-      <lang percentage="100">oc</lang>
-      <lang percentage="92">or</lang>
-      <lang percentage="56">pa</lang>
-      <lang percentage="100">pl</lang>
-      <lang percentage="100">pt</lang>
-      <lang percentage="100">pt_BR</lang>
-      <lang percentage="91">ro</lang>
-      <lang percentage="100">ru</lang>
-      <lang percentage="25">si</lang>
-      <lang percentage="99">sk</lang>
-      <lang percentage="100">sl</lang>
-      <lang percentage="91">sq</lang>
-      <lang percentage="100">sr</lang>
-      <lang percentage="100">sr@latin</lang>
-      <lang percentage="100">sv</lang>
-      <lang percentage="98">te</lang>
-      <lang percentage="59">tg</lang>
-      <lang percentage="88">th</lang>
-      <lang percentage="100">tr</lang>
-      <lang percentage="98">ug</lang>
-      <lang percentage="98">uk</lang>
-      <lang percentage="92">vi</lang>
-      <lang percentage="98">zh_CN</lang>
-      <lang percentage="98">zh_HK</lang>
-      <lang percentage="100">zh_TW</lang>
+      <lang percentage="38">af</lang>
+      <lang percentage="46">an</lang>
+      <lang percentage="43">az</lang>
+      <lang percentage="36">be@latin</lang>
+      <lang percentage="38">crh</lang>
+      <lang percentage="32">cy</lang>
+      <lang percentage="53">fa</lang>
+      <lang percentage="44">ga</lang>
+      <lang percentage="56">gd</lang>
+      <lang percentage="50">hr</lang>
+      <lang percentage="45">ia</lang>
+      <lang percentage="59">is</lang>
+      <lang percentage="57">ka</lang>
+      <lang percentage="47">kg</lang>
+      <lang percentage="38">ku</lang>
+      <lang percentage="33">lg</lang>
+      <lang percentage="33">li</lang>
+      <lang percentage="43">mn</lang>
+      <lang percentage="41">ms</lang>
+      <lang percentage="38">my</lang>
+      <lang percentage="28">nds</lang>
+      <lang percentage="49">ne</lang>
+      <lang percentage="41">nn</lang>
+      <lang percentage="43">nso</lang>
+      <lang percentage="43">sr@ije</lang>
+      <lang percentage="56">ta</lang>
+      <lang percentage="27">uz</lang>
+      <lang percentage="27">uz@cyrillic</lang>
+      <lang percentage="49">xh</lang>
+      <lang percentage="33">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">accerciser-3.22.0-0.noarch.rpm</value>
+      <value key="X-CacheID">accerciser_3.22.0-0_noarch.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4665,9 +4242,6 @@
     <description xml:lang="tr"><p>Cervisia kullanıcı dostu bir sürüm kontrol sistemi ara yüzüdür. Hedefi CVS ve diğer sürüm kontrol sistemlerini birleştirilmiş bir arayüzde çakışmalara çözümler sunmak, fark ve geçmiş görünümleri ve çalışılan kopya dosyanın durumunu göstermek ve sürüm kontrol işlevlerinin çoğunu karşılamaktır.</p></description>
     <description xml:lang="uk"><p>Cervisia — зручна у користуванні оболонка до системи керування версіями. Метою її створення була підтримка CVS та інших систем керування версіями за допомогою універсального інтерфейсу, з можливостями розв’язання конфліктів, інструментами перегляду відмінностей і історії, стану файлів робочої копії та підтримкою більшості функціональних можливостей системи керування версіями.</p></description>
     <description xml:lang="zh_TW"><p>Cervisia 是一套版本控制系統的前端介面。它可以用同一套介面支援 CVS 與其它版本控制系統，功能包括衝突解決，變更與歷史檢視，工作複本的狀態檢視，並支援許多其他的版本控制功能。</p></description>
-    <kudos>
-      <kudo>ModernToolkit</kudo>
-    </kudos>
     <vetos>
       <veto>Has no Icon</veto>
       <veto>No &lt;summary&gt; in AppData</veto>
@@ -4675,7 +4249,6 @@
     <project_license>GPL-2.0+</project_license>
     <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=cervisia</url>
     <url type="help">http://docs.kde.org/stable/en/kdesdk/cervisia/index.html</url>
-    <url type="homepage">Unknown</url>
     <project_group>KDE</project_group>
     <screenshots>
       <screenshot type="default">
@@ -4686,7 +4259,7 @@
       <binary>cervisia</binary>
     </provides>
     <metadata>
-      <value key="X-CacheID">cervisia-16.08.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">cervisia_16.08.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4766,7 +4339,6 @@
     </categories>
     <kudos>
       <kudo>HiDpiIcon</kudo>
-      <kudo>ModernToolkit</kudo>
     </kudos>
     <vetos>
       <veto>No &lt;summary&gt; in AppData</veto>
@@ -4792,7 +4364,6 @@
     <project_license>GPL-2.0+</project_license>
     <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=dragonplayer</url>
     <url type="help">http://docs.kde.org/stable/en/kdemultimedia/dragonplayer/index.html</url>
-    <url type="homepage">Unknown</url>
     <project_group>KDE</project_group>
     <screenshots>
       <screenshot type="default">
@@ -4802,8 +4373,108 @@
     <provides>
       <binary>dragon</binary>
     </provides>
+    <languages>
+      <lang percentage="51">af</lang>
+      <lang percentage="100">ar</lang>
+      <lang percentage="59">as</lang>
+      <lang percentage="100">ast</lang>
+      <lang percentage="62">be</lang>
+      <lang percentage="62">be@latin</lang>
+      <lang percentage="96">bg</lang>
+      <lang percentage="100">bn</lang>
+      <lang percentage="96">bn_IN</lang>
+      <lang percentage="48">br</lang>
+      <lang percentage="100">bs</lang>
+      <lang percentage="100">ca</lang>
+      <lang percentage="100">ca@valencia</lang>
+      <lang percentage="55">crh</lang>
+      <lang percentage="100">cs</lang>
+      <lang percentage="62">csb</lang>
+      <lang percentage="51">cy</lang>
+      <lang percentage="100">da</lang>
+      <lang percentage="100">de</lang>
+      <lang percentage="100">el</lang>
+      <lang percentage="100">en_GB</lang>
+      <lang percentage="100">eo</lang>
+      <lang percentage="100">es</lang>
+      <lang percentage="100">et</lang>
+      <lang percentage="100">eu</lang>
+      <lang percentage="92">fa</lang>
+      <lang percentage="100">fi</lang>
+      <lang percentage="100">fr</lang>
+      <lang percentage="96">fy</lang>
+      <lang percentage="100">ga</lang>
+      <lang percentage="100">gd</lang>
+      <lang percentage="100">gl</lang>
+      <lang percentage="92">gu</lang>
+      <lang percentage="100">he</lang>
+      <lang percentage="100">hi</lang>
+      <lang percentage="62">hne</lang>
+      <lang percentage="100">hr</lang>
+      <lang percentage="62">hsb</lang>
+      <lang percentage="100">hu</lang>
+      <lang percentage="100">hy</lang>
+      <lang percentage="100">ia</lang>
+      <lang percentage="100">id</lang>
+      <lang percentage="100">is</lang>
+      <lang percentage="100">it</lang>
+      <lang percentage="100">ja</lang>
+      <lang percentage="51">ka</lang>
+      <lang percentage="100">kk</lang>
+      <lang percentage="100">km</lang>
+      <lang percentage="100">kn</lang>
+      <lang percentage="100">ko</lang>
+      <lang percentage="100">ku</lang>
+      <lang percentage="51">lb</lang>
+      <lang percentage="100">lt</lang>
+      <lang percentage="100">lv</lang>
+      <lang percentage="92">mai</lang>
+      <lang percentage="100">mk</lang>
+      <lang percentage="92">ml</lang>
+      <lang percentage="100">mr</lang>
+      <lang percentage="85">ms</lang>
+      <lang percentage="100">nb</lang>
+      <lang percentage="100">nds</lang>
+      <lang percentage="62">ne</lang>
+      <lang percentage="100">nl</lang>
+      <lang percentage="100">nn</lang>
+      <lang percentage="48">oc</lang>
+      <lang percentage="59">or</lang>
+      <lang percentage="100">pa</lang>
+      <lang percentage="100">pl</lang>
+      <lang percentage="62">ps</lang>
+      <lang percentage="100">pt</lang>
+      <lang percentage="100">pt_BR</lang>
+      <lang percentage="100">ro</lang>
+      <lang percentage="100">ru</lang>
+      <lang percentage="100">se</lang>
+      <lang percentage="88">si</lang>
+      <lang percentage="100">sk</lang>
+      <lang percentage="100">sl</lang>
+      <lang percentage="44">sq</lang>
+      <lang percentage="100">sr</lang>
+      <lang percentage="100">sr@ijekavian</lang>
+      <lang percentage="100">sr@ijekavianlatin</lang>
+      <lang percentage="100">sr@latin</lang>
+      <lang percentage="100">sv</lang>
+      <lang percentage="100">ta</lang>
+      <lang percentage="100">te</lang>
+      <lang percentage="100">tg</lang>
+      <lang percentage="100">th</lang>
+      <lang percentage="100">tr</lang>
+      <lang percentage="100">tt</lang>
+      <lang percentage="100">ug</lang>
+      <lang percentage="100">uk</lang>
+      <lang percentage="51">uz</lang>
+      <lang percentage="77">uz@cyrillic</lang>
+      <lang percentage="100">vi</lang>
+      <lang percentage="92">wa</lang>
+      <lang percentage="100">zh_CN</lang>
+      <lang percentage="51">zh_HK</lang>
+      <lang percentage="100">zh_TW</lang>
+    </languages>
     <metadata>
-      <value key="X-CacheID">dragon-16.08.0-0.x86_64.rpm</value>
+      <value key="X-CacheID">dragon_16.08.0-0_amd64.deb</value>
       <value key="X-DBUS-ServiceName">org.kde.dragonplayer</value>
       <value key="X-DBUS-StartupType">Unique</value>
       <value key="X-DocPath">dragonplayer/index.html</value>
@@ -4817,10 +4488,8 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
     <metadata>
-      <value key="X-CacheID">ttf-arphic-ukai-0.2.20080216.2-3.noarch.rpm</value>
+      <value key="X-CacheID">ttf-arphic-ukai_0.2.20080216.2-3_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -4831,10 +4500,8 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
     <metadata>
-      <value key="X-CacheID">ttf-arphic-uming-0.2.20080216.2-3.noarch.rpm</value>
+      <value key="X-CacheID">ttf-arphic-uming_0.2.20080216.2-3_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -4849,19 +4516,17 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
     <screenshots>
       <screenshot type="default">
         <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-4446566d744f94b8bcda3d195ab9ee18.png</image>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-03cc08383fb19c479dc3d68e2f7a8d71.png</image>
       </screenshot>
     </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">ttf-ubraille-001.000-2.noarch.rpm</value>
+      <value key="X-CacheID">ttf-ubraille_001.000-2_noarch.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4887,9 +4552,108 @@
     </screenshots>
     <provides>
       <binary>vscode</binary>
+      <dbus type="session">org.gnome.GConf</dbus>
+      <dbus type="system">org.gnome.GConf.Defaults</dbus>
     </provides>
+    <languages>
+      <lang percentage="51">af</lang>
+      <lang percentage="82">ar</lang>
+      <lang percentage="87">as</lang>
+      <lang percentage="88">ast</lang>
+      <lang percentage="51">az</lang>
+      <lang percentage="39">be</lang>
+      <lang percentage="77">be@latin</lang>
+      <lang percentage="89">bg</lang>
+      <lang percentage="89">bn</lang>
+      <lang percentage="89">bn_IN</lang>
+      <lang percentage="27">br</lang>
+      <lang percentage="51">bs</lang>
+      <lang percentage="89">ca</lang>
+      <lang percentage="89">ca@valencia</lang>
+      <lang percentage="85">crh</lang>
+      <lang percentage="89">cs</lang>
+      <lang percentage="78">cy</lang>
+      <lang percentage="89">da</lang>
+      <lang percentage="100">de</lang>
+      <lang percentage="72">dz</lang>
+      <lang percentage="89">el</lang>
+      <lang percentage="25">en@shaw</lang>
+      <lang percentage="78">en_CA</lang>
+      <lang percentage="90">en_GB</lang>
+      <lang percentage="26">eo</lang>
+      <lang percentage="89">es</lang>
+      <lang percentage="43">et</lang>
+      <lang percentage="89">eu</lang>
+      <lang percentage="89">fi</lang>
+      <lang percentage="89">fr</lang>
+      <lang percentage="51">ga</lang>
+      <lang percentage="89">gl</lang>
+      <lang percentage="87">gu</lang>
+      <lang percentage="89">he</lang>
+      <lang percentage="87">hi</lang>
+      <lang percentage="59">hr</lang>
+      <lang percentage="90">hu</lang>
+      <lang percentage="25">hy</lang>
+      <lang percentage="45">ia</lang>
+      <lang percentage="89">id</lang>
+      <lang percentage="90">it</lang>
+      <lang percentage="89">ja</lang>
+      <lang percentage="67">ka</lang>
+      <lang percentage="45">kk</lang>
+      <lang percentage="26">km</lang>
+      <lang percentage="88">kn</lang>
+      <lang percentage="89">ko</lang>
+      <lang percentage="32">ku</lang>
+      <lang percentage="39">li</lang>
+      <lang percentage="89">lt</lang>
+      <lang percentage="78">lv</lang>
+      <lang percentage="87">mai</lang>
+      <lang percentage="25">mg</lang>
+      <lang percentage="77">mk</lang>
+      <lang percentage="87">ml</lang>
+      <lang percentage="51">mn</lang>
+      <lang percentage="89">mr</lang>
+      <lang percentage="48">ms</lang>
+      <lang percentage="86">my</lang>
+      <lang percentage="77">nb</lang>
+      <lang percentage="29">nds</lang>
+      <lang percentage="58">ne</lang>
+      <lang percentage="85">nl</lang>
+      <lang percentage="47">nn</lang>
+      <lang percentage="51">nso</lang>
+      <lang percentage="87">or</lang>
+      <lang percentage="89">pa</lang>
+      <lang percentage="90">pl</lang>
+      <lang percentage="26">ps</lang>
+      <lang percentage="89">pt</lang>
+      <lang percentage="89">pt_BR</lang>
+      <lang percentage="90">ro</lang>
+      <lang percentage="89">ru</lang>
+      <lang percentage="25">si</lang>
+      <lang percentage="81">sk</lang>
+      <lang percentage="89">sl</lang>
+      <lang percentage="82">sq</lang>
+      <lang percentage="89">sr</lang>
+      <lang percentage="51">sr@ije</lang>
+      <lang percentage="89">sr@latin</lang>
+      <lang percentage="89">sv</lang>
+      <lang percentage="87">ta</lang>
+      <lang percentage="87">te</lang>
+      <lang percentage="45">th</lang>
+      <lang percentage="85">tr</lang>
+      <lang percentage="45">ug</lang>
+      <lang percentage="89">uk</lang>
+      <lang percentage="32">uz</lang>
+      <lang percentage="32">uz@cyrillic</lang>
+      <lang percentage="89">vi</lang>
+      <lang percentage="57">xh</lang>
+      <lang percentage="39">yi</lang>
+      <lang percentage="89">zh_CN</lang>
+      <lang percentage="89">zh_HK</lang>
+      <lang percentage="89">zh_TW</lang>
+    </languages>
     <metadata>
-      <value key="X-CacheID">vscode-1.5.3-0.x86_64.rpm</value>
+      <value key="X-CacheID">vscode_1.5.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -4900,10 +4664,8 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
     <metadata>
-      <value key="X-CacheID">wqy-microhei-0.2.0+beta-1.noarch.rpm</value>
+      <value key="X-CacheID">wqy-microhei_0.2.0+beta-1_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -4914,10 +4676,8 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
     <metadata>
-      <value key="X-CacheID">wqy-unibit-1.1.0-2.noarch.rpm</value>
+      <value key="X-CacheID">wqy-unibit_1.1.0-2_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -4928,10 +4688,8 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <project_license>Unknown</project_license>
-    <url type="homepage">Unknown</url>
     <metadata>
-      <value key="X-CacheID">wqy-zenhei-0.9.45-2.noarch.rpm</value>
+      <value key="X-CacheID">wqy-zenhei_0.9.45-2_noarch.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4972,29 +4730,57 @@
       </screenshot>
     </screenshots>
     <languages>
-      <lang percentage="79">ca</lang>
-      <lang percentage="62">cs</lang>
-      <lang percentage="52">da</lang>
-      <lang percentage="100">de</lang>
+      <lang percentage="58">ar</lang>
+      <lang percentage="53">be@latin</lang>
+      <lang percentage="60">bg</lang>
+      <lang percentage="67">ca</lang>
+      <lang percentage="67">cs</lang>
+      <lang percentage="66">da</lang>
+      <lang percentage="67">de</lang>
       <lang percentage="66">el</lang>
-      <lang percentage="98">es</lang>
+      <lang percentage="67">en_GB</lang>
+      <lang percentage="40">eo</lang>
+      <lang percentage="67">es</lang>
+      <lang percentage="66">eu</lang>
       <lang percentage="65">fi</lang>
-      <lang percentage="68">fr</lang>
-      <lang percentage="98">gl</lang>
-      <lang percentage="85">hu</lang>
-      <lang percentage="74">it</lang>
-      <lang percentage="74">ja</lang>
-      <lang percentage="72">nb</lang>
-      <lang percentage="68">pl</lang>
-      <lang percentage="70">pt_BR</lang>
-      <lang percentage="57">ru</lang>
-      <lang percentage="95">tr</lang>
-      <lang percentage="85">uk</lang>
-      <lang percentage="71">zh_CN</lang>
-      <lang percentage="70">zh_TW</lang>
+      <lang percentage="56">fo</lang>
+      <lang percentage="64">fr</lang>
+      <lang percentage="58">ga</lang>
+      <lang percentage="64">gl</lang>
+      <lang percentage="64">he</lang>
+      <lang percentage="67">hr</lang>
+      <lang percentage="67">hu</lang>
+      <lang percentage="66">ia</lang>
+      <lang percentage="67">id</lang>
+      <lang percentage="67">it</lang>
+      <lang percentage="62">ja</lang>
+      <lang percentage="66">kk</lang>
+      <lang percentage="67">ko</lang>
+      <lang percentage="57">lt</lang>
+      <lang percentage="62">lv</lang>
+      <lang percentage="25">ms</lang>
+      <lang percentage="50">nb</lang>
+      <lang percentage="60">nl</lang>
+      <lang percentage="52">nn</lang>
+      <lang percentage="66">oc</lang>
+      <lang percentage="67">pl</lang>
+      <lang percentage="66">pt</lang>
+      <lang percentage="67">pt_BR</lang>
+      <lang percentage="58">ro</lang>
+      <lang percentage="67">ru</lang>
+      <lang percentage="67">sk</lang>
+      <lang percentage="64">sl</lang>
+      <lang percentage="52">sq</lang>
+      <lang percentage="67">sr</lang>
+      <lang percentage="67">sv</lang>
+      <lang percentage="67">tr</lang>
+      <lang percentage="67">uk</lang>
+      <lang percentage="54">vi</lang>
+      <lang percentage="67">zh_CN</lang>
+      <lang percentage="67">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">wxmaxima-16.04.2-0.x86_64.rpm</value>
+      <value key="X-CacheID">wxmaxima_16.04.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -5183,13 +4969,15 @@
       <lang percentage="100">tr</lang>
       <lang percentage="94">ug</lang>
       <lang percentage="100">uk</lang>
+      <lang percentage="49">uz</lang>
+      <lang percentage="49">uz@Latn</lang>
       <lang percentage="85">vi</lang>
       <lang percentage="100">zh_CN</lang>
       <lang percentage="98">zh_HK</lang>
       <lang percentage="98">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">xfce4-appfinder-4.12.0-2.x86_64.rpm</value>
+      <value key="X-CacheID">xfce4-appfinder_4.12.0-2_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -5326,64 +5114,66 @@
     <provides>
       <binary>xfce4-power-manager</binary>
       <binary>xfce4-power-manager-settings</binary>
+      <dbus type="system">org.freedesktop.UPower</dbus>
     </provides>
     <languages>
-      <lang percentage="63">ar</lang>
-      <lang percentage="85">ast</lang>
-      <lang percentage="93">bg</lang>
-      <lang percentage="62">ca</lang>
-      <lang percentage="93">cs</lang>
-      <lang percentage="90">da</lang>
-      <lang percentage="93">de</lang>
-      <lang percentage="96">el</lang>
-      <lang percentage="90">en_AU</lang>
-      <lang percentage="97">en_GB</lang>
-      <lang percentage="93">es</lang>
-      <lang percentage="79">et</lang>
-      <lang percentage="96">eu</lang>
-      <lang percentage="91">fi</lang>
-      <lang percentage="93">fr</lang>
-      <lang percentage="80">gl</lang>
-      <lang percentage="93">he</lang>
-      <lang percentage="93">hr</lang>
-      <lang percentage="73">hu</lang>
-      <lang percentage="76">id</lang>
-      <lang percentage="59">is</lang>
-      <lang percentage="93">it</lang>
-      <lang percentage="90">ja</lang>
-      <lang percentage="91">kk</lang>
-      <lang percentage="93">ko</lang>
-      <lang percentage="96">lt</lang>
-      <lang percentage="93">ms</lang>
-      <lang percentage="93">nb</lang>
-      <lang percentage="93">nl</lang>
-      <lang percentage="59">nn</lang>
-      <lang percentage="97">oc</lang>
-      <lang percentage="61">pa</lang>
-      <lang percentage="88">pl</lang>
-      <lang percentage="93">pt</lang>
-      <lang percentage="93">pt_BR</lang>
-      <lang percentage="93">ro</lang>
-      <lang percentage="93">ru</lang>
-      <lang percentage="85">si</lang>
-      <lang percentage="93">sk</lang>
-      <lang percentage="90">sl</lang>
-      <lang percentage="93">sr</lang>
-      <lang percentage="60">sv</lang>
-      <lang percentage="50">te</lang>
-      <lang percentage="93">th</lang>
-      <lang percentage="92">tr</lang>
-      <lang percentage="97">ug</lang>
-      <lang percentage="93">uk</lang>
-      <lang percentage="68">ur</lang>
-      <lang percentage="68">ur_PK</lang>
-      <lang percentage="97">vi</lang>
-      <lang percentage="93">zh_CN</lang>
-      <lang percentage="100">zh_HK</lang>
-      <lang percentage="90">zh_TW</lang>
+      <lang percentage="48">ar</lang>
+      <lang percentage="65">ast</lang>
+      <lang percentage="71">bg</lang>
+      <lang percentage="100">bn</lang>
+      <lang percentage="47">ca</lang>
+      <lang percentage="71">cs</lang>
+      <lang percentage="68">da</lang>
+      <lang percentage="71">de</lang>
+      <lang percentage="73">el</lang>
+      <lang percentage="68">en_AU</lang>
+      <lang percentage="74">en_GB</lang>
+      <lang percentage="71">es</lang>
+      <lang percentage="60">et</lang>
+      <lang percentage="73">eu</lang>
+      <lang percentage="69">fi</lang>
+      <lang percentage="71">fr</lang>
+      <lang percentage="61">gl</lang>
+      <lang percentage="70">he</lang>
+      <lang percentage="71">hr</lang>
+      <lang percentage="56">hu</lang>
+      <lang percentage="58">id</lang>
+      <lang percentage="45">is</lang>
+      <lang percentage="71">it</lang>
+      <lang percentage="68">ja</lang>
+      <lang percentage="69">kk</lang>
+      <lang percentage="71">ko</lang>
+      <lang percentage="73">lt</lang>
+      <lang percentage="71">ms</lang>
+      <lang percentage="70">nb</lang>
+      <lang percentage="71">nl</lang>
+      <lang percentage="45">nn</lang>
+      <lang percentage="74">oc</lang>
+      <lang percentage="46">pa</lang>
+      <lang percentage="67">pl</lang>
+      <lang percentage="70">pt</lang>
+      <lang percentage="70">pt_BR</lang>
+      <lang percentage="70">ro</lang>
+      <lang percentage="71">ru</lang>
+      <lang percentage="64">si</lang>
+      <lang percentage="70">sk</lang>
+      <lang percentage="68">sl</lang>
+      <lang percentage="71">sr</lang>
+      <lang percentage="46">sv</lang>
+      <lang percentage="38">te</lang>
+      <lang percentage="71">th</lang>
+      <lang percentage="70">tr</lang>
+      <lang percentage="74">ug</lang>
+      <lang percentage="70">uk</lang>
+      <lang percentage="51">ur</lang>
+      <lang percentage="51">ur_PK</lang>
+      <lang percentage="74">vi</lang>
+      <lang percentage="71">zh_CN</lang>
+      <lang percentage="76">zh_HK</lang>
+      <lang percentage="68">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">xfce4-power-manager-1.4.4-0.x86_64.rpm</value>
+      <value key="X-CacheID">xfce4-power-manager_1.4.4-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="addon">
@@ -5419,8 +5209,28 @@
     <project_license>Zlib</project_license>
     <url type="homepage">https://pwmt.org/projects/zathura-pdf-poppler/</url>
     <extends>zathura.desktop</extends>
+    <languages>
+      <lang percentage="70">ca</lang>
+      <lang percentage="56">cs</lang>
+      <lang percentage="100">de</lang>
+      <lang percentage="64">el</lang>
+      <lang percentage="49">eo</lang>
+      <lang percentage="66">es</lang>
+      <lang percentage="48">es_CL</lang>
+      <lang percentage="87">fr</lang>
+      <lang percentage="83">id_ID</lang>
+      <lang percentage="68">it</lang>
+      <lang percentage="73">lt</lang>
+      <lang percentage="74">no</lang>
+      <lang percentage="79">pl</lang>
+      <lang percentage="88">pt_BR</lang>
+      <lang percentage="88">ru</lang>
+      <lang percentage="29">ta_IN</lang>
+      <lang percentage="65">tr</lang>
+      <lang percentage="46">uk_UA</lang>
+    </languages>
     <metadata>
-      <value key="X-CacheID">zathura-pdf-poppler-0.2.6-0.x86_64.rpm</value>
+      <value key="X-CacheID">zathura-pdf-poppler_0.2.6-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -5458,9 +5268,6 @@
       <keyword>presentation</keyword>
       <keyword>viewer</keyword>
     </keywords>
-    <kudos>
-      <kudo>ModernToolkit</kudo>
-    </kudos>
     <vetos>
       <veto>Has no Icon</veto>
       <veto>zathura.desktop has no icon</veto>
@@ -5503,7 +5310,7 @@
       <lang percentage="46">uk_UA</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">zathura-0.3.6-0.x86_64.rpm</value>
+      <value key="X-CacheID">zathura_0.3.6-0_amd64.deb</value>
     </metadata>
   </component>
 </components>
