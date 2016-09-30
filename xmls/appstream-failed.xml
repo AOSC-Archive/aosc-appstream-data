@@ -385,17 +385,9 @@
     </vetos>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-60446d02f82f6035caa62196374fa72b.png</image>
-      </screenshot>
       <screenshot>
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-546b911ac64553e9f6b15063d3d8800e.png</image>
-      </screenshot>
-      <screenshot priority="-34">
-        <caption>DejaVu Serif Condensed – Bold Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-5e003dde5d94f8ab0bbc4cb74d4d218a.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -608,17 +600,9 @@
     </vetos>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-60446d02f82f6035caa62196374fa72b.png</image>
-      </screenshot>
       <screenshot>
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-546b911ac64553e9f6b15063d3d8800e.png</image>
-      </screenshot>
-      <screenshot priority="-34">
-        <caption>DejaVu Serif Condensed – Bold Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5e003dde5d94f8ab0bbc4cb74d4d218a.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -831,17 +815,9 @@
     </vetos>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-60446d02f82f6035caa62196374fa72b.png</image>
-      </screenshot>
       <screenshot>
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-546b911ac64553e9f6b15063d3d8800e.png</image>
-      </screenshot>
-      <screenshot priority="-34">
-        <caption>DejaVu Serif Condensed – Bold Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-5e003dde5d94f8ab0bbc4cb74d4d218a.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -4519,7 +4495,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-03cc08383fb19c479dc3d68e2f7a8d71.png</image>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-61119784da73de0cb0f18766abbe1667.png</image>
       </screenshot>
     </screenshots>
     <languages>
