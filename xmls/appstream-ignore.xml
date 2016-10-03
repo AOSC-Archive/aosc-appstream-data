@@ -466,7 +466,7 @@
     <id>aosc-appstream-data.(null)</id>
     <pkgname>aosc-appstream-data</pkgname>
     <metadata>
-      <value key="X-CacheID">aosc-appstream-data_20160330-0_amd64.deb</value>
+      <value key="X-CacheID">aosc-appstream-data_20161002-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -599,7 +599,7 @@
     <id>apt-gen-list.(null)</id>
     <pkgname>apt-gen-list</pkgname>
     <metadata>
-      <value key="X-CacheID">apt-gen-list_20160818-0_noarch.deb</value>
+      <value key="X-CacheID">apt-gen-list_20161003-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -607,6 +607,13 @@
     <pkgname>apt</pkgname>
     <metadata>
       <value key="X-CacheID">apt_1.1.10-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>arandr.(null)</id>
+    <pkgname>arandr</pkgname>
+    <metadata>
+      <value key="X-CacheID">arandr_0.1.9-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -963,7 +970,7 @@
     <id>autoconf.(null)</id>
     <pkgname>autoconf</pkgname>
     <metadata>
-      <value key="X-CacheID">autoconf_2.69-3_noarch.deb</value>
+      <value key="X-CacheID">autoconf_2.69-4_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -1279,6 +1286,13 @@
     <pkgname>bc</pkgname>
     <metadata>
       <value key="X-CacheID">bc_1.06.95-2_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>bcache-tools.(null)</id>
+    <pkgname>bcache-tools</pkgname>
+    <metadata>
+      <value key="X-CacheID">bcache-tools_1.0.8-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -4901,6 +4915,13 @@
     </metadata>
   </component>
   <component>
+    <id>fonts-cwtex.(null)</id>
+    <pkgname>fonts-cwtex</pkgname>
+    <metadata>
+      <value key="X-CacheID">fonts-cwtex_1.0-2_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>fonttools.(null)</id>
     <pkgname>fonttools</pkgname>
     <metadata>
@@ -6297,7 +6318,7 @@
     <id>google-chrome.(null)</id>
     <pkgname>google-chrome</pkgname>
     <metadata>
-      <value key="X-CacheID">google-chrome_53.0.2785.116-0_amd64.deb</value>
+      <value key="X-CacheID">google-chrome_53.0.2785.143-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -8093,6 +8114,13 @@
     </metadata>
   </component>
   <component>
+    <id>iotop.(null)</id>
+    <pkgname>iotop</pkgname>
+    <metadata>
+      <value key="X-CacheID">iotop_0.6-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>ipaddr.(null)</id>
     <pkgname>ipaddr</pkgname>
     <metadata>
@@ -8236,7 +8264,7 @@
     <id>jansson.(null)</id>
     <pkgname>jansson</pkgname>
     <metadata>
-      <value key="X-CacheID">jansson.deb</value>
+      <value key="X-CacheID">jansson_2.9-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -8348,7 +8376,7 @@
     <id>js-24.(null)</id>
     <pkgname>js-24</pkgname>
     <metadata>
-      <value key="X-CacheID">js-24.deb</value>
+      <value key="X-CacheID">js-24_24.2.0-3_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -11022,7 +11050,7 @@
     <id>libgd.(null)</id>
     <pkgname>libgd</pkgname>
     <metadata>
-      <value key="X-CacheID">libgd.deb</value>
+      <value key="X-CacheID">libgd_2.2.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -12422,7 +12450,7 @@
     <id>libreoffice-help.(null)</id>
     <pkgname>libreoffice-help</pkgname>
     <metadata>
-      <value key="X-CacheID">libreoffice-help_5.2.1-0_noarch.deb</value>
+      <value key="X-CacheID">libreoffice-help_5.2.2-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -13458,7 +13486,7 @@
     <id>linux+kernel.(null)</id>
     <pkgname>linux+kernel</pkgname>
     <metadata>
-      <value key="X-CacheID">linux+kernel_9-0_amd64.deb</value>
+      <value key="X-CacheID">linux+kernel_52-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -13739,6 +13767,13 @@
     <pkgname>linux-kernel-4.7.5</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-4.7.5_4.7.5-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-4.7.6.(null)</id>
+    <pkgname>linux-kernel-4.7.6</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.7.6_4.7.6-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -15734,6 +15769,13 @@
     <pkgname>nginx</pkgname>
     <metadata>
       <value key="X-CacheID">nginx_1.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ngs.(null)</id>
+    <pkgname>ngs</pkgname>
+    <metadata>
+      <value key="X-CacheID">ngs_1.2.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -19198,7 +19240,7 @@
     <id>pytest.(null)</id>
     <pkgname>pytest</pkgname>
     <metadata>
-      <value key="X-CacheID">pytest_3.0.1-1_noarch.deb</value>
+      <value key="X-CacheID">pytest_3.0.3-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -19597,7 +19639,7 @@
     <id>qtox.(null)</id>
     <pkgname>qtox</pkgname>
     <metadata>
-      <value key="X-CacheID">qtox_1.5.0-0_amd64.deb</value>
+      <value key="X-CacheID">qtox_1.5.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -19825,6 +19867,13 @@
     </metadata>
   </component>
   <component>
+    <id>referenceassemblies-pcl.(null)</id>
+    <pkgname>referenceassemblies-pcl</pkgname>
+    <metadata>
+      <value key="X-CacheID">referenceassemblies-pcl_4.6-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>refind.(null)</id>
     <pkgname>refind</pkgname>
     <metadata>
@@ -19863,7 +19912,7 @@
     <id>repo.(null)</id>
     <pkgname>repo</pkgname>
     <metadata>
-      <value key="X-CacheID">repo_1.12.36-0_noarch.deb</value>
+      <value key="X-CacheID">repo_1.12.37-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -21830,7 +21879,7 @@
     <id>tmux.(null)</id>
     <pkgname>tmux</pkgname>
     <metadata>
-      <value key="X-CacheID">tmux_2.1-0_amd64.deb</value>
+      <value key="X-CacheID">tmux_2.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -21879,7 +21928,7 @@
     <id>toxcore.(null)</id>
     <pkgname>toxcore</pkgname>
     <metadata>
-      <value key="X-CacheID">toxcore_20160727-0_amd64.deb</value>
+      <value key="X-CacheID">toxcore_20160928-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -21887,6 +21936,13 @@
     <pkgname>tpacpi-bat</pkgname>
     <metadata>
       <value key="X-CacheID">tpacpi-bat_3.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>trace-cmd.(null)</id>
+    <pkgname>trace-cmd</pkgname>
+    <metadata>
+      <value key="X-CacheID">trace-cmd_2.6-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -22716,6 +22772,13 @@
     </metadata>
   </component>
   <component>
+    <id>vulkan.(null)</id>
+    <pkgname>vulkan</pkgname>
+    <metadata>
+      <value key="X-CacheID">vulkan_1.0.26.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>vulture-nethack.(null)</id>
     <pkgname>vulture-nethack</pkgname>
     <metadata>
@@ -23143,6 +23206,13 @@
     </metadata>
   </component>
   <component>
+    <id>x11vnc.(null)</id>
+    <pkgname>x11vnc</pkgname>
+    <metadata>
+      <value key="X-CacheID">x11vnc_0.9.14-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>x264+32.(null)</id>
     <pkgname>x264+32</pkgname>
     <metadata>
@@ -23364,6 +23434,13 @@
     <pkgname>xdotool</pkgname>
     <metadata>
       <value key="X-CacheID">xdotool_3.20160805.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>xdt.(null)</id>
+    <pkgname>xdt</pkgname>
+    <metadata>
+      <value key="X-CacheID">xdt_2.8.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
