@@ -389,6 +389,10 @@
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-546b911ac64553e9f6b15063d3d8800e.png</image>
       </screenshot>
+      <screenshot priority="-2">
+        <caption>DejaVu Serif – Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-6abb316b11eb97a4a496c8f30823af91.png</image>
+      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -604,6 +608,10 @@
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-546b911ac64553e9f6b15063d3d8800e.png</image>
       </screenshot>
+      <screenshot priority="-2">
+        <caption>DejaVu Serif – Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-6abb316b11eb97a4a496c8f30823af91.png</image>
+      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -818,6 +826,10 @@
       <screenshot>
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-546b911ac64553e9f6b15063d3d8800e.png</image>
+      </screenshot>
+      <screenshot priority="-2">
+        <caption>DejaVu Serif – Italic</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-6abb316b11eb97a4a496c8f30823af91.png</image>
       </screenshot>
     </screenshots>
     <languages>
