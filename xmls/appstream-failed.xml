@@ -389,10 +389,6 @@
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-546b911ac64553e9f6b15063d3d8800e.png</image>
       </screenshot>
-      <screenshot priority="-2">
-        <caption>DejaVu Serif – Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-6abb316b11eb97a4a496c8f30823af91.png</image>
-      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -608,10 +604,6 @@
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-546b911ac64553e9f6b15063d3d8800e.png</image>
       </screenshot>
-      <screenshot priority="-2">
-        <caption>DejaVu Serif – Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-6abb316b11eb97a4a496c8f30823af91.png</image>
-      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -826,10 +818,6 @@
       <screenshot>
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-546b911ac64553e9f6b15063d3d8800e.png</image>
-      </screenshot>
-      <screenshot priority="-2">
-        <caption>DejaVu Serif – Italic</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-6abb316b11eb97a4a496c8f30823af91.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -3327,133 +3315,6 @@
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
-  <component type="font">
-    <id>fonts-cwtex</id>
-    <pkgname>fonts-cwtex</pkgname>
-    <name>cwTeX TrueType Fonts</name>
-    <summary>TrueType Fonts from cwTeX</summary>
-    <categories>
-      <category>Addons</category>
-      <category>Fonts</category>
-    </categories>
-    <vetos>
-      <veto>Has no Icon</veto>
-    </vetos>
-    <screenshots>
-      <screenshot priority="-64" type="default">
-        <caption>cwTeXMing – Medium</caption>
-        <image type="source" height="48" width="640">file:/fonts-cwtex-0884c853b3eadc843fb9885d0b06b6fc.png</image>
-      </screenshot>
-    </screenshots>
-    <languages>
-      <lang>aa</lang>
-      <lang>af</lang>
-      <lang>an</lang>
-      <lang>av</lang>
-      <lang>ay</lang>
-      <lang>ba</lang>
-      <lang>be</lang>
-      <lang>bg</lang>
-      <lang>bi</lang>
-      <lang>br</lang>
-      <lang>bua</lang>
-      <lang>ca</lang>
-      <lang>ce</lang>
-      <lang>ch</lang>
-      <lang>co</lang>
-      <lang>da</lang>
-      <lang>de</lang>
-      <lang>el</lang>
-      <lang>en</lang>
-      <lang>es</lang>
-      <lang>et</lang>
-      <lang>eu</lang>
-      <lang>fi</lang>
-      <lang>fil</lang>
-      <lang>fj</lang>
-      <lang>fo</lang>
-      <lang>fr</lang>
-      <lang>fur</lang>
-      <lang>fy</lang>
-      <lang>gd</lang>
-      <lang>gl</lang>
-      <lang>gv</lang>
-      <lang>ho</lang>
-      <lang>ht</lang>
-      <lang>ia</lang>
-      <lang>id</lang>
-      <lang>ie</lang>
-      <lang>ik</lang>
-      <lang>io</lang>
-      <lang>is</lang>
-      <lang>it</lang>
-      <lang>jv</lang>
-      <lang>kaa</lang>
-      <lang>kj</lang>
-      <lang>kk</lang>
-      <lang>ko</lang>
-      <lang>kum</lang>
-      <lang>kwm</lang>
-      <lang>ky</lang>
-      <lang>lb</lang>
-      <lang>lez</lang>
-      <lang>lg</lang>
-      <lang>li</lang>
-      <lang>mg</lang>
-      <lang>mn-mn</lang>
-      <lang>ms</lang>
-      <lang>nb</lang>
-      <lang>nds</lang>
-      <lang>ng</lang>
-      <lang>nl</lang>
-      <lang>nn</lang>
-      <lang>no</lang>
-      <lang>nr</lang>
-      <lang>nso</lang>
-      <lang>oc</lang>
-      <lang>om</lang>
-      <lang>os</lang>
-      <lang>pap-an</lang>
-      <lang>pap-aw</lang>
-      <lang>pt</lang>
-      <lang>rm</lang>
-      <lang>rn</lang>
-      <lang>ru</lang>
-      <lang>rw</lang>
-      <lang>sc</lang>
-      <lang>sel</lang>
-      <lang>sg</lang>
-      <lang>sma</lang>
-      <lang>smj</lang>
-      <lang>sn</lang>
-      <lang>so</lang>
-      <lang>sq</lang>
-      <lang>sr</lang>
-      <lang>ss</lang>
-      <lang>st</lang>
-      <lang>su</lang>
-      <lang>sv</lang>
-      <lang>sw</lang>
-      <lang>tl</lang>
-      <lang>tn</lang>
-      <lang>ts</lang>
-      <lang>tt</lang>
-      <lang>tyv</lang>
-      <lang>uz</lang>
-      <lang>vo</lang>
-      <lang>vot</lang>
-      <lang>wa</lang>
-      <lang>wo</lang>
-      <lang>xh</lang>
-      <lang>yap</lang>
-      <lang>za</lang>
-      <lang>zh-tw</lang>
-      <lang>zu</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">fonts-cwtex_1.0-2_noarch.deb</value>
-    </metadata>
-  </component>
   <component type="desktop">
     <id>google-chrome.desktop</id>
     <pkgname>google-chrome</pkgname>
@@ -4634,7 +4495,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-03cc08383fb19c479dc3d68e2f7a8d71.png</image>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-1353861e38c440a4b6c4222f3e6e34d5.png</image>
       </screenshot>
     </screenshots>
     <languages>
