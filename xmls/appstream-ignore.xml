@@ -169,13 +169,6 @@
     </metadata>
   </component>
   <component>
-    <id>adobe-source-hans-sans.(null)</id>
-    <pkgname>adobe-source-hans-sans</pkgname>
-    <metadata>
-      <value key="X-CacheID">adobe-source-hans-sans_1.002-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>adwaita-icon-theme.(null)</id>
     <pkgname>adwaita-icon-theme</pkgname>
     <metadata>
