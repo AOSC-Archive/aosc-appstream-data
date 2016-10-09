@@ -2244,7 +2244,7 @@
     <id>chrome-gnome-shell.(null)</id>
     <pkgname>chrome-gnome-shell</pkgname>
     <metadata>
-      <value key="X-CacheID">chrome-gnome-shell_6-0_amd64.deb</value>
+      <value key="X-CacheID">chrome-gnome-shell_7.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -4939,7 +4939,7 @@
     <id>fonttools.(null)</id>
     <pkgname>fonttools</pkgname>
     <metadata>
-      <value key="X-CacheID">fonttools_2.5-0_amd64.deb</value>
+      <value key="X-CacheID">fonttools_3.1.2-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -7568,6 +7568,20 @@
     </metadata>
   </component>
   <component>
+    <id>hdaps-gl.(null)</id>
+    <pkgname>hdaps-gl</pkgname>
+    <metadata>
+      <value key="X-CacheID">hdaps-gl_0.0.5-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>hdapsd.(null)</id>
+    <pkgname>hdapsd</pkgname>
+    <metadata>
+      <value key="X-CacheID">hdapsd_20160215-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>hddtemp.(null)</id>
     <pkgname>hddtemp</pkgname>
     <metadata>
@@ -8544,7 +8558,7 @@
     <id>kapidox.(null)</id>
     <pkgname>kapidox</pkgname>
     <metadata>
-      <value key="X-CacheID">kapidox_5.15.0-0_amd64.deb</value>
+      <value key="X-CacheID">kapidox_5.27.0-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -8726,14 +8740,14 @@
     <id>kcoreaddons.(null)</id>
     <pkgname>kcoreaddons</pkgname>
     <metadata>
-      <value key="X-CacheID">kcoreaddons_5.16.0-0_amd64.deb</value>
+      <value key="X-CacheID">kcoreaddons_5.27.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kcrash.(null)</id>
     <pkgname>kcrash</pkgname>
     <metadata>
-      <value key="X-CacheID">kcrash_5.14.0-0_amd64.deb</value>
+      <value key="X-CacheID">kcrash_5.27.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9318,6 +9332,13 @@
     </metadata>
   </component>
   <component>
+    <id>kirigami.(null)</id>
+    <pkgname>kirigami</pkgname>
+    <metadata>
+      <value key="X-CacheID">kirigami_1.1.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>kiriki.(null)</id>
     <pkgname>kiriki</pkgname>
     <metadata>
@@ -9433,7 +9454,7 @@
     <id>kmediaplayer.(null)</id>
     <pkgname>kmediaplayer</pkgname>
     <metadata>
-      <value key="X-CacheID">kmediaplayer_5.17.0-0_amd64.deb</value>
+      <value key="X-CacheID">kmediaplayer_5.27.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9636,7 +9657,7 @@
     <id>kplotting.(null)</id>
     <pkgname>kplotting</pkgname>
     <metadata>
-      <value key="X-CacheID">kplotting_5.13.0-0_amd64.deb</value>
+      <value key="X-CacheID">kplotting_5.27.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -16734,7 +16755,7 @@
     <id>oxygen-icons.(null)</id>
     <pkgname>oxygen-icons</pkgname>
     <metadata>
-      <value key="X-CacheID">oxygen-icons_5.26.0-0_noarch.deb</value>
+      <value key="X-CacheID">oxygen-icons_5.27.0-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -18449,7 +18470,7 @@
     <id>plasma-desktop.(null)</id>
     <pkgname>plasma-desktop</pkgname>
     <metadata>
-      <value key="X-CacheID">plasma-desktop_5.7.0-1_amd64.deb</value>
+      <value key="X-CacheID">plasma-desktop_5.8.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -18701,7 +18722,7 @@
     <id>powerdevil.(null)</id>
     <pkgname>powerdevil</pkgname>
     <metadata>
-      <value key="X-CacheID">powerdevil_5.4.0-0_amd64.deb</value>
+      <value key="X-CacheID">powerdevil_5.8.0-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -20063,6 +20084,13 @@
     </metadata>
   </component>
   <component>
+    <id>retroshare.(null)</id>
+    <pkgname>retroshare</pkgname>
+    <metadata>
+      <value key="X-CacheID">retroshare_0.6.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>rfkill.(null)</id>
     <pkgname>rfkill</pkgname>
     <metadata>
@@ -21025,7 +21053,7 @@
     <id>sonnet.(null)</id>
     <pkgname>sonnet</pkgname>
     <metadata>
-      <value key="X-CacheID">sonnet_5.23.0-0_amd64.deb</value>
+      <value key="X-CacheID">sonnet_5.27.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -21418,6 +21446,13 @@
     <pkgname>sunpinyin</pkgname>
     <metadata>
       <value key="X-CacheID">sunpinyin.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>sunxi-tools.(null)</id>
+    <pkgname>sunxi-tools</pkgname>
+    <metadata>
+      <value key="X-CacheID">sunxi-tools_0+git20161005-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -22062,6 +22097,13 @@
     <pkgname>toxcore</pkgname>
     <metadata>
       <value key="X-CacheID">toxcore_20160928-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>tp-smapi.(null)</id>
+    <pkgname>tp-smapi</pkgname>
+    <metadata>
+      <value key="X-CacheID">tp-smapi_0.42-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -23042,6 +23084,13 @@
     <pkgname>werkzeug</pkgname>
     <metadata>
       <value key="X-CacheID">werkzeug_0.11.10-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>wesnoth.(null)</id>
+    <pkgname>wesnoth</pkgname>
+    <metadata>
+      <value key="X-CacheID">wesnoth_1.12.6-0_amd64.deb</value>
     </metadata>
   </component>
   <component>

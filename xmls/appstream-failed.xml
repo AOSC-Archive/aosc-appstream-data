@@ -389,6 +389,10 @@
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-546b911ac64553e9f6b15063d3d8800e.png</image>
       </screenshot>
+      <screenshot>
+        <caption>DejaVu Serif Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-cc2bc7fe444dafbc6c3f3c4ab9583993.png</image>
+      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -604,6 +608,10 @@
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-546b911ac64553e9f6b15063d3d8800e.png</image>
       </screenshot>
+      <screenshot>
+        <caption>DejaVu Serif Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-cc2bc7fe444dafbc6c3f3c4ab9583993.png</image>
+      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -818,6 +826,10 @@
       <screenshot>
         <caption>DejaVu Sans – Oblique</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-546b911ac64553e9f6b15063d3d8800e.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Serif Condensed – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-cc2bc7fe444dafbc6c3f3c4ab9583993.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -4495,7 +4507,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-60f9a65be384486d62f9b066cbd94166.png</image>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-06fa969a846355de2bbff2edb7d958d2.png</image>
       </screenshot>
     </screenshots>
     <languages>
