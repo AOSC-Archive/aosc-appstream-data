@@ -4936,6 +4936,13 @@
     </metadata>
   </component>
   <component>
+    <id>fonts-cwtex.(null)</id>
+    <pkgname>fonts-cwtex</pkgname>
+    <metadata>
+      <value key="X-CacheID">fonts-cwtex_1.0-2_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>fonttools.(null)</id>
     <pkgname>fonttools</pkgname>
     <metadata>
