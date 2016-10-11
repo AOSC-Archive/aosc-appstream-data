@@ -568,6 +568,13 @@
     </metadata>
   </component>
   <component>
+    <id>apricity-themes-gnome.(null)</id>
+    <pkgname>apricity-themes-gnome</pkgname>
+    <metadata>
+      <value key="X-CacheID">apricity-themes-gnome_20160728-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>apsw.(null)</id>
     <pkgname>apsw</pkgname>
     <metadata>
@@ -1559,6 +1566,13 @@
     <pkgname>bovo</pkgname>
     <metadata>
       <value key="X-CacheID">bovo_15.08.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>brave-browser.(null)</id>
+    <pkgname>brave-browser</pkgname>
+    <metadata>
+      <value key="X-CacheID">brave-browser_0.12.4-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -4204,7 +4218,7 @@
     <id>enaml.(null)</id>
     <pkgname>enaml</pkgname>
     <metadata>
-      <value key="X-CacheID">enaml_0.6.8-0_amd64.deb</value>
+      <value key="X-CacheID">enaml_0.9.8-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -4936,13 +4950,6 @@
     </metadata>
   </component>
   <component>
-    <id>fonts-cwtex.(null)</id>
-    <pkgname>fonts-cwtex</pkgname>
-    <metadata>
-      <value key="X-CacheID">fonts-cwtex_1.0-2_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>fonttools.(null)</id>
     <pkgname>fonttools</pkgname>
     <metadata>
@@ -4995,7 +5002,7 @@
     <id>fotoxx.(null)</id>
     <pkgname>fotoxx</pkgname>
     <metadata>
-      <value key="X-CacheID">fotoxx.deb</value>
+      <value key="X-CacheID">fotoxx_16.10.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -5569,7 +5576,7 @@
     <id>geoip-database.(null)</id>
     <pkgname>geoip-database</pkgname>
     <metadata>
-      <value key="X-CacheID">geoip-database.deb</value>
+      <value key="X-CacheID">geoip-database_20150407-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -6472,7 +6479,7 @@
     <id>graphicsmagick.(null)</id>
     <pkgname>graphicsmagick</pkgname>
     <metadata>
-      <value key="X-CacheID">graphicsmagick.deb</value>
+      <value key="X-CacheID">graphicsmagick_1.3.25-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -8083,6 +8090,13 @@
     <pkgname>incidenceeditor</pkgname>
     <metadata>
       <value key="X-CacheID">incidenceeditor_16.04.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>indent.(null)</id>
+    <pkgname>indent</pkgname>
+    <metadata>
+      <value key="X-CacheID">indent_2.2.10-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -13035,6 +13049,13 @@
     </metadata>
   </component>
   <component>
+    <id>libusb-compat+32.(null)</id>
+    <pkgname>libusb-compat+32</pkgname>
+    <metadata>
+      <value key="X-CacheID">libusb-compat+32_0.1.5-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>libusb-compat.(null)</id>
     <pkgname>libusb-compat</pkgname>
     <metadata>
@@ -13886,6 +13907,13 @@
     <pkgname>lirc</pkgname>
     <metadata>
       <value key="X-CacheID">lirc_0.9.3-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>liri-browser.(null)</id>
+    <pkgname>liri-browser</pkgname>
+    <metadata>
+      <value key="X-CacheID">liri-browser_0.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -15502,7 +15530,7 @@
     <id>mutt.(null)</id>
     <pkgname>mutt</pkgname>
     <metadata>
-      <value key="X-CacheID">mutt_1.5.23-0_amd64.deb</value>
+      <value key="X-CacheID">mutt_1.7.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -15698,7 +15726,7 @@
     <id>netbeans.(null)</id>
     <pkgname>netbeans</pkgname>
     <metadata>
-      <value key="X-CacheID">netbeans_8.1-0_amd64.deb</value>
+      <value key="X-CacheID">netbeans_8.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -16923,7 +16951,7 @@
     <id>papirus-icon-theme-gtk.(null)</id>
     <pkgname>papirus-icon-theme-gtk</pkgname>
     <metadata>
-      <value key="X-CacheID">papirus-icon-theme-gtk_20160823-0_noarch.deb</value>
+      <value key="X-CacheID">papirus-icon-theme-gtk_20161008-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -20199,7 +20227,7 @@
     <id>rtkit.(null)</id>
     <pkgname>rtkit</pkgname>
     <metadata>
-      <value key="X-CacheID">rtkit_0.11-3_amd64.deb</value>
+      <value key="X-CacheID">rtkit_0.11-2_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -22915,7 +22943,7 @@
     <id>vscode.(null)</id>
     <pkgname>vscode</pkgname>
     <metadata>
-      <value key="X-CacheID">vscode_1.5.3-0_amd64.deb</value>
+      <value key="X-CacheID">vscode_1.6.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -23706,7 +23734,7 @@
     <id>xf86-input-synaptics.(null)</id>
     <pkgname>xf86-input-synaptics</pkgname>
     <metadata>
-      <value key="X-CacheID">xf86-input-synaptics_1.8.3-1_amd64.deb</value>
+      <value key="X-CacheID">xf86-input-synaptics_1.8.99.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24574,7 +24602,7 @@
     <id>zimg.(null)</id>
     <pkgname>zimg</pkgname>
     <metadata>
-      <value key="X-CacheID">zimg_2.1-0_amd64.deb</value>
+      <value key="X-CacheID">zimg_2.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
