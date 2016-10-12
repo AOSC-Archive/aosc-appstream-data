@@ -1586,14 +1586,14 @@
     <id>breeze-grub.(null)</id>
     <pkgname>breeze-grub</pkgname>
     <metadata>
-      <value key="X-CacheID">breeze-grub_5.7.4-0_noarch.deb</value>
+      <value key="X-CacheID">breeze-grub_5.8.1-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
     <id>breeze-gtk.(null)</id>
     <pkgname>breeze-gtk</pkgname>
     <metadata>
-      <value key="X-CacheID">breeze-gtk_5.6.2-0_amd64.deb</value>
+      <value key="X-CacheID">breeze-gtk_5.8.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -8824,7 +8824,7 @@
     <id>kde-gtk-config.(null)</id>
     <pkgname>kde-gtk-config</pkgname>
     <metadata>
-      <value key="X-CacheID">kde-gtk-config_5.4.3-0_amd64.deb</value>
+      <value key="X-CacheID">kde-gtk-config_5.8.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -22264,7 +22264,7 @@
     <id>tumbler.(null)</id>
     <pkgname>tumbler</pkgname>
     <metadata>
-      <value key="X-CacheID">tumbler_0.1.31-2_amd64.deb</value>
+      <value key="X-CacheID">tumbler_0.1.31-4_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -23843,13 +23843,6 @@
     </metadata>
   </component>
   <component>
-    <id>xfce4-appfinder.(null)</id>
-    <pkgname>xfce4-appfinder</pkgname>
-    <metadata>
-      <value key="X-CacheID">xfce4-appfinder_4.12.0-2_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>xfce4-artwork.(null)</id>
     <pkgname>xfce4-artwork</pkgname>
     <metadata>
@@ -23881,7 +23874,7 @@
     <id>xfce4-datetime-plugin.(null)</id>
     <pkgname>xfce4-datetime-plugin</pkgname>
     <metadata>
-      <value key="X-CacheID">xfce4-datetime-plugin_0.6.2-2_amd64.deb</value>
+      <value key="X-CacheID">xfce4-datetime-plugin_0.6.2-3_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -23895,7 +23888,7 @@
     <id>xfce4-dev-tools.(null)</id>
     <pkgname>xfce4-dev-tools</pkgname>
     <metadata>
-      <value key="X-CacheID">xfce4-dev-tools.deb</value>
+      <value key="X-CacheID">xfce4-dev-tools_4.12.0-3_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -23972,7 +23965,7 @@
     <id>xfce4-notes-plugin.(null)</id>
     <pkgname>xfce4-notes-plugin</pkgname>
     <metadata>
-      <value key="X-CacheID">xfce4-notes-plugin_1.8.1-0_amd64.deb</value>
+      <value key="X-CacheID">xfce4-notes-plugin_1.8.1-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -23993,7 +23986,7 @@
     <id>xfce4-power-manager.(null)</id>
     <pkgname>xfce4-power-manager</pkgname>
     <metadata>
-      <value key="X-CacheID">xfce4-power-manager_1.4.4-0_amd64.deb</value>
+      <value key="X-CacheID">xfce4-power-manager_1.6.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24035,7 +24028,7 @@
     <id>xfce4-taskmanager.(null)</id>
     <pkgname>xfce4-taskmanager</pkgname>
     <metadata>
-      <value key="X-CacheID">xfce4-taskmanager_1.1.0-3_amd64.deb</value>
+      <value key="X-CacheID">xfce4-taskmanager_1.1.0-4_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24056,14 +24049,14 @@
     <id>xfce4-timer-plugin.(null)</id>
     <pkgname>xfce4-timer-plugin</pkgname>
     <metadata>
-      <value key="X-CacheID">xfce4-timer-plugin_1.6.0-1_amd64.deb</value>
+      <value key="X-CacheID">xfce4-timer-plugin_1.6.0-3_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>xfce4-verve-plugin.(null)</id>
     <pkgname>xfce4-verve-plugin</pkgname>
     <metadata>
-      <value key="X-CacheID">xfce4-verve-plugin_1.1.0-0_amd64.deb</value>
+      <value key="X-CacheID">xfce4-verve-plugin_1.1.0-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24098,7 +24091,7 @@
     <id>xfconf.(null)</id>
     <pkgname>xfconf</pkgname>
     <metadata>
-      <value key="X-CacheID">xfconf_4.12.0-6_amd64.deb</value>
+      <value key="X-CacheID">xfconf_4.12.0-7_amd64.deb</value>
     </metadata>
   </component>
   <component>
