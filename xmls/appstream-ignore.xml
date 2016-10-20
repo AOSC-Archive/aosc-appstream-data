@@ -3280,7 +3280,7 @@
     <id>cutive-fonts.(null)</id>
     <pkgname>cutive-fonts</pkgname>
     <metadata>
-      <value key="X-CacheID">cutive-fonts_20121025-0_noarch.deb</value>
+      <value key="X-CacheID">cutive-fonts_20121025-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -4954,6 +4954,20 @@
     <pkgname>fontconfig</pkgname>
     <metadata>
       <value key="X-CacheID">fontconfig_2.12.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>fonts-cwtex.(null)</id>
+    <pkgname>fonts-cwtex</pkgname>
+    <metadata>
+      <value key="X-CacheID">fonts-cwtex_1.0-3_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>fonts-tlwg.(null)</id>
+    <pkgname>fonts-tlwg</pkgname>
+    <metadata>
+      <value key="X-CacheID">fonts-tlwg_0.6.2-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -11057,7 +11071,7 @@
     <id>libertine-fonts.(null)</id>
     <pkgname>libertine-fonts</pkgname>
     <metadata>
-      <value key="X-CacheID">libertine-fonts_5.3.0-0_noarch.deb</value>
+      <value key="X-CacheID">libertine-fonts_5.3.0-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -15509,7 +15523,7 @@
     <id>ms-fonts.(null)</id>
     <pkgname>ms-fonts</pkgname>
     <metadata>
-      <value key="X-CacheID">ms-fonts_0-2_noarch.deb</value>
+      <value key="X-CacheID">ms-fonts_0-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -15572,7 +15586,7 @@
     <id>muli-fonts.(null)</id>
     <pkgname>muli-fonts</pkgname>
     <metadata>
-      <value key="X-CacheID">muli-fonts_20140314-0_noarch.deb</value>
+      <value key="X-CacheID">muli-fonts_20140314-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -16034,7 +16048,7 @@
     <id>nimbus-fonts.(null)</id>
     <pkgname>nimbus-fonts</pkgname>
     <metadata>
-      <value key="X-CacheID">nimbus-fonts_20150811-0_noarch.deb</value>
+      <value key="X-CacheID">nimbus-fonts_20150811-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -16111,7 +16125,7 @@
     <id>noto-cjk-fonts.(null)</id>
     <pkgname>noto-cjk-fonts</pkgname>
     <metadata>
-      <value key="X-CacheID">noto-cjk-fonts_20160503-0_noarch.deb</value>
+      <value key="X-CacheID">noto-cjk-fonts_20160503-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -16860,7 +16874,7 @@
     <id>oswald-fonts.(null)</id>
     <pkgname>oswald-fonts</pkgname>
     <metadata>
-      <value key="X-CacheID">oswald-fonts_20140228-0_noarch.deb</value>
+      <value key="X-CacheID">oswald-fonts_20140228-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -22355,14 +22369,14 @@
     <id>ttf-arphic-ukai.(null)</id>
     <pkgname>ttf-arphic-ukai</pkgname>
     <metadata>
-      <value key="X-CacheID">ttf-arphic-ukai_0.2.20080216.2-3_noarch.deb</value>
+      <value key="X-CacheID">ttf-arphic-ukai_0.2.20080216.2-4_noarch.deb</value>
     </metadata>
   </component>
   <component>
     <id>ttf-arphic-uming.(null)</id>
     <pkgname>ttf-arphic-uming</pkgname>
     <metadata>
-      <value key="X-CacheID">ttf-arphic-uming_0.2.20080216.2-3_noarch.deb</value>
+      <value key="X-CacheID">ttf-arphic-uming_0.2.20080216.2-4_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -22376,7 +22390,7 @@
     <id>ttf-ubraille.(null)</id>
     <pkgname>ttf-ubraille</pkgname>
     <metadata>
-      <value key="X-CacheID">ttf-ubraille_001.000-2_noarch.deb</value>
+      <value key="X-CacheID">ttf-ubraille_001.000-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -22600,7 +22614,7 @@
     <id>unifont.(null)</id>
     <pkgname>unifont</pkgname>
     <metadata>
-      <value key="X-CacheID">unifont_9.0.02-0_noarch.deb</value>
+      <value key="X-CacheID">unifont_9.0.02-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -23150,6 +23164,13 @@
     </metadata>
   </component>
   <component>
+    <id>wangfonts.(null)</id>
+    <pkgname>wangfonts</pkgname>
+    <metadata>
+      <value key="X-CacheID">wangfonts_1.3.0-1_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>warmux.(null)</id>
     <pkgname>warmux</pkgname>
     <metadata>
@@ -23398,7 +23419,7 @@
     <id>wqy-microhei.(null)</id>
     <pkgname>wqy-microhei</pkgname>
     <metadata>
-      <value key="X-CacheID">wqy-microhei_0.2.0+beta-1_noarch.deb</value>
+      <value key="X-CacheID">wqy-microhei_0.2.0+beta-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -23412,7 +23433,7 @@
     <id>wqy-zenhei.(null)</id>
     <pkgname>wqy-zenhei</pkgname>
     <metadata>
-      <value key="X-CacheID">wqy-zenhei_0.9.45-2_noarch.deb</value>
+      <value key="X-CacheID">wqy-zenhei_0.9.45-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -23524,7 +23545,7 @@
     <id>x11-font.(null)</id>
     <pkgname>x11-font</pkgname>
     <metadata>
-      <value key="X-CacheID">x11-font_7.7.20151109-0_amd64.deb</value>
+      <value key="X-CacheID">x11-font_7.7.20151109-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
