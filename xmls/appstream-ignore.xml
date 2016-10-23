@@ -1579,7 +1579,7 @@
     <id>brave-browser.(null)</id>
     <pkgname>brave-browser</pkgname>
     <metadata>
-      <value key="X-CacheID">brave-browser_0.12.4-0_amd64.deb</value>
+      <value key="X-CacheID">brave-browser_0.12.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -1621,7 +1621,7 @@
     <id>breeze-plymouth.(null)</id>
     <pkgname>breeze-plymouth</pkgname>
     <metadata>
-      <value key="X-CacheID">breeze-plymouth_5.6.5-0_amd64.deb</value>
+      <value key="X-CacheID">breeze-plymouth_5.8.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -1776,6 +1776,13 @@
     <pkgname>ca-certs</pkgname>
     <metadata>
       <value key="X-CacheID">ca-certs_20160708-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>cabal-install.(null)</id>
+    <pkgname>cabal-install</pkgname>
+    <metadata>
+      <value key="X-CacheID">cabal-install_1.24.0.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -2983,6 +2990,20 @@
     </metadata>
   </component>
   <component>
+    <id>connman-gtk.(null)</id>
+    <pkgname>connman-gtk</pkgname>
+    <metadata>
+      <value key="X-CacheID">connman-gtk_1.1.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>connman-json-client.(null)</id>
+    <pkgname>connman-json-client</pkgname>
+    <metadata>
+      <value key="X-CacheID">connman-json-client_1.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>connman.(null)</id>
     <pkgname>connman</pkgname>
     <metadata>
@@ -3386,34 +3407,6 @@
     <pkgname>dash</pkgname>
     <metadata>
       <value key="X-CacheID">dash_0.5.8-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>data-default-class.(null)</id>
-    <pkgname>data-default-class</pkgname>
-    <metadata>
-      <value key="X-CacheID">data-default-class_0.0.1-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>data-default-instances-containers.(null)</id>
-    <pkgname>data-default-instances-containers</pkgname>
-    <metadata>
-      <value key="X-CacheID">data-default-instances-containers.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>data-default-instances-dlist.(null)</id>
-    <pkgname>data-default-instances-dlist</pkgname>
-    <metadata>
-      <value key="X-CacheID">data-default-instances-dlist_0.0.1-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>data-default-instances-old-locale.(null)</id>
-    <pkgname>data-default-instances-old-locale</pkgname>
-    <metadata>
-      <value key="X-CacheID">data-default-instances-old-locale.deb</value>
     </metadata>
   </component>
   <component>
@@ -4120,14 +4113,14 @@
     <id>efivar.(null)</id>
     <pkgname>efivar</pkgname>
     <metadata>
-      <value key="X-CacheID">efivar_0.23-0_amd64.deb</value>
+      <value key="X-CacheID">efivar_30-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>efl.(null)</id>
     <pkgname>efl</pkgname>
     <metadata>
-      <value key="X-CacheID">efl_1.15.0-0_amd64.deb</value>
+      <value key="X-CacheID">efl_1.18.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -4218,7 +4211,7 @@
     <id>emscripten.(null)</id>
     <pkgname>emscripten</pkgname>
     <metadata>
-      <value key="X-CacheID">emscripten_1.36.3-0_amd64.deb</value>
+      <value key="X-CacheID">emscripten_1.36.13-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -5163,7 +5156,7 @@
     <id>fsharp.(null)</id>
     <pkgname>fsharp</pkgname>
     <metadata>
-      <value key="X-CacheID">fsharp_4.0.1.5-0_amd64.deb</value>
+      <value key="X-CacheID">fsharp_4.0.1.15-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -5660,7 +5653,7 @@
     <id>ghc.(null)</id>
     <pkgname>ghc</pkgname>
     <metadata>
-      <value key="X-CacheID">ghc_7.10.2-0_amd64.deb</value>
+      <value key="X-CacheID">ghc_8.0.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -6381,7 +6374,7 @@
     <id>google-chrome.(null)</id>
     <pkgname>google-chrome</pkgname>
     <metadata>
-      <value key="X-CacheID">google-chrome_53.0.2785.143-0_amd64.deb</value>
+      <value key="X-CacheID">google-chrome_54.0.2840.71-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -6924,13 +6917,6 @@
     </metadata>
   </component>
   <component>
-    <id>gtk2hs-buildtools.(null)</id>
-    <pkgname>gtk2hs-buildtools</pkgname>
-    <metadata>
-      <value key="X-CacheID">gtk2hs-buildtools_0.13.0.4-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>gtkd.(null)</id>
     <pkgname>gtkd</pkgname>
     <metadata>
@@ -7134,13 +7120,6 @@
     </metadata>
   </component>
   <component>
-    <id>haddock.(null)</id>
-    <pkgname>haddock</pkgname>
-    <metadata>
-      <value key="X-CacheID">haddock_2.16.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>handbrake.(null)</id>
     <pkgname>handbrake</pkgname>
     <metadata>
@@ -7190,416 +7169,10 @@
     </metadata>
   </component>
   <component>
-    <id>haskell-alex.(null)</id>
-    <pkgname>haskell-alex</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-alex.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-ansi-terminal.(null)</id>
-    <pkgname>haskell-ansi-terminal</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-ansi-terminal_0.6.2.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-async.(null)</id>
-    <pkgname>haskell-async</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-async_2.0.2-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-bytestring-show.(null)</id>
-    <pkgname>haskell-bytestring-show</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-bytestring-show_0.3.5.6-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-cairo.(null)</id>
-    <pkgname>haskell-cairo</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-cairo_0.13.1.0-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-data-default-instances-base.(null)</id>
-    <pkgname>haskell-data-default-instances-base</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-data-default-instances-base_0.0.1-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-data-default.(null)</id>
-    <pkgname>haskell-data-default</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-data-default_0.5.3-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-dataenc.(null)</id>
-    <pkgname>haskell-dataenc</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-dataenc_0.14.0.7-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-deepseq.(null)</id>
-    <pkgname>haskell-deepseq</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-deepseq_1.4.1.2-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-dlist.(null)</id>
-    <pkgname>haskell-dlist</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-dlist_0.7.1.2-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-entropy.(null)</id>
-    <pkgname>haskell-entropy</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-entropy_0.3.6-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-extensible-exceptions.(null)</id>
-    <pkgname>haskell-extensible-exceptions</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-extensible-exceptions_0.1.1.4-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-ghc-paths.(null)</id>
-    <pkgname>haskell-ghc-paths</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-ghc-paths_0.1.0.9-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-glib.(null)</id>
-    <pkgname>haskell-glib</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-glib_0.13.2.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-gtk.(null)</id>
-    <pkgname>haskell-gtk</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-gtk_0.13.6-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-haddock-api.(null)</id>
-    <pkgname>haskell-haddock-api</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-haddock-api.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-haddock-library.(null)</id>
-    <pkgname>haskell-haddock-library</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-haddock-library.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-happy.(null)</id>
-    <pkgname>haskell-happy</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-happy.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-hashable.(null)</id>
-    <pkgname>haskell-hashable</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-hashable.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-hashtables.(null)</id>
-    <pkgname>haskell-hashtables</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-hashtables.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-hspec-core.(null)</id>
-    <pkgname>haskell-hspec-core</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-hspec-core_2.1.5-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-hspec-discover.(null)</id>
-    <pkgname>haskell-hspec-discover</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-hspec-discover_2.1.5-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-hspec-expectations.(null)</id>
-    <pkgname>haskell-hspec-expectations</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-hspec-expectations_0.7.2-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-hspec.(null)</id>
-    <pkgname>haskell-hspec</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-hspec_2.1.5-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-http.(null)</id>
-    <pkgname>haskell-http</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-http_4000.2.19-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-json.(null)</id>
-    <pkgname>haskell-json</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-json_0.9.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>haskell-mode.(null)</id>
     <pkgname>haskell-mode</pkgname>
     <metadata>
       <value key="X-CacheID">haskell-mode_13.10-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-mtl.(null)</id>
-    <pkgname>haskell-mtl</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-mtl.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-network-uri.(null)</id>
-    <pkgname>haskell-network-uri</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-network-uri_2.6.0.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-network.(null)</id>
-    <pkgname>haskell-network</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-network_2.6.0.2-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-old-locale.(null)</id>
-    <pkgname>haskell-old-locale</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-old-locale_1.0.0.7-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-old-time.(null)</id>
-    <pkgname>haskell-old-time</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-old-time_1.1.0.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-pango.(null)</id>
-    <pkgname>haskell-pango</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-pango_0.13.1.0-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-parsec.(null)</id>
-    <pkgname>haskell-parsec</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-parsec_3.1.9-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-primitive.(null)</id>
-    <pkgname>haskell-primitive</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-primitive.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-quickcheck-io.(null)</id>
-    <pkgname>haskell-quickcheck-io</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-quickcheck-io_0.1.2-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-quickcheck.(null)</id>
-    <pkgname>haskell-quickcheck</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-quickcheck_2.8.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-random.(null)</id>
-    <pkgname>haskell-random</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-random.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-regex-base.(null)</id>
-    <pkgname>haskell-regex-base</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-regex-base_0.93.2-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-regex-compat.(null)</id>
-    <pkgname>haskell-regex-compat</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-regex-compat_0.95.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-regex-pcre.(null)</id>
-    <pkgname>haskell-regex-pcre</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-regex-pcre_0.94.4-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-regex-posix.(null)</id>
-    <pkgname>haskell-regex-posix</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-regex-posix_0.95.2-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-regex-tdfa.(null)</id>
-    <pkgname>haskell-regex-tdfa</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-regex-tdfa_1.2.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-scientific.(null)</id>
-    <pkgname>haskell-scientific</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-scientific_0.3.4.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-setenv.(null)</id>
-    <pkgname>haskell-setenv</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-setenv_0.1.1.3-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-setlocale.(null)</id>
-    <pkgname>haskell-setlocale</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-setlocale_1.0.0.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-sha.(null)</id>
-    <pkgname>haskell-sha</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-sha_1.6.4.2-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-stm.(null)</id>
-    <pkgname>haskell-stm</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-stm.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-syb.(null)</id>
-    <pkgname>haskell-syb</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-syb_0.6-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-text.(null)</id>
-    <pkgname>haskell-text</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-text_1.2.1.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-tf-random.(null)</id>
-    <pkgname>haskell-tf-random</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-tf-random_0.5-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-transformers.(null)</id>
-    <pkgname>haskell-transformers</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-transformers.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-unordered-containers.(null)</id>
-    <pkgname>haskell-unordered-containers</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-unordered-containers_0.2.5.1-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-utf8-string-1.(null)</id>
-    <pkgname>haskell-utf8-string-1</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-utf8-string-1.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-utf8-string.(null)</id>
-    <pkgname>haskell-utf8-string</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-utf8-string_1.0.1.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-vector.(null)</id>
-    <pkgname>haskell-vector</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-vector.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-x11-xft.(null)</id>
-    <pkgname>haskell-x11-xft</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-x11-xft.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-x11.(null)</id>
-    <pkgname>haskell-x11</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-x11.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>haskell-zlib.(null)</id>
-    <pkgname>haskell-zlib</pkgname>
-    <metadata>
-      <value key="X-CacheID">haskell-zlib_0.6.1.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -7704,7 +7277,7 @@
     <id>hicolor-icon-theme.(null)</id>
     <pkgname>hicolor-icon-theme</pkgname>
     <metadata>
-      <value key="X-CacheID">hicolor-icon-theme_0.15-3_noarch.deb</value>
+      <value key="X-CacheID">hicolor-icon-theme_0.15-4_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -7743,13 +7316,6 @@
     </metadata>
   </component>
   <component>
-    <id>hscolour.(null)</id>
-    <pkgname>hscolour</pkgname>
-    <metadata>
-      <value key="X-CacheID">hscolour_1.23-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>hspell.(null)</id>
     <pkgname>hspell</pkgname>
     <metadata>
@@ -7785,6 +7351,13 @@
     </metadata>
   </component>
   <component>
+    <id>httping.(null)</id>
+    <pkgname>httping</pkgname>
+    <metadata>
+      <value key="X-CacheID">httping_2.5-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>httplib2.(null)</id>
     <pkgname>httplib2</pkgname>
     <metadata>
@@ -7803,13 +7376,6 @@
     <pkgname>hub</pkgname>
     <metadata>
       <value key="X-CacheID">hub_2.2.2-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>hunit.(null)</id>
-    <pkgname>hunit</pkgname>
-    <metadata>
-      <value key="X-CacheID">hunit_1.3.0.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -8348,7 +7914,7 @@
     <id>iw.(null)</id>
     <pkgname>iw</pkgname>
     <metadata>
-      <value key="X-CacheID">iw.deb</value>
+      <value key="X-CacheID">iw_4.9-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9874,7 +9440,7 @@
     <id>kscreen.(null)</id>
     <pkgname>kscreen</pkgname>
     <metadata>
-      <value key="X-CacheID">kscreen_5.5.3-0_amd64.deb</value>
+      <value key="X-CacheID">kscreen_5.8.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -13990,7 +13556,14 @@
     <id>linux-kernel-4.8.3.(null)</id>
     <pkgname>linux-kernel-4.8.3</pkgname>
     <metadata>
-      <value key="X-CacheID">linux-kernel-4.8.3_4.8.3-0_amd64.deb</value>
+      <value key="X-CacheID">linux-kernel-4.8.3_4.8.3-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-4.8.4.(null)</id>
+    <pkgname>linux-kernel-4.8.4</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.8.4_4.8.4-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -14341,6 +13914,13 @@
     <pkgname>lxde-icon-theme</pkgname>
     <metadata>
       <value key="X-CacheID">lxde-icon-theme_0.5.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>lxde-meta.(null)</id>
+    <pkgname>lxde-meta</pkgname>
+    <metadata>
+      <value key="X-CacheID">lxde-meta_0-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -15145,7 +14725,7 @@
     <id>metasploit.(null)</id>
     <pkgname>metasploit</pkgname>
     <metadata>
-      <value key="X-CacheID">metasploit_4.12.27-0_noarch.deb</value>
+      <value key="X-CacheID">metasploit_4.12.35-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -15415,6 +14995,13 @@
     </metadata>
   </component>
   <component>
+    <id>mp3blaster.(null)</id>
+    <pkgname>mp3blaster</pkgname>
+    <metadata>
+      <value key="X-CacheID">mp3blaster_3.2.5-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>mp3gain.(null)</id>
     <pkgname>mp3gain</pkgname>
     <metadata>
@@ -15565,7 +15152,7 @@
     <id>mtr.(null)</id>
     <pkgname>mtr</pkgname>
     <metadata>
-      <value key="X-CacheID">mtr_0.87-0_amd64.deb</value>
+      <value key="X-CacheID">mtr_0.87-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -15628,7 +15215,7 @@
     <id>musicbox.(null)</id>
     <pkgname>musicbox</pkgname>
     <metadata>
-      <value key="X-CacheID">musicbox_0.2.3.5-0_noarch.deb</value>
+      <value key="X-CacheID">musicbox_0.2.3.5-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -16384,7 +15971,7 @@
     <id>ocaml-ctypes.(null)</id>
     <pkgname>ocaml-ctypes</pkgname>
     <metadata>
-      <value key="X-CacheID">ocaml-ctypes_0.4.1-0_amd64.deb</value>
+      <value key="X-CacheID">ocaml-ctypes_0.10.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -19447,6 +19034,13 @@
     </metadata>
   </component>
   <component>
+    <id>pyradio.(null)</id>
+    <pkgname>pyradio</pkgname>
+    <metadata>
+      <value key="X-CacheID">pyradio_20161010-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>pyrex.(null)</id>
     <pkgname>pyrex</pkgname>
     <metadata>
@@ -20864,7 +20458,7 @@
     <id>setuptools.(null)</id>
     <pkgname>setuptools</pkgname>
     <metadata>
-      <value key="X-CacheID">setuptools_27.1.2-0_noarch.deb</value>
+      <value key="X-CacheID">setuptools_28.6.1-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -21708,6 +21302,13 @@
     </metadata>
   </component>
   <component>
+    <id>systemc.(null)</id>
+    <pkgname>systemc</pkgname>
+    <metadata>
+      <value key="X-CacheID">systemc_2.3.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>systemd-cron.(null)</id>
     <pkgname>systemd-cron</pkgname>
     <metadata>
@@ -22527,6 +22128,13 @@
     </metadata>
   </component>
   <component>
+    <id>uim.(null)</id>
+    <pkgname>uim</pkgname>
+    <metadata>
+      <value key="X-CacheID">uim_1.8.6-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>umbrello.(null)</id>
     <pkgname>umbrello</pkgname>
     <metadata>
@@ -22915,7 +22523,7 @@
     <id>veracrypt.(null)</id>
     <pkgname>veracrypt</pkgname>
     <metadata>
-      <value key="X-CacheID">veracrypt_1.18-0_amd64.deb</value>
+      <value key="X-CacheID">veracrypt_1.19-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24365,20 +23973,6 @@
     <pkgname>xmltoman</pkgname>
     <metadata>
       <value key="X-CacheID">xmltoman_0.4-2_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>xmonad-contrib.(null)</id>
-    <pkgname>xmonad-contrib</pkgname>
-    <metadata>
-      <value key="X-CacheID">xmonad-contrib_0.11.4-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>xmonad.(null)</id>
-    <pkgname>xmonad</pkgname>
-    <metadata>
-      <value key="X-CacheID">xmonad_0.11.1-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
