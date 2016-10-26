@@ -753,7 +753,7 @@
     <id>aspell.(null)</id>
     <pkgname>aspell</pkgname>
     <metadata>
-      <value key="X-CacheID">aspell.deb</value>
+      <value key="X-CacheID">aspell_0.60.6.1-5_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -1481,7 +1481,7 @@
     <id>blueberry.(null)</id>
     <pkgname>blueberry</pkgname>
     <metadata>
-      <value key="X-CacheID">blueberry_1.1.2-0_amd64.deb</value>
+      <value key="X-CacheID">blueberry_1.1.2-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -4838,6 +4838,13 @@
     </metadata>
   </component>
   <component>
+    <id>flashplayer-ppapi.(null)</id>
+    <pkgname>flashplayer-ppapi</pkgname>
+    <metadata>
+      <value key="X-CacheID">flashplayer-ppapi_23.0.0.185-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>flask.(null)</id>
     <pkgname>flask</pkgname>
     <metadata>
@@ -4869,7 +4876,7 @@
     <id>flexiserver.(null)</id>
     <pkgname>flexiserver</pkgname>
     <metadata>
-      <value key="X-CacheID">flexiserver.deb</value>
+      <value key="X-CacheID">flexiserver_0-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -13906,14 +13913,14 @@
     <id>lxde-common.(null)</id>
     <pkgname>lxde-common</pkgname>
     <metadata>
-      <value key="X-CacheID">lxde-common_0.99.0-0_amd64.deb</value>
+      <value key="X-CacheID">lxde-common_0.99.1-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
     <id>lxde-icon-theme.(null)</id>
     <pkgname>lxde-icon-theme</pkgname>
     <metadata>
-      <value key="X-CacheID">lxde-icon-theme_0.5.1-0_amd64.deb</value>
+      <value key="X-CacheID">lxde-icon-theme_0.5.1-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -13955,7 +13962,7 @@
     <id>lxmenu-data.(null)</id>
     <pkgname>lxmenu-data</pkgname>
     <metadata>
-      <value key="X-CacheID">lxmenu-data.deb</value>
+      <value key="X-CacheID">lxmenu-data_0.1.5-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -22453,7 +22460,7 @@
     <id>valgrind.(null)</id>
     <pkgname>valgrind</pkgname>
     <metadata>
-      <value key="X-CacheID">valgrind_3.11.0-0_amd64.deb</value>
+      <value key="X-CacheID">valgrind_3.12.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
