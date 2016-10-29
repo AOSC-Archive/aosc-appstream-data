@@ -112,10 +112,6 @@
     </vetos>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-fdf26ac3f9a3124cababa442c5336e17.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-d5145152c7ad9b6187a1156a8d3fe535.png</image>
@@ -331,10 +327,6 @@
     </vetos>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-fdf26ac3f9a3124cababa442c5336e17.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-d5145152c7ad9b6187a1156a8d3fe535.png</image>
@@ -550,10 +542,6 @@
     </vetos>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot>
-        <caption>DejaVu Sans – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-fdf26ac3f9a3124cababa442c5336e17.png</image>
-      </screenshot>
       <screenshot priority="-32">
         <caption>DejaVu Sans – Bold</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-d5145152c7ad9b6187a1156a8d3fe535.png</image>
@@ -3104,6 +3092,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-0dc6ee2a064fbb68f9391a9494b1fb31.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
