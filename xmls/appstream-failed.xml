@@ -100,8 +100,8 @@
   <component type="font">
     <id>dejavu-sans</id>
     <pkgname>dejavu-fonts</pkgname>
-    <name>DejaVu Sans</name>
-    <summary>A Bold font from DejaVu Sans</summary>
+    <name>DejaVu Math TeX Gyre</name>
+    <summary>A Regular font from DejaVu Math TeX Gyre</summary>
     <icon type="cached" height="64" width="64">64x64/dejavu-sans.png</icon>
     <categories>
       <category>Addons</category>
@@ -112,9 +112,9 @@
     </vetos>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      <screenshot>
+        <caption>DejaVu Math TeX Gyre – Regular</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -309,14 +309,14 @@
       <lang>zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">dejavu-fonts_2.35-3_noarch.deb</value>
+      <value key="X-CacheID">dejavu-fonts_2.37-0_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
     <id>dejavu-sans-mono</id>
     <pkgname>dejavu-fonts</pkgname>
-    <name>DejaVu Sans</name>
-    <summary>A Bold font from DejaVu Sans</summary>
+    <name>DejaVu Math TeX Gyre</name>
+    <summary>A Regular font from DejaVu Math TeX Gyre</summary>
     <icon type="cached" height="64" width="64">64x64/dejavu-sans-mono.png</icon>
     <categories>
       <category>Addons</category>
@@ -327,9 +327,9 @@
     </vetos>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      <screenshot>
+        <caption>DejaVu Math TeX Gyre – Regular</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -524,14 +524,14 @@
       <lang>zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">dejavu-fonts_2.35-3_noarch.deb</value>
+      <value key="X-CacheID">dejavu-fonts_2.37-0_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
     <id>dejavu-serif</id>
     <pkgname>dejavu-fonts</pkgname>
-    <name>DejaVu Sans</name>
-    <summary>A Bold font from DejaVu Sans</summary>
+    <name>DejaVu Math TeX Gyre</name>
+    <summary>A Regular font from DejaVu Math TeX Gyre</summary>
     <icon type="cached" height="64" width="64">64x64/dejavu-serif.png</icon>
     <categories>
       <category>Addons</category>
@@ -542,9 +542,9 @@
     </vetos>
     <extends>dejavu-fonts</extends>
     <screenshots>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      <screenshot>
+        <caption>DejaVu Math TeX Gyre – Regular</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -739,7 +739,7 @@
       <lang>zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">dejavu-fonts_2.35-3_noarch.deb</value>
+      <value key="X-CacheID">dejavu-fonts_2.37-0_noarch.deb</value>
     </metadata>
   </component>
   <component type="addon">
@@ -2587,7 +2587,7 @@
       <lang percentage="89">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">google-chrome_54.0.2840.71-1_amd64.deb</value>
+      <value key="X-CacheID">google-chrome_54.0.2840.90-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3095,7 +3095,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-1353861e38c440a4b6c4222f3e6e34d5.png</image>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-350b7c7f39adf2e331ab3e2210d12f30.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -3103,133 +3103,6 @@
     </languages>
     <metadata>
       <value key="X-CacheID">ttf-ubraille_001.000-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component type="desktop">
-    <id>vscode.desktop</id>
-    <pkgname>vscode</pkgname>
-    <name>Visual Studio Code</name>
-    <summary>A simplistic IDE for application development</summary>
-    <categories>
-      <category>Development</category>
-    </categories>
-    <vetos>
-      <veto>Failed to find icon: specified icon '/usr/lib/vscode/resources/app/resources/linux/code.png' does not exist</veto>
-      <veto>Has no Icon</veto>
-    </vetos>
-    <project_license>MIT</project_license>
-    <url type="bugtracker">https://github.com/Microsoft/vscode/issues/</url>
-    <url type="help">https://code.visualstudio.com/Docs/</url>
-    <url type="homepage">https://code.visualstudio.com/</url>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">https://repo.aosc.io/appdata/screenshots/VSCode.png</image>
-      </screenshot>
-    </screenshots>
-    <provides>
-      <binary>vscode</binary>
-      <dbus type="session">org.gnome.GConf</dbus>
-      <dbus type="system">org.gnome.GConf.Defaults</dbus>
-    </provides>
-    <languages>
-      <lang percentage="51">af</lang>
-      <lang percentage="82">ar</lang>
-      <lang percentage="87">as</lang>
-      <lang percentage="88">ast</lang>
-      <lang percentage="51">az</lang>
-      <lang percentage="39">be</lang>
-      <lang percentage="77">be@latin</lang>
-      <lang percentage="89">bg</lang>
-      <lang percentage="89">bn</lang>
-      <lang percentage="89">bn_IN</lang>
-      <lang percentage="27">br</lang>
-      <lang percentage="51">bs</lang>
-      <lang percentage="89">ca</lang>
-      <lang percentage="89">ca@valencia</lang>
-      <lang percentage="85">crh</lang>
-      <lang percentage="89">cs</lang>
-      <lang percentage="78">cy</lang>
-      <lang percentage="89">da</lang>
-      <lang percentage="100">de</lang>
-      <lang percentage="72">dz</lang>
-      <lang percentage="89">el</lang>
-      <lang percentage="25">en@shaw</lang>
-      <lang percentage="78">en_CA</lang>
-      <lang percentage="90">en_GB</lang>
-      <lang percentage="26">eo</lang>
-      <lang percentage="89">es</lang>
-      <lang percentage="43">et</lang>
-      <lang percentage="89">eu</lang>
-      <lang percentage="89">fi</lang>
-      <lang percentage="89">fr</lang>
-      <lang percentage="51">ga</lang>
-      <lang percentage="89">gl</lang>
-      <lang percentage="87">gu</lang>
-      <lang percentage="89">he</lang>
-      <lang percentage="87">hi</lang>
-      <lang percentage="59">hr</lang>
-      <lang percentage="90">hu</lang>
-      <lang percentage="25">hy</lang>
-      <lang percentage="45">ia</lang>
-      <lang percentage="89">id</lang>
-      <lang percentage="90">it</lang>
-      <lang percentage="89">ja</lang>
-      <lang percentage="67">ka</lang>
-      <lang percentage="45">kk</lang>
-      <lang percentage="26">km</lang>
-      <lang percentage="88">kn</lang>
-      <lang percentage="89">ko</lang>
-      <lang percentage="32">ku</lang>
-      <lang percentage="39">li</lang>
-      <lang percentage="89">lt</lang>
-      <lang percentage="78">lv</lang>
-      <lang percentage="87">mai</lang>
-      <lang percentage="25">mg</lang>
-      <lang percentage="77">mk</lang>
-      <lang percentage="87">ml</lang>
-      <lang percentage="51">mn</lang>
-      <lang percentage="89">mr</lang>
-      <lang percentage="48">ms</lang>
-      <lang percentage="86">my</lang>
-      <lang percentage="77">nb</lang>
-      <lang percentage="29">nds</lang>
-      <lang percentage="58">ne</lang>
-      <lang percentage="85">nl</lang>
-      <lang percentage="47">nn</lang>
-      <lang percentage="51">nso</lang>
-      <lang percentage="87">or</lang>
-      <lang percentage="89">pa</lang>
-      <lang percentage="90">pl</lang>
-      <lang percentage="26">ps</lang>
-      <lang percentage="89">pt</lang>
-      <lang percentage="89">pt_BR</lang>
-      <lang percentage="90">ro</lang>
-      <lang percentage="89">ru</lang>
-      <lang percentage="25">si</lang>
-      <lang percentage="81">sk</lang>
-      <lang percentage="89">sl</lang>
-      <lang percentage="82">sq</lang>
-      <lang percentage="89">sr</lang>
-      <lang percentage="51">sr@ije</lang>
-      <lang percentage="89">sr@latin</lang>
-      <lang percentage="89">sv</lang>
-      <lang percentage="87">ta</lang>
-      <lang percentage="87">te</lang>
-      <lang percentage="45">th</lang>
-      <lang percentage="85">tr</lang>
-      <lang percentage="45">ug</lang>
-      <lang percentage="89">uk</lang>
-      <lang percentage="32">uz</lang>
-      <lang percentage="32">uz@cyrillic</lang>
-      <lang percentage="89">vi</lang>
-      <lang percentage="57">xh</lang>
-      <lang percentage="39">yi</lang>
-      <lang percentage="89">zh_CN</lang>
-      <lang percentage="89">zh_HK</lang>
-      <lang percentage="89">zh_TW</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">vscode_1.6.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="font">
