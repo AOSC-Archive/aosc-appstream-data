@@ -16272,7 +16272,7 @@
     <id>obs-studio.(null)</id>
     <pkgname>obs-studio</pkgname>
     <metadata>
-      <value key="X-CacheID">obs-studio_0.16.2-0_amd64.deb</value>
+      <value key="X-CacheID">obs-studio_0.16.4-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -21621,13 +21621,6 @@
     <pkgname>sunxi-tools</pkgname>
     <metadata>
       <value key="X-CacheID">sunxi-tools_0+git20161005-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>sunxi.(null)</id>
-    <pkgname>sunxi</pkgname>
-    <metadata>
-      <value key="X-CacheID">sunxi_2.3.3-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
