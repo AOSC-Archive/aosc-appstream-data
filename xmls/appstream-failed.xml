@@ -114,7 +114,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-62188a0f5bfff4e4a145e117351225cf.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -329,7 +329,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-62188a0f5bfff4e4a145e117351225cf.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -544,7 +544,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-62188a0f5bfff4e4a145e117351225cf.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -740,6 +740,33 @@
     </languages>
     <metadata>
       <value key="X-CacheID">dejavu-fonts_2.37-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
+    <id>drooid</id>
+    <pkgname>droid-fallback-fonts</pkgname>
+    <name>Droid Fallback</name>
+    <summary>The Droid Fallback family of fonts</summary>
+    <icon type="cached" height="64" width="64">64x64/drooid.png</icon>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>duplicate of droid-fonts-20161104-0</veto>
+    </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source" height="48" width="640">file:/drooid-674df001e6df7196248c50f80a6aadf5.png</image>
+      </screenshot>
+    </screenshots>
+    <languages>
+      <lang>ja</lang>
+      <lang>ko</lang>
+      <lang>zh-tw</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">droid-fallback-fonts_6.0.1r16-0_noarch.deb</value>
     </metadata>
   </component>
   <component type="addon">
@@ -2119,7 +2146,7 @@
       <lang percentage="50">fa</lang>
       <lang percentage="81">fi</lang>
       <lang percentage="100">fr</lang>
-      <lang percentage="41">fur</lang>
+      <lang percentage="52">fur</lang>
       <lang percentage="43">ga</lang>
       <lang percentage="100">gl</lang>
       <lang percentage="85">gu</lang>
@@ -2156,7 +2183,7 @@
       <lang percentage="88">ro</lang>
       <lang percentage="86">ru</lang>
       <lang percentage="46">si</lang>
-      <lang percentage="99">sk</lang>
+      <lang percentage="100">sk</lang>
       <lang percentage="96">sl</lang>
       <lang percentage="81">sq</lang>
       <lang percentage="100">sr</lang>
@@ -2175,7 +2202,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution_3.22.1-0_amd64.deb</value>
+      <value key="X-CacheID">evolution_3.22.2-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -2234,7 +2261,7 @@
       <lang percentage="50">fa</lang>
       <lang percentage="81">fi</lang>
       <lang percentage="100">fr</lang>
-      <lang percentage="41">fur</lang>
+      <lang percentage="52">fur</lang>
       <lang percentage="43">ga</lang>
       <lang percentage="100">gl</lang>
       <lang percentage="85">gu</lang>
@@ -2271,7 +2298,7 @@
       <lang percentage="88">ro</lang>
       <lang percentage="86">ru</lang>
       <lang percentage="46">si</lang>
-      <lang percentage="99">sk</lang>
+      <lang percentage="100">sk</lang>
       <lang percentage="96">sl</lang>
       <lang percentage="81">sq</lang>
       <lang percentage="100">sr</lang>
@@ -2290,7 +2317,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution_3.22.1-0_amd64.deb</value>
+      <value key="X-CacheID">evolution_3.22.2-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -2319,6 +2346,7 @@
     <summary xml:lang="eu">Baztergarriak iragazteko SpamAssassin erabiltzen</summary>
     <summary xml:lang="fi">Roskapostisuodatus SpamAssassinia käyttäen</summary>
     <summary xml:lang="fr">Filtre de pourriel utilisant SpamAssassin</summary>
+    <summary xml:lang="fur">Filtrâ i malvolûts doprant SpamAssassin</summary>
     <summary xml:lang="gl">Filtrar spam usando SpamAssassin</summary>
     <summary xml:lang="hu">Levélszemétszűrő szoftver SpamAssassin használatával</summary>
     <summary xml:lang="id">Penyaring sampah memakai SpamAssassin</summary>
@@ -2394,7 +2422,7 @@
       <lang percentage="50">fa</lang>
       <lang percentage="81">fi</lang>
       <lang percentage="100">fr</lang>
-      <lang percentage="41">fur</lang>
+      <lang percentage="52">fur</lang>
       <lang percentage="43">ga</lang>
       <lang percentage="100">gl</lang>
       <lang percentage="85">gu</lang>
@@ -2431,7 +2459,7 @@
       <lang percentage="88">ro</lang>
       <lang percentage="86">ru</lang>
       <lang percentage="46">si</lang>
-      <lang percentage="99">sk</lang>
+      <lang percentage="100">sk</lang>
       <lang percentage="96">sl</lang>
       <lang percentage="81">sq</lang>
       <lang percentage="100">sr</lang>
@@ -2450,7 +2478,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution_3.22.1-0_amd64.deb</value>
+      <value key="X-CacheID">evolution_3.22.2-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -2711,6 +2739,7 @@
     <name xml:lang="fur">Plugin terminâl par File</name>
     <name xml:lang="gd">Plugan an tèirmineil airson Faidhlichean</name>
     <name xml:lang="gl">Engadido de Terminal para Ficheiros</name>
+    <name xml:lang="hr">Terminal priključak za Datoteke</name>
     <name xml:lang="hu">Terminál bővítmény a Fájlokhoz</name>
     <name xml:lang="id">Plugin Terminal bagi Berkas</name>
     <name xml:lang="it">Plugin del terminale per File</name>
@@ -2731,6 +2760,7 @@
     <name xml:lang="tr">Dosyalar için Uçbirim eklentisi</name>
     <name xml:lang="uk">Додаток для Файлів</name>
     <name xml:lang="vi">Phần bổ sung Thiết bị cuối cho “Tập tin”</name>
+    <name xml:lang="zh_CN">用于文件管理器的终端插件</name>
     <name xml:lang="zh_TW">給 Files 的終端機外掛程式</name>
     <summary>Open a terminal from Files</summary>
     <summary xml:lang="ar">افتح طرفيّة من مدير الملفات</summary>
@@ -2748,6 +2778,7 @@
     <summary xml:lang="fur">Vierç un terminâl da File</summary>
     <summary xml:lang="gd">Fosgail tèirmineal o Fhaidhlichean</summary>
     <summary xml:lang="gl">Abrir unha terminal desde Ficheiros</summary>
+    <summary xml:lang="hr">Otvori terminal iz Datoteka</summary>
     <summary xml:lang="hu">Terminál megnyitása a Fájlokban</summary>
     <summary xml:lang="id">Buka sebuah terminal dari Berkas</summary>
     <summary xml:lang="it">Apre un terminale da File</summary>
@@ -2768,8 +2799,9 @@
     <summary xml:lang="tr">Dosyalar uygulaması içinden bir Uçbirim açın</summary>
     <summary xml:lang="uk">Відкрити термінал з Файлів</summary>
     <summary xml:lang="vi">Mở Thiết bị cuối từ “Tập tin”</summary>
+    <summary xml:lang="zh_CN">从文件管理器打开终端</summary>
     <summary xml:lang="zh_TW">從 Files 開啟終端機</summary>
-    <description><p>Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="bg">Това е приставка за програмата „Файлове“, която добавя команда за отваряне на терминала в текущата папка.</p><p xml:lang="ca">Open Terminal és un connector per l'aplicació de fitxers que afegeix un element de menú al menú contextual per obrir un terminal al directori actual de navegació.</p><p xml:lang="cs">Otevřít terminál je zásuvný modul pro aplikaci Soubory, který přidává do kontextové nabídky položku pro otevření terminálu v právě procházené složce.</p><p xml:lang="da">Åbn terminal er et plugin til Filer-programmet, som tilføjer et menupunkt til genvejsmenuen til at åbne en terminal i den aktuelle mappe.</p><p xml:lang="de">Terminal Öffnen ist eine Erweiterung für die Dateien-Anwendung, die einen Menüeintrag in das Kontextmenü einfügt, das ein Terminal im aktuell besuchten Verzeichnis öffnet.</p><p xml:lang="el">Το «Άνοιγμα τερματικού» είναι μια επέκταση για τα Αρχεία που προσθέτει ένα αντικείμενο στο μενού περιεχομένων, όπου ανοίγει ένα τερματικό στην τρέχουσα θέση του καταλόγου.</p><p xml:lang="en_GB">Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="es">Abrir terminal es un complemento para la aplicación Archivos que añade un elemento de menú al menú contextual para abrir una terminal en la carpeta actual.</p><p xml:lang="eu">'Ireki terminala' Fitxategiak aplikazioarentzako osagarri bat da. Testuinguruko menuari elementu bat gehitzen dio terminal bat irekitzeko (uneko direktorioan kokatuta).</p><p xml:lang="fa">«باز کردن در پایانه» یک افزونه برای برنامه «پرونده‌ها» است که یک مورد به منو کلیک راست آن اضافه می‌کند، تا از آن طریق بتوان یک پنجرهٔ پایانه در شاخه فعلی باز کند.</p><p xml:lang="fi">"Avaa pääte" on liitännäinen tiedostoselaimeen, joka lisää valikkotoiminnon kontekstivalikkoon selattavan kansion kohdalle.</p><p xml:lang="fr">Ouvrir un terminal est un greffon pour l'application Fichiers qui ajoute une entrée de menu dans le menu contextuel pour ouvrir un terminal dans le dossier en cours d'affichage.</p><p xml:lang="fur">Vierç terminâl al è un plugin par l'aplicazion File che al zonte un element tal menù di contest, par vierzi un terminâl te cartele atualmentri sfueade.</p><p xml:lang="gd">'S e plugan a th' ann am "Fosgail tèirmineal" airson aplacaid nam faidhlichean a chuireas nì ris a' chlàr-taice cho-theacsail gus tèirmineal fhosgladh sa phasgan a thagh thu.</p><p xml:lang="gl">Abrir un Terminal é un engadido para o aplicativo Ficheiros que engade un elemento no menú contextual para abrir un terminal no cartafol que se está explorando actualmente.</p><p xml:lang="he">Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="hu">A terminál megnyitása egy bővítmény a Fájlok alkalmazáshoz, amely egy menüelemet ad a helyi menühöz, ahonnan terminálablak nyitható az éppen nyitott mappában.</p><p xml:lang="id">Open Terminal adalah suatu pengaya bagi aplikasi Berkas yang menambah suatu butir menu ke menu konteks untuk membuka sebuah terminal dalam direktori yang saat ini sedang diramban.</p><p xml:lang="it">Apri terminale è un plugin per l'applicazione File che aggiunge una voce al menù contestuale per aprire un terminale nell'attuale directory in esplorazione.</p><p xml:lang="ko">터미널 열기는 파일 보기 프로그램의 현재 보고 있는 디렉터리에서 터미널을 여는 메뉴 항목을 컨텍스트 메뉴에 추가합니다.</p><p xml:lang="lt">Atverti terminalą yra Failų programai skirtas įskiepis, kuris prideda kontekstinio meniu elementą, atveriantį terminalą esamu metu naršomame kataloge.</p><p xml:lang="lv">“Atvērt termināli” ir spraudnis lietotnei “Datnes”, kas pievieno izvēlnes vienumu konteksta izvēlnei, kas atver termināli pārlūkotajā direktorijā.</p><p xml:lang="pl">Wtyczka dla Menedżera plików dodająca element do menu kontekstowego otwierający terminal w obecnie przeglądanym katalogu.</p><p xml:lang="pt">Abrir Terminal é um plugin para a aplicação Ficheiros que adiciona no menu de contexto abrir terminal na pasta atual.</p><p xml:lang="pt_BR">Open Terminal é um plug-in para o aplicativo Arquivos que adiciona um item de menu ao menu de contexto para abrir um terminal no diretório navegado no momento.</p><p xml:lang="ru">Открыть терминал — модуль для приложения Nautilus, который добавляет в строку в контекстном меню для открытия терминала в текущей просматриваемой папке.</p><p xml:lang="sk">Otvoriť terminál je zásuvný modul pre aplikáciu Súbory, ktorý pridáva položku kontextovej ponuky na otvorenie terminálu v aktuálne prehliadanom adresári.</p><p xml:lang="sr">Отвори терминал је додатак за програм Датотеке, који додаје ставку менија за отварање терминала из тренутног директоријума.</p><p xml:lang="sr@latin">Otvori terminal je dodatak za program Datoteke, koji dodaje stavku menija za otvaranje terminala iz trenutnog direktorijuma.</p><p xml:lang="sv">Öppna terminal är en insticksmodul för programmet Filer som lägger till ett menyobjekt i kontextmenyn för att öppna en terminal i den öppnade katalogen.</p><p xml:lang="th">“เปิดเทอร์มินัล” เป็นปลั๊กอินสำหรับโปรแกรม “แฟ้ม” ที่จะเพิ่มรายการในเมนูคลิกขวา เพื่อใช้เปิดเทอร์มินัลในไดเรกทอรีที่กำลังท่องดูในขณะนั้น</p><p xml:lang="uk">Відкрити термінал — додаток для програми Файли, яка додає пункт в контекстне меню, щоб відкривати термінал у поточному каталозі.</p><p xml:lang="vi">Mở Thiết bị cuối là phần bổ sung dành cho ứng dụng tập tin cái mà sẽ thêm một mục vào trình đơn ngữ cảnh để mở thiết bị cuối ở thư mục hiện đang được duyệt.</p><p xml:lang="zh_TW">Open Terminal 是一個 Files 應用程式的外掛程式，可以在目前瀏覽目錄的脈絡選單中加入開啟終端機的選單項目。</p></description>
+    <description><p>Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="bg">Това е приставка за програмата „Файлове“, която добавя команда за отваряне на терминала в текущата папка.</p><p xml:lang="ca">Open Terminal és un connector per l'aplicació de fitxers que afegeix un element de menú al menú contextual per obrir un terminal al directori actual de navegació.</p><p xml:lang="cs">Otevřít terminál je zásuvný modul pro aplikaci Soubory, který přidává do kontextové nabídky položku pro otevření terminálu v právě procházené složce.</p><p xml:lang="da">Åbn terminal er et plugin til Filer-programmet, som tilføjer et menupunkt til genvejsmenuen til at åbne en terminal i den aktuelle mappe.</p><p xml:lang="de">Terminal Öffnen ist eine Erweiterung für die Dateien-Anwendung, die einen Menüeintrag in das Kontextmenü einfügt, das ein Terminal im aktuell besuchten Verzeichnis öffnet.</p><p xml:lang="el">Το «Άνοιγμα τερματικού» είναι μια επέκταση για τα Αρχεία που προσθέτει ένα αντικείμενο στο μενού περιεχομένων, όπου ανοίγει ένα τερματικό στην τρέχουσα θέση του καταλόγου.</p><p xml:lang="en_GB">Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="es">Abrir terminal es un complemento para la aplicación Archivos que añade un elemento de menú al menú contextual para abrir una terminal en la carpeta actual.</p><p xml:lang="eu">'Ireki terminala' Fitxategiak aplikazioarentzako osagarri bat da. Testuinguruko menuari elementu bat gehitzen dio terminal bat irekitzeko (uneko direktorioan kokatuta).</p><p xml:lang="fa">«باز کردن در پایانه» یک افزونه برای برنامه «پرونده‌ها» است که یک مورد به منو کلیک راست آن اضافه می‌کند، تا از آن طریق بتوان یک پنجرهٔ پایانه در شاخه فعلی باز کند.</p><p xml:lang="fi">"Avaa pääte" on liitännäinen tiedostoselaimeen, joka lisää valikkotoiminnon kontekstivalikkoon selattavan kansion kohdalle.</p><p xml:lang="fr">Ouvrir un terminal est un greffon pour l'application Fichiers qui ajoute une entrée de menu dans le menu contextuel pour ouvrir un terminal dans le dossier en cours d'affichage.</p><p xml:lang="fur">Vierç terminâl al è un plugin par l'aplicazion File che al zonte un element tal menù di contest, par vierzi un terminâl te cartele atualmentri sfueade.</p><p xml:lang="gd">'S e plugan a th' ann am "Fosgail tèirmineal" airson aplacaid nam faidhlichean a chuireas nì ris a' chlàr-taice cho-theacsail gus tèirmineal fhosgladh sa phasgan a thagh thu.</p><p xml:lang="gl">Abrir un Terminal é un engadido para o aplicativo Ficheiros que engade un elemento no menú contextual para abrir un terminal no cartafol que se está explorando actualmente.</p><p xml:lang="he">Open Terminal is a plugin for the Files application that adds a menu item to the context menu to open a terminal in the currently browsed directory.</p><p xml:lang="hr">Otvori terminal je priključak za Datoteke aplikaciju koji dodaje stavku u sadržajni izbornik za otvaranje terminala u trenutno pregledanom direktoriju.</p><p xml:lang="hu">A terminál megnyitása egy bővítmény a Fájlok alkalmazáshoz, amely egy menüelemet ad a helyi menühöz, ahonnan terminálablak nyitható az éppen nyitott mappában.</p><p xml:lang="id">Open Terminal adalah suatu pengaya bagi aplikasi Berkas yang menambah suatu butir menu ke menu konteks untuk membuka sebuah terminal dalam direktori yang saat ini sedang diramban.</p><p xml:lang="it">Apri terminale è un plugin per l'applicazione File che aggiunge una voce al menù contestuale per aprire un terminale nell'attuale directory in esplorazione.</p><p xml:lang="ko">터미널 열기는 파일 보기 프로그램의 현재 보고 있는 디렉터리에서 터미널을 여는 메뉴 항목을 컨텍스트 메뉴에 추가합니다.</p><p xml:lang="lt">Atverti terminalą yra Failų programai skirtas įskiepis, kuris prideda kontekstinio meniu elementą, atveriantį terminalą esamu metu naršomame kataloge.</p><p xml:lang="lv">“Atvērt termināli” ir spraudnis lietotnei “Datnes”, kas pievieno izvēlnes vienumu konteksta izvēlnei, kas atver termināli pārlūkotajā direktorijā.</p><p xml:lang="pl">Wtyczka dla Menedżera plików dodająca element do menu kontekstowego otwierający terminal w obecnie przeglądanym katalogu.</p><p xml:lang="pt">Abrir Terminal é um plugin para a aplicação Ficheiros que adiciona no menu de contexto abrir terminal na pasta atual.</p><p xml:lang="pt_BR">Open Terminal é um plug-in para o aplicativo Arquivos que adiciona um item de menu ao menu de contexto para abrir um terminal no diretório navegado no momento.</p><p xml:lang="ru">Открыть терминал — модуль для приложения Nautilus, который добавляет в строку в контекстном меню для открытия терминала в текущей просматриваемой папке.</p><p xml:lang="sk">Otvoriť terminál je zásuvný modul pre aplikáciu Súbory, ktorý pridáva položku kontextovej ponuky na otvorenie terminálu v aktuálne prehliadanom adresári.</p><p xml:lang="sr">Отвори терминал је додатак за програм Датотеке, који додаје ставку менија за отварање терминала из тренутног директоријума.</p><p xml:lang="sr@latin">Otvori terminal je dodatak za program Datoteke, koji dodaje stavku menija za otvaranje terminala iz trenutnog direktorijuma.</p><p xml:lang="sv">Öppna terminal är en insticksmodul för programmet Filer som lägger till ett menyobjekt i kontextmenyn för att öppna en terminal i den öppnade katalogen.</p><p xml:lang="th">“เปิดเทอร์มินัล” เป็นปลั๊กอินสำหรับโปรแกรม “แฟ้ม” ที่จะเพิ่มรายการในเมนูคลิกขวา เพื่อใช้เปิดเทอร์มินัลในไดเรกทอรีที่กำลังท่องดูในขณะนั้น</p><p xml:lang="uk">Відкрити термінал — додаток для програми Файли, яка додає пункт в контекстне меню, щоб відкривати термінал у поточному каталозі.</p><p xml:lang="vi">Mở Thiết bị cuối là phần bổ sung dành cho ứng dụng tập tin cái mà sẽ thêm một mục vào trình đơn ngữ cảnh để mở thiết bị cuối ở thư mục hiện đang được duyệt.</p><p xml:lang="zh_CN">“打开终端”是用于文件管理器的插件，这个插件支持通过右键菜单在当前浏览的目录中打开终端模拟器。</p><p xml:lang="zh_TW">Open Terminal 是一個 Files 應用程式的外掛程式，可以在目前瀏覽目錄的脈絡選單中加入開啟終端機的選單項目。</p></description>
     <kudos>
       <kudo>SearchProvider</kudo>
       <kudo>UserDocs</kudo>
@@ -2817,14 +2849,14 @@
       <lang percentage="90">fa</lang>
       <lang percentage="88">fi</lang>
       <lang percentage="92">fr</lang>
-      <lang percentage="90">fur</lang>
+      <lang percentage="92">fur</lang>
       <lang percentage="58">ga</lang>
       <lang percentage="92">gd</lang>
       <lang percentage="92">gl</lang>
       <lang percentage="82">gu</lang>
       <lang percentage="92">he</lang>
       <lang percentage="81">hi</lang>
-      <lang percentage="65">hr</lang>
+      <lang percentage="93">hr</lang>
       <lang percentage="92">hu</lang>
       <lang percentage="92">id</lang>
       <lang percentage="55">is</lang>
@@ -2845,7 +2877,7 @@
       <lang percentage="91">mn</lang>
       <lang percentage="85">mr</lang>
       <lang percentage="93">ms</lang>
-      <lang percentage="89">nb</lang>
+      <lang percentage="90">nb</lang>
       <lang percentage="45">nds</lang>
       <lang percentage="63">ne</lang>
       <lang percentage="84">nl</lang>
@@ -2876,12 +2908,12 @@
       <lang percentage="92">vi</lang>
       <lang percentage="90">wa</lang>
       <lang percentage="100">xh</lang>
-      <lang percentage="87">zh_CN</lang>
+      <lang percentage="92">zh_CN</lang>
       <lang percentage="84">zh_HK</lang>
       <lang percentage="91">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">gnome-terminal_3.22.0-0_amd64.deb</value>
+      <value key="X-CacheID">gnome-terminal_3.22.1-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">org.gnome.Terminal.desktop</value>
     </metadata>
   </component>
@@ -3092,6 +3124,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-60f9a65be384486d62f9b066cbd94166.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
