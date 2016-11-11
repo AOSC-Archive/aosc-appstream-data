@@ -1058,13 +1058,6 @@
     </metadata>
   </component>
   <component>
-    <id>avogadro.(null)</id>
-    <pkgname>avogadro</pkgname>
-    <metadata>
-      <value key="X-CacheID">avogadro_1.1.1-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>awesfx.(null)</id>
     <pkgname>awesfx</pkgname>
     <metadata>
@@ -5975,7 +5968,7 @@
     <id>glfw.(null)</id>
     <pkgname>glfw</pkgname>
     <metadata>
-      <value key="X-CacheID">glfw_3.1.2-0_amd64.deb</value>
+      <value key="X-CacheID">glfw_3.2.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9168,13 +9161,6 @@
     <pkgname>kicad-i18n</pkgname>
     <metadata>
       <value key="X-CacheID">kicad-i18n_4.0.0-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>kicad.(null)</id>
-    <pkgname>kicad</pkgname>
-    <metadata>
-      <value key="X-CacheID">kicad_4.0.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -21165,7 +21151,7 @@
     <id>slop.(null)</id>
     <pkgname>slop</pkgname>
     <metadata>
-      <value key="X-CacheID">slop_4.3.21-0_amd64.deb</value>
+      <value key="X-CacheID">slop_4.3.21-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -21767,7 +21753,7 @@
     <id>syncthing-gtk.(null)</id>
     <pkgname>syncthing-gtk</pkgname>
     <metadata>
-      <value key="X-CacheID">syncthing-gtk_0.9.2.2-0_amd64.deb</value>
+      <value key="X-CacheID">syncthing-gtk_0.9.2.2-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
