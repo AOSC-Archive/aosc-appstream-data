@@ -5174,13 +5174,6 @@
     </metadata>
   </component>
   <component>
-    <id>fonts-cwtex.(null)</id>
-    <pkgname>fonts-cwtex</pkgname>
-    <metadata>
-      <value key="X-CacheID">fonts-cwtex_1.0-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>fonttools.(null)</id>
     <pkgname>fonttools</pkgname>
     <metadata>
@@ -11572,6 +11565,13 @@
     </metadata>
   </component>
   <component>
+    <id>libjpeg+legacy+32.(null)</id>
+    <pkgname>libjpeg+legacy+32</pkgname>
+    <metadata>
+      <value key="X-CacheID">libjpeg+legacy+32_6b-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>libjpeg-turbo+32.(null)</id>
     <pkgname>libjpeg-turbo+32</pkgname>
     <metadata>
@@ -14764,6 +14764,13 @@
     </metadata>
   </component>
   <component>
+    <id>matchbox-window-manager.(null)</id>
+    <pkgname>matchbox-window-manager</pkgname>
+    <metadata>
+      <value key="X-CacheID">matchbox-window-manager_1.2.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>mate-applets.(null)</id>
     <pkgname>mate-applets</pkgname>
     <metadata>
@@ -16546,6 +16553,20 @@
     <pkgname>onscripter-en</pkgname>
     <metadata>
       <value key="X-CacheID">onscripter-en.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>onscripter-gbk.(null)</id>
+    <pkgname>onscripter-gbk</pkgname>
+    <metadata>
+      <value key="X-CacheID">onscripter-gbk_20130528-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>onscripter-jh.(null)</id>
+    <pkgname>onscripter-jh</pkgname>
+    <metadata>
+      <value key="X-CacheID">onscripter-jh_20160803-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -20843,7 +20864,7 @@
     <id>sdl-mixer.(null)</id>
     <pkgname>sdl-mixer</pkgname>
     <metadata>
-      <value key="X-CacheID">sdl-mixer.deb</value>
+      <value key="X-CacheID">sdl-mixer_1.2.12-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -20900,6 +20921,13 @@
     <pkgname>sdl2-image</pkgname>
     <metadata>
       <value key="X-CacheID">sdl2-image_2.0.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>sdl2-mixer.(null)</id>
+    <pkgname>sdl2-mixer</pkgname>
+    <metadata>
+      <value key="X-CacheID">sdl2-mixer_2.0.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -22636,6 +22664,13 @@
     <pkgname>totem-pl-parser</pkgname>
     <metadata>
       <value key="X-CacheID">totem-pl-parser.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>touchmegames.(null)</id>
+    <pkgname>touchmegames</pkgname>
+    <metadata>
+      <value key="X-CacheID">touchmegames_0.2.5.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
