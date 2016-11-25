@@ -6511,13 +6511,6 @@
     </metadata>
   </component>
   <component>
-    <id>gnome-power-manager.(null)</id>
-    <pkgname>gnome-power-manager</pkgname>
-    <metadata>
-      <value key="X-CacheID">gnome-power-manager.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>gnome-python-extras.(null)</id>
     <pkgname>gnome-python-extras</pkgname>
     <metadata>
@@ -22594,6 +22587,13 @@
     <pkgname>tdb</pkgname>
     <metadata>
       <value key="X-CacheID">tdb_1.3.7-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>tde-i18n.(null)</id>
+    <pkgname>tde-i18n</pkgname>
+    <metadata>
+      <value key="X-CacheID">tde-i18n_14.0.4-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
