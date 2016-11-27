@@ -74,7 +74,7 @@
     <id>acccheck.(null)</id>
     <pkgname>acccheck</pkgname>
     <metadata>
-      <value key="X-CacheID">acccheck_0.2.1-0_amd64.deb</value>
+      <value key="X-CacheID">acccheck_0.2.1-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -1222,7 +1222,7 @@
     <id>backports.(null)</id>
     <pkgname>backports</pkgname>
     <metadata>
-      <value key="X-CacheID">backports_1.0-0_amd64.deb</value>
+      <value key="X-CacheID">backports_1.0-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -5954,7 +5954,7 @@
     <id>geogebra.(null)</id>
     <pkgname>geogebra</pkgname>
     <metadata>
-      <value key="X-CacheID">geogebra_5.0.151.0-0_amd64.deb</value>
+      <value key="X-CacheID">geogebra_5.0.295.0-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -14683,7 +14683,7 @@
     <id>lxqt-common.(null)</id>
     <pkgname>lxqt-common</pkgname>
     <metadata>
-      <value key="X-CacheID">lxqt-common.deb</value>
+      <value key="X-CacheID">lxqt-common_0.10.0-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
