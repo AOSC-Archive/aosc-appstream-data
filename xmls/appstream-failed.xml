@@ -2953,170 +2953,6 @@
     </metadata>
   </component>
   <component type="font">
-    <id>ttf-ancient-fonts</id>
-    <pkgname>ttf-ancient-fonts</pkgname>
-    <name>Ancient Fonts</name>
-    <summary>Unicode Fonts for Ancient symbols, typefaces, and scripts</summary>
-    <categories>
-      <category>Addons</category>
-      <category>Fonts</category>
-    </categories>
-    <vetos>
-      <veto>Has no Icon</veto>
-    </vetos>
-    <languages>
-      <lang>aa</lang>
-      <lang>ab</lang>
-      <lang>af</lang>
-      <lang>an</lang>
-      <lang>av</lang>
-      <lang>ay</lang>
-      <lang>az-az</lang>
-      <lang>ba</lang>
-      <lang>be</lang>
-      <lang>bg</lang>
-      <lang>bi</lang>
-      <lang>br</lang>
-      <lang>bs</lang>
-      <lang>bua</lang>
-      <lang>ca</lang>
-      <lang>ce</lang>
-      <lang>ch</lang>
-      <lang>chm</lang>
-      <lang>co</lang>
-      <lang>crh</lang>
-      <lang>cs</lang>
-      <lang>csb</lang>
-      <lang>cu</lang>
-      <lang>cy</lang>
-      <lang>da</lang>
-      <lang>de</lang>
-      <lang>el</lang>
-      <lang>en</lang>
-      <lang>eo</lang>
-      <lang>es</lang>
-      <lang>et</lang>
-      <lang>eu</lang>
-      <lang>fi</lang>
-      <lang>fil</lang>
-      <lang>fj</lang>
-      <lang>fo</lang>
-      <lang>fr</lang>
-      <lang>fur</lang>
-      <lang>fy</lang>
-      <lang>gd</lang>
-      <lang>gl</lang>
-      <lang>gv</lang>
-      <lang>haw</lang>
-      <lang>ho</lang>
-      <lang>hr</lang>
-      <lang>hsb</lang>
-      <lang>ht</lang>
-      <lang>hu</lang>
-      <lang>ia</lang>
-      <lang>id</lang>
-      <lang>ie</lang>
-      <lang>ik</lang>
-      <lang>io</lang>
-      <lang>is</lang>
-      <lang>it</lang>
-      <lang>jv</lang>
-      <lang>kaa</lang>
-      <lang>ki</lang>
-      <lang>kj</lang>
-      <lang>kk</lang>
-      <lang>kl</lang>
-      <lang>ku-am</lang>
-      <lang>ku-tr</lang>
-      <lang>kum</lang>
-      <lang>kv</lang>
-      <lang>kwm</lang>
-      <lang>ky</lang>
-      <lang>la</lang>
-      <lang>lb</lang>
-      <lang>lez</lang>
-      <lang>lg</lang>
-      <lang>li</lang>
-      <lang>lt</lang>
-      <lang>lv</lang>
-      <lang>mg</lang>
-      <lang>mh</lang>
-      <lang>mk</lang>
-      <lang>mn-mn</lang>
-      <lang>mo</lang>
-      <lang>ms</lang>
-      <lang>mt</lang>
-      <lang>na</lang>
-      <lang>nb</lang>
-      <lang>nds</lang>
-      <lang>ng</lang>
-      <lang>nl</lang>
-      <lang>nn</lang>
-      <lang>no</lang>
-      <lang>nr</lang>
-      <lang>nso</lang>
-      <lang>ny</lang>
-      <lang>oc</lang>
-      <lang>om</lang>
-      <lang>os</lang>
-      <lang>pap-an</lang>
-      <lang>pap-aw</lang>
-      <lang>pl</lang>
-      <lang>pt</lang>
-      <lang>rm</lang>
-      <lang>rn</lang>
-      <lang>ro</lang>
-      <lang>ru</lang>
-      <lang>rw</lang>
-      <lang>sah</lang>
-      <lang>sc</lang>
-      <lang>sco</lang>
-      <lang>se</lang>
-      <lang>sel</lang>
-      <lang>sg</lang>
-      <lang>shs</lang>
-      <lang>sk</lang>
-      <lang>sl</lang>
-      <lang>sm</lang>
-      <lang>sma</lang>
-      <lang>smj</lang>
-      <lang>smn</lang>
-      <lang>sn</lang>
-      <lang>so</lang>
-      <lang>sq</lang>
-      <lang>sr</lang>
-      <lang>ss</lang>
-      <lang>st</lang>
-      <lang>su</lang>
-      <lang>sv</lang>
-      <lang>sw</lang>
-      <lang>tg</lang>
-      <lang>tk</lang>
-      <lang>tl</lang>
-      <lang>tn</lang>
-      <lang>to</lang>
-      <lang>tr</lang>
-      <lang>ts</lang>
-      <lang>tt</lang>
-      <lang>ty</lang>
-      <lang>tyv</lang>
-      <lang>uk</lang>
-      <lang>uz</lang>
-      <lang>vo</lang>
-      <lang>vot</lang>
-      <lang>wa</lang>
-      <lang>wen</lang>
-      <lang>wo</lang>
-      <lang>xh</lang>
-      <lang>yap</lang>
-      <lang>za</lang>
-      <lang>zu</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
-    </metadata>
-  </component>
-  <component type="font">
     <id>ttf-arphic-ukai</id>
     <pkgname>ttf-arphic-ukai</pkgname>
     <name>AR PL UKai</name>
@@ -3152,6 +2988,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-b24836859fe902c747ca2253c3099cb0.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
