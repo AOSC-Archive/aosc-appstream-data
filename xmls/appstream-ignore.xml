@@ -550,7 +550,7 @@
     <id>apm.(null)</id>
     <pkgname>apm</pkgname>
     <metadata>
-      <value key="X-CacheID">apm_1.14.1-0_amd64.deb</value>
+      <value key="X-CacheID">apm_1.14.1-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -4687,7 +4687,7 @@
     <id>exempi.(null)</id>
     <pkgname>exempi</pkgname>
     <metadata>
-      <value key="X-CacheID">exempi.deb</value>
+      <value key="X-CacheID">exempi_20161130-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -5339,6 +5339,13 @@
     <pkgname>fontconfig</pkgname>
     <metadata>
       <value key="X-CacheID">fontconfig_2.12.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>fonts-cwtex.(null)</id>
+    <pkgname>fonts-cwtex</pkgname>
+    <metadata>
+      <value key="X-CacheID">fonts-cwtex_1.0-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -13920,7 +13927,7 @@
     <id>linux+api.(null)</id>
     <pkgname>linux+api</pkgname>
     <metadata>
-      <value key="X-CacheID">linux+api_4.5.1-0_amd64.deb</value>
+      <value key="X-CacheID">linux+api_4.8.11-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
