@@ -2426,7 +2426,7 @@
     <id>cinnamon-default-settings.(null)</id>
     <pkgname>cinnamon-default-settings</pkgname>
     <metadata>
-      <value key="X-CacheID">cinnamon-default-settings.deb</value>
+      <value key="X-CacheID">cinnamon-default-settings_20161205-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -6381,7 +6381,7 @@
     <id>gnome-default-settings.(null)</id>
     <pkgname>gnome-default-settings</pkgname>
     <metadata>
-      <value key="X-CacheID">gnome-default-settings_20161020-0_noarch.deb</value>
+      <value key="X-CacheID">gnome-default-settings_20161123-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -14645,6 +14645,13 @@
     </metadata>
   </component>
   <component>
+    <id>lxde-default-settings.(null)</id>
+    <pkgname>lxde-default-settings</pkgname>
+    <metadata>
+      <value key="X-CacheID">lxde-default-settings_20161123-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>lxde-distro-base.(null)</id>
     <pkgname>lxde-distro-base</pkgname>
     <metadata>
@@ -22492,6 +22499,13 @@
     </metadata>
   </component>
   <component>
+    <id>systemd-swap.(null)</id>
+    <pkgname>systemd-swap</pkgname>
+    <metadata>
+      <value key="X-CacheID">systemd-swap_3.1.2-1_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>systemd-sysv.(null)</id>
     <pkgname>systemd-sysv</pkgname>
     <metadata>
@@ -25134,7 +25148,7 @@
     <id>xfce4-default-settings.(null)</id>
     <pkgname>xfce4-default-settings</pkgname>
     <metadata>
-      <value key="X-CacheID">xfce4-default-settings_20161020-1_noarch.deb</value>
+      <value key="X-CacheID">xfce4-default-settings_20161123-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -25912,6 +25926,13 @@
     <pkgname>zpaq</pkgname>
     <metadata>
       <value key="X-CacheID">zpaq_7.13-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>zramswap.(null)</id>
+    <pkgname>zramswap</pkgname>
+    <metadata>
+      <value key="X-CacheID">zramswap_1.1.1-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
