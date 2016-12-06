@@ -2988,12 +2988,6 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <screenshots>
-      <screenshot type="default">
-        <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-8d8559a74b0e76ee894cf6ac1b7fb4a5.png</image>
-      </screenshot>
-    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
