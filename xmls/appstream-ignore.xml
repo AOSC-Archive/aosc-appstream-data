@@ -333,7 +333,7 @@
     <id>alacarte.(null)</id>
     <pkgname>alacarte</pkgname>
     <metadata>
-      <value key="X-CacheID">alacarte.deb</value>
+      <value key="X-CacheID">alacarte_3.11.91-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -16217,6 +16217,13 @@
     <pkgname>nemo</pkgname>
     <metadata>
       <value key="X-CacheID">nemo_2.8.4-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>neofetch.(null)</id>
+    <pkgname>neofetch</pkgname>
+    <metadata>
+      <value key="X-CacheID">neofetch_20161204-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
