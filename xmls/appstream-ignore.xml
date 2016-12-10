@@ -53,7 +53,7 @@
     <id>abbs.(null)</id>
     <pkgname>abbs</pkgname>
     <metadata>
-      <value key="X-CacheID">abbs_20160812-0_noarch.deb</value>
+      <value key="X-CacheID">abbs_20160812-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -837,7 +837,7 @@
     <id>astrometry.net.(null)</id>
     <pkgname>astrometry.net</pkgname>
     <metadata>
-      <value key="X-CacheID">astrometry.net_0.50-1_amd64.deb</value>
+      <value key="X-CacheID">astrometry.net_0.69-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -998,7 +998,7 @@
     <id>audacious-plugins.(null)</id>
     <pkgname>audacious-plugins</pkgname>
     <metadata>
-      <value key="X-CacheID">audacious-plugins_3.7-0_amd64.deb</value>
+      <value key="X-CacheID">audacious-plugins_3.8.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -1026,7 +1026,7 @@
     <id>autobuild3.(null)</id>
     <pkgname>autobuild3</pkgname>
     <metadata>
-      <value key="X-CacheID">autobuild3_20161120-0_noarch.deb</value>
+      <value key="X-CacheID">autobuild3_20161130-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -1534,6 +1534,13 @@
     </metadata>
   </component>
   <component>
+    <id>blast+.(null)</id>
+    <pkgname>blast+</pkgname>
+    <metadata>
+      <value key="X-CacheID">blast+_2.5.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>bleachbit.(null)</id>
     <pkgname>bleachbit</pkgname>
     <metadata>
@@ -1958,6 +1965,13 @@
     <pkgname>calendarsupport</pkgname>
     <metadata>
       <value key="X-CacheID">calendarsupport_16.08.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>calligra.(null)</id>
+    <pkgname>calligra</pkgname>
+    <metadata>
+      <value key="X-CacheID">calligra_3.0.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -3088,6 +3102,13 @@
     </metadata>
   </component>
   <component>
+    <id>compton.(null)</id>
+    <pkgname>compton</pkgname>
+    <metadata>
+      <value key="X-CacheID">compton_20160907-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>configargparse.(null)</id>
     <pkgname>configargparse</pkgname>
     <metadata>
@@ -4022,7 +4043,7 @@
     <id>dmd.(null)</id>
     <pkgname>dmd</pkgname>
     <metadata>
-      <value key="X-CacheID">dmd_2.070.0-0_amd64.deb</value>
+      <value key="X-CacheID">dmd_2.072.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -4267,7 +4288,7 @@
     <id>dub.(null)</id>
     <pkgname>dub</pkgname>
     <metadata>
-      <value key="X-CacheID">dub_0.9.24-0_amd64.deb</value>
+      <value key="X-CacheID">dub_1.1.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -4484,7 +4505,7 @@
     <id>emojione.(null)</id>
     <pkgname>emojione</pkgname>
     <metadata>
-      <value key="X-CacheID">emojione_2.2.6-1_noarch.deb</value>
+      <value key="X-CacheID">emojione_2.2.7-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -5030,7 +5051,7 @@
     <id>ffmpeg+32.(null)</id>
     <pkgname>ffmpeg+32</pkgname>
     <metadata>
-      <value key="X-CacheID">ffmpeg+32_3.1.4-0_amd64.deb</value>
+      <value key="X-CacheID">ffmpeg+32_3.2.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -6826,6 +6847,13 @@
     </metadata>
   </component>
   <component>
+    <id>gost.(null)</id>
+    <pkgname>gost</pkgname>
+    <metadata>
+      <value key="X-CacheID">gost_2.2-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>gpac.(null)</id>
     <pkgname>gpac</pkgname>
     <metadata>
@@ -7221,7 +7249,7 @@
     <id>gst-python-1-0.(null)</id>
     <pkgname>gst-python-1-0</pkgname>
     <metadata>
-      <value key="X-CacheID">gst-python-1-0_1.10.1-0_amd64.deb</value>
+      <value key="X-CacheID">gst-python-1-0_1.10.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9262,6 +9290,13 @@
     </metadata>
   </component>
   <component>
+    <id>kdiagram.(null)</id>
+    <pkgname>kdiagram</pkgname>
+    <metadata>
+      <value key="X-CacheID">kdiagram_2.6.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>kdiamond.(null)</id>
     <pkgname>kdiamond</pkgname>
     <metadata>
@@ -9906,6 +9941,13 @@
     </metadata>
   </component>
   <component>
+    <id>kproperty.(null)</id>
+    <pkgname>kproperty</pkgname>
+    <metadata>
+      <value key="X-CacheID">kproperty_3.0.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>kpty.(null)</id>
     <pkgname>kpty</pkgname>
     <metadata>
@@ -9952,6 +9994,13 @@
     <pkgname>kremotecontrol</pkgname>
     <metadata>
       <value key="X-CacheID">kremotecontrol_15.08.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>kreport.(null)</id>
+    <pkgname>kreport</pkgname>
+    <metadata>
+      <value key="X-CacheID">kreport_3.0.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10938,7 +10987,7 @@
     <id>libcl.(null)</id>
     <pkgname>libcl</pkgname>
     <metadata>
-      <value key="X-CacheID">libcl_2.2.9-0_amd64.deb</value>
+      <value key="X-CacheID">libcl_2.2.10-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -11288,7 +11337,7 @@
     <id>libevdev.(null)</id>
     <pkgname>libevdev</pkgname>
     <metadata>
-      <value key="X-CacheID">libevdev_1.4.1-0_amd64.deb</value>
+      <value key="X-CacheID">libevdev_1.5.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -11351,7 +11400,7 @@
     <id>libfilezilla.(null)</id>
     <pkgname>libfilezilla</pkgname>
     <metadata>
-      <value key="X-CacheID">libfilezilla_0.5.3-0_amd64.deb</value>
+      <value key="X-CacheID">libfilezilla_0.9.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -12979,6 +13028,13 @@
     </metadata>
   </component>
   <component>
+    <id>libserialport.(null)</id>
+    <pkgname>libserialport</pkgname>
+    <metadata>
+      <value key="X-CacheID">libserialport_0.1.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>libshake.(null)</id>
     <pkgname>libshake</pkgname>
     <metadata>
@@ -13025,6 +13081,20 @@
     <pkgname>libsignon-glib</pkgname>
     <metadata>
       <value key="X-CacheID">libsignon-glib.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libsigrok.(null)</id>
+    <pkgname>libsigrok</pkgname>
+    <metadata>
+      <value key="X-CacheID">libsigrok_0.4.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libsigrokdecode.(null)</id>
+    <pkgname>libsigrokdecode</pkgname>
+    <metadata>
+      <value key="X-CacheID">libsigrokdecode_0.4.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -14284,7 +14354,7 @@
     <id>liteide.(null)</id>
     <pkgname>liteide</pkgname>
     <metadata>
-      <value key="X-CacheID">liteide_30.2-0_amd64.deb</value>
+      <value key="X-CacheID">liteide_30.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -14439,6 +14509,13 @@
     <pkgname>lrzip</pkgname>
     <metadata>
       <value key="X-CacheID">lrzip_0.621-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>lrzsz.(null)</id>
+    <pkgname>lrzsz</pkgname>
+    <metadata>
+      <value key="X-CacheID">lrzsz_0.12.20-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -15523,7 +15600,7 @@
     <id>metasploit.(null)</id>
     <pkgname>metasploit</pkgname>
     <metadata>
-      <value key="X-CacheID">metasploit_4.12.35-0_noarch.deb</value>
+      <value key="X-CacheID">metasploit_4.13.5-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -16154,6 +16231,13 @@
     <pkgname>nbxmpp</pkgname>
     <metadata>
       <value key="X-CacheID">nbxmpp_0.5.3-1_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ncbi-vdb.(null)</id>
+    <pkgname>ncbi-vdb</pkgname>
+    <metadata>
+      <value key="X-CacheID">ncbi-vdb_2.8.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -17035,7 +17119,7 @@
     <id>openconnect.(null)</id>
     <pkgname>openconnect</pkgname>
     <metadata>
-      <value key="X-CacheID">openconnect_7.06-0_amd64.deb</value>
+      <value key="X-CacheID">openconnect_7.06-3_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -19086,7 +19170,7 @@
     <id>pinentry.(null)</id>
     <pkgname>pinentry</pkgname>
     <metadata>
-      <value key="X-CacheID">pinentry_0.9.5-0_amd64.deb</value>
+      <value key="X-CacheID">pinentry_1.0.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -19692,6 +19776,13 @@
     </metadata>
   </component>
   <component>
+    <id>pulseview.(null)</id>
+    <pkgname>pulseview</pkgname>
+    <metadata>
+      <value key="X-CacheID">pulseview_0.3.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>puppet.(null)</id>
     <pkgname>puppet</pkgname>
     <metadata>
@@ -20262,14 +20353,14 @@
     <id>pytools.(null)</id>
     <pkgname>pytools</pkgname>
     <metadata>
-      <value key="X-CacheID">pytools_2016.2.4-0_noarch.deb</value>
+      <value key="X-CacheID">pytools_2016.2.6-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
     <id>pytz.(null)</id>
     <pkgname>pytz</pkgname>
     <metadata>
-      <value key="X-CacheID">pytz_2016.6.1-1_noarch.deb</value>
+      <value key="X-CacheID">pytz_2016.10-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -20332,7 +20423,7 @@
     <id>pyzmq.(null)</id>
     <pkgname>pyzmq</pkgname>
     <metadata>
-      <value key="X-CacheID">pyzmq_15.4.0-0_amd64.deb</value>
+      <value key="X-CacheID">pyzmq_16.0.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -20864,7 +20955,7 @@
     <id>requests.(null)</id>
     <pkgname>requests</pkgname>
     <metadata>
-      <value key="X-CacheID">requests_2.11.1-0_noarch.deb</value>
+      <value key="X-CacheID">requests_2.12.3-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -21207,7 +21298,7 @@
     <id>sbcl.(null)</id>
     <pkgname>sbcl</pkgname>
     <metadata>
-      <value key="X-CacheID">sbcl_1.3.10-0_amd64.deb</value>
+      <value key="X-CacheID">sbcl_1.3.12-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -21655,7 +21746,7 @@
     <id>shared-mime-info.(null)</id>
     <pkgname>shared-mime-info</pkgname>
     <metadata>
-      <value key="X-CacheID">shared-mime-info_1.4-0_amd64.deb</value>
+      <value key="X-CacheID">shared-mime-info_1.8-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -21726,6 +21817,13 @@
     <pkgname>signon</pkgname>
     <metadata>
       <value key="X-CacheID">signon_8.57+15.04.20150204.1-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>sigrok-cli.(null)</id>
+    <pkgname>sigrok-cli</pkgname>
+    <metadata>
+      <value key="X-CacheID">sigrok-cli_0.6.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -22202,6 +22300,13 @@
     <pkgname>squashfs-tools</pkgname>
     <metadata>
       <value key="X-CacheID">squashfs-tools.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>sra-tools.(null)</id>
+    <pkgname>sra-tools</pkgname>
+    <metadata>
+      <value key="X-CacheID">sra-tools_2.8.0+2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -23195,7 +23300,7 @@
     <id>tor.(null)</id>
     <pkgname>tor</pkgname>
     <metadata>
-      <value key="X-CacheID">tor_0.2.7.5-0_amd64.deb</value>
+      <value key="X-CacheID">tor_0.2.8.10-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24882,7 +24987,7 @@
     <id>xdg-desktop-portal.(null)</id>
     <pkgname>xdg-desktop-portal</pkgname>
     <metadata>
-      <value key="X-CacheID">xdg-desktop-portal_0.3-0_amd64.deb</value>
+      <value key="X-CacheID">xdg-desktop-portal_0.4-0_amd64.deb</value>
     </metadata>
   </component>
   <component>

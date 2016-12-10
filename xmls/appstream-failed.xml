@@ -774,13 +774,16 @@
     <pkgname>easytag</pkgname>
     <name>Open with EasyTAG</name>
     <name xml:lang="bs">Otvori sa EasyTAG</name>
+    <name xml:lang="ca">Obre amb l'EasyTAG</name>
     <name xml:lang="cs">Otevřít pomocí EasyTAG</name>
     <name xml:lang="de">Mit EasyTAG öffnen</name>
     <name xml:lang="es">Abrir con EasyTAG</name>
     <name xml:lang="fr">Ouvrir avec EasyTAG</name>
+    <name xml:lang="hr">Otvori sa EasyTAG</name>
     <name xml:lang="hu">Megnyitás az EasyTAG-gel</name>
     <name xml:lang="ko">이지태그로 열기</name>
     <name xml:lang="nb">Åpne med EasyTAG</name>
+    <name xml:lang="oc">Dobrir amb EasyTAG</name>
     <name xml:lang="pl">Otwórz za pomocą programu EasyTAG</name>
     <name xml:lang="pt">Abrir com EasyTAG</name>
     <name xml:lang="pt_BR">Abrir com EasyTAG</name>
@@ -788,16 +791,19 @@
     <name xml:lang="sr@latin">Otvori Lakom oznakom</name>
     <name xml:lang="sv">Öppna med EasyTAG</name>
     <name xml:lang="tr">EasyTAG ile Aç</name>
+    <name xml:lang="zh_TW">以 EasyTAG 開啟</name>
     <summary>Open directories and audio files with EasyTAG using the context menu</summary>
     <summary xml:lang="bs">Otvorite direktorijume i zvučne datoteke Lakom oznakom koristeći priručni izbornik</summary>
+    <summary xml:lang="ca">Obre directoris i fitxers d'àudio amb l'EasyTAG utilitzant el menú contextual</summary>
     <summary xml:lang="cs">Otevírejte složky a zvukové soubory pomocí aplikace EasyTAG v kontextové nabídce</summary>
     <summary xml:lang="de">Ordner und Audiodateien mit EasyTAG über das Kontextmenü öffnen</summary>
     <summary xml:lang="es">Abrir carpetas y archivos de sonido con EasyTAG usando el menu contextual</summary>
     <summary xml:lang="fr">Ouvrir des répertoires et des fichiers audio avec EasyTAG grâce au menu contextuel</summary>
+    <summary xml:lang="hr">Otvori mape i glazbene datoteke sa EasyTAG-om pomoću izbornika sadržaja</summary>
     <summary xml:lang="hu">Könyvtárak és hangfájlok megnyitása az EasyTag-gel a helyi menüből</summary>
     <summary xml:lang="ko">단축 메뉴를 통해 디렉터리와 오디오 파일을  이지태그로 엽니다</summary>
     <summary xml:lang="nb">Åpne mapper og lydfiler med EasyTAG via skrivebordets lokalmenyer</summary>
-    <summary xml:lang="pl">Otwieranie katalogów i plików dźwiękowych w programie EasyTAG za pomocą menu kontekstowego</summary>
+    <summary xml:lang="pl">Otwieranie katalogów i plików dźwiękowych w programie EasyTAG za pomocą menu kontekstowego</summary>
     <summary xml:lang="pt">Abrir pastas e ficheiros áudio com o EasyTAG usando o menu contextual</summary>
     <summary xml:lang="pt_BR">Abre diretórios e arquivos de áudio com EasyTAG usando o menu de contexto</summary>
     <summary xml:lang="sr">Отворите директоријуме и звучне датотеке Лаком ознаком користећи приручни изборник</summary>
@@ -828,7 +834,7 @@
       <lang percentage="41">bn</lang>
       <lang percentage="45">bn_IN</lang>
       <lang percentage="48">bs</lang>
-      <lang percentage="46">ca</lang>
+      <lang percentage="48">ca</lang>
       <lang percentage="54">ca@valencia</lang>
       <lang percentage="37">crh</lang>
       <lang percentage="48">cs</lang>
@@ -853,7 +859,7 @@
       <lang percentage="52">gu</lang>
       <lang percentage="32">he</lang>
       <lang percentage="54">hi</lang>
-      <lang percentage="49">hr</lang>
+      <lang percentage="48">hr</lang>
       <lang percentage="48">hu</lang>
       <lang percentage="77">hy</lang>
       <lang percentage="44">ia</lang>
@@ -883,13 +889,12 @@
       <lang percentage="28">nl</lang>
       <lang percentage="40">nn</lang>
       <lang percentage="42">nso</lang>
-      <lang percentage="59">oc</lang>
+      <lang percentage="27">oc</lang>
       <lang percentage="45">or</lang>
       <lang percentage="58">pa</lang>
       <lang percentage="48">pl</lang>
       <lang percentage="48">pt</lang>
-      <lang percentage="41">pt_BR</lang>
-      <lang percentage="32">ro</lang>
+      <lang percentage="48">pt_BR</lang>
       <lang percentage="47">ru</lang>
       <lang percentage="58">sk</lang>
       <lang percentage="44">sl</lang>
@@ -910,10 +915,10 @@
       <lang percentage="32">yi</lang>
       <lang percentage="39">zh_CN</lang>
       <lang percentage="54">zh_HK</lang>
-      <lang percentage="38">zh_TW</lang>
+      <lang percentage="41">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">easytag_2.4.2-1_amd64.deb</value>
+      <value key="X-CacheID">easytag_2.4.3-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">easytag.desktop</value>
     </metadata>
   </component>
