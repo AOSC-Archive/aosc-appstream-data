@@ -5363,6 +5363,13 @@
     </metadata>
   </component>
   <component>
+    <id>fonts-cwtex.(null)</id>
+    <pkgname>fonts-cwtex</pkgname>
+    <metadata>
+      <value key="X-CacheID">fonts-cwtex_1.0-3_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>fonttools.(null)</id>
     <pkgname>fonttools</pkgname>
     <metadata>
@@ -16678,7 +16685,7 @@
     <id>nottetris2.(null)</id>
     <pkgname>nottetris2</pkgname>
     <metadata>
-      <value key="X-CacheID">nottetris2.deb</value>
+      <value key="X-CacheID">nottetris2_1-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
