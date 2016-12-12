@@ -4334,6 +4334,13 @@
     </metadata>
   </component>
   <component>
+    <id>easy-rsa.(null)</id>
+    <pkgname>easy-rsa</pkgname>
+    <metadata>
+      <value key="X-CacheID">easy-rsa_3.0.1-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>easyedit.(null)</id>
     <pkgname>easyedit</pkgname>
     <metadata>
@@ -5360,13 +5367,6 @@
     <pkgname>fontconfig</pkgname>
     <metadata>
       <value key="X-CacheID">fontconfig_2.12.0-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>fonts-cwtex.(null)</id>
-    <pkgname>fonts-cwtex</pkgname>
-    <metadata>
-      <value key="X-CacheID">fonts-cwtex_1.0-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -8334,7 +8334,7 @@
     <id>intltool.(null)</id>
     <pkgname>intltool</pkgname>
     <metadata>
-      <value key="X-CacheID">intltool_0.51.0-1_noarch.deb</value>
+      <value key="X-CacheID">intltool_0.51.0-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -16504,13 +16504,6 @@
     <pkgname>networkmanager-qt</pkgname>
     <metadata>
       <value key="X-CacheID">networkmanager-qt_5.15.0-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>networkmanager-strongswan.(null)</id>
-    <pkgname>networkmanager-strongswan</pkgname>
-    <metadata>
-      <value key="X-CacheID">networkmanager-strongswan_1.3.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
