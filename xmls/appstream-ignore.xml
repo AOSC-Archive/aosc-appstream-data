@@ -2286,7 +2286,7 @@
     <id>ceph.(null)</id>
     <pkgname>ceph</pkgname>
     <metadata>
-      <value key="X-CacheID">ceph_0.94.5-0_amd64.deb</value>
+      <value key="X-CacheID">ceph_10.2.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -16433,7 +16433,7 @@
     <id>mplayer.(null)</id>
     <pkgname>mplayer</pkgname>
     <metadata>
-      <value key="X-CacheID">mplayer_1.3.0-2_amd64.deb</value>
+      <value key="X-CacheID">mplayer_1.3.0-3_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -16699,7 +16699,7 @@
     <id>ncbi-vdb.(null)</id>
     <pkgname>ncbi-vdb</pkgname>
     <metadata>
-      <value key="X-CacheID">ncbi-vdb_2.8.0-0_amd64.deb</value>
+      <value key="X-CacheID">ncbi-vdb_2.8.0-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -16909,7 +16909,7 @@
     <id>netperf.(null)</id>
     <pkgname>netperf</pkgname>
     <metadata>
-      <value key="X-CacheID">netperf_2.7.0-0_amd64.deb</value>
+      <value key="X-CacheID">netperf_2.7.0-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -20997,7 +20997,7 @@
     <id>qemu-user-static.(null)</id>
     <pkgname>qemu-user-static</pkgname>
     <metadata>
-      <value key="X-CacheID">qemu-user-static_2.5-1_amd64.deb</value>
+      <value key="X-CacheID">qemu-user-static_2.8.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
