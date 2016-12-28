@@ -2828,22 +2828,6 @@
         <caption>Roboto Black – Regular</caption>
         <image type="source" height="48" width="640">file:/roboto-25aabc06d70bba8bb90b28c8e5e73913.png</image>
       </screenshot>
-      <screenshot priority="-2">
-        <caption>Roboto – Italic</caption>
-        <image type="source" height="48" width="640">file:/roboto-6e9b5e85278ba1c13e23b8ee9f6d9eba.png</image>
-      </screenshot>
-      <screenshot priority="-2">
-        <caption>Roboto Black – Italic</caption>
-        <image type="source" height="48" width="640">file:/roboto-896e4d808212d584972c41859c8b70c6.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>Roboto – Bold</caption>
-        <image type="source" height="48" width="640">file:/roboto-ac2aa8e36fabb878cd8df94ced9ec5b7.png</image>
-      </screenshot>
-      <screenshot priority="-34">
-        <caption>Roboto – Bold Italic</caption>
-        <image type="source" height="48" width="640">file:/roboto-e99834f36f73fc9ce4d6f3bd3c5ab0e6.png</image>
-      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -3064,7 +3048,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-60f9a65be384486d62f9b066cbd94166.png</image>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-1353861e38c440a4b6c4222f3e6e34d5.png</image>
       </screenshot>
     </screenshots>
     <languages>
