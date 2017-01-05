@@ -21001,10 +21001,206 @@
     </metadata>
   </component>
   <component>
+    <id>qemu-aarch64-static.(null)</id>
+    <pkgname>qemu-aarch64-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-aarch64-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-alpha-static.(null)</id>
+    <pkgname>qemu-alpha-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-alpha-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-arm-static.(null)</id>
+    <pkgname>qemu-arm-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-arm-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-armeb-static.(null)</id>
+    <pkgname>qemu-armeb-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-armeb-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-cris-static.(null)</id>
+    <pkgname>qemu-cris-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-cris-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-i386-static.(null)</id>
+    <pkgname>qemu-i386-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-i386-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-m68k-static.(null)</id>
+    <pkgname>qemu-m68k-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-m68k-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-microblaze-static.(null)</id>
+    <pkgname>qemu-microblaze-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-microblaze-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-microblazeel-static.(null)</id>
+    <pkgname>qemu-microblazeel-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-microblazeel-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-mips-static.(null)</id>
+    <pkgname>qemu-mips-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-mips-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-mips64-static.(null)</id>
+    <pkgname>qemu-mips64-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-mips64-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-mips64el-static.(null)</id>
+    <pkgname>qemu-mips64el-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-mips64el-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-mipsel-static.(null)</id>
+    <pkgname>qemu-mipsel-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-mipsel-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-mipsn32-static.(null)</id>
+    <pkgname>qemu-mipsn32-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-mipsn32-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-mipsn32el-static.(null)</id>
+    <pkgname>qemu-mipsn32el-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-mipsn32el-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-or32-static.(null)</id>
+    <pkgname>qemu-or32-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-or32-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-ppc-static.(null)</id>
+    <pkgname>qemu-ppc-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-ppc-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-ppc64-static.(null)</id>
+    <pkgname>qemu-ppc64-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-ppc64-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-ppc64abi32-static.(null)</id>
+    <pkgname>qemu-ppc64abi32-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-ppc64abi32-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-ppc64le-static.(null)</id>
+    <pkgname>qemu-ppc64le-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-ppc64le-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-s390x-static.(null)</id>
+    <pkgname>qemu-s390x-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-s390x-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-sh4-static.(null)</id>
+    <pkgname>qemu-sh4-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-sh4-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-sh4eb-static.(null)</id>
+    <pkgname>qemu-sh4eb-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-sh4eb-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-sparc-static.(null)</id>
+    <pkgname>qemu-sparc-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-sparc-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-sparc32plus-static.(null)</id>
+    <pkgname>qemu-sparc32plus-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-sparc32plus-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-sparc64-static.(null)</id>
+    <pkgname>qemu-sparc64-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-sparc64-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-tilegx-static.(null)</id>
+    <pkgname>qemu-tilegx-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-tilegx-static_2.8.0-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>qemu-user-static.(null)</id>
     <pkgname>qemu-user-static</pkgname>
     <metadata>
       <value key="X-CacheID">qemu-user-static_2.8.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qemu-x86-64-static.(null)</id>
+    <pkgname>qemu-x86-64-static</pkgname>
+    <metadata>
+      <value key="X-CacheID">qemu-x86-64-static_2.8.0-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -22124,7 +22320,7 @@
     <id>seabios.(null)</id>
     <pkgname>seabios</pkgname>
     <metadata>
-      <value key="X-CacheID">seabios_1.9.3-0_amd64.deb</value>
+      <value key="X-CacheID">seabios_1.10.1-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -24085,6 +24281,13 @@
     <pkgname>ttf-adf</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-adf_1.3.0-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ttf-ancient-fonts.(null)</id>
+    <pkgname>ttf-ancient-fonts</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
