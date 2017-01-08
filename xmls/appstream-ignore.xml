@@ -1555,6 +1555,13 @@
     </metadata>
   </component>
   <component>
+    <id>binutils+cross-armel.(null)</id>
+    <pkgname>binutils+cross-armel</pkgname>
+    <metadata>
+      <value key="X-CacheID">binutils+cross-armel_2.27-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>binutils+cross-armv7a-hardfloat-linux-gnueabi.(null)</id>
     <pkgname>binutils+cross-armv7a-hardfloat-linux-gnueabi</pkgname>
     <metadata>
@@ -1566,6 +1573,13 @@
     <pkgname>binutils+cross-mips64el-linux-gnuabin32</pkgname>
     <metadata>
       <value key="X-CacheID">binutils+cross-mips64el-linux-gnuabin32_2.25-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>binutils+cross-mips64el.(null)</id>
+    <pkgname>binutils+cross-mips64el</pkgname>
+    <metadata>
+      <value key="X-CacheID">binutils+cross-mips64el_2.27-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -5489,13 +5503,6 @@
     </metadata>
   </component>
   <component>
-    <id>fonts-cwtex.(null)</id>
-    <pkgname>fonts-cwtex</pkgname>
-    <metadata>
-      <value key="X-CacheID">fonts-cwtex_1.0-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>fonttools.(null)</id>
     <pkgname>fonttools</pkgname>
     <metadata>
@@ -5874,6 +5881,13 @@
     </metadata>
   </component>
   <component>
+    <id>gcc+cross-armel.(null)</id>
+    <pkgname>gcc+cross-armel</pkgname>
+    <metadata>
+      <value key="X-CacheID">gcc+cross-armel_6.2.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>gcc+cross-armv7a-hardfloat-linux-gnueabi.(null)</id>
     <pkgname>gcc+cross-armv7a-hardfloat-linux-gnueabi</pkgname>
     <metadata>
@@ -5885,6 +5899,13 @@
     <pkgname>gcc+cross-mips64el-linux-gnuabin32</pkgname>
     <metadata>
       <value key="X-CacheID">gcc+cross-mips64el-linux-gnuabin32_4.9.3-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>gcc+cross-mips64el.(null)</id>
+    <pkgname>gcc+cross-mips64el</pkgname>
+    <metadata>
+      <value key="X-CacheID">gcc+cross-mips64el_6.2.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
