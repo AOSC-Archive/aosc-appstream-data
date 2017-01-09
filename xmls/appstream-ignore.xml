@@ -547,6 +547,13 @@
     </metadata>
   </component>
   <component>
+    <id>aosc-os-arm-boot-flasher.(null)</id>
+    <pkgname>aosc-os-arm-boot-flasher</pkgname>
+    <metadata>
+      <value key="X-CacheID">aosc-os-arm-boot-flasher_0+git20170109-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>aosc-versionhelper2.(null)</id>
     <pkgname>aosc-versionhelper2</pkgname>
     <metadata>
@@ -5325,6 +5332,13 @@
     <pkgname>flashplayer-ppapi</pkgname>
     <metadata>
       <value key="X-CacheID">flashplayer-ppapi_23.0.0.185-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>flashrom.(null)</id>
+    <pkgname>flashrom</pkgname>
+    <metadata>
+      <value key="X-CacheID">flashrom_0.9.9-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
