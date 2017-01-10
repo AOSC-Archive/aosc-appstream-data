@@ -3045,6 +3045,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-ced90b65d7dc092a2279fa80a5dbd987.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
