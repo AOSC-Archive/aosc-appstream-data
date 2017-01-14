@@ -550,7 +550,7 @@
     <id>aosc-os-arm-boot-flasher.(null)</id>
     <pkgname>aosc-os-arm-boot-flasher</pkgname>
     <metadata>
-      <value key="X-CacheID">aosc-os-arm-boot-flasher_0+git20170109-0_noarch.deb</value>
+      <value key="X-CacheID">aosc-os-arm-boot-flasher_0+git20170110-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -24351,6 +24351,13 @@
     <pkgname>ttf-hanazono</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-hanazono_20160201-1_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ttf-sazanami.(null)</id>
+    <pkgname>ttf-sazanami</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-sazanami_20040629-4_noarch.deb</value>
     </metadata>
   </component>
   <component>

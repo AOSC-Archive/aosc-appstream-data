@@ -114,7 +114,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-62188a0f5bfff4e4a145e117351225cf.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -329,7 +329,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-62188a0f5bfff4e4a145e117351225cf.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -544,7 +544,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-62188a0f5bfff4e4a145e117351225cf.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -3034,6 +3034,121 @@
     </metadata>
   </component>
   <component type="font">
+    <id>ttf-sazanami</id>
+    <pkgname>ttf-sazanami</pkgname>
+    <name>Sazanami Fonts</name>
+    <summary>Sazanami Japanese TrueType font family</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Sazanami Gothic – Gothic-Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-sazanami-07e383cdc5f080499a38e9eba7dba8a3.png</image>
+      </screenshot>
+    </screenshots>
+    <languages>
+      <lang>aa</lang>
+      <lang>an</lang>
+      <lang>ay</lang>
+      <lang>bg</lang>
+      <lang>bi</lang>
+      <lang>br</lang>
+      <lang>ch</lang>
+      <lang>cs</lang>
+      <lang>csb</lang>
+      <lang>da</lang>
+      <lang>de</lang>
+      <lang>en</lang>
+      <lang>eo</lang>
+      <lang>es</lang>
+      <lang>et</lang>
+      <lang>eu</lang>
+      <lang>fi</lang>
+      <lang>fil</lang>
+      <lang>fj</lang>
+      <lang>fo</lang>
+      <lang>fur</lang>
+      <lang>fy</lang>
+      <lang>gd</lang>
+      <lang>gl</lang>
+      <lang>gv</lang>
+      <lang>ho</lang>
+      <lang>hsb</lang>
+      <lang>ht</lang>
+      <lang>hu</lang>
+      <lang>ia</lang>
+      <lang>id</lang>
+      <lang>ie</lang>
+      <lang>io</lang>
+      <lang>is</lang>
+      <lang>it</lang>
+      <lang>ja</lang>
+      <lang>jv</lang>
+      <lang>kj</lang>
+      <lang>ku-tr</lang>
+      <lang>kum</lang>
+      <lang>kwm</lang>
+      <lang>lb</lang>
+      <lang>li</lang>
+      <lang>mg</lang>
+      <lang>ms</lang>
+      <lang>nb</lang>
+      <lang>nds</lang>
+      <lang>ng</lang>
+      <lang>nl</lang>
+      <lang>nn</lang>
+      <lang>no</lang>
+      <lang>nr</lang>
+      <lang>nso</lang>
+      <lang>oc</lang>
+      <lang>om</lang>
+      <lang>os</lang>
+      <lang>pap-an</lang>
+      <lang>pap-aw</lang>
+      <lang>pl</lang>
+      <lang>pt</lang>
+      <lang>rm</lang>
+      <lang>rn</lang>
+      <lang>ru</lang>
+      <lang>rw</lang>
+      <lang>sc</lang>
+      <lang>sel</lang>
+      <lang>sg</lang>
+      <lang>sk</lang>
+      <lang>sma</lang>
+      <lang>smj</lang>
+      <lang>sn</lang>
+      <lang>so</lang>
+      <lang>sq</lang>
+      <lang>ss</lang>
+      <lang>st</lang>
+      <lang>su</lang>
+      <lang>sv</lang>
+      <lang>sw</lang>
+      <lang>tk</lang>
+      <lang>tl</lang>
+      <lang>tn</lang>
+      <lang>ts</lang>
+      <lang>uz</lang>
+      <lang>vo</lang>
+      <lang>vot</lang>
+      <lang>wa</lang>
+      <lang>wen</lang>
+      <lang>xh</lang>
+      <lang>yap</lang>
+      <lang>za</lang>
+      <lang>zu</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">ttf-sazanami_20040629-4_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
     <id>ttf-ubraille</id>
     <pkgname>ttf-ubraille</pkgname>
     <name>UBraille</name>
@@ -3045,6 +3160,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-1353861e38c440a4b6c4222f3e6e34d5.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
