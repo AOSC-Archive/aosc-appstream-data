@@ -2207,7 +2207,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution_3.22.3-0_amd64.deb</value>
+      <value key="X-CacheID">evolution_3.22.4-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -2322,7 +2322,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution_3.22.3-0_amd64.deb</value>
+      <value key="X-CacheID">evolution_3.22.4-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -2483,7 +2483,7 @@
       <lang percentage="99">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">evolution_3.22.3-0_amd64.deb</value>
+      <value key="X-CacheID">evolution_3.22.4-0_amd64.deb</value>
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
@@ -2807,7 +2807,7 @@
       <lang percentage="33">yi</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">accerciser_3.22.0-0_noarch.deb</value>
+      <value key="X-CacheID">accerciser_3.22.0-1_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -2826,7 +2826,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-0faf7b5e84da9e63c5aa597a4519d98e.png</image>
+        <image type="source" height="48" width="640">file:/roboto-76b4357e4cf79227b7904493ec6323ef.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -3045,6 +3045,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-1353861e38c440a4b6c4222f3e6e34d5.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
