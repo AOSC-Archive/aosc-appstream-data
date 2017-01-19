@@ -2451,6 +2451,13 @@
     </metadata>
   </component>
   <component>
+    <id>chipsec.(null)</id>
+    <pkgname>chipsec</pkgname>
+    <metadata>
+      <value key="X-CacheID">chipsec_1.2.5-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>chmlib.(null)</id>
     <pkgname>chmlib</pkgname>
     <metadata>
@@ -5556,6 +5563,13 @@
     <pkgname>fop</pkgname>
     <metadata>
       <value key="X-CacheID">fop.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>fortune-mod.(null)</id>
+    <pkgname>fortune-mod</pkgname>
+    <metadata>
+      <value key="X-CacheID">fortune-mod_1.99.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -22111,6 +22125,13 @@
     <pkgname>sbcl</pkgname>
     <metadata>
       <value key="X-CacheID">sbcl_1.3.12-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>sbsigntool.(null)</id>
+    <pkgname>sbsigntool</pkgname>
+    <metadata>
+      <value key="X-CacheID">sbsigntool_0.6-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
