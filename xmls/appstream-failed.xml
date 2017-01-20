@@ -2826,7 +2826,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-76b4357e4cf79227b7904493ec6323ef.png</image>
+        <image type="source" height="48" width="640">file:/roboto-0581c56ef137606f8b8befafe121a7f9.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -3045,6 +3045,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-7cedba19b64821ee3f3231a84dce973c.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
