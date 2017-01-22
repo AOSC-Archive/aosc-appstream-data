@@ -114,11 +114,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-546b911ac64553e9f6b15063d3d8800e.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -333,11 +329,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-546b911ac64553e9f6b15063d3d8800e.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -552,11 +544,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-546b911ac64553e9f6b15063d3d8800e.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -2824,28 +2812,40 @@
   </component>
   <component type="font">
     <id>roboto</id>
-    <pkgname>roboto-slab-fonts</pkgname>
-    <name>Roboto Slab</name>
-    <summary>The Roboto Slab family of fonts</summary>
+    <pkgname>roboto-fonts</pkgname>
+    <name>Roboto</name>
+    <summary>The Roboto family of fonts</summary>
+    <icon type="cached" height="64" width="64">64x64/roboto.png</icon>
     <categories>
       <category>Addons</category>
       <category>Fonts</category>
     </categories>
     <vetos>
-      <veto>Has no Icon</veto>
+      <veto>duplicate of roboto-slab-fonts-20150306-0</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Roboto Black – Regular</caption>
+        <image type="source" height="48" width="640">file:/roboto-6f11caded8b05a749bc439fda2b4c3e1.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>aa</lang>
       <lang>ab</lang>
       <lang>af</lang>
+      <lang>ak</lang>
       <lang>an</lang>
+      <lang>ast</lang>
       <lang>av</lang>
       <lang>ay</lang>
+      <lang>az-az</lang>
       <lang>ba</lang>
       <lang>be</lang>
+      <lang>ber-dz</lang>
       <lang>bg</lang>
       <lang>bi</lang>
       <lang>bin</lang>
+      <lang>bm</lang>
       <lang>br</lang>
       <lang>bs</lang>
       <lang>bua</lang>
@@ -2862,12 +2862,15 @@
       <lang>cy</lang>
       <lang>da</lang>
       <lang>de</lang>
+      <lang>ee</lang>
       <lang>el</lang>
       <lang>en</lang>
       <lang>eo</lang>
       <lang>es</lang>
       <lang>et</lang>
       <lang>eu</lang>
+      <lang>fat</lang>
+      <lang>ff</lang>
       <lang>fi</lang>
       <lang>fil</lang>
       <lang>fj</lang>
@@ -2875,15 +2878,19 @@
       <lang>fr</lang>
       <lang>fur</lang>
       <lang>fy</lang>
+      <lang>ga</lang>
       <lang>gd</lang>
       <lang>gl</lang>
       <lang>gn</lang>
       <lang>gv</lang>
+      <lang>ha</lang>
+      <lang>haw</lang>
       <lang>ho</lang>
       <lang>hr</lang>
       <lang>hsb</lang>
       <lang>ht</lang>
       <lang>hu</lang>
+      <lang>hz</lang>
       <lang>ia</lang>
       <lang>id</lang>
       <lang>ie</lang>
@@ -2894,13 +2901,17 @@
       <lang>it</lang>
       <lang>jv</lang>
       <lang>kaa</lang>
+      <lang>kab</lang>
       <lang>ki</lang>
       <lang>kj</lang>
       <lang>kk</lang>
       <lang>kl</lang>
+      <lang>kr</lang>
+      <lang>ku-am</lang>
       <lang>ku-tr</lang>
       <lang>kum</lang>
       <lang>kv</lang>
+      <lang>kw</lang>
       <lang>kwm</lang>
       <lang>ky</lang>
       <lang>la</lang>
@@ -2908,10 +2919,12 @@
       <lang>lez</lang>
       <lang>lg</lang>
       <lang>li</lang>
+      <lang>ln</lang>
       <lang>lt</lang>
       <lang>lv</lang>
       <lang>mg</lang>
       <lang>mh</lang>
+      <lang>mi</lang>
       <lang>mk</lang>
       <lang>mn-mn</lang>
       <lang>mo</lang>
@@ -2926,6 +2939,7 @@
       <lang>no</lang>
       <lang>nr</lang>
       <lang>nso</lang>
+      <lang>nv</lang>
       <lang>ny</lang>
       <lang>oc</lang>
       <lang>om</lang>
@@ -2934,6 +2948,8 @@
       <lang>pap-aw</lang>
       <lang>pl</lang>
       <lang>pt</lang>
+      <lang>qu</lang>
+      <lang>quz</lang>
       <lang>rm</lang>
       <lang>rn</lang>
       <lang>ro</lang>
@@ -2941,15 +2957,19 @@
       <lang>rw</lang>
       <lang>sah</lang>
       <lang>sc</lang>
+      <lang>sco</lang>
       <lang>se</lang>
       <lang>sel</lang>
       <lang>sg</lang>
       <lang>sh</lang>
+      <lang>shs</lang>
       <lang>sk</lang>
       <lang>sl</lang>
+      <lang>sm</lang>
       <lang>sma</lang>
       <lang>smj</lang>
       <lang>smn</lang>
+      <lang>sms</lang>
       <lang>sn</lang>
       <lang>so</lang>
       <lang>sq</lang>
@@ -2963,13 +2983,17 @@
       <lang>tk</lang>
       <lang>tl</lang>
       <lang>tn</lang>
+      <lang>to</lang>
       <lang>tr</lang>
       <lang>ts</lang>
       <lang>tt</lang>
+      <lang>tw</lang>
       <lang>ty</lang>
       <lang>tyv</lang>
       <lang>uk</lang>
       <lang>uz</lang>
+      <lang>ve</lang>
+      <lang>vi</lang>
       <lang>vo</lang>
       <lang>vot</lang>
       <lang>wa</lang>
@@ -2977,11 +3001,12 @@
       <lang>wo</lang>
       <lang>xh</lang>
       <lang>yap</lang>
+      <lang>yo</lang>
       <lang>za</lang>
       <lang>zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">roboto-slab-fonts_20150306-0_noarch.deb</value>
+      <value key="X-CacheID">roboto-fonts_2.136-0_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
