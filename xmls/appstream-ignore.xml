@@ -5531,6 +5531,13 @@
     </metadata>
   </component>
   <component>
+    <id>fonts-cwtex.(null)</id>
+    <pkgname>fonts-cwtex</pkgname>
+    <metadata>
+      <value key="X-CacheID">fonts-cwtex_1.0-3_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>fonttools.(null)</id>
     <pkgname>fonttools</pkgname>
     <metadata>
@@ -15615,6 +15622,13 @@
     <pkgname>man-pages</pkgname>
     <metadata>
       <value key="X-CacheID">man-pages_4.06-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>mapcrafter.(null)</id>
+    <pkgname>mapcrafter</pkgname>
+    <metadata>
+      <value key="X-CacheID">mapcrafter_2.3.1.20161202-0_amd64.deb</value>
     </metadata>
   </component>
   <component>

@@ -2487,6 +2487,133 @@
       <value key="X-Merge-With-Parent">evolution.desktop</value>
     </metadata>
   </component>
+  <component type="font">
+    <id>fonts-cwtex</id>
+    <pkgname>fonts-cwtex</pkgname>
+    <name>cwTeX TrueType Fonts</name>
+    <summary>TrueType Fonts from cwTeX</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <screenshots>
+      <screenshot type="default" priority="-64">
+        <caption>cwTeXFangSong – Medium</caption>
+        <image type="source" height="48" width="640">file:/fonts-cwtex-9e5f78a690118f51ac1a3bb60c6ebc99.png</image>
+      </screenshot>
+    </screenshots>
+    <languages>
+      <lang>aa</lang>
+      <lang>af</lang>
+      <lang>an</lang>
+      <lang>av</lang>
+      <lang>ay</lang>
+      <lang>ba</lang>
+      <lang>be</lang>
+      <lang>bg</lang>
+      <lang>bi</lang>
+      <lang>br</lang>
+      <lang>bua</lang>
+      <lang>ca</lang>
+      <lang>ce</lang>
+      <lang>ch</lang>
+      <lang>co</lang>
+      <lang>da</lang>
+      <lang>de</lang>
+      <lang>el</lang>
+      <lang>en</lang>
+      <lang>es</lang>
+      <lang>et</lang>
+      <lang>eu</lang>
+      <lang>fi</lang>
+      <lang>fil</lang>
+      <lang>fj</lang>
+      <lang>fo</lang>
+      <lang>fr</lang>
+      <lang>fur</lang>
+      <lang>fy</lang>
+      <lang>gd</lang>
+      <lang>gl</lang>
+      <lang>gv</lang>
+      <lang>ho</lang>
+      <lang>ht</lang>
+      <lang>ia</lang>
+      <lang>id</lang>
+      <lang>ie</lang>
+      <lang>ik</lang>
+      <lang>io</lang>
+      <lang>is</lang>
+      <lang>it</lang>
+      <lang>jv</lang>
+      <lang>kaa</lang>
+      <lang>kj</lang>
+      <lang>kk</lang>
+      <lang>ko</lang>
+      <lang>kum</lang>
+      <lang>kwm</lang>
+      <lang>ky</lang>
+      <lang>lb</lang>
+      <lang>lez</lang>
+      <lang>lg</lang>
+      <lang>li</lang>
+      <lang>mg</lang>
+      <lang>mn-mn</lang>
+      <lang>ms</lang>
+      <lang>nb</lang>
+      <lang>nds</lang>
+      <lang>ng</lang>
+      <lang>nl</lang>
+      <lang>nn</lang>
+      <lang>no</lang>
+      <lang>nr</lang>
+      <lang>nso</lang>
+      <lang>oc</lang>
+      <lang>om</lang>
+      <lang>os</lang>
+      <lang>pap-an</lang>
+      <lang>pap-aw</lang>
+      <lang>pt</lang>
+      <lang>rm</lang>
+      <lang>rn</lang>
+      <lang>ru</lang>
+      <lang>rw</lang>
+      <lang>sc</lang>
+      <lang>sel</lang>
+      <lang>sg</lang>
+      <lang>sma</lang>
+      <lang>smj</lang>
+      <lang>sn</lang>
+      <lang>so</lang>
+      <lang>sq</lang>
+      <lang>sr</lang>
+      <lang>ss</lang>
+      <lang>st</lang>
+      <lang>su</lang>
+      <lang>sv</lang>
+      <lang>sw</lang>
+      <lang>tl</lang>
+      <lang>tn</lang>
+      <lang>ts</lang>
+      <lang>tt</lang>
+      <lang>tyv</lang>
+      <lang>uz</lang>
+      <lang>vo</lang>
+      <lang>vot</lang>
+      <lang>wa</lang>
+      <lang>wo</lang>
+      <lang>xh</lang>
+      <lang>yap</lang>
+      <lang>za</lang>
+      <lang>zh-tw</lang>
+      <lang>zu</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">fonts-cwtex_1.0-3_noarch.deb</value>
+    </metadata>
+  </component>
   <component type="addon">
     <id>org.gnome.Terminal.Nautilus</id>
     <pkgname>gnome-terminal</pkgname>
@@ -2826,7 +2953,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-6f11caded8b05a749bc439fda2b4c3e1.png</image>
+        <image type="source" height="48" width="640">file:/roboto-76b4357e4cf79227b7904493ec6323ef.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -3045,6 +3172,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-1353861e38c440a4b6c4222f3e6e34d5.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
