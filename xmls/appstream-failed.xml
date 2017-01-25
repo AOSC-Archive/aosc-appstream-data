@@ -114,7 +114,11 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-62188a0f5bfff4e4a145e117351225cf.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -329,7 +333,11 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-62188a0f5bfff4e4a145e117351225cf.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -544,7 +552,11 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-62188a0f5bfff4e4a145e117351225cf.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -2826,7 +2838,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-76b4357e4cf79227b7904493ec6323ef.png</image>
+        <image type="source" height="48" width="640">file:/roboto-f24e6f049dcaec498c127c0e11f91fd8.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -3045,12 +3057,6 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <screenshots>
-      <screenshot type="default">
-        <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-1353861e38c440a4b6c4222f3e6e34d5.png</image>
-      </screenshot>
-    </screenshots>
     <languages>
       <lang>en</lang>
     </languages>
