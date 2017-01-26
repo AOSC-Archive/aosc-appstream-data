@@ -1184,6 +1184,13 @@
     </metadata>
   </component>
   <component>
+    <id>avidemux.(null)</id>
+    <pkgname>avidemux</pkgname>
+    <metadata>
+      <value key="X-CacheID">avidemux_2.6.18-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>avogadrolibs.(null)</id>
     <pkgname>avogadrolibs</pkgname>
     <metadata>
