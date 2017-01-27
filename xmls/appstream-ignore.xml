@@ -1569,6 +1569,13 @@
     </metadata>
   </component>
   <component>
+    <id>binutils+cross-arm64.(null)</id>
+    <pkgname>binutils+cross-arm64</pkgname>
+    <metadata>
+      <value key="X-CacheID">binutils+cross-arm64_2.27-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>binutils+cross-armel.(null)</id>
     <pkgname>binutils+cross-armel</pkgname>
     <metadata>
@@ -4768,6 +4775,13 @@
     </metadata>
   </component>
   <component>
+    <id>epub2txt.(null)</id>
+    <pkgname>epub2txt</pkgname>
+    <metadata>
+      <value key="X-CacheID">epub2txt_0.1.3.20161215-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>erlang-cl.(null)</id>
     <pkgname>erlang-cl</pkgname>
     <metadata>
@@ -5920,6 +5934,13 @@
     <pkgname>gcc+32</pkgname>
     <metadata>
       <value key="X-CacheID">gcc+32_6.1.0-1_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>gcc+cross-arm64.(null)</id>
+    <pkgname>gcc+cross-arm64</pkgname>
+    <metadata>
+      <value key="X-CacheID">gcc+cross-arm64_6.2.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -14838,6 +14859,13 @@
     <pkgname>linux-kernel-4.9.5</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-4.9.5_4.9.5-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-4.9.6.(null)</id>
+    <pkgname>linux-kernel-4.9.6</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.9.6_4.9.6-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
