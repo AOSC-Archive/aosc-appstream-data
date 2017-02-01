@@ -1569,6 +1569,13 @@
     </metadata>
   </component>
   <component>
+    <id>binutils+cross-bm-rv32i.(null)</id>
+    <pkgname>binutils+cross-bm-rv32i</pkgname>
+    <metadata>
+      <value key="X-CacheID">binutils+cross-bm-rv32i_2.27+git20170123-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>binutils+cross-mips64el-linux-gnuabin32.(null)</id>
     <pkgname>binutils+cross-mips64el-linux-gnuabin32</pkgname>
     <metadata>
@@ -5878,6 +5885,13 @@
     <pkgname>gcc+cross-armv7a-hardfloat-linux-gnueabi</pkgname>
     <metadata>
       <value key="X-CacheID">gcc+cross-armv7a-hardfloat-linux-gnueabi_4.9.3-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>gcc+cross-bm-rv32i.(null)</id>
+    <pkgname>gcc+cross-bm-rv32i</pkgname>
+    <metadata>
+      <value key="X-CacheID">gcc+cross-bm-rv32i_6.1.0+git20170125-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -16696,6 +16710,13 @@
     </metadata>
   </component>
   <component>
+    <id>newlib+cross-bm-rv32i.(null)</id>
+    <pkgname>newlib+cross-bm-rv32i</pkgname>
+    <metadata>
+      <value key="X-CacheID">newlib+cross-bm-rv32i_2.24+git20161230-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>newt-syrup.(null)</id>
     <pkgname>newt-syrup</pkgname>
     <metadata>
@@ -23924,6 +23945,13 @@
     <pkgname>ttf-adf</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-adf_1.3.0-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ttf-ancient-fonts.(null)</id>
+    <pkgname>ttf-ancient-fonts</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
