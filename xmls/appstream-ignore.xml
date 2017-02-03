@@ -764,6 +764,13 @@
     </metadata>
   </component>
   <component>
+    <id>ariamaestosa.(null)</id>
+    <pkgname>ariamaestosa</pkgname>
+    <metadata>
+      <value key="X-CacheID">ariamaestosa_1.4.13-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>ario.(null)</id>
     <pkgname>ario</pkgname>
     <metadata>
@@ -8811,13 +8818,6 @@
     <pkgname>js</pkgname>
     <metadata>
       <value key="X-CacheID">js_1.8.5-3_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>jsmath-fonts.(null)</id>
-    <pkgname>jsmath-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">jsmath-fonts_20161221-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -23945,6 +23945,13 @@
     <pkgname>ttf-adf</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-adf_1.3.0-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ttf-ancient-fonts.(null)</id>
+    <pkgname>ttf-ancient-fonts</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
