@@ -8821,6 +8821,13 @@
     </metadata>
   </component>
   <component>
+    <id>jsmath-fonts.(null)</id>
+    <pkgname>jsmath-fonts</pkgname>
+    <metadata>
+      <value key="X-CacheID">jsmath-fonts_20161221-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>json-c+32.(null)</id>
     <pkgname>json-c+32</pkgname>
     <metadata>
@@ -23945,13 +23952,6 @@
     <pkgname>ttf-adf</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-adf_1.3.0-0_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-ancient-fonts.(null)</id>
-    <pkgname>ttf-ancient-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
