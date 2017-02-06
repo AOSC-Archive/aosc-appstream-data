@@ -109,7 +109,7 @@
       <lang percentage="38">dz</lang>
       <lang percentage="65">en@boldquot</lang>
       <lang percentage="65">en@quot</lang>
-      <lang percentage="40">en@shaw</lang>
+      <lang percentage="41">en@shaw</lang>
       <lang percentage="41">en_CA</lang>
       <lang percentage="40">eu</lang>
       <lang percentage="40">gd</lang>
@@ -168,10 +168,6 @@
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-d6d9b49af614da836986f7162c60b5c3.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -414,10 +410,6 @@
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d6d9b49af614da836986f7162c60b5c3.png</image>
-      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -658,10 +650,6 @@
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-d6d9b49af614da836986f7162c60b5c3.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -1094,23 +1082,33 @@
     <pkgname>appstream</pkgname>
     <translation type="gettext">appstream</translation>
     <name>AppStream CLI</name>
+    <name xml:lang="cs">Textové uživatelské rozhraní pro AppStream</name>
+    <name xml:lang="fi">AppStream-komentorivityökalu</name>
+    <name xml:lang="fr">Interface en ligne de commande AppStream</name>
     <name xml:lang="id">CLI AppStream</name>
     <name xml:lang="it">CLI AppStream</name>
     <name xml:lang="lt">AppStream komandų eilutė</name>
+    <name xml:lang="nl">AppStream-CLI</name>
     <name xml:lang="pl">Interfejs AppStream dla wiersza poleceń</name>
     <name xml:lang="pt_BR">CLI do AppStream</name>
+    <name xml:lang="ru">AppStream CLI-программа</name>
     <name xml:lang="uk">Командний рядок AppStream</name>
     <name xml:lang="zh_CN">AppStream 命令行界面</name>
     <name xml:lang="zh_TW">AppStream 命令列介面</name>
     <summary>An utility to work with AppStream metadata</summary>
+    <summary xml:lang="cs">Nástroj pro práci s AppStream metadaty</summary>
+    <summary xml:lang="de">Ein Werkzeug für AppStream Metadaten</summary>
+    <summary xml:lang="fr">Un utilitaire travaillant sur les métadonnées AppStream</summary>
     <summary xml:lang="it">Uno strumento per lavorare con metadati AppStream</summary>
     <summary xml:lang="lt">Paslaugų programa, skirta darbui su AppStream metaduomenimis</summary>
+    <summary xml:lang="nl">Een hulpmiddel om te werken met AppStream-metagegevens</summary>
     <summary xml:lang="pl">Narzędzie do działania z metadanymi AppStream</summary>
     <summary xml:lang="pt_BR">Um utilitário para trabalhar com os metadatas do AppStream</summary>
+    <summary xml:lang="ru">Утилита для работы с метаданными AppStream</summary>
     <summary xml:lang="uk">Інструмент для обробки метаданих AppStream</summary>
     <summary xml:lang="zh_CN">用于操作 AppStream 元数据的实用工具</summary>
-    <summary xml:lang="zh_TW">用於操作 AppStream 詮釋資料的實用工具</summary>
-    <description><p>AppStream is a cross-distribution specification to provide metadata about software components.</p><p xml:lang="it">AppStream è una specifica multi-distribuzione che fornisce metadati riguardo ai componenti software.</p><p xml:lang="pl">AppStream to specyfikacja używana przez wiele dystrybucji do dostarczania metadanych o składnikach oprogramowania.</p><p xml:lang="uk">AppStream — багатоплатформова специфікація надання метаданих щодо компонентів програмного забезпечення.</p><p xml:lang="zh_CN">AppStream 为一个跨散布版的规范，旨在提供软件组件的元数据。</p><p xml:lang="zh_TW">AppStream 為一個跨散佈版的規範，旨在提供軟體組件的中介資料。</p><p>This tool allows reading, writing, validating and transforming AppStream XML or YAML metadata. It also allows accessing the system metadata pool to for example query for software providing a specific mimetype and installing it by its software component identifier.</p><p xml:lang="it">Questo strumento consente di leggere, scrivere, validare e trasformare metadati AppStream XML o YAML. Consente inoltre di accedere all'insieme dei metadati del sistema per, per esempio, eseguire ricerche su un software che fornisce uno specifico tipo di MIME e installarlo attraverso il suo identificativo.</p><p xml:lang="pl">To narzędzie umożliwia odczytywanie, zapisywanie, sprawdzanie poprawności i przekształcanie metadanych AppStream w językach XML i YAML. Umożliwia także dostęp do puli metadanych systemu, aby na przykład wyszukać oprogramowanie dostarczające podany typ MIME i zainstalować je za pomocą jego identyfikatora składnika oprogramowania.</p><p xml:lang="uk">За допомогою цієї програми ви зможете читати, записувати, перевіряти та перетворювати метадані AppStream у форматах XML і YAML. Також за її допомогою можна отримувати доступ до буфера загальносистемних метаданих, наприклад, для того, щоб визначити програмне забезпечення для обробки даних певного типу MIME та його встановлення за ідентифікатором компонента програмного забезпечення.</p><p xml:lang="zh_CN">本工具可用于读写、验证与变换 AppStream XML 或 YAML 元数据；此外还可访问系统元数据库，进行诸如搜索提供某种 mime 类型的软件，并按照其软件组件辨识码安装。</p><p xml:lang="zh_TW">本工具可用於讀寫、驗證與變換 AppStream XML 或 YAML 中介資料；此外還可存取系統中介資料庫，進行諸如搜尋提供某種 mime 類型的軟體，並按照其軟體組件辨識碼安裝。</p></description>
+    <summary xml:lang="zh_TW">處理 AppStream 中介資料的公用程式</summary>
+    <description><p>AppStream is a cross-distribution specification to provide metadata about software components.</p><p xml:lang="cs">AppStream je standard pro poskytování metadat o programovém vybavení, používaný napříč linuxovými distribucemi.</p><p xml:lang="de">AppStream ist eine distributionsunabhängige Spezifikation um Metadaten zu Softwarekomponenten bereitzustellen.</p><p xml:lang="fr">Appstream est une spécification multi-distribution qui fournit des métadonnées concernant les composants logiciels.</p><p xml:lang="it">AppStream è una specifica multi-distribuzione che fornisce metadati riguardo ai componenti software.</p><p xml:lang="nl">AppStream is een distributie-onafhankelijke specificatie die metagegevens beschikbaar stelt over software-onderdelen.</p><p xml:lang="pl">AppStream to specyfikacja używana przez wiele dystrybucji do dostarczania metadanych o składnikach oprogramowania.</p><p xml:lang="pt_BR">AppStream é uma especificação independente de distribuição para provimento de metadados sobre componentes de software.</p><p xml:lang="ru">AppStream — это кросс-платформенная спецификация предоставления метаданных о программных компонентах.</p><p xml:lang="uk">AppStream — багатоплатформова специфікація надання метаданих щодо компонентів програмного забезпечення.</p><p xml:lang="zh_CN">AppStream 为一个跨散布版的规范，旨在提供软件组件的元数据。</p><p xml:lang="zh_TW">AppStream 為一個跨散佈版的規範，旨在提供軟體組件的中介資料。</p><p>This tool allows reading, writing, validating and transforming AppStream XML or YAML metadata. It also allows accessing the system metadata pool to for example query for software providing a specific mimetype and installing it by its software component identifier.</p><p xml:lang="cs">Tento nástroj umožňuje čtení, zápis, ověřování a přeměnu AppStream XML nebo YAML metadat. Také zpřístupňuje systémový fond metadat pro například dotazování se na software, poskytující konkrétní MIME typ a jeho instalaci na základě identifikátoru softwarové součásti.</p><p xml:lang="fr">Cet outil permet la lecture, l'écriture, la validation et la transformation des métadonnées XML ou YAML d'AppStream. Il permet également d'accéder à l'ensemble de métadonnées système pour, par exemple, chercher un logiciel supportant un type mime spécifique et l'installer en utilisant son identifiant de composant logiciel.</p><p xml:lang="it">Questo strumento consente di leggere, scrivere, validare e trasformare metadati AppStream XML o YAML. Consente inoltre di accedere all'insieme dei metadati del sistema per, per esempio, eseguire ricerche su un software che fornisce uno specifico tipo di MIME e installarlo attraverso il suo identificativo.</p><p xml:lang="nl">Dit hulpprogramma stelt u in staat AppStream XML of YAML-metagegevens te lezen, schrijven, valideren en wijzigen. Het stelt u tevens in staat om toegang te krijgen tot de systeem-metagegevenspool. U kunt daar bijv. zoeken naar software die een bepaald mimetype aanbiedt en deze installeren middels de ID.</p><p xml:lang="pl">To narzędzie umożliwia odczytywanie, zapisywanie, sprawdzanie poprawności i przekształcanie metadanych AppStream w językach XML i YAML. Umożliwia także dostęp do puli metadanych systemu, aby na przykład wyszukać oprogramowanie dostarczające podany typ MIME i zainstalować je za pomocą jego identyfikatora składnika oprogramowania.</p><p xml:lang="ru">Эта утилита позволяет читать, записывать, проверять и преобразовывать метаданные AppStream в формате XML или YAML. Она также позволяет доступ к системному пулу метаданных, например, для запроса ПО, работающего с определённым типом файлов, и его установки по идентификатору программного компонента.</p><p xml:lang="uk">За допомогою цієї програми ви зможете читати, записувати, перевіряти та перетворювати метадані AppStream у форматах XML і YAML. Також за її допомогою можна отримувати доступ до буфера загальносистемних метаданих, наприклад, для того, щоб визначити програмне забезпечення для обробки даних певного типу MIME та його встановлення за ідентифікатором компонента програмного забезпечення.</p><p xml:lang="zh_CN">本工具可用于读写、验证与变换 AppStream XML 或 YAML 元数据；此外还可访问系统元数据库，进行诸如搜索提供某种 mime 类型的软件，并按照其软件组件辨识码安装。</p><p xml:lang="zh_TW">本工具可用於讀寫、驗證與變換 AppStream XML 或 YAML 中介資料；此外還可存取系統中介資料庫，進行諸如搜尋提供某種 mime 類型的軟體，並按照其軟體組件辨識碼安裝。</p></description>
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
@@ -1133,22 +1131,38 @@
       <dbus type="system">org.freedesktop.timedate1</dbus>
     </provides>
     <languages>
-      <lang percentage="39">bg</lang>
-      <lang percentage="28">en@boldquot</lang>
-      <lang percentage="28">en@quot</lang>
-      <lang percentage="33">eo</lang>
-      <lang percentage="46">et</lang>
-      <lang percentage="27">he</lang>
-      <lang percentage="38">hr</lang>
-      <lang percentage="28">lg</lang>
-      <lang percentage="27">lv</lang>
-      <lang percentage="46">nb</lang>
-      <lang percentage="100">nl</lang>
-      <lang percentage="27">th</lang>
-      <lang percentage="89">vi</lang>
+      <lang percentage="25">an</lang>
+      <lang percentage="26">as</lang>
+      <lang percentage="25">be</lang>
+      <lang percentage="26">bg</lang>
+      <lang percentage="26">bn_IN</lang>
+      <lang percentage="26">bs</lang>
+      <lang percentage="26">ca@valencia</lang>
+      <lang percentage="26">el</lang>
+      <lang percentage="31">en@boldquot</lang>
+      <lang percentage="31">en@quot</lang>
+      <lang percentage="37">eo</lang>
+      <lang percentage="51">et</lang>
+      <lang percentage="26">gu</lang>
+      <lang percentage="31">he</lang>
+      <lang percentage="26">hi</lang>
+      <lang percentage="42">hr</lang>
+      <lang percentage="26">kn</lang>
+      <lang percentage="32">lg</lang>
+      <lang percentage="31">lv</lang>
+      <lang percentage="26">mr</lang>
+      <lang percentage="51">nb</lang>
+      <lang percentage="26">or</lang>
+      <lang percentage="26">pa</lang>
+      <lang percentage="26">ta</lang>
+      <lang percentage="26">te</lang>
+      <lang percentage="31">th</lang>
+      <lang percentage="25">ug</lang>
+      <lang percentage="100">vi</lang>
+      <lang percentage="26">zh_HK</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">appstream_0.10.4-0_amd64.deb</value>
+      <value key="X-CacheID">appstream_0.10.6-1_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -1489,7 +1503,7 @@
       <lang percentage="37">eo</lang>
       <lang percentage="61">es</lang>
       <lang percentage="61">et</lang>
-      <lang percentage="57">eu</lang>
+      <lang percentage="58">eu</lang>
       <lang percentage="30">fa</lang>
       <lang percentage="61">fi</lang>
       <lang percentage="61">fr</lang>
@@ -1710,7 +1724,7 @@
       <lang percentage="37">eo</lang>
       <lang percentage="61">es</lang>
       <lang percentage="61">et</lang>
-      <lang percentage="57">eu</lang>
+      <lang percentage="58">eu</lang>
       <lang percentage="30">fa</lang>
       <lang percentage="61">fi</lang>
       <lang percentage="61">fr</lang>
@@ -2087,7 +2101,7 @@
       <lang percentage="34">fa</lang>
       <lang percentage="33">fi</lang>
       <lang percentage="33">fr</lang>
-      <lang percentage="34">gd</lang>
+      <lang percentage="35">gd</lang>
       <lang percentage="33">gl</lang>
       <lang percentage="28">gu</lang>
       <lang percentage="28">he</lang>
@@ -2096,7 +2110,7 @@
       <lang percentage="31">hu</lang>
       <lang percentage="42">hy</lang>
       <lang percentage="31">ia</lang>
-      <lang percentage="34">id</lang>
+      <lang percentage="35">id</lang>
       <lang percentage="25">is</lang>
       <lang percentage="34">it</lang>
       <lang percentage="27">ja</lang>
@@ -2114,7 +2128,7 @@
       <lang percentage="39">ml</lang>
       <lang percentage="29">mr</lang>
       <lang percentage="39">my</lang>
-      <lang percentage="32">nb</lang>
+      <lang percentage="33">nb</lang>
       <lang percentage="31">nds</lang>
       <lang percentage="26">ne</lang>
       <lang percentage="34">nl</lang>
@@ -2209,7 +2223,7 @@
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.8.5-0_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.0-1_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -2220,7 +2234,6 @@
     <name xml:lang="sr@ijekavian">Катлфиш</name>
     <name xml:lang="sr_ijekavian">Катлфиш</name>
     <summary>Icon Previewer for Artists and Developers</summary>
-    <summary xml:lang="ast">Previsualizador d'iconos p'artistes y desendolcadores</summary>
     <summary xml:lang="ca">Vista prèvia de les icones pels artistes i desenvolupadors</summary>
     <summary xml:lang="ca@valencia">Vista prèvia de les icones pels artistes i desenvolupadors</summary>
     <summary xml:lang="ca_valencia">Vista prèvia de les icones pels artistes i desenvolupadors</summary>
@@ -2275,7 +2288,7 @@
     <description xml:lang="sv"><p>Cuttlefish låter grafiker och utvecklare förhandsgranska och välj ikoner. Cuttlefish försöker återge ikonerna exakt som de skulle se ut när de ritas i programmet. Det tillåter filtrering baserat på kategori och namn. Cuttlefish är inte ett verktyg för allmänt bruk, utan inriktat på grafikers och utvecklares användarfall. Cuttlefish tillhandahåller också ett insticksprogram för Kate och KDevelop att användas som ikonväljare.</p></description>
     <description xml:lang="uk"><p>Cuttlefish надає змогу художникам і розробникам попередньо переглядати і вибирати піктограми. У Cuttlefish зроблено спробу показати піктограми точно так, як вони виглядатимуть у програмі. Передбачено можливість фільтрувати списки за категорією і назвою. Cuttlefish не є інструментом загального призначення: програму призначено лише для потреб художників і розробників. У Cutlefish також передбачено додаток для Kate і KDevelop, яким можна скористатися для вибору піктограм.</p></description>
     <description xml:lang="zh_CN"><p>Cuttlefish 允许艺术家和开发者预览和选择图标。 Cuttlefish 尝试精确按程序中的方式渲染图标。它允许按分类和名称过滤。 Cuttlefish 不是一个面向一般使用的工具，而是为艺术家和开发者使用设计 的工具。Cuttlefish 也提供了 Kate 和 KDevelop 的图标选择器插件。</p></description>
-    <description xml:lang="zh_TW"><p>Cuttlefish 讓藝術家與開發者可以預覽並挑選圖示。Cuttlefish 會盡量將圖示顯示為在應用程式裡時的樣子。它也可使用類別或名稱來過濾。Cuttlefish 並不是一個通用的工具，它是專為藝術家與開發者的需求設計。Cuttlefish 也提供一份給 Kate 與 KDevelop 使用的外掛程式，讓它們也可以用於挑選圖示。</p></description>
+    <description xml:lang="zh_TW"><p>Cuttlefish 讓藝術家與開發者可以預覽並挑選圖示。Cuttlefish 會盡量將圖示顯示為在應用程式裡時的樣子。它也可使用類別或名稱來過濾。Cuttlefish 並不是一個通用的工具，它是專為藝術家與開發者的需求設計。Cuttlefish 也提供一份給 Kate 與KDevelop 使用的外掛程式，讓它們也可以用於挑選圖示。</p></description>
     <categories>
       <category>Development</category>
       <category>IDE</category>
@@ -2376,7 +2389,7 @@
       <lang percentage="34">fa</lang>
       <lang percentage="33">fi</lang>
       <lang percentage="33">fr</lang>
-      <lang percentage="34">gd</lang>
+      <lang percentage="35">gd</lang>
       <lang percentage="33">gl</lang>
       <lang percentage="28">gu</lang>
       <lang percentage="28">he</lang>
@@ -2385,7 +2398,7 @@
       <lang percentage="31">hu</lang>
       <lang percentage="42">hy</lang>
       <lang percentage="31">ia</lang>
-      <lang percentage="34">id</lang>
+      <lang percentage="35">id</lang>
       <lang percentage="25">is</lang>
       <lang percentage="34">it</lang>
       <lang percentage="27">ja</lang>
@@ -2403,7 +2416,7 @@
       <lang percentage="39">ml</lang>
       <lang percentage="29">mr</lang>
       <lang percentage="39">my</lang>
-      <lang percentage="32">nb</lang>
+      <lang percentage="33">nb</lang>
       <lang percentage="31">nds</lang>
       <lang percentage="26">ne</lang>
       <lang percentage="34">nl</lang>
@@ -2439,7 +2452,26 @@
       <lang percentage="34">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">plasma-sdk_5.8.5-0_amd64.deb</value>
+      <value key="X-CacheID">plasma-sdk_5.9.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="generic">
+    <id>org.kde.haenau</id>
+    <pkgname>kdeplasma-addons</pkgname>
+    <name>Haenau</name>
+    <name xml:lang="kk">Ханау</name>
+    <name xml:lang="mr">हेनोउ</name>
+    <name xml:lang="sr">Хаенау</name>
+    <name xml:lang="sr@ijekavian">Хаенау</name>
+    <name xml:lang="uk">Ганау</name>
+    <name xml:lang="zh_CN">层次</name>
+    <developer_name>Marco Martin &lt;mart@kde.org&gt;</developer_name>
+    <vetos>
+      <veto>No &lt;summary&gt; in AppData</veto>
+    </vetos>
+    <url type="homepage">http://kde.org/</url>
+    <metadata>
+      <value key="X-CacheID">kdeplasma-addons_5.9.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -2461,7 +2493,7 @@
     </vetos>
     <url type="homepage">http://kde.org/</url>
     <metadata>
-      <value key="X-CacheID">kdeplasma-addons_5.8.5-0_amd64.deb</value>
+      <value key="X-CacheID">kdeplasma-addons_5.9.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -2469,7 +2501,6 @@
     <pkgname>kde-workspace</pkgname>
     <name>Image</name>
     <name xml:lang="ar">صورة</name>
-    <name xml:lang="ast">Imaxe</name>
     <name xml:lang="be@latin">Vyjava</name>
     <name xml:lang="bg">Изображение</name>
     <name xml:lang="bn">ছবি</name>
@@ -2547,7 +2578,7 @@
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.8.5-0_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.0-1_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -2713,7 +2744,7 @@
       <lang percentage="37">eo</lang>
       <lang percentage="36">es</lang>
       <lang percentage="61">et</lang>
-      <lang percentage="57">eu</lang>
+      <lang percentage="58">eu</lang>
       <lang percentage="30">fa</lang>
       <lang percentage="61">fi</lang>
       <lang percentage="51">fr</lang>
@@ -2994,7 +3025,7 @@
       <lang percentage="57">fi</lang>
       <lang percentage="48">fr</lang>
       <lang percentage="46">ga</lang>
-      <lang percentage="34">gd</lang>
+      <lang percentage="35">gd</lang>
       <lang percentage="48">gl</lang>
       <lang percentage="43">gu</lang>
       <lang percentage="28">he</lang>
@@ -3565,7 +3596,7 @@
       <lang percentage="37">eo</lang>
       <lang percentage="61">es</lang>
       <lang percentage="61">et</lang>
-      <lang percentage="57">eu</lang>
+      <lang percentage="58">eu</lang>
       <lang percentage="30">fa</lang>
       <lang percentage="61">fi</lang>
       <lang percentage="61">fr</lang>
@@ -3741,6 +3772,7 @@
       <dbus type="session">ca.desrt.dconf</dbus>
       <dbus type="session">org.a11y.Bus</dbus>
       <dbus type="session">org.bluez.obex</dbus>
+      <dbus type="session">org.freedesktop.Akonadi.Control</dbus>
       <dbus type="session">org.freedesktop.ColorHelper</dbus>
       <dbus type="session">org.freedesktop.FileManager1</dbus>
       <dbus type="session">org.freedesktop.Geoclue.Master</dbus>
@@ -3761,7 +3793,6 @@
       <dbus type="session">org.gnome.zeitgeist.SimpleIndexer</dbus>
       <dbus type="session">org.gtk.GLib.PACRunner</dbus>
       <dbus type="session">org.jackaudio.service</dbus>
-      <dbus type="session">org.kde.KScreen</dbus>
       <dbus type="session">org.kde.kcookiejar5</dbus>
       <dbus type="session">org.kde.kded5</dbus>
       <dbus type="session">org.kde.kglobalaccel</dbus>
@@ -3800,88 +3831,56 @@
       <dbus type="system">org.kde.ksysguard.processlisthelper</dbus>
     </provides>
     <languages>
-      <lang percentage="28">an</lang>
-      <lang percentage="27">ar</lang>
-      <lang percentage="29">as</lang>
-      <lang percentage="29">ast</lang>
-      <lang percentage="26">be@latin</lang>
-      <lang percentage="30">bg</lang>
-      <lang percentage="30">bn</lang>
-      <lang percentage="30">bn_IN</lang>
-      <lang percentage="40">bs</lang>
+      <lang percentage="82">ast</lang>
+      <lang percentage="25">bs</lang>
       <lang percentage="25">ca</lang>
-      <lang percentage="30">ca@valencia</lang>
-      <lang percentage="29">crh</lang>
-      <lang percentage="30">cs</lang>
-      <lang percentage="26">cy</lang>
-      <lang percentage="30">da</lang>
-      <lang percentage="29">de</lang>
-      <lang percentage="30">el</lang>
-      <lang percentage="26">en_CA</lang>
-      <lang percentage="30">en_GB</lang>
-      <lang percentage="25">eo</lang>
-      <lang percentage="29">es</lang>
-      <lang percentage="41">et</lang>
-      <lang percentage="30">eu</lang>
-      <lang percentage="30">fi</lang>
-      <lang percentage="29">fr</lang>
-      <lang percentage="40">ga</lang>
-      <lang percentage="41">gd</lang>
-      <lang percentage="30">gl</lang>
-      <lang percentage="29">gu</lang>
-      <lang percentage="30">he</lang>
-      <lang percentage="29">hi</lang>
-      <lang percentage="30">hr</lang>
-      <lang percentage="30">hu</lang>
-      <lang percentage="28">hy</lang>
-      <lang percentage="41">ia</lang>
-      <lang percentage="30">id</lang>
-      <lang percentage="28">is</lang>
-      <lang percentage="29">it</lang>
-      <lang percentage="29">ja</lang>
-      <lang percentage="40">kk</lang>
-      <lang percentage="40">km</lang>
-      <lang percentage="29">kn</lang>
-      <lang percentage="29">ko</lang>
-      <lang percentage="30">lt</lang>
-      <lang percentage="26">lv</lang>
-      <lang percentage="29">mai</lang>
-      <lang percentage="26">mk</lang>
-      <lang percentage="29">ml</lang>
-      <lang percentage="30">mr</lang>
-      <lang percentage="87">ms</lang>
-      <lang percentage="29">my</lang>
-      <lang percentage="26">nb</lang>
-      <lang percentage="41">nds</lang>
-      <lang percentage="29">nl</lang>
-      <lang percentage="26">nn</lang>
-      <lang percentage="37">oc</lang>
-      <lang percentage="29">or</lang>
-      <lang percentage="30">pa</lang>
-      <lang percentage="28">pl</lang>
-      <lang percentage="30">pt</lang>
-      <lang percentage="29">pt_BR</lang>
-      <lang percentage="30">ro</lang>
-      <lang percentage="29">ru</lang>
-      <lang percentage="27">sk</lang>
-      <lang percentage="30">sl</lang>
-      <lang percentage="27">sq</lang>
-      <lang percentage="30">sr</lang>
-      <lang percentage="41">sr@ijekavian</lang>
-      <lang percentage="41">sr@ijekavianlatin</lang>
-      <lang percentage="30">sr@latin</lang>
-      <lang percentage="26">sv</lang>
-      <lang percentage="29">ta</lang>
-      <lang percentage="29">te</lang>
-      <lang percentage="35">tg</lang>
-      <lang percentage="31">th</lang>
-      <lang percentage="29">tr</lang>
-      <lang percentage="28">ug</lang>
+      <lang percentage="25">ca@valencia</lang>
+      <lang percentage="71">crh</lang>
+      <lang percentage="25">cs</lang>
+      <lang percentage="25">da</lang>
+      <lang percentage="25">de</lang>
+      <lang percentage="25">el</lang>
+      <lang percentage="28">en</lang>
+      <lang percentage="25">en_GB</lang>
+      <lang percentage="25">es</lang>
+      <lang percentage="25">et</lang>
+      <lang percentage="25">fi</lang>
+      <lang percentage="25">fr</lang>
+      <lang percentage="25">gd</lang>
+      <lang percentage="25">gl</lang>
+      <lang percentage="25">hu</lang>
+      <lang percentage="25">ia</lang>
+      <lang percentage="50">id</lang>
+      <lang percentage="25">it</lang>
+      <lang percentage="28">ja</lang>
+      <lang percentage="25">kk</lang>
+      <lang percentage="25">km</lang>
+      <lang percentage="72">kn</lang>
+      <lang percentage="81">mr</lang>
+      <lang percentage="53">ms</lang>
+      <lang percentage="25">nb</lang>
+      <lang percentage="25">nds</lang>
+      <lang percentage="25">nl</lang>
+      <lang percentage="38">or</lang>
+      <lang percentage="80">pa</lang>
+      <lang percentage="25">pl</lang>
+      <lang percentage="25">pt</lang>
+      <lang percentage="25">pt_BR</lang>
+      <lang percentage="25">ro</lang>
+      <lang percentage="25">ru</lang>
+      <lang percentage="25">sk</lang>
+      <lang percentage="25">sl</lang>
+      <lang percentage="25">sr</lang>
+      <lang percentage="25">sr@ijekavian</lang>
+      <lang percentage="25">sr@ijekavianlatin</lang>
+      <lang percentage="25">sr@latin</lang>
+      <lang percentage="25">sv</lang>
+      <lang percentage="80">ta</lang>
+      <lang percentage="25">tr</lang>
       <lang percentage="25">uk</lang>
-      <lang percentage="30">vi</lang>
-      <lang percentage="29">zh_CN</lang>
-      <lang percentage="30">zh_HK</lang>
-      <lang percentage="30">zh_TW</lang>
+      <lang percentage="43">vi</lang>
+      <lang percentage="25">zh_CN</lang>
+      <lang percentage="25">zh_TW</lang>
     </languages>
     <metadata>
       <value key="X-CacheID">konqueror_16.12.0-0_amd64.deb</value>
@@ -4031,7 +4030,7 @@
       <lang percentage="37">eo</lang>
       <lang percentage="36">es</lang>
       <lang percentage="61">et</lang>
-      <lang percentage="57">eu</lang>
+      <lang percentage="58">eu</lang>
       <lang percentage="30">fa</lang>
       <lang percentage="61">fi</lang>
       <lang percentage="51">fr</lang>
@@ -4268,20 +4267,20 @@
       <lang percentage="35">da</lang>
       <lang percentage="35">de</lang>
       <lang percentage="32">dz</lang>
-      <lang percentage="34">el</lang>
+      <lang percentage="35">el</lang>
       <lang percentage="27">en@boldquot</lang>
       <lang percentage="27">en@quot</lang>
       <lang percentage="35">en@shaw</lang>
       <lang percentage="35">en_CA</lang>
       <lang percentage="35">en_GB</lang>
       <lang percentage="28">eo</lang>
-      <lang percentage="34">es</lang>
+      <lang percentage="35">es</lang>
       <lang percentage="44">et</lang>
       <lang percentage="35">eu</lang>
       <lang percentage="34">fa</lang>
       <lang percentage="29">fi</lang>
       <lang percentage="35">fr</lang>
-      <lang percentage="34">gd</lang>
+      <lang percentage="35">gd</lang>
       <lang percentage="35">gl</lang>
       <lang percentage="28">gu</lang>
       <lang percentage="35">he</lang>
@@ -4290,7 +4289,7 @@
       <lang percentage="35">hu</lang>
       <lang percentage="42">hy</lang>
       <lang percentage="31">ia</lang>
-      <lang percentage="34">id</lang>
+      <lang percentage="35">id</lang>
       <lang percentage="31">is</lang>
       <lang percentage="35">it</lang>
       <lang percentage="33">ja</lang>
@@ -4317,7 +4316,7 @@
       <lang percentage="45">or</lang>
       <lang percentage="34">pa</lang>
       <lang percentage="35">pl</lang>
-      <lang percentage="34">pt</lang>
+      <lang percentage="35">pt</lang>
       <lang percentage="35">pt_BR</lang>
       <lang percentage="46">ro</lang>
       <lang percentage="35">ru</lang>
@@ -4333,7 +4332,7 @@
       <lang percentage="29">ta</lang>
       <lang percentage="29">te</lang>
       <lang percentage="29">tg</lang>
-      <lang percentage="34">th</lang>
+      <lang percentage="35">th</lang>
       <lang percentage="33">tr</lang>
       <lang percentage="49">ug</lang>
       <lang percentage="35">uk</lang>
@@ -4352,7 +4351,6 @@
     <pkgname>plasma-desktop</pkgname>
     <name>Panel</name>
     <name xml:lang="ar">لوحة</name>
-    <name xml:lang="ast">Panel baleru</name>
     <name xml:lang="be">Панель</name>
     <name xml:lang="bn">প্যানেল</name>
     <name xml:lang="br">Panell</name>
@@ -4400,7 +4398,42 @@
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <metadata>
-      <value key="X-CacheID">plasma-desktop_5.8.5-0_amd64.deb</value>
+      <value key="X-CacheID">plasma-desktop_5.9.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="generic">
+    <id>org.kde.plasma.appmenu</id>
+    <pkgname>kde-workspace</pkgname>
+    <name>Application Menu</name>
+    <name xml:lang="ca">Menú d'aplicació</name>
+    <name xml:lang="ca@valencia">Menú d'aplicació</name>
+    <name xml:lang="de">Anwendungsmenü</name>
+    <name xml:lang="el">Μενού εφαρμογής</name>
+    <name xml:lang="es">Menú de la aplicación</name>
+    <name xml:lang="fi">Sovelluksen valikko</name>
+    <name xml:lang="it">Menu delle applicazioni</name>
+    <name xml:lang="ko">프로그램 메뉴</name>
+    <name xml:lang="nb">Programmeny</name>
+    <name xml:lang="nl">Menu Toepassingen</name>
+    <name xml:lang="nn">Programmeny</name>
+    <name xml:lang="pl">Menu programów</name>
+    <name xml:lang="pt">Menu da Aplicação</name>
+    <name xml:lang="ru">Меню приложения</name>
+    <name xml:lang="sk">Aplikačné menu</name>
+    <name xml:lang="sr">Мени програма</name>
+    <name xml:lang="sr@ijekavian">Мени програма</name>
+    <name xml:lang="sr@ijekavianlatin">Meni programa</name>
+    <name xml:lang="sr@latin">Meni programa</name>
+    <name xml:lang="sv">Programmeny</name>
+    <name xml:lang="uk">Меню програм</name>
+    <name xml:lang="zh_TW">應用程式選單</name>
+    <developer_name>Kai Uwe Broulik &lt;kde@privat.broulik.de&gt;</developer_name>
+    <vetos>
+      <veto>No &lt;summary&gt; in AppData</veto>
+    </vetos>
+    <url type="homepage">plasma.kde.org</url>
+    <metadata>
+      <value key="X-CacheID">kde-workspace_5.9.0-1_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4408,7 +4441,6 @@
     <pkgname>kde-workspace</pkgname>
     <name>Calendar</name>
     <name xml:lang="ar">التقويم</name>
-    <name xml:lang="ast">Calendariu</name>
     <name xml:lang="be@latin">Kalandar</name>
     <name xml:lang="bg">Календар</name>
     <name xml:lang="bn">ক্যালেণ্ডার</name>
@@ -4487,7 +4519,7 @@
     </vetos>
     <url type="homepage">plasma.kde.org</url>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.8.5-0_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.0-1_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4495,7 +4527,6 @@
     <pkgname>plasma-desktop</pkgname>
     <name>Default Panel</name>
     <name xml:lang="ar">اللوحة الافتراضيّة</name>
-    <name xml:lang="ast">Panel por defeutu</name>
     <name xml:lang="bs">Podrazumijevani panel</name>
     <name xml:lang="ca">Plafó per omissió</name>
     <name xml:lang="ca@valencia">Plafó per omissió</name>
@@ -4544,7 +4575,7 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">plasma-desktop_5.8.5-0_amd64.deb</value>
+      <value key="X-CacheID">plasma-desktop_5.9.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4552,7 +4583,6 @@
     <pkgname>plasma-desktop</pkgname>
     <name>Empty Panel</name>
     <name xml:lang="ar">لوحة فارغة</name>
-    <name xml:lang="ast">Panel baleru</name>
     <name xml:lang="bs">Prazan panel</name>
     <name xml:lang="ca">Plafó buit</name>
     <name xml:lang="ca@valencia">Plafó buit</name>
@@ -4608,7 +4638,79 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">plasma-desktop_5.8.5-0_amd64.deb</value>
+      <value key="X-CacheID">plasma-desktop_5.9.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="generic">
+    <id>org.kde.plasma.grouping</id>
+    <pkgname>kdeplasma-addons</pkgname>
+    <name>Grouping Plasmoid</name>
+    <name xml:lang="ca">Plasmoide d'agrupació</name>
+    <name xml:lang="ca@valencia">Plasmoide d'agrupació</name>
+    <name xml:lang="de">Gruppierung von Miniprogrammen</name>
+    <name xml:lang="el">Πλασμοειδές ομαδοποίησης</name>
+    <name xml:lang="es">Plasmoide de agrupamiento</name>
+    <name xml:lang="eu">Taldekatzeko plasmoidea</name>
+    <name xml:lang="fi">Ryhmitelty plasmoidi</name>
+    <name xml:lang="it">Plasmoide di raggruppamento</name>
+    <name xml:lang="ko">그룹 Plasmoid</name>
+    <name xml:lang="nl">Plasmoid-groepering</name>
+    <name xml:lang="nn">Grupperingselement</name>
+    <name xml:lang="pl">Plazmoid grupujący</name>
+    <name xml:lang="pt">Plasmóide de Agrupamento</name>
+    <name xml:lang="sk">Zoskupovací plazmoid</name>
+    <name xml:lang="sr">групишући плазмоид</name>
+    <name xml:lang="sr@ijekavian">групишући плазмоид</name>
+    <name xml:lang="sr@ijekavianlatin">grupišući plazmoid</name>
+    <name xml:lang="sr@latin">grupišući plazmoid</name>
+    <name xml:lang="sv">Grupperingsplasmoid</name>
+    <name xml:lang="uk">Плазмоїд групування</name>
+    <name xml:lang="zh_CN">分组小部件</name>
+    <name xml:lang="zh_TW">組織 Plasmoid</name>
+    <developer_name>David Edmundson &lt;davidedmundson@kde.org&gt;</developer_name>
+    <vetos>
+      <veto>No &lt;summary&gt; in AppData</veto>
+    </vetos>
+    <url type="homepage">http://plasma.kde.org/</url>
+    <project_group>KDE</project_group>
+    <metadata>
+      <value key="X-CacheID">kdeplasma-addons_5.9.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="generic">
+    <id>org.kde.plasma.private.grouping</id>
+    <pkgname>kdeplasma-addons</pkgname>
+    <name>Grouping Plasmoid</name>
+    <name xml:lang="ca">Plasmoide d'agrupació</name>
+    <name xml:lang="ca@valencia">Plasmoide d'agrupació</name>
+    <name xml:lang="de">Gruppierung von Miniprogrammen</name>
+    <name xml:lang="el">Πλασμοειδές ομαδοποίησης</name>
+    <name xml:lang="es">Plasmoide de agrupamiento</name>
+    <name xml:lang="eu">Taldekatzeko plasmoidea</name>
+    <name xml:lang="fi">Ryhmitelty plasmoidi</name>
+    <name xml:lang="it">Plasmoide di raggruppamento</name>
+    <name xml:lang="ko">그룹 Plasmoid</name>
+    <name xml:lang="nl">Plasmoid-groepering</name>
+    <name xml:lang="nn">Grupperingselement</name>
+    <name xml:lang="pl">Plazmoid grupujący</name>
+    <name xml:lang="pt">Plasmóide de Agrupamento</name>
+    <name xml:lang="sk">Zoskupovací plazmoid</name>
+    <name xml:lang="sr">групишући плазмоид</name>
+    <name xml:lang="sr@ijekavian">групишући плазмоид</name>
+    <name xml:lang="sr@ijekavianlatin">grupišući plazmoid</name>
+    <name xml:lang="sr@latin">grupišući plazmoid</name>
+    <name xml:lang="sv">Grupperingsplasmoid</name>
+    <name xml:lang="uk">Плазмоїд групування</name>
+    <name xml:lang="zh_CN">分组小部件</name>
+    <name xml:lang="zh_TW">組織 Plasmoid</name>
+    <developer_name>David Edmundson &lt;davidedmundsonkde.org&gt;</developer_name>
+    <vetos>
+      <veto>No &lt;summary&gt; in AppData</veto>
+    </vetos>
+    <url type="homepage">http://plasma.kde.org/</url>
+    <project_group>KDE</project_group>
+    <metadata>
+      <value key="X-CacheID">kdeplasma-addons_5.9.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4617,7 +4719,6 @@
     <name>System Tray</name>
     <name xml:lang="af">Stelsellaai</name>
     <name xml:lang="ar">صينية النظام</name>
-    <name xml:lang="ast">Bandexa del sistema</name>
     <name xml:lang="be">Сістэмны трэй</name>
     <name xml:lang="be@latin">Systemny trej</name>
     <name xml:lang="bg">Системен панел</name>
@@ -4707,96 +4808,7 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.8.5-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component type="generic">
-    <id>org.kde.plasma.trash</id>
-    <pkgname>plasma-desktop</pkgname>
-    <name>Trashcan</name>
-    <name xml:lang="af">Gemors</name>
-    <name xml:lang="ar">سلّة المهملات</name>
-    <name xml:lang="be@latin">Śmietnica</name>
-    <name xml:lang="bg">Кошче</name>
-    <name xml:lang="bn">আবর্জনা</name>
-    <name xml:lang="bs">Korpa za smeće</name>
-    <name xml:lang="ca">Paperera</name>
-    <name xml:lang="ca@valencia">Paperera</name>
-    <name xml:lang="cs">Koš</name>
-    <name xml:lang="csb">Kòsz</name>
-    <name xml:lang="da">Affald</name>
-    <name xml:lang="de">Papierkorb</name>
-    <name xml:lang="el">Κάδος απορριμμάτων</name>
-    <name xml:lang="en_GB">Wastebin</name>
-    <name xml:lang="eo">Rubujo</name>
-    <name xml:lang="es">Papelera</name>
-    <name xml:lang="et">Prügikast</name>
-    <name xml:lang="eu">Zakarontzia</name>
-    <name xml:lang="fi">Roskakori</name>
-    <name xml:lang="fr">Corbeille</name>
-    <name xml:lang="fy">Jiskefet</name>
-    <name xml:lang="ga">Bruscar</name>
-    <name xml:lang="gl">Lixo</name>
-    <name xml:lang="gu">કચરાપેટી</name>
-    <name xml:lang="he">פח אשפה</name>
-    <name xml:lang="hi">रद्दी की टोकरी</name>
-    <name xml:lang="hne">घुरुवा</name>
-    <name xml:lang="hr">Otpad</name>
-    <name xml:lang="hsb">Papjernik</name>
-    <name xml:lang="hu">Kuka</name>
-    <name xml:lang="ia">Corbe</name>
-    <name xml:lang="id">Tempat Sampah</name>
-    <name xml:lang="is">Ruslafata</name>
-    <name xml:lang="it">Cestino</name>
-    <name xml:lang="ja">ごみ箱</name>
-    <name xml:lang="kk">Өшірілгендер</name>
-    <name xml:lang="km">ធុង​សំរាម</name>
-    <name xml:lang="kn">ಕಸಬುಟ್ಟಿ</name>
-    <name xml:lang="ko">휴지통</name>
-    <name xml:lang="ku">Qutiya Sergo</name>
-    <name xml:lang="lt">Šiukšlinė</name>
-    <name xml:lang="lv">Miskaste</name>
-    <name xml:lang="mk">Корпа</name>
-    <name xml:lang="ml">ചവറ്റുകുട്ട</name>
-    <name xml:lang="mr">कचरापेटी</name>
-    <name xml:lang="nb">Søppelbøtte</name>
-    <name xml:lang="nds">Affalltünn</name>
-    <name xml:lang="nl">Prullenbak</name>
-    <name xml:lang="nn">Papirkorg</name>
-    <name xml:lang="pa">ਰੱਦੀ-ਟੋਕਰੀ</name>
-    <name xml:lang="pl">Kosz</name>
-    <name xml:lang="pt">Caixote do Lixo</name>
-    <name xml:lang="pt_BR">Lixeira</name>
-    <name xml:lang="ro">Coș de gunoi</name>
-    <name xml:lang="ru">Корзина</name>
-    <name xml:lang="si">ඉවතලන බඳුන</name>
-    <name xml:lang="sk">Odpadkový kôš</name>
-    <name xml:lang="sl">Smetnjak</name>
-    <name xml:lang="sr">корпа за смеће</name>
-    <name xml:lang="sr@ijekavian">корпа за смеће</name>
-    <name xml:lang="sr@ijekavianlatin">korpa za smeće</name>
-    <name xml:lang="sr@latin">korpa za smeće</name>
-    <name xml:lang="sv">Papperskorg</name>
-    <name xml:lang="ta">அகற்றிடம்</name>
-    <name xml:lang="te">చెత్తబుట్ట</name>
-    <name xml:lang="tg">Ахлотдон</name>
-    <name xml:lang="th">ถังขยะ</name>
-    <name xml:lang="tr">Çöp Kutusu</name>
-    <name xml:lang="ug">ئەخلەتخانا</name>
-    <name xml:lang="uk">Смітник</name>
-    <name xml:lang="uz">Chiqindilar qutisi</name>
-    <name xml:lang="uz@cyrillic">Чиқиндилар қутиси</name>
-    <name xml:lang="wa">Batch ås mannestés</name>
-    <name xml:lang="zh_CN">回收站</name>
-    <name xml:lang="zh_TW">資源回收筒</name>
-    <developer_name>Heena &lt;heena393@gmail.com&gt;</developer_name>
-    <vetos>
-      <veto>No &lt;summary&gt; in AppData</veto>
-    </vetos>
-    <url type="homepage">http://plasma.kde.org/</url>
-    <project_group>KDE</project_group>
-    <metadata>
-      <value key="X-CacheID">plasma-desktop_5.8.5-0_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.0-1_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4804,7 +4816,6 @@
     <pkgname>kdeplasma-addons</pkgname>
     <name>Weather Forecast</name>
     <name xml:lang="ar">تنبؤات الطقس</name>
-    <name xml:lang="ast">Previsión meteorolóxica</name>
     <name xml:lang="bs">Vremenska prognoza</name>
     <name xml:lang="ca">Previsió meteorològica</name>
     <name xml:lang="ca@valencia">Previsió meteorològica</name>
@@ -4863,7 +4874,7 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">kdeplasma-addons_5.8.5-0_amd64.deb</value>
+      <value key="X-CacheID">kdeplasma-addons_5.9.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -5046,7 +5057,7 @@
       <lang percentage="61">da</lang>
       <lang percentage="59">de</lang>
       <lang percentage="32">dz</lang>
-      <lang percentage="34">el</lang>
+      <lang percentage="35">el</lang>
       <lang percentage="27">en@boldquot</lang>
       <lang percentage="27">en@quot</lang>
       <lang percentage="35">en@shaw</lang>
@@ -5054,13 +5065,13 @@
       <lang percentage="35">en_CA</lang>
       <lang percentage="30">en_GB</lang>
       <lang percentage="28">eo</lang>
-      <lang percentage="34">es</lang>
+      <lang percentage="35">es</lang>
       <lang percentage="44">et</lang>
       <lang percentage="35">eu</lang>
       <lang percentage="34">fa</lang>
       <lang percentage="29">fi</lang>
       <lang percentage="60">fr</lang>
-      <lang percentage="34">gd</lang>
+      <lang percentage="35">gd</lang>
       <lang percentage="35">gl</lang>
       <lang percentage="28">gu</lang>
       <lang percentage="35">he</lang>
@@ -5069,7 +5080,7 @@
       <lang percentage="35">hu</lang>
       <lang percentage="42">hy</lang>
       <lang percentage="31">ia</lang>
-      <lang percentage="34">id</lang>
+      <lang percentage="35">id</lang>
       <lang percentage="31">is</lang>
       <lang percentage="39">it</lang>
       <lang percentage="30">ja</lang>
@@ -5096,7 +5107,7 @@
       <lang percentage="45">or</lang>
       <lang percentage="34">pa</lang>
       <lang percentage="61">pl</lang>
-      <lang percentage="34">pt</lang>
+      <lang percentage="35">pt</lang>
       <lang percentage="35">pt_BR</lang>
       <lang percentage="46">ro</lang>
       <lang percentage="35">ru</lang>
@@ -5112,7 +5123,7 @@
       <lang percentage="29">ta</lang>
       <lang percentage="29">te</lang>
       <lang percentage="29">tg</lang>
-      <lang percentage="34">th</lang>
+      <lang percentage="35">th</lang>
       <lang percentage="33">tr</lang>
       <lang percentage="49">ug</lang>
       <lang percentage="26">uk</lang>
@@ -5207,7 +5218,7 @@
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.8.5-0_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.0-1_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -5342,7 +5353,7 @@
       <lang percentage="34">fa</lang>
       <lang percentage="33">fi</lang>
       <lang percentage="33">fr</lang>
-      <lang percentage="34">gd</lang>
+      <lang percentage="35">gd</lang>
       <lang percentage="33">gl</lang>
       <lang percentage="28">gu</lang>
       <lang percentage="28">he</lang>
@@ -5351,7 +5362,7 @@
       <lang percentage="31">hu</lang>
       <lang percentage="42">hy</lang>
       <lang percentage="31">ia</lang>
-      <lang percentage="34">id</lang>
+      <lang percentage="35">id</lang>
       <lang percentage="25">is</lang>
       <lang percentage="34">it</lang>
       <lang percentage="27">ja</lang>
@@ -5369,7 +5380,7 @@
       <lang percentage="39">ml</lang>
       <lang percentage="29">mr</lang>
       <lang percentage="39">my</lang>
-      <lang percentage="32">nb</lang>
+      <lang percentage="33">nb</lang>
       <lang percentage="31">nds</lang>
       <lang percentage="26">ne</lang>
       <lang percentage="34">nl</lang>
@@ -5406,6 +5417,94 @@
     </languages>
     <metadata>
       <value key="X-CacheID">spectacle_16.12.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="desktop">
+    <id>org.qt-project.qtcreator.desktop</id>
+    <pkgname>qtcreator</pkgname>
+    <name>Qt Creator</name>
+    <description><p>Qt Creator provides a cross-platform, complete integrated development environment (IDE) for application developers to create applications for multiple desktop and mobile device platforms, such as Android and iOS.</p><p>Qt Creator enables a team of developers to share a project across different development platforms with a common tool for development and debugging.</p><p>The main goal for Qt Creator is meeting the development needs of Qt developers who are looking for simplicity, usability, productivity, extendibility and openness, while aiming to lower the barrier of entry for newcomers to Qt.</p></description>
+    <icon type="cached" height="128" width="128">128x128/org.qt-project.qtcreator.png</icon>
+    <icon type="cached" height="64" width="64">64x64/org.qt-project.qtcreator.png</icon>
+    <categories>
+      <category>Development</category>
+      <category>IDE</category>
+    </categories>
+    <kudos>
+      <kudo>HiDpiIcon</kudo>
+      <kudo>HighContrast</kudo>
+    </kudos>
+    <vetos>
+      <veto>No &lt;summary&gt; in AppData</veto>
+    </vetos>
+    <mimetypes>
+      <mimetype>application/vnd.qt.qmakeprofile</mimetype>
+      <mimetype>application/vnd.qt.xml.resource</mimetype>
+      <mimetype>application/x-designer</mimetype>
+      <mimetype>text/x-c++hdr</mimetype>
+      <mimetype>text/x-c++src</mimetype>
+      <mimetype>text/x-xsrc</mimetype>
+    </mimetypes>
+    <project_license>GPL-3.0</project_license>
+    <url type="homepage">https://qt.io/ide/</url>
+    <project_group>KDE</project_group>
+    <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
+      <dbus type="session">org.a11y.Bus</dbus>
+      <dbus type="session">org.bluez.obex</dbus>
+      <dbus type="session">org.freedesktop.ColorHelper</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Master</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Example</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Geonames</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Gsmloc</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Hostip</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Localnet</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Manual</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Nominatim</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Plazes</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Skyhook</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Yahoo</dbus>
+      <dbus type="session">org.freedesktop.systemd1</dbus>
+      <dbus type="session">org.gnome.GConf</dbus>
+      <dbus type="session">org.gtk.GLib.PACRunner</dbus>
+      <dbus type="session">org.jackaudio.service</dbus>
+      <dbus type="system">com.redhat.lvmdbus1</dbus>
+      <dbus type="system">org.bluez</dbus>
+      <dbus type="system">org.freedesktop.Avahi</dbus>
+      <dbus type="system">org.freedesktop.ColorManager</dbus>
+      <dbus type="system">org.freedesktop.PolicyKit1</dbus>
+      <dbus type="system">org.freedesktop.RealtimeKit1</dbus>
+      <dbus type="system">org.freedesktop.hostname1</dbus>
+      <dbus type="system">org.freedesktop.import1</dbus>
+      <dbus type="system">org.freedesktop.locale1</dbus>
+      <dbus type="system">org.freedesktop.login1</dbus>
+      <dbus type="system">org.freedesktop.machine1</dbus>
+      <dbus type="system">org.freedesktop.network1</dbus>
+      <dbus type="system">org.freedesktop.resolve1</dbus>
+      <dbus type="system">org.freedesktop.systemd1</dbus>
+      <dbus type="system">org.freedesktop.timedate1</dbus>
+      <dbus type="system">org.gnome.GConf.Defaults</dbus>
+    </provides>
+    <languages>
+      <lang percentage="100">cs</lang>
+      <lang percentage="33">da</lang>
+      <lang percentage="92">de</lang>
+      <lang percentage="38">es</lang>
+      <lang percentage="90">fr</lang>
+      <lang percentage="91">ja</lang>
+      <lang percentage="37">nl</lang>
+      <lang percentage="92">pl</lang>
+      <lang percentage="38">pt_BR</lang>
+      <lang percentage="96">ru</lang>
+      <lang percentage="60">sl</lang>
+      <lang percentage="38">sv</lang>
+      <lang percentage="75">uk</lang>
+      <lang percentage="33">vi</lang>
+      <lang percentage="67">zh_CN</lang>
+      <lang percentage="59">zh_TW</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">qtcreator_4.2.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -5462,11 +5561,7 @@
       <veto>duplicate of roboto-slab-fonts-20150306-0</veto>
     </vetos>
     <screenshots>
-      <screenshot type="default" priority="-2">
-        <caption>Roboto Black – Italic</caption>
-        <image type="source" height="48" width="640">file:/roboto-896e4d808212d584972c41859c8b70c6.png</image>
-      </screenshot>
-      <screenshot>
+      <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
         <image type="source" height="48" width="640">file:/roboto-76b4357e4cf79227b7904493ec6323ef.png</image>
       </screenshot>
@@ -5680,6 +5775,203 @@
     </languages>
     <metadata>
       <value key="X-CacheID">roboto-fonts_2.136-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
+    <id>ttf-ancient-fonts</id>
+    <pkgname>ttf-ancient-fonts</pkgname>
+    <name>Ancient Fonts</name>
+    <summary>Unicode Fonts for Ancient symbols, typefaces, and scripts</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <languages>
+      <lang>aa</lang>
+      <lang>ab</lang>
+      <lang>af</lang>
+      <lang>an</lang>
+      <lang percentage="26">ar</lang>
+      <lang percentage="59">as</lang>
+      <lang percentage="29">ast</lang>
+      <lang>av</lang>
+      <lang>ay</lang>
+      <lang>az-az</lang>
+      <lang>ba</lang>
+      <lang>be</lang>
+      <lang>bg</lang>
+      <lang>bi</lang>
+      <lang percentage="30">bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang>br</lang>
+      <lang>bs</lang>
+      <lang>bua</lang>
+      <lang>ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang>ce</lang>
+      <lang>ch</lang>
+      <lang>chm</lang>
+      <lang>co</lang>
+      <lang>crh</lang>
+      <lang>cs</lang>
+      <lang>csb</lang>
+      <lang>cu</lang>
+      <lang>cy</lang>
+      <lang>da</lang>
+      <lang>de</lang>
+      <lang>el</lang>
+      <lang>en</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang>eo</lang>
+      <lang>es</lang>
+      <lang>et</lang>
+      <lang>eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang>fi</lang>
+      <lang>fil</lang>
+      <lang>fj</lang>
+      <lang>fo</lang>
+      <lang>fr</lang>
+      <lang>fur</lang>
+      <lang>fy</lang>
+      <lang>gd</lang>
+      <lang>gl</lang>
+      <lang percentage="59">gu</lang>
+      <lang>gv</lang>
+      <lang>haw</lang>
+      <lang percentage="70">he</lang>
+      <lang percentage="59">hi</lang>
+      <lang>ho</lang>
+      <lang>hr</lang>
+      <lang>hsb</lang>
+      <lang>ht</lang>
+      <lang>hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang>ia</lang>
+      <lang>id</lang>
+      <lang>ie</lang>
+      <lang>ik</lang>
+      <lang>io</lang>
+      <lang>is</lang>
+      <lang>it</lang>
+      <lang percentage="44">ja</lang>
+      <lang>jv</lang>
+      <lang>kaa</lang>
+      <lang>ki</lang>
+      <lang>kj</lang>
+      <lang>kk</lang>
+      <lang>kl</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="70">ko</lang>
+      <lang>ku-am</lang>
+      <lang>ku-tr</lang>
+      <lang>kum</lang>
+      <lang>kv</lang>
+      <lang>kwm</lang>
+      <lang>ky</lang>
+      <lang>la</lang>
+      <lang>lb</lang>
+      <lang>lez</lang>
+      <lang>lg</lang>
+      <lang>li</lang>
+      <lang>lt</lang>
+      <lang>lv</lang>
+      <lang>mg</lang>
+      <lang>mh</lang>
+      <lang>mk</lang>
+      <lang percentage="38">ml</lang>
+      <lang>mn-mn</lang>
+      <lang>mo</lang>
+      <lang percentage="59">mr</lang>
+      <lang>ms</lang>
+      <lang>mt</lang>
+      <lang>na</lang>
+      <lang>nb</lang>
+      <lang>nds</lang>
+      <lang>ng</lang>
+      <lang>nl</lang>
+      <lang>nn</lang>
+      <lang>no</lang>
+      <lang>nr</lang>
+      <lang>nso</lang>
+      <lang>ny</lang>
+      <lang>oc</lang>
+      <lang>om</lang>
+      <lang percentage="59">or</lang>
+      <lang>os</lang>
+      <lang percentage="60">pa</lang>
+      <lang>pap-an</lang>
+      <lang>pap-aw</lang>
+      <lang>pl</lang>
+      <lang>pt</lang>
+      <lang percentage="70">pt_BR</lang>
+      <lang>rm</lang>
+      <lang>rn</lang>
+      <lang>ro</lang>
+      <lang>ru</lang>
+      <lang>rw</lang>
+      <lang>sah</lang>
+      <lang>sc</lang>
+      <lang>sco</lang>
+      <lang>se</lang>
+      <lang>sel</lang>
+      <lang>sg</lang>
+      <lang>shs</lang>
+      <lang>sk</lang>
+      <lang>sl</lang>
+      <lang>sm</lang>
+      <lang>sma</lang>
+      <lang>smj</lang>
+      <lang>smn</lang>
+      <lang>sn</lang>
+      <lang>so</lang>
+      <lang>sq</lang>
+      <lang>sr</lang>
+      <lang percentage="70">sr@latin</lang>
+      <lang>ss</lang>
+      <lang>st</lang>
+      <lang>su</lang>
+      <lang>sv</lang>
+      <lang>sw</lang>
+      <lang percentage="59">ta</lang>
+      <lang percentage="59">te</lang>
+      <lang>tg</lang>
+      <lang percentage="70">th</lang>
+      <lang>tk</lang>
+      <lang>tl</lang>
+      <lang>tn</lang>
+      <lang>to</lang>
+      <lang>tr</lang>
+      <lang>ts</lang>
+      <lang>tt</lang>
+      <lang>ty</lang>
+      <lang>tyv</lang>
+      <lang percentage="56">ug</lang>
+      <lang>uk</lang>
+      <lang>uz</lang>
+      <lang percentage="60">vi</lang>
+      <lang>vo</lang>
+      <lang>vot</lang>
+      <lang>wa</lang>
+      <lang>wen</lang>
+      <lang>wo</lang>
+      <lang>xh</lang>
+      <lang>yap</lang>
+      <lang>za</lang>
+      <lang percentage="60">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="70">zh_TW</lang>
+      <lang>zu</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -6885,13 +7177,13 @@
       <lang percentage="35">eu</lang>
       <lang percentage="34">fa</lang>
       <lang percentage="29">fi</lang>
-      <lang percentage="34">gd</lang>
+      <lang percentage="35">gd</lang>
       <lang percentage="35">gl</lang>
       <lang percentage="28">gu</lang>
       <lang percentage="29">hi</lang>
       <lang percentage="35">hu</lang>
       <lang percentage="42">hy</lang>
-      <lang percentage="34">id</lang>
+      <lang percentage="35">id</lang>
       <lang percentage="31">is</lang>
       <lang percentage="33">ja</lang>
       <lang percentage="30">ka</lang>
@@ -6913,7 +7205,7 @@
       <lang percentage="33">oc</lang>
       <lang percentage="45">or</lang>
       <lang percentage="34">pa</lang>
-      <lang percentage="34">pt</lang>
+      <lang percentage="35">pt</lang>
       <lang percentage="46">ro</lang>
       <lang percentage="35">sk</lang>
       <lang percentage="33">sl</lang>
@@ -6924,7 +7216,7 @@
       <lang percentage="29">ta</lang>
       <lang percentage="29">te</lang>
       <lang percentage="29">tg</lang>
-      <lang percentage="34">th</lang>
+      <lang percentage="35">th</lang>
       <lang percentage="49">ug</lang>
       <lang percentage="35">uk</lang>
       <lang percentage="33">vi</lang>
