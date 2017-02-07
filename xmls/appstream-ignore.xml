@@ -15919,6 +15919,13 @@
     </metadata>
   </component>
   <component>
+    <id>minetest-game.(null)</id>
+    <pkgname>minetest-game</pkgname>
+    <metadata>
+      <value key="X-CacheID">minetest-game_0.4.15-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>mingw+w64.(null)</id>
     <pkgname>mingw+w64</pkgname>
     <metadata>
@@ -24239,13 +24246,6 @@
     <pkgname>ttf-hanazono</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-hanazono_20160201-1_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-indic.(null)</id>
-    <pkgname>ttf-indic</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
