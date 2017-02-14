@@ -5337,13 +5337,9 @@
       <veto>duplicate of roboto-slab-fonts-20150306-0</veto>
     </vetos>
     <screenshots>
-      <screenshot type="default" priority="-2">
-        <caption>Roboto Black – Italic</caption>
-        <image type="source" height="48" width="640">file:/roboto-3019a3cb59f4ccbb5a16733af99ec974.png</image>
-      </screenshot>
-      <screenshot>
+      <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-0faf7b5e84da9e63c5aa597a4519d98e.png</image>
+        <image type="source" height="48" width="640">file:/roboto-de1d72591db4e2d1b8e4585b98428abc.png</image>
       </screenshot>
     </screenshots>
     <languages>
