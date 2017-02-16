@@ -14596,6 +14596,13 @@
     </metadata>
   </component>
   <component>
+    <id>linux-kernel-4.9.10.(null)</id>
+    <pkgname>linux-kernel-4.9.10</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.9.10_4.9.10-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>linux-kernel-4.9.4.(null)</id>
     <pkgname>linux-kernel-4.9.4</pkgname>
     <metadata>
@@ -24235,13 +24242,6 @@
     </metadata>
   </component>
   <component>
-    <id>ttf-ancient-fonts.(null)</id>
-    <pkgname>ttf-ancient-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>ttf-arphic-ukai.(null)</id>
     <pkgname>ttf-arphic-ukai</pkgname>
     <metadata>
@@ -24267,13 +24267,6 @@
     <pkgname>ttf-hanazono</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-hanazono_20160201-1_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-indic.(null)</id>
-    <pkgname>ttf-indic</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
