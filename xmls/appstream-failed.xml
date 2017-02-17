@@ -5365,13 +5365,9 @@
       <veto>duplicate of roboto-slab-fonts-20150306-0</veto>
     </vetos>
     <screenshots>
-      <screenshot type="default" priority="-2">
-        <caption>Roboto Black – Italic</caption>
-        <image type="source" height="48" width="640">file:/roboto-896e4d808212d584972c41859c8b70c6.png</image>
-      </screenshot>
-      <screenshot>
+      <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-b3fc40b81279e577d3e62f9b796ed69e.png</image>
+        <image type="source" height="48" width="640">file:/roboto-8fb537f75491e1937456ee084bd0bb05.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5862,94 +5858,6 @@
     </languages>
     <metadata>
       <value key="X-CacheID">ttf-baekmuk_2.2-4_noarch.deb</value>
-    </metadata>
-  </component>
-  <component type="font">
-    <id>ttf-tagbanwa</id>
-    <pkgname>ttf-tagbanwa</pkgname>
-    <name>Tagbanwa Fonts</name>
-    <summary>A free Unicode TrueType font for the Tagbanwa script</summary>
-    <categories>
-      <category>Addons</category>
-      <category>Fonts</category>
-    </categories>
-    <vetos>
-      <veto>Has no Icon</veto>
-    </vetos>
-    <languages>
-      <lang percentage="57">an</lang>
-      <lang percentage="26">ar</lang>
-      <lang percentage="59">as</lang>
-      <lang percentage="29">ast</lang>
-      <lang percentage="57">be</lang>
-      <lang percentage="60">bg</lang>
-      <lang percentage="30">bn</lang>
-      <lang percentage="60">bn_IN</lang>
-      <lang percentage="59">bs</lang>
-      <lang percentage="70">ca</lang>
-      <lang percentage="59">ca@valencia</lang>
-      <lang percentage="70">cs</lang>
-      <lang percentage="70">da</lang>
-      <lang percentage="70">de</lang>
-      <lang percentage="60">el</lang>
-      <lang>en</lang>
-      <lang percentage="71">en@boldquot</lang>
-      <lang percentage="71">en@quot</lang>
-      <lang percentage="28">en@shaw</lang>
-      <lang percentage="50">en_CA</lang>
-      <lang percentage="70">en_GB</lang>
-      <lang percentage="53">eo</lang>
-      <lang percentage="70">es</lang>
-      <lang percentage="36">et</lang>
-      <lang percentage="70">eu</lang>
-      <lang percentage="30">fa</lang>
-      <lang percentage="50">fi</lang>
-      <lang percentage="70">fr</lang>
-      <lang percentage="70">gl</lang>
-      <lang percentage="59">gu</lang>
-      <lang percentage="70">he</lang>
-      <lang percentage="59">hi</lang>
-      <lang percentage="97">hr</lang>
-      <lang percentage="70">hu</lang>
-      <lang percentage="43">hy</lang>
-      <lang percentage="36">ia</lang>
-      <lang percentage="60">id</lang>
-      <lang percentage="70">it</lang>
-      <lang percentage="44">ja</lang>
-      <lang percentage="59">kn</lang>
-      <lang percentage="70">ko</lang>
-      <lang percentage="70">lt</lang>
-      <lang percentage="70">lv</lang>
-      <lang percentage="38">ml</lang>
-      <lang percentage="59">mr</lang>
-      <lang percentage="64">nb</lang>
-      <lang percentage="42">nl</lang>
-      <lang percentage="70">oc</lang>
-      <lang percentage="59">or</lang>
-      <lang percentage="60">pa</lang>
-      <lang percentage="70">pl</lang>
-      <lang percentage="70">pt</lang>
-      <lang percentage="70">pt_BR</lang>
-      <lang percentage="48">ro</lang>
-      <lang percentage="60">ru</lang>
-      <lang percentage="70">sk</lang>
-      <lang percentage="60">sl</lang>
-      <lang percentage="70">sr</lang>
-      <lang percentage="70">sr@latin</lang>
-      <lang percentage="70">sv</lang>
-      <lang percentage="59">ta</lang>
-      <lang percentage="59">te</lang>
-      <lang percentage="70">th</lang>
-      <lang percentage="60">tr</lang>
-      <lang percentage="56">ug</lang>
-      <lang percentage="59">uk</lang>
-      <lang percentage="60">vi</lang>
-      <lang percentage="60">zh_CN</lang>
-      <lang percentage="59">zh_HK</lang>
-      <lang percentage="70">zh_TW</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">

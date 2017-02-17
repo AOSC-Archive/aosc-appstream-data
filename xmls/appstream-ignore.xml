@@ -19982,7 +19982,7 @@
     <id>potrace.(null)</id>
     <pkgname>potrace</pkgname>
     <metadata>
-      <value key="X-CacheID">potrace_1.13-0_amd64.deb</value>
+      <value key="X-CacheID">potrace_1.13-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24267,13 +24267,6 @@
     <pkgname>ttf-hanazono</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-hanazono_20160201-1_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-tagbanwa.(null)</id>
-    <pkgname>ttf-tagbanwa</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
