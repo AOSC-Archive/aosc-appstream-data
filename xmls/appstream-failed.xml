@@ -1572,228 +1572,7 @@
       <lang percentage="61">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">bomber_16.12.0-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component type="desktop">
-    <id>org.kde.bovo.desktop</id>
-    <pkgname>bovo</pkgname>
-    <name>Bovo</name>
-    <name xml:lang="ar">بوڤو</name>
-    <name xml:lang="fa">بُوُ</name>
-    <name xml:lang="hne">बोवो</name>
-    <name xml:lang="kk">Бово</name>
-    <name xml:lang="mr">बोव्हो</name>
-    <name xml:lang="ne">बोभो</name>
-    <name xml:lang="pa">ਬੋਵੋ</name>
-    <name xml:lang="sr">Бово</name>
-    <name xml:lang="sr@ijekavian">Бово</name>
-    <name xml:lang="sr_ijekavian">Бово</name>
-    <name xml:lang="te">బొవొ</name>
-    <name xml:lang="zh_TW">五子棋_Bovo</name>
-    <description><p>Bovo is a Gomoku (from Japanese 五目並べ - lit. "five points") like game for two players, where the opponents alternate in placing their respective pictogram on the game board. (Also known as: Connect Five, Five in a row, X and O, Naughts and Crosses)</p></description>
-    <description xml:lang="ast"><p>Bovo ye como un xuegu de Gomoku (del xaponés  五目並べ - llit. "cinco puntos") pa dos xugadores, u los oponentes alternen l'asitiamientu del so pictograma correspondiente nel tableru del xuegu. (Tamién conocíu como: Coneuta cinco, Cinco darréu, X y O, Cruz y nada)</p></description>
-    <description xml:lang="bs"><p>Bovo je Gomoku (od japanskog 五目並べ - lit. "pet poena") slična igra za dva igrača, gdje se protivnici smjenjuju u stavljanju svog dijela piktograma na tabli. (Poznat i kao: poveži pet, pet u nizu, X i O, križić i kružić)</p></description>
-    <description xml:lang="ca"><p>El Bovo és un joc semblant al Gomoku (del japonès 五目並べ - lit. «cinc punts») per a dos jugadors, a on els oponents situen els seus ideogrames respectius alternativament en el tauler de joc. També conegut com a: Connecta cinc, Cinc en fila, X i O, Zeros i creus.</p></description>
-    <description xml:lang="ca_valencia"><p>El Bovo és un joc paregut al Gomoku (del japonés 五目並べ - lit. «cinc punts») per a dos jugadors, a on els oponents situen els seus ideogrames respectius alternativament en el tauler de joc. També conegut com a: Connecta cinc, Cinc en fila, X i O, Zeros i creus.</p></description>
-    <description xml:lang="de"><p>Bovo ist ein Gomoku (aus dem japanischen wörtlich „Fünf Punkte“) ähnliches Spiel für zwei Spieler, bei dem die Gegner abwechselnd ihre jeweiligen Piktogramme auf dem Brett platzieren. Auch bekannt als: Fünf verbinden, Fünf in einer Reihe, X und O, Nullen und Kreuze</p></description>
-    <description xml:lang="el"><p>Το Bovo είναι ένα είδος παιχνιδιού Gomoku (στα Ιαπωνικά 五目並べ - κυρ. "πέντε πόντοι" για δύο παίκτες, στο οποίο οι αντίπαλοι τοποθετούν εναλλάξ ο καθένας το δικό του πικτόγραμμα στον πίνακα του παιχνιδιού. (Είναι επίσης γνωστό ως Σύνδεσε πέντε, Πέντε στη γραμμή, Χ και Ο, κύκλοι και σταυροί)</p></description>
-    <description xml:lang="es"><p>Bovo es un juego para dos jugadores similar al Gomoku (del japonés 五目並べ, que significa «cinco puntos»). Los dos oponentes juegan por turnos para colocar su respectivo pictograma en el juego del tablero. (También se conoce como: «Conecta cinco», «Cinco en línea», «X y O» o «Ceros y cruces»).</p></description>
-    <description xml:lang="et"><p>Bovo on Gomoku (jaapani keeles 五目並べ, otsetõlkes "viis punkti") moodi mäng kahele mängijale, kus vastased asetavad kordamööda oma piktogrammi mängulauale. (Seda tuntakse ka nimetuste all "Viis ühes reas", "X-id ja 0-id" jne.; sarnane on ka tripstrapstrull.)</p></description>
-    <description xml:lang="fi"><p>Bovo on Gomokun (japaniksi 五目並べ – kirjaimellisesti ”viisi pistettä”) kaltainen peli kahdelle, jossa vastustajat asettavat vuorotellen merkkinsä pelilaudalle. Tunnetaan myös nimillä viiden suora ja ristinolla.</p></description>
-    <description xml:lang="fr"><p>Bovo est un jeu pour deux joueurs inspiré du Gomoku (du japonais 五目並べ signifiant « cinq points »). Les adversaires placent chacun à leur tour leurs symboles sur la tableau de jeu. Également connu sous le nom de « cinq en ligne », « X et O », « morpion ».</p></description>
-    <description xml:lang="gl"><p>Bovo é un xogo para dous xogadores similar ao Gomoku (do xaponés 五目並べ, «cinco puntos»), no que os opoñentes sitúan os seus pictogramas no taboleiro por quendas. O xogo tamén se coñece como «Conectar cinco», «Cinco en liña», etc.</p></description>
-    <description xml:lang="hu"><p>A Bovo egy, a Gomokuhoz (japánul 五目並べ - szó szerint „öt pont”) hasonló játékos két személynek, ahol az ellenfelek felváltva teszik fel piktogramjaikat a táblára.</p></description>
-    <description xml:lang="it"><p>Bovo è un gioco per due giocatori simile al Gomoku (dal giapponese 五目並べ - lett. «cinque punti»), in cui i contendenti si alternano nel piazzare i propri pittogrammi sul piano di gioco. (È noto anche come: Connect Five, Five in a row, X and O, Naughts and Crosses)</p></description>
-    <description xml:lang="ko"><p>Bovo는 2인용 오목 게임이며, 게임 판에 플레이어별로 말을 두는 게임입니다.</p></description>
-    <description xml:lang="nds"><p>Bovo is en Speel as Gomoku (ut japaansch 五目並べ“ - „fief Pünkt“) för twee Spelers. De Twee wesselt sik af un leggt ehr Piktogramm op't Speelbrett. (Warrt ok „Fief verbinnen“, „Fief in de Reeg“, „X un O“ oder „Nixen un Nullen“ nöömt.)</p></description>
-    <description xml:lang="nl"><p>Bovo is een Gomoku (uit het Japans 五目並べ - letterlijk "vijf punten")-achtig spel voor twee spelers, waar de opponenten afwisselen in het plaatsen van hun respectievelijke pictogram op het spelbord. (Ook bekend als: Boter-Kaas-en-Eieren, Vijf verbinden, Vijf op een rij, X en O, Naughts and Crosses)</p></description>
-    <description xml:lang="nn"><p>Bovo er eit Gomoku-likande spel (frå japansk «五目並べ », som tyder «fem brikker på rad») for to spelarar. Spelarane byter på å plassera ut piktogram på spelebrettet. (Spelkonseptet er òg kjent under namna «fem på rad», «bondesjakk» og «tripp-trapp-tresko».)</p></description>
-    <description xml:lang="pl"><p>Bovo to gra dla dwóch graczy w rodzaju Gomoku (z japońskiego 五目並べ - lit. "pięć punktów"), gdzie gracze na zmianę umieszczają odpowiadające im piktogramy na planszy. (Gra znana również jako: Połącz piątkę, Piątka w rzędzie, X i O, Kółko i krzyżyk)</p></description>
-    <description xml:lang="pt"><p>O Bovo é um jogo semelhante ao Gomoku (do Japonês 五目並べ - lit. "cinco pontos") para dois jogadores, onde os adversários vão colocando o seu pictograma respectivo no tabuleiro do jogo. (Também conhecido como: Liga Cinco, Cinco em Linha, X e O, Bolas e Cruzes)</p></description>
-    <description xml:lang="pt_BR"><p>Bovo é um jogo do tipo Gomoku (do Japonês 五目並べ - lit. "cinco pontos") para dois jogadores, onde os adversários alternam na colocação das suas marcas respectivas no tabuleiro. (Também conhecido como: Conectar Cinco, Cinco-em-Linha, X e O, Bolas e Cruzes)</p></description>
-    <description xml:lang="ru"><p>Bovo — игра для двух игроков, произошедшая от Гомоку (в переводе с японского 五目並べ — «пять точек»). Соперники по очереди ставят свою отметку на игровой доске. Другие названия: крестики-нолики, пять в ряд.</p></description>
-    <description xml:lang="sk"><p>Bovo je Gomoku (z japonského 五目並べ - "päť bodov") hra pre dvoch hráčov, kde protivníci sa striedajú v umiestňovaní ich piktogramov na hraciu plochu. (Známe aj ako: Connect Five, Päť v rade, X a O, Naughts and Crosses)</p></description>
-    <description xml:lang="sl"><p>Bovo je igra podobna Gomoku (iz japonskega 五目並べ - lit. "pet točk") za dva igralca, ki izmenično postavljata njun piktogram na igralno ploščo. Igra je znana tudi kot: Poveži pet, Pet v vrsto, Križci in krogci.</p></description>
-    <description xml:lang="sr"><p>Бово је игра налик на гомоку (од јапанског 五目並べ, буквално „пет тачака“) за два играча, где противници наизменично смештају свој пиктограм на играчку таблу. Проширена верзија икс‑окса.</p></description>
-    <description xml:lang="sr_Latn"><p>Bovo je igra nalik na gomoku (od japanskog 五目並べ, bukvalno „pet tačaka“) za dva igrača, gde protivnici naizmenično smeštaju svoj piktogram na igračku tablu. Proširena verzija iks‑oksa.</p></description>
-    <description xml:lang="sr_ijekavian"><p>Бово је игра налик на гомоку (од јапанског 五目並べ, буквално „пет тачака“) за два играча, где противници наизменично смештају свој пиктограм на играчку таблу. Проширена верзија икс‑окса.</p></description>
-    <description xml:lang="sr_ijekavianlatin"><p>Bovo je igra nalik na gomoku (od japanskog 五目並べ, bukvalno „pet tačaka“) za dva igrača, gde protivnici naizmenično smeštaju svoj piktogram na igračku tablu. Proširena verzija iks‑oksa.</p></description>
-    <description xml:lang="sv"><p>Bovo är ett spel för två spelare som liknar Gomoku (från japanska 五目並べ, ordagrant "fem poäng"), där motståndarna omväxlande placerar sina respektive symboler på spelbrädet (också känt som luffarschack, fem-i-rad, kryss och ringar).</p></description>
-    <description xml:lang="tr"><p>Bovo, Gomoku (Japonca 五目並べ - "beş nokta") benzeri rakiplerin oyun kartına kendi simgelerini yerleştirdikleri iki oyunculu bir oyundur. (Şu isimlerle de bilinir: Beşliyi Bağla, Bir satırda beşli, X ve O, Satırlar ve Çarpılar)</p></description>
-    <description xml:lang="uk"><p>Bovo — гра, подібна до гомоку (від японського 五目並べ — букв. «п’ять точок»), розрахована на двох гравців. У грі суперники почергово малюють власні значки на ігровій дошці. Інші назви гри: з’єднай п’ять, п’ять у рядок, хрестики-нулики.</p></description>
-    <description xml:lang="zh_TW"><p>Bovo 是一套五子棋遊戲，兩個玩家誰先形成五個子連在一起就獲勝。</p></description>
-    <icon type="cached" height="128" width="128">128x128/org.kde.bovo.png</icon>
-    <icon type="cached" height="64" width="64">64x64/org.kde.bovo.png</icon>
-    <categories>
-      <category>BoardGame</category>
-      <category>Game</category>
-    </categories>
-    <kudos>
-      <kudo>HiDpiIcon</kudo>
-      <kudo>HighContrast</kudo>
-    </kudos>
-    <vetos>
-      <veto>No &lt;summary&gt; in AppData</veto>
-    </vetos>
-    <project_license>GPL-2.0+</project_license>
-    <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=bovo</url>
-    <url type="help">http://docs.kde.org/stable/en/kdegames/bovo/index.html</url>
-    <url type="homepage">http://games.kde.org/</url>
-    <project_group>KDE</project_group>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">http://kde.org/images/screenshots/bovo.png</image>
-      </screenshot>
-    </screenshots>
-    <provides>
-      <binary>bovo</binary>
-      <dbus type="session">ca.desrt.dconf</dbus>
-      <dbus type="session">org.a11y.Bus</dbus>
-      <dbus type="session">org.bluez.obex</dbus>
-      <dbus type="session">org.freedesktop.ColorHelper</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Master</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Example</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Geonames</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Gsmloc</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Hostip</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Localnet</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Manual</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Nominatim</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Plazes</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Skyhook</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Yahoo</dbus>
-      <dbus type="session">org.freedesktop.systemd1</dbus>
-      <dbus type="session">org.gnome.GConf</dbus>
-      <dbus type="session">org.gnome.zeitgeist.Engine</dbus>
-      <dbus type="session">org.gnome.zeitgeist.SimpleIndexer</dbus>
-      <dbus type="session">org.gtk.GLib.PACRunner</dbus>
-      <dbus type="session">org.jackaudio.service</dbus>
-      <dbus type="session">org.kde.kcookiejar5</dbus>
-      <dbus type="session">org.kde.kded5</dbus>
-      <dbus type="session">org.kde.kglobalaccel</dbus>
-      <dbus type="session">org.kde.kiod5</dbus>
-      <dbus type="session">org.kde.kpasswdserver</dbus>
-      <dbus type="session">org.kde.kssld5</dbus>
-      <dbus type="session">org.kde.kwalletd</dbus>
-      <dbus type="session">org.kde.kwalletd5</dbus>
-      <dbus type="system">com.redhat.lvmdbus1</dbus>
-      <dbus type="system">org.bluez</dbus>
-      <dbus type="system">org.freedesktop.Avahi</dbus>
-      <dbus type="system">org.freedesktop.ColorManager</dbus>
-      <dbus type="system">org.freedesktop.PolicyKit1</dbus>
-      <dbus type="system">org.freedesktop.RealtimeKit1</dbus>
-      <dbus type="system">org.freedesktop.UDisks2</dbus>
-      <dbus type="system">org.freedesktop.UPower</dbus>
-      <dbus type="system">org.freedesktop.hostname1</dbus>
-      <dbus type="system">org.freedesktop.import1</dbus>
-      <dbus type="system">org.freedesktop.locale1</dbus>
-      <dbus type="system">org.freedesktop.login1</dbus>
-      <dbus type="system">org.freedesktop.machine1</dbus>
-      <dbus type="system">org.freedesktop.network1</dbus>
-      <dbus type="system">org.freedesktop.resolve1</dbus>
-      <dbus type="system">org.freedesktop.systemd1</dbus>
-      <dbus type="system">org.freedesktop.timedate1</dbus>
-      <dbus type="system">org.gnome.GConf.Defaults</dbus>
-    </provides>
-    <languages>
-      <lang percentage="42">an</lang>
-      <lang percentage="39">ar</lang>
-      <lang percentage="29">as</lang>
-      <lang percentage="54">ast</lang>
-      <lang percentage="27">be</lang>
-      <lang percentage="35">be@latin</lang>
-      <lang percentage="39">bg</lang>
-      <lang percentage="40">bn</lang>
-      <lang percentage="40">bn_IN</lang>
-      <lang percentage="59">bs</lang>
-      <lang percentage="61">ca</lang>
-      <lang percentage="61">ca@valencia</lang>
-      <lang percentage="43">crh</lang>
-      <lang percentage="61">cs</lang>
-      <lang percentage="35">cy</lang>
-      <lang percentage="61">da</lang>
-      <lang percentage="61">de</lang>
-      <lang percentage="32">dz</lang>
-      <lang percentage="60">el</lang>
-      <lang percentage="27">en@boldquot</lang>
-      <lang percentage="27">en@quot</lang>
-      <lang percentage="35">en@shaw</lang>
-      <lang percentage="35">en_CA</lang>
-      <lang percentage="61">en_GB</lang>
-      <lang percentage="37">eo</lang>
-      <lang percentage="61">es</lang>
-      <lang percentage="61">et</lang>
-      <lang percentage="58">eu</lang>
-      <lang percentage="30">fa</lang>
-      <lang percentage="61">fi</lang>
-      <lang percentage="61">fr</lang>
-      <lang percentage="58">ga</lang>
-      <lang percentage="61">gd</lang>
-      <lang percentage="61">gl</lang>
-      <lang percentage="32">gu</lang>
-      <lang percentage="48">he</lang>
-      <lang percentage="25">hi</lang>
-      <lang percentage="45">hr</lang>
-      <lang percentage="60">hu</lang>
-      <lang percentage="42">hy</lang>
-      <lang percentage="61">ia</lang>
-      <lang percentage="45">id</lang>
-      <lang percentage="42">is</lang>
-      <lang percentage="61">it</lang>
-      <lang percentage="58">ja</lang>
-      <lang percentage="30">ka</lang>
-      <lang percentage="25">kg</lang>
-      <lang percentage="59">kk</lang>
-      <lang percentage="59">km</lang>
-      <lang percentage="29">kn</lang>
-      <lang percentage="50">ko</lang>
-      <lang percentage="27">lg</lang>
-      <lang percentage="32">lt</lang>
-      <lang percentage="34">lv</lang>
-      <lang percentage="29">mai</lang>
-      <lang percentage="29">mk</lang>
-      <lang percentage="35">ml</lang>
-      <lang percentage="55">mr</lang>
-      <lang percentage="39">my</lang>
-      <lang percentage="61">nb</lang>
-      <lang percentage="60">nds</lang>
-      <lang percentage="26">ne</lang>
-      <lang percentage="61">nl</lang>
-      <lang percentage="36">nn</lang>
-      <lang percentage="33">oc</lang>
-      <lang percentage="45">or</lang>
-      <lang percentage="41">pa</lang>
-      <lang percentage="61">pl</lang>
-      <lang percentage="61">pt</lang>
-      <lang percentage="61">pt_BR</lang>
-      <lang percentage="59">ro</lang>
-      <lang percentage="61">ru</lang>
-      <lang percentage="34">se</lang>
-      <lang percentage="61">sk</lang>
-      <lang percentage="61">sl</lang>
-      <lang percentage="37">sq</lang>
-      <lang percentage="61">sr</lang>
-      <lang percentage="61">sr@ijekavian</lang>
-      <lang percentage="61">sr@ijekavianlatin</lang>
-      <lang percentage="61">sr@latin</lang>
-      <lang percentage="61">sv</lang>
-      <lang percentage="28">ta</lang>
-      <lang percentage="28">te</lang>
-      <lang percentage="29">tg</lang>
-      <lang percentage="29">th</lang>
-      <lang percentage="60">tr</lang>
-      <lang percentage="41">ug</lang>
-      <lang percentage="61">uk</lang>
-      <lang percentage="33">vi</lang>
-      <lang percentage="28">wa</lang>
-      <lang percentage="25">xh</lang>
-      <lang percentage="61">zh_CN</lang>
-      <lang percentage="29">zh_HK</lang>
-      <lang percentage="61">zh_TW</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">bovo_16.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">bomber_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -2164,66 +1943,7 @@
       <lang percentage="34">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">cervisia_16.12.0-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component type="generic">
-    <id>org.kde.color</id>
-    <pkgname>kde-workspace</pkgname>
-    <name>Plain Color</name>
-    <name xml:lang="ar">لون صِرف</name>
-    <name xml:lang="bs">Obična boja</name>
-    <name xml:lang="ca">Color llis</name>
-    <name xml:lang="ca@valencia">Color llis</name>
-    <name xml:lang="cs">Prostá barva</name>
-    <name xml:lang="da">Almindelig farve</name>
-    <name xml:lang="de">Einfarbig</name>
-    <name xml:lang="el">Απλό χρώμα</name>
-    <name xml:lang="en_GB">Plain Colour</name>
-    <name xml:lang="es">Color sencillo</name>
-    <name xml:lang="et">Puhas värv</name>
-    <name xml:lang="eu">Kolore bakarra</name>
-    <name xml:lang="fi">Yksivärinen</name>
-    <name xml:lang="fr">Couleur pleine</name>
-    <name xml:lang="gl">Cor simple</name>
-    <name xml:lang="he">צבע רגיל</name>
-    <name xml:lang="hu">Egyszerű szín</name>
-    <name xml:lang="ia">Color plan</name>
-    <name xml:lang="id">Warna Polos</name>
-    <name xml:lang="is">Hreinn litur</name>
-    <name xml:lang="it">Colore semplice</name>
-    <name xml:lang="ja">単色</name>
-    <name xml:lang="kk">Жәй түсі</name>
-    <name xml:lang="ko">단색</name>
-    <name xml:lang="lt">Paprasta spalva</name>
-    <name xml:lang="nb">Ren farge</name>
-    <name xml:lang="nds">Eenfach Klöör</name>
-    <name xml:lang="nl">Vlakke kleur</name>
-    <name xml:lang="nn">Rein farge</name>
-    <name xml:lang="pa">ਇੱਕ ਰੰਗ</name>
-    <name xml:lang="pl">Zwykły kolor</name>
-    <name xml:lang="pt">Cor Simples</name>
-    <name xml:lang="pt_BR">Cor simples</name>
-    <name xml:lang="ro">Culoare simplă</name>
-    <name xml:lang="ru">Одноцветные обои</name>
-    <name xml:lang="sk">Obyčajná farba</name>
-    <name xml:lang="sl">Preprosta barva</name>
-    <name xml:lang="sr">проста боја</name>
-    <name xml:lang="sr@ijekavian">проста боја</name>
-    <name xml:lang="sr@ijekavianlatin">prosta boja</name>
-    <name xml:lang="sr@latin">prosta boja</name>
-    <name xml:lang="sv">Enkel färg</name>
-    <name xml:lang="tr">Düz Renk</name>
-    <name xml:lang="uk">Звичайний колір</name>
-    <name xml:lang="zh_CN">纯色</name>
-    <name xml:lang="zh_TW">普通顏色</name>
-    <developer_name>Marco Martin &lt;mart@kde.org&gt;</developer_name>
-    <vetos>
-      <veto>No &lt;summary&gt; in AppData</veto>
-    </vetos>
-    <project_license>GPL-2.0+</project_license>
-    <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.2-0_amd64.deb</value>
+      <value key="X-CacheID">cervisia_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -2497,91 +2217,6 @@
       <value key="X-CacheID">kdeplasma-addons_5.9.2-0_amd64.deb</value>
     </metadata>
   </component>
-  <component type="generic">
-    <id>org.kde.image</id>
-    <pkgname>kde-workspace</pkgname>
-    <name>Image</name>
-    <name xml:lang="ar">صورة</name>
-    <name xml:lang="be@latin">Vyjava</name>
-    <name xml:lang="bg">Изображение</name>
-    <name xml:lang="bn">ছবি</name>
-    <name xml:lang="bn_IN">ছবি</name>
-    <name xml:lang="bs">Slika</name>
-    <name xml:lang="ca">Imatge</name>
-    <name xml:lang="ca@valencia">Imatge</name>
-    <name xml:lang="cs">Obrázek</name>
-    <name xml:lang="csb">Òbrôzk</name>
-    <name xml:lang="da">Billede</name>
-    <name xml:lang="de">Bild</name>
-    <name xml:lang="el">Εικόνα</name>
-    <name xml:lang="eo">Bildo</name>
-    <name xml:lang="es">Imagen</name>
-    <name xml:lang="et">Pilt</name>
-    <name xml:lang="eu">Irudia</name>
-    <name xml:lang="fa">تصویر</name>
-    <name xml:lang="fi">Kuva</name>
-    <name xml:lang="fy">Ofbylding</name>
-    <name xml:lang="ga">Íomhá</name>
-    <name xml:lang="gl">Imaxe</name>
-    <name xml:lang="gu">ચિત્ર</name>
-    <name xml:lang="he">תמונה</name>
-    <name xml:lang="hi">छवि</name>
-    <name xml:lang="hne">फोटो</name>
-    <name xml:lang="hr">Slika</name>
-    <name xml:lang="hu">Kép</name>
-    <name xml:lang="id">Gambar</name>
-    <name xml:lang="is">Mynd</name>
-    <name xml:lang="it">Immagine</name>
-    <name xml:lang="ja">画像</name>
-    <name xml:lang="ka">გამოსახულება</name>
-    <name xml:lang="kk">Кескіні</name>
-    <name xml:lang="km">រូបភាព</name>
-    <name xml:lang="kn">ಬಿಂಬ (ಇಮೇಜ್)</name>
-    <name xml:lang="ko">그림</name>
-    <name xml:lang="ku">Wêne</name>
-    <name xml:lang="lt">Paveikslėlis</name>
-    <name xml:lang="lv">Attēls</name>
-    <name xml:lang="mai">चित्र</name>
-    <name xml:lang="mk">Слика</name>
-    <name xml:lang="ml">ചിത്രം</name>
-    <name xml:lang="mr">प्रतिमा</name>
-    <name xml:lang="nb">Bilde</name>
-    <name xml:lang="nds">Bild</name>
-    <name xml:lang="nl">Afbeelding</name>
-    <name xml:lang="nn">Bilete</name>
-    <name xml:lang="or">ପ୍ରତିଛବି</name>
-    <name xml:lang="pa">ਚਿੱਤਰ</name>
-    <name xml:lang="pl">Obraz</name>
-    <name xml:lang="pt">Imagem</name>
-    <name xml:lang="pt_BR">Imagem</name>
-    <name xml:lang="ro">Imagine</name>
-    <name xml:lang="ru">Изображение</name>
-    <name xml:lang="si">පිංතූරය</name>
-    <name xml:lang="sk">Obrázok</name>
-    <name xml:lang="sl">Slika</name>
-    <name xml:lang="sr">слика</name>
-    <name xml:lang="sr@ijekavian">слика</name>
-    <name xml:lang="sr@ijekavianlatin">slika</name>
-    <name xml:lang="sr@latin">slika</name>
-    <name xml:lang="sv">Bild</name>
-    <name xml:lang="tg">Тасвир</name>
-    <name xml:lang="th">ภาพ</name>
-    <name xml:lang="tr">Resim</name>
-    <name xml:lang="ug">سۈرەت</name>
-    <name xml:lang="uk">Зображення</name>
-    <name xml:lang="vi">Ảnh</name>
-    <name xml:lang="wa">Imådje</name>
-    <name xml:lang="zh_CN">图像</name>
-    <name xml:lang="zh_TW">影像</name>
-    <developer_name>Marco Martin &lt;mart@kde.org&gt;</developer_name>
-    <vetos>
-      <veto>No &lt;summary&gt; in AppData</veto>
-    </vetos>
-    <project_license>GPL-2.0+</project_license>
-    <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.2-0_amd64.deb</value>
-    </metadata>
-  </component>
   <component type="desktop">
     <id>org.kde.kaddressbook.desktop</id>
     <pkgname>kaddressbook</pkgname>
@@ -2814,7 +2449,7 @@
       <lang percentage="50">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kaddressbook_16.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">kaddressbook_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3438,7 +3073,7 @@
       <lang>zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kiten_16.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">kiten_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3666,7 +3301,7 @@
       <lang percentage="61">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">knotes_16.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">knotes_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3685,7 +3320,7 @@
     <summary xml:lang="ca_valencia">El gestor de fitxers i navegador web del KDE</summary>
     <summary xml:lang="cs">Správce souborů &amp; prohlížeč Webu pro prostředí KDE</summary>
     <summary xml:lang="da">KDE's filhåndtering og webbrowser</summary>
-    <summary xml:lang="de">Der Dateimanager &amp; Webbrowser von KDE</summary>
+    <summary xml:lang="de">Dateiverwaltung &amp; Webbrowser von KDE</summary>
     <summary xml:lang="el">Διαχειριστής αρχείων του KDE &amp; περιηγητής Ιστού</summary>
     <summary xml:lang="es">Administrador de archivos de KDE y navegador web</summary>
     <summary xml:lang="et">KDE failihaldur &amp; veebibrauser</summary>
@@ -3728,7 +3363,7 @@
     <description xml:lang="et"><p>Konqueror on KDE veebilehitseja ja ülim töövahend failide igakülgseks haldamiseks ja vaatamiseks.</p><p>Omadused:</p><ul><li>Veebilehitsemine KHTML-i või KDEWebKiti renderdamismootoriga</li><li>Failihaldus enamiku Dolphini võimalustega (sealhulgas versioonihaldus, teenustemenüüd ja põhimõtteline kasutajaliides)</li><li>Failihaldus FTP- ja SFTP-serverites</li><li>Kõigi võimalustega FTP-klient (vaate võib poolitada kohalike ja võrgukataloogide ja nende sisu kõrvuti nägemiseks)</li><li>Lõimitud rakendused falide eelvaatluseks (nt Okular ja Calligra dokumentide, Gwenview piltide, KTextEditor tekstifailide jaoks)</li><li>Arvukad pluginad: teenustemenüüd, KParts (lõimitud rakendused), KIO (failide kasutamiseks spetsiaalsete protokollide vahendusel, nt http või ftp) ja KPart-pluginad (nt AdBlocker)</li></ul></description>
     <description xml:lang="fi"><p>Konqueror on KDE:n verkkoselain ja yleistyökalu kaikenlaiseen tiedostonhallintaan ja esikatseluun.</p><p>Ominaisuudet:</p><ul><li>Verkkoselaus KHTML- tai KDEWebKit-hahmonnusmoottorein</li><li>Tiedostonhallinta useimmin Dolphinin ominaisuuksin (myös versionhallinta, palveluvalikot ja peruskäyttöliittymä)</li><li>Tiedostonhallinta ftp- ja sftp-palvelimilla</li><li>Täyspiirteinen FTP-asiakas (voit nähdä paikallis- ja etäkansiot ja esikatselut samassa ikkunassa jakamalla näkymän)</li><li>Upotteiset sovellukset tiedostojen esikatseluun (esim. Okular ja Calligra tekstiasiakirjoille, Gwenview kuville ja KTextEditor tekstitiedostoille)</li><li>Eri liitännäiset: palveluvalikot, KPartit (upotteiset sovellukset), KIO (tiedostojen käsittely eri yhteyskäytännöin kuten http:llä tai ftp:llä) sekä KPart-liitännäiset (kuten AdBlocker)</li></ul></description>
     <description xml:lang="fr"><p>Konqueror est l'outil KDE servant de navigateur Web et de couteau suisse pour n'importe quelle opération de gestion et de prévisualisation de fichier.</p><p>Fonctionnalités :</p><ul><li>Navigation Web en utilisant les moteurs de rendu KHTML ou KDEWebKit</li><li>Gestion de fichiers en utilisant la plupart des fonctionnalités de Dolphin (y compris les services de contrôle de révision, les menus de services et l'interface utilisateur de base)</li><li>Gestion de fichiers à travers les serveurs FTP et SFTP</li><li>Client FTP complet (vous pouvez partager la vue pour afficher les dossiers locaux et distants dans la même fenêtre)</li><li>Applications embarquées pour prévisualiser les fichiers (p.ex. Okular et Calligra pour les documents, Gwenview pour les images, KTextEditor pour les fichiers texte)</li><li>Différents types d'extensions : menus services, KParts (applications embarquées), KIO (accès aux fichiers à travers des protocoles particuliers comme HTTP ou FTP) et les extensions KParts (telle qu'AdBlocker…)</li></ul></description>
-    <description xml:lang="gl"><p>Konqueror é o navegador web de KDE e unha navalla suíza para calquera tipo de xestión ou vista previa de ficheiros.</p><p>Funcionalidades:</p><ul><li>Navegación web usando KHTML ou KDEWebKit como motores de renderización.</li><li>Xestión de ficheiros coa meirande parte das funcionalidades de Dolphin, incluíndo a compatibilidade cos sistemas de control de versións, os menús de servizos, e a interface gráfica básica.</li><li>Xestión de ficheiros de servidores FTP e SFTP.</li><li>Potente cliente de FTP. Permítelle dividir a vista para mostrar tanto os cartafoles locais como os remotos e vistas previas, todo na mesma xanela.</li><li>Programas incrustados para previsualizar ficheiros. Por exemplo, Okular e Calligra para documentos, Gwenview para imaxes, KTextEditor para ficheiros de texto, etc.</li><li>Distintos tipos de complementos: menús de servizos, KParts (programas incrustados), KIO (acceso a ficheiros mediante protocolos especiais como HTTP ou FTP) e complementos de KPart (como AdBlocker).</li></ul></description>
+    <description xml:lang="gl"><p>Konqueror é o navegador web de KDE e unha navalla suíza para calquera tipo de xestión ou vista previa de ficheiros.</p><p>Funcionalidades:</p><ul><li>Navegación web usando KHTML ou KDEWebKit como motores de renderización.</li><li>Xestión de ficheiros coa meirande parte das funcionalidades de Dolphin, incluíndo a compatibilidade cos sistemas de control de versións, os menús de servizos, e a interface gráfica básica.</li><li>Xestión de ficheiros de servidores FTP e SFTP.</li><li>Potente cliente de FTP. Permítelle dividir a vista para mostrar tanto os cartafoles locais como os remotos e vistas previas, todo na mesma xanela.</li><li>Aplicativos incrustados para previsualizar ficheiros. Por exemplo, Okular e Calligra para documentos, Gwenview para imaxes, KTextEditor para ficheiros de texto, etc.</li><li>Distintos tipos de complementos: menús de servizos, KParts (aplicativos incrustados), KIO (acceso a ficheiros mediante protocolos especiais como HTTP ou FTP) e complementos de KPart (como AdBlocker).</li></ul></description>
     <description xml:lang="hu"><p>A Konqueror a KDE webböngészője és svájci bicskája mindenféle fájlkezelési és fájl előnézeti feladathoz.</p><p>Szolgáltatások:</p><ul><li>Webböngészés a KHTML vagy KDEWebKit - mint megjelenítő motorok - használatával</li><li>Fájlkezelés a Dolphin szolgáltatásai nagy részének használatával (beleértve a verziókezelést, szolgáltatásmenüket és az alap felhasználói felületet)</li><li>Fájlkezelés FTP és SFTP kiszolgálókon</li><li>Teljes felszereltségű FTP-kliens (feloszthatja a nézeteket a helyi és távoli mappák megjelenítéséhez, és előnézetet jelenít meg ugyanabban az ablakban)</li><li>Beágyazott alkalmazások fájlok előnézetéhez (például Okular és Calligra a dokumentumokhoz, Gwenview a képekhez, KTextEditor a szövegfájlokhoz)</li><li>Különféle bővítménytípusok: Szolgáltatásmenük, KParts (beágyazott alkalmazások), KIO (fájlok elérése speciális protokollok - mint például http vagy ftp - használatával) és KPart-bővítmények (mint például AdBlocker…)</li></ul></description>
     <description xml:lang="ia"><p>Konqueror es le navigator web de KDE e le instrumento universal pro omne typo de gestion de file e de lor vista preliminar.</p><p>Characteristicas:</p><ul><li>Navigation de web usante KHTML o KDEWebKit como motores de rendering</li><li>Gerente de file usante le plus de characteristicas de Dolphin (includente le controlo de version, le menu de servicio e le UI basic)</li><li>Gestion complete su servitores ftp e sftp</li><li>Complete cliente de FTP (tu pote scinder vistas pro monstrar dossieres local e remote e vistas preliminar in le mesme fenestra)</li><li>Applicationes includite pro vista preliminar de files (p.ex. Okular e Calligra pro documentos, Gwenview pro images, KTextEditor pro files de texto)</li><li>Differente typos de pluigin: Menus de servicio, KParts (applicationes insertate), KIO (accesso a files per protocollos special como http o ftp) e plugins de KPart (como AdBlocker...)</li></ul></description>
     <description xml:lang="it"><p>Konqueror è un browser web di KDE e un coltellino svizzero per qualsiasi tipo di gestione e anteprima dei file.</p><p>Funzionalità</p><ul><li>Navigazione web utilizzando KHTML o KDEWebKit come motori di resa</li><li>Gestione dei file utilizzando la maggior parte delle funzionalità di Dolphin (incluse il controllo di versione, i menu di servizio e l'interfaccia di base)</li><li>Gestione dei file su server ftp e sftp</li><li>Client FTP completo di tutte le funzionalità (è possibile dividere la vista per visualizzare le cartelle locali e remote e le anteprime nelle stessa finestra)</li><li>Applicazioni integrate per l'anteprima dei file (ad es. Okular e Calligra per i documenti, Gwenview per le immagini, KTextEditor per i file di testo)</li><li>Diversi tipi di estensioni: menu di servizio, KPart (applicazioni integrate), KIO (accesso ai file utilizzando protocolli specifici come http o ftp) e estensioni KPart (come AdBlocker...)</li></ul></description>
@@ -3884,7 +3519,7 @@
       <lang percentage="25">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">konqueror_16.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">konqueror_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3906,13 +3541,13 @@
     <description xml:lang="ca"><p>El Kontact és la solució integral per a la gestió de la vostra informació personal (PIM) que necessiteu. Combina aplicacions KDE conegudes com el KMail, KOrganizer i KAddressBook en una única interfície per a facilitar l'accés al correu, la planificació, la llibreta d'adreces i altres funcionalitats del PIM.</p></description>
     <description xml:lang="ca_valencia"><p>El Kontact és la solució integral per a la gestió de la vostra informació personal (PIM) que necessiteu. Combina aplicacions KDE conegudes com el KMail, KOrganizer i KAddressBook en una única interfície per a facilitar l'accés al correu, la planificació, la llibreta d'adreces i altres funcionalitats del PIM.</p></description>
     <description xml:lang="cs"><p>Kontact je integrované řešení pro vaše potřeby pro správu osobních informací(PIM). Kombinuje dobře známé aplikace KDE jako KMail, KOrganizer a KAddressBook do jednoho rozhraní pro snadný přístup k poště, plánování, knize adres a další funkcionalitě PIM.</p></description>
-    <description xml:lang="de"><p>Kontact ist das integrierte Programm für Persönliches Informationsmanagement (PIM). Es kombiniert bekannte KDE-Programme wie KMail, KOrganizer und KAddressBook unter einer einheitlichen Oberfläche. Damit hat man einfachen Zugriff auf E-Mail, Termine, Adressbuch und weitere PIM-Funktionen.</p></description>
+    <description xml:lang="de"><p>Kontact ist das integrierte Programm für Persönliche Informationsverwaltung (PIM). Es kombiniert bekannte KDE-Programme wie KMail, KOrganizer und KAddressBook unter einer einheitlichen Oberfläche. Damit hat man einfachen Zugriff auf E-Mail, Termine, Adressbuch und weitere PIM-Funktionen.</p></description>
     <description xml:lang="el"><p>Ο Kontact είναι η ενσωματωμένη λύση για τις ανάγκες διαχείρισης των προσωπικών σας πληροφοριών (PIM). Συνδυάζει γνωστές εφαρμογές του KDE όπως τα KMail, KOrganizer και KAddressBook σε μια και μόνο γραφική διεπαφή για να παρέχει εύκολη πρόσβαση σε ηλ. αλληλογραφία, προγραμματισμό, βιβλίο διευθύνσεων και άλλες λειτουργικότητες PIM.</p></description>
     <description xml:lang="es"><p>Kontact es la solución integrada para sus necesidades de gestión de información personal (PIM). Combina aplicaciones conocidas de KDE como KMail, KOrganizer y KAddressBook en una interfaz sencilla para proporcionar acceso a correo, planificación, libretas de direcciones y otras funcionalidades de PIM.</p></description>
     <description xml:lang="et"><p>Kontact kujutab endast sinu personaalse infohalduse (PIM) vajaduste integreeritud lahendust. See koondab teada-tuntud KDE rakendused, näiteks KMail, KOrganizer ja KDE aadressiraamat, ühte liidesesse, mis võimaldab hõlpsasti kasutada e-posti, ajakavu, aadressiraamatut ja muid PIM-i funktsioone.</p></description>
     <description xml:lang="fi"><p>Kontact on integroitu ratkaisu henkilökohtaisen tiedonhallintasi (PIM) tarpeisiin. Se yhdistää tunnetut KDE-sovellukset kuten KMailin, KOrganizerin ja KAddressBookin yhteen käyttöliittymään, jolloin voit helposti käyttää sähköpostia, ajastuksia, osoitekirjaa tai muita PIM-toimintoja.</p></description>
     <description xml:lang="fr"><p>Kontact est la solution intégrée pour la gestion de vos informations personnelles (PIM). Il combine des applications KDE bien connues telles que KMail, KOrganizer et KAddressBook au sein d'une interface pour fournir un accès facile aux courriers électroniques, agendas, carnets d'adresses et autres fonctionnalités relatives aux informations personnelles.</p></description>
-    <description xml:lang="gl"><p>Kontact é a solución completa que necesita para a súa xestión de información persoal (PIM). Combina programas tradicionais de KDE como KMail, KOrganizer e KAddressBook nunha única interface para facilitar o acceso ao correo, calendarios, cadernos de enderezos e outras funcionalidades de xestión de información persoal.</p></description>
+    <description xml:lang="gl"><p>Kontact é a solución completa que necesita para a súa xestión de información persoal (PIM). Combina aplicativos tradicionais de KDE como KMail, KOrganizer e KAddressBook nunha única interface para facilitar o acceso ao correo, calendarios, cadernos de enderezos e outras funcionalidades de xestión de información persoal.</p></description>
     <description xml:lang="hu"><p>A Kontact az integrált megoldás az Ön személyi információkezelési igényeire. Egy felületen kombinálja a jól ismert KDE alkalmazásokat, mint például a KMail, KOrganizer és KAddressBook, hogy egyszerűen hozzáférhessen leveleihez, naptáraihoz, címjegyzékeihez és más szolgáltatásokhoz.</p></description>
     <description xml:lang="it"><p>Kontact è la soluzione integrata per la gestione delle informazioni personali (PIM). Combina in una singola interfaccia le ben note applicazioni KDE come KMail, KOrganizer e KAddressBook, permettendo di accedere agevolmente alla posta, all'agenda, alla rubrica indirizzi e alle altre funzionalità di PIM.</p></description>
     <description xml:lang="ko"><p>Kontact는 통합된 개인 정보 관리(PIM) 도구입니다. KMail, KOrganizer, KAddresssBook 등 KDE 프로그램을 한 자리에서 접근할 수 있으며, 이메일, 일정, 주소록 및 기타 PIM 기능에 접근할 수 있습니다.</p></description>
@@ -4100,7 +3735,7 @@
       <lang percentage="50">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kontact_16.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">kontact_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4120,6 +3755,7 @@
     <summary xml:lang="da">Lydredigering til KDE</summary>
     <summary xml:lang="de">KWave ist ein Sound-Editor für die KDE-Frameworks 5</summary>
     <summary xml:lang="es">Kwave es un editor de sonido construido sobre KDE Frameworks 5</summary>
+    <summary xml:lang="et">Kwave on KDE Frameworks 5 peale ehitatud heliredaktor</summary>
     <summary xml:lang="fi">Kwave on KDE Frameworks 5 -alustalle suunniteltu äänimuokkain</summary>
     <summary xml:lang="fr">Un éditeur de sons pour KDE</summary>
     <summary xml:lang="gl">Un editor de sons para KDE.</summary>
@@ -4141,6 +3777,7 @@
     <description xml:lang="ca_valencia"><p>Amb el Kwave podeu enregistrar, escoltar, importar i editar molts tipus de fitxers d'àudio inclosos els fitxers multicanal.</p><p>El Kwave inclou alguns connectors per a transformar els fitxers d'àudio de diverses formes, i presenta una vista gràfica amb un capacitat de zoom i desplaçament complets.</p></description>
     <description xml:lang="de"><p>Mit KWave können Sie aufnehmen, abspielen und viele Arten von Audio-Dateien importieren und bearbeiten, einschließlich Dateien mit mehreren Spuren.</p><p>KWave enthält einige Module zum Umwandeln von Audio-Dateien auf verschiedene Arten und bietet eine grafische Ansicht mit umfassenden Möglichkeiten zur Änderung von Größe und Ausschnitt.</p></description>
     <description xml:lang="es"><p>Con Kwave puede grabar, reproducir, importar y editar muchos tipos de archivos de sonido, incluidos los archivos multicanal.</p><p>Kwave contiene algunos complementos para transformar archivos de sonido de varias formas y presenta una interfaz gráfica con completas funciones de ampliación y de desplazamiento.</p></description>
+    <description xml:lang="et"><p>KWave võimaldab salvestada, esitada, importida ja muuta väga mitut laadi helifaile, kaasa arvatud mitme kanaliga faile.</p><p>Kwave pakub mõningaid pluginad helifailide muutmiseks mitmel viisil, samuti graafilist vaadet igakülgse suurendamise ja kerimise toetusega.</p></description>
     <description xml:lang="fi"><p>Kwavella voit äänittää, toistaa, tuoda ja muokata monenlaisia äänitiedostoja, myös useampikanavaisia.</p><p>Kwavessa on liitännäisiä äänen erilaisiin muunnoksiin, ja sen käyttöliittymässä on täydelliset lähennys/loitonnus- ja vieritysominaisuudet.</p></description>
     <description xml:lang="fr"><p>Avec KWave, nous pouvez enregistrer, lire, importer et éditer de nombreuses sortes de fichiers audio, y compris les fichiers multi-pistes.</p><p>KWave inclut des modules externes pour transformer les fichiers audio de différentes façon et offre une vue graphique avec des possibilités de zoom et de défilement.</p></description>
     <description xml:lang="gl"><p>Kwave permítelle gravar, reproducir, importar e editar moitos tipos de ficheiros de son, incluídos ficheiros de varias canles.</p><p>Kwave inclúe algúns complementos para transformar ficheiros de son de varios xeitos, e fornece unha visualización gráfica que pode achegar e afastar.</p></description>
@@ -4344,7 +3981,7 @@
       <lang percentage="34">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kwave_16.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">kwave_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4739,7 +4376,7 @@
     <url type="homepage">https://marble.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">marble_16.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">marble_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4753,10 +4390,12 @@
     <name xml:lang="el">Παγκόσμιος χάρτης</name>
     <name xml:lang="es">Mapa mundial</name>
     <name xml:lang="et">Maailmakaart</name>
+    <name xml:lang="fi">Maailmankartta</name>
     <name xml:lang="it">Mappa del mondo</name>
     <name xml:lang="nl">Wereldkaart</name>
     <name xml:lang="pl">Mapa świata</name>
     <name xml:lang="pt">Mapa-Mundo</name>
+    <name xml:lang="pt_BR">Mapa mundial</name>
     <name xml:lang="sk">Mapa sveta</name>
     <name xml:lang="sl">Zemljevid sveta</name>
     <name xml:lang="sv">Världskarta</name>
@@ -4769,7 +4408,7 @@
     <url type="homepage">https://marble.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">marble_16.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">marble_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4941,94 +4580,13 @@
       <value key="X-CacheID">skanlite_2.0.1-0_amd64.deb</value>
     </metadata>
   </component>
-  <component type="generic">
-    <id>org.kde.slideshow</id>
-    <pkgname>kde-workspace</pkgname>
-    <name>Slideshow</name>
-    <name xml:lang="ar">عرض شرائح</name>
-    <name xml:lang="be@latin">Słajdy</name>
-    <name xml:lang="bg">Прожекция</name>
-    <name xml:lang="bn">স্লাইড-শো</name>
-    <name xml:lang="bn_IN">স্লাইড-শো</name>
-    <name xml:lang="bs">Slajd‑šou</name>
-    <name xml:lang="ca">Passi de diapositives</name>
-    <name xml:lang="ca@valencia">Passe de diapositives</name>
-    <name xml:lang="cs">Promítání</name>
-    <name xml:lang="csb">Pòkôz slajdów</name>
-    <name xml:lang="da">Diasshow</name>
-    <name xml:lang="de">Diaschau</name>
-    <name xml:lang="el">Προβολή σλάιντ</name>
-    <name xml:lang="eo">Bildoserio</name>
-    <name xml:lang="es">Presentación</name>
-    <name xml:lang="et">Slaidiseanss</name>
-    <name xml:lang="eu">Filmina erakusketa</name>
-    <name xml:lang="fi">Diaesitys</name>
-    <name xml:lang="fr">Diaporama</name>
-    <name xml:lang="fy">Diafoarstelling</name>
-    <name xml:lang="ga">Taispeántas Sleamhnán</name>
-    <name xml:lang="gl">Presentación</name>
-    <name xml:lang="gu">સ્લાઇડશો</name>
-    <name xml:lang="he">מצגת</name>
-    <name xml:lang="hi">स्लाइड-शो</name>
-    <name xml:lang="hne">स्लाइडसो</name>
-    <name xml:lang="hr">Prezentacija</name>
-    <name xml:lang="hu">Diabemutató</name>
-    <name xml:lang="ia">Slideshow (Sequentia de diapositivas)</name>
-    <name xml:lang="id">Salindia</name>
-    <name xml:lang="is">Skyggnusýning</name>
-    <name xml:lang="it">Presentazione</name>
-    <name xml:lang="ja">スライドショー</name>
-    <name xml:lang="kk">Слайд көрсетілімі</name>
-    <name xml:lang="km">បញ្ចាំង​ស្លាយ</name>
-    <name xml:lang="kn">ಚಿತ್ರಫಲಕ ಪ್ರದರ್ಶನ (ಸ್ಲೈಡ್ ಶೋ)</name>
-    <name xml:lang="ko">슬라이드 쇼</name>
-    <name xml:lang="ku">NîşandanaSlaydê</name>
-    <name xml:lang="lt">Skaidrių peržiūra</name>
-    <name xml:lang="lv">Slīdrāde</name>
-    <name xml:lang="mai">स्लाइडशो</name>
-    <name xml:lang="mk">Слајдшоу</name>
-    <name xml:lang="ml">മാറുന്ന ചിത്രങ്ങള്‍</name>
-    <name xml:lang="mr">स्लाइडशो</name>
-    <name xml:lang="nb">Lysbildevisning</name>
-    <name xml:lang="nds">Diaschau</name>
-    <name xml:lang="nl">Diavoorstelling</name>
-    <name xml:lang="nn">Lysbiletvising</name>
-    <name xml:lang="or">ସ୍ଲାଇଡ଼ ଦୃଶ୍ୟ</name>
-    <name xml:lang="pa">ਸਲਾਈਡ-ਸ਼ੋ</name>
-    <name xml:lang="pl">Pokaz slajdów</name>
-    <name xml:lang="pt">Apresentação</name>
-    <name xml:lang="pt_BR">Apresentação de slides</name>
-    <name xml:lang="ro">Diapozitiv</name>
-    <name xml:lang="ru">Слайд-шоу</name>
-    <name xml:lang="si">ස්ලයිඩ් දසුන</name>
-    <name xml:lang="sk">Prezentácia</name>
-    <name xml:lang="sl">Predstavitev</name>
-    <name xml:lang="sr">слајд‑шоу</name>
-    <name xml:lang="sr@ijekavian">слајд‑шоу</name>
-    <name xml:lang="sr@ijekavianlatin">slajd‑šou</name>
-    <name xml:lang="sr@latin">slajd‑šou</name>
-    <name xml:lang="sv">Bildspel</name>
-    <name xml:lang="tg">Намоиши слайдҳо</name>
-    <name xml:lang="th">นำเสนอภาพนิ่ง</name>
-    <name xml:lang="tr">Slayt Gösterisi</name>
-    <name xml:lang="ug">تام تەسۋىرى</name>
-    <name xml:lang="uk">Показ слайдів</name>
-    <name xml:lang="wa">Diaporama</name>
-    <name xml:lang="zh_CN">幻灯显示</name>
-    <name xml:lang="zh_TW">投影播放</name>
-    <developer_name>Marco Martin &lt;mart@kde.org&gt;</developer_name>
-    <vetos>
-      <veto>No &lt;summary&gt; in AppData</veto>
-    </vetos>
-    <project_license>GPL-2.0+</project_license>
-    <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.2-0_amd64.deb</value>
-    </metadata>
-  </component>
   <component type="desktop">
     <id>org.kde.spectacle.desktop</id>
     <pkgname>spectacle</pkgname>
     <name>Spectacle</name>
+    <name xml:lang="sr">Спектакл</name>
+    <name xml:lang="sr@ijekavian">Спектакл</name>
+    <name xml:lang="sr_ijekavian">Спектакл</name>
     <description><p>Spectacle is a simple application for capturing desktop screenshots. It can capture images of the entire desktop, a single monitor, the currently active window, the window currently under the mouse, or a rectangular region of the screen. The images can then be printed, sent to other applications for manipulation, or quickly be saved as-is.</p><p>Features:</p><ul><li>Capture Entire Desktop</li><li>Capture Current Monitor</li><li>Capture Active Window</li><li>Capture Rectangular Region</li><li>Keyboard shortcuts for taking screenshots</li></ul></description>
     <description xml:lang="ca"><p>L'Spectacle és una aplicació per a prendre captures de pantalla de l'escriptori. Pot capturar imatges de tot l'escriptori, un sol monitor, la finestra activa, la finestra sota el ratolí o d'una regió rectangular de la pantalla. Les imatges es poden imprimir, enviar a altres aplicacions per a la seva manipulació o desar-les com estan.</p><p>Característiques:</p><ul><li>Captura l'escriptori sencer</li><li>Captura el monitor actual</li><li>Captura la finestra activa</li><li>Captura una regió rectangular</li><li>Dreceres de teclat per a prendre captures de pantalla</li></ul></description>
     <description xml:lang="ca_valencia"><p>L'Spectacle és una aplicació per a prendre captures de pantalla de l'escriptori. Pot capturar imatges de tot l'escriptori, un sol monitor, la finestra activa, la finestra sota el ratolí o d'una regió rectangular de la pantalla. Les imatges es poden imprimir, enviar a altres aplicacions per a la seua manipulació o guardar-les com estan.</p><p>Característiques:</p><ul><li>Captura l'escriptori sencer</li><li>Captura el monitor actual</li><li>Captura la finestra activa</li><li>Captura una regió rectangular</li><li>Dreceres de teclat per a prendre captures de pantalla</li></ul></description>
@@ -5040,16 +4598,22 @@
     <description xml:lang="he"><p>תכונות</p><ul><li>צילום כל שולחן עבודה</li><li>צילום המסך הנוכחי</li><li>צילום החלון הפעיל</li><li>צילון מלבן</li><li>קיצור דרך לצילום מסך</li></ul></description>
     <description xml:lang="id"><p>Spectacle adalah aplikasi sederhana untuk menangkap cuplikan layar desktop. Hal ini bisa menangkap citra-citra dari seluruh desktop, monitor tunggal, jendela yang sedang aktif, jendela saat ini yang sedang di bawah  mouse, atau wilayah berbentuk persegi pada layar. Citra-citra kemudian bisa dicetak, dikirim ke aplikasi lain untuk manipulasi, atau secara cepat disimpan sebagai apa.</p><p>Fitur:</p><ul><li>Tangkap Entri Desktop</li><li>Tangkap Monitor Saat Ini</li><li>Tangkap Jendela Aktif</li><li>Tangkap Wilayah Berbentuk Persegi</li><li>Pintasan keyboard untuk mengambil cuplikan-layar</li></ul></description>
     <description xml:lang="it"><p>Spectacle è una semplice applicazione per catturare schermate. Può acquisire immagini dell'intero desktop, di un singolo monitor, della finestra attiva, della finestra sotto il puntatore del mouse, o di una regione rettangolare dello schermo. Le immagini possono essere stampate, inviate ad altre applicazioni per essere modificate, o salvate rapidamente così come sono.</p><p>Funzionalità:</p><ul><li>Cattura l'intero desktop</li><li>Cattura il monitor attuale</li><li>Cattura la finestra attiva</li><li>Cattura una regione rettangolare</li><li>Scorciatoie di tastiera per acquisire schermate</li></ul></description>
+    <description xml:lang="ko"><p>Spectacle은 데스크톱 스크린샷을 찍는 프로그램입니다. 전체 데스크톱, 단일 모니터, 활성 창, 마우스 아래 창, 화면의 사각형 영역을 찍을 수 있습니다. 사진을 인쇄하거나, 그대로 저장하거나, 다른 프로그램에서 곧바로 편집할 수 있습니다.</p><p>기능:</p><ul><li>전체 데스크톱 찍기</li><li>현재 모니터 찍기</li><li>활성 창 찍기</li><li>화면의 사각형 영역 찍기</li><li>화면 스크린샷 찍기 단축키</li></ul></description>
     <description xml:lang="nl"><p>Spectacle is een eenvoudige toepassing voor het opnemen van schermafbeeldingen van het bureaublad. Het kan afbeeldingen van het gehele bureaublad, een enkele monitor, het nu actieve venster, het venster nu onder de muis of een rechthoekig gebied van het scherm. De afbeelding kan dan afgedrukt worden, naar een andere toepassing voor bewerking worden verzonden of snel worden opgeslagen zoals deze nu is.</p><p>Mogelijkheden:</p><ul><li>Opname van het gehele bureaublad</li><li>Opname van de huidige monitor</li><li>Opname van het actieve venster</li><li>Opname van een rechthoekig gebied</li><li>Sneltoetsen voor het maken van schermafdrukken</li></ul></description>
     <description xml:lang="nn"><p>Spectacle er eit enkel program for å ta skjermbilete. Det kan ta bilete av heile skrivebordet, ein einskild skjerm, det gjeldande vindauget, vindauget under musepeikaren eller eit utsnitt av skjermflata. Bileta kan skrivast ut, sendast til andre program for vidare arbeid eller lagrast direkte.</p><p>Funksjonar:</p><ul><li>Ta bilete av heile skrivebordet</li><li>Ta bilete av gjeldande skjerm</li><li>Ta bilete av aktivt vindauge</li><li>Ta bilete av skjermutsnitt</li><li>Snøggtastar for å ta bilete av skjermen</li></ul></description>
     <description xml:lang="pl"><p>Spectacle to prosta aplikacja do wykonywania zrzutów ekranu. Za jej pomocą można przechwycić cały pulpit, pojedynczy monitor, obecnie aktywne okno, okno obecnie pod wskaźnikiem myszy lub prostokątny obszar ekrany. Zrzuty można wydrukować, wysłać do innej aplikacji do obróbki lub szybko zapisać tak jak go wykonano.</p><p>Możliwości:</p><ul><li>Przechwytywanie całego pulpitu</li><li>Przechwytywanie bieżącego monitora</li><li>Przechwytywanie aktywnego okna</li><li>Przechwytywanie obszaru prostokątnego</li><li>Skróty klawiszowe do wykonywania zrzutów ekranu</li></ul></description>
     <description xml:lang="pt"><p>O Spectacle é uma aplicação simples para capturar imagens do ecrã. Pode capturar imagens de todo o ecrã, de um único monitor, da janela activa no momento, da janela sob o cursor do rato ou de uma região rectangular do ecrã. As imagens poderão então ser impressas, enviadas para outras aplicações para posterior manipulação ou serem gravadas como estão.</p><p>Funcionalidades:</p><ul><li>Captura de Todo o Ecrã</li><li>Captura do Monitor Actual</li><li>Captura da Janela Activa</li><li>Captura de uma Região Rectangular</li><li>Atalhos do teclado para capturar as imagens</li></ul></description>
     <description xml:lang="pt_BR"><p>Recursos:</p><ul></ul></description>
+    <description xml:lang="ru"><p>Spectacle — простая программа для создания снимков экрана (скриншотов). Она позволяет делать снимки всех экранов, отдельного экрана, текущего или выбранного окна и прямоугольных областей на экране. Далее снимок можно напечатать, открыть в других приложениях или сохранить в файл нажатием одной кнопки.</p><p>Возможности:</p><ul><li>Создание снимка всех экранов;</li><li>Создание снимка текущего экрана;</li><li>Создание снимка активного окна;</li><li>Создание снимка прямоугольной области экрана;</li><li>Создания снимков экрана нажатием комбинаций клавиш на клавиатуре.</li></ul></description>
     <description xml:lang="sk"><p>Spectacle je jednoduchá aplikácia na snímanie plochy. Dokáže zachytiť obrázky celej plochy, jedného monitora, aktívneho okna, okna pod myšou alebo pravouhlej oblasti obrazovky. Obrázky sa dajú tlačiť, poslať do inej aplikácie na manipuláciu alebo rýchlo uložiť tak, ako sú.</p><p>Funkcie:</p><ul><li>Zachytiť celú plochu</li><li>Zachytiť aktuálny monitor</li><li>Zachytiť aktuálne okno</li><li>Zachytiť pravouhlú oblasť</li><li>Klávesové skratky na tvorbu snímok</li></ul></description>
     <description xml:lang="sl"><p>Spectacle je preprost program za zajemanje zaslonskih slik namizja. Zajame lahko slike celotnega namizja, enega zaslona, trenutno dejavnega okna, okna pod miško ali pravokotnega območja pod miško. Te slike lahko nato natisnete, pošljete v druge programe ali pa hitro shranite.</p><p>Zmožnosti:</p><ul><li>Zajem celotnega namizja</li><li>Zajem trenutnega zaslona</li><li>Zajem dejavnega okna</li><li>Zajem pravokotnega območja</li><li>Tipkovne bližnjice za zajemanje zaslonskih slik</li></ul></description>
+    <description xml:lang="sr"><p>Спектакл је једноставан програм за хватање снимака екрана. Може да сними целу површ, један монитор, тренутно активни прозор, прозор тренутно под мишем, или правоугаону зону екрана. Слике могу да се штампају, шаљу у друге програме на обраду или брзо сачувају такве какве су.</p><p>Могућности:</p><ul><li>снимање целе површи</li><li>снимање тренутног монитора</li><li>снимање активног прозора</li><li>снимање правоугаоне зоне</li><li>пречице са тастатуре за хватање снимака</li></ul></description>
+    <description xml:lang="sr_Latn"><p>Spectacle je jednostavan program za hvatanje snimaka ekrana. Može da snimi celu površ, jedan monitor, trenutno aktivni prozor, prozor trenutno pod mišem, ili pravougaonu zonu ekrana. Slike mogu da se štampaju, šalju u druge programe na obradu ili brzo sačuvaju takve kakve su.</p><p>Mogućnosti:</p><ul><li>snimanje cele površi</li><li>snimanje trenutnog monitora</li><li>snimanje aktivnog prozora</li><li>snimanje pravougaone zone</li><li>prečice sa tastature za hvatanje snimaka</li></ul></description>
+    <description xml:lang="sr_ijekavian"><p>Спектакл је једноставан програм за хватање снимака екрана. Може да сними целу површ, један монитор, тренутно активни прозор, прозор тренутно под мишем, или правоугаону зону екрана. Слике могу да се штампају, шаљу у друге програме на обраду или брзо сачувају такве какве су.</p><p>Могућности:</p><ul><li>снимање целе површи</li><li>снимање тренутног монитора</li><li>снимање активног прозора</li><li>снимање правоугаоне зоне</li><li>пречице са тастатуре за хватање снимака</li></ul></description>
+    <description xml:lang="sr_ijekavianlatin"><p>Spectacle je jednostavan program za hvatanje snimaka ekrana. Može da snimi celu površ, jedan monitor, trenutno aktivni prozor, prozor trenutno pod mišem, ili pravougaonu zonu ekrana. Slike mogu da se štampaju, šalju u druge programe na obradu ili brzo sačuvaju takve kakve su.</p><p>Mogućnosti:</p><ul><li>snimanje cele površi</li><li>snimanje trenutnog monitora</li><li>snimanje aktivnog prozora</li><li>snimanje pravougaone zone</li><li>prečice sa tastature za hvatanje snimaka</li></ul></description>
     <description xml:lang="sv"><p>Spectacle är ett enkelt program för att ta skärmbilder av skrivbordet. Det kan ta bilder av hela skrivbordet, en enda bildskärm, fönstret som för närvarande är aktivt, fönstret som för närvarande är under musen, eller ett rektangulärt skärmområde. Bilderna kan därefter skrivas ut, skickas till andra program för behandling, eller snabbt sparas som de är.</p><p>Funktioner:</p><ul><li>Ta en bild av hela skrivbordet</li><li>Ta en bild av aktuell bildskärm</li><li>Ta en bild av aktivt fönster</li><li>Ta en bild av ett rektangulärt område</li><li>Snabbtangenter för att ta skärmbilder</li></ul></description>
     <description xml:lang="uk"><p>Spectacle — проста програма для створення знімків екрана. Передбачено можливість захоплення знімків усієї стільниці, окремого монітора, поточного активного вікна, вікна під вказівником миші або прямокутної ділянки на екрані. Створені зображення можна надрукувати, надіслати до іншої програми для обробки або зберегти без змін.</p><p>Можливості:</p><ul><li>Захоплення зображення усієї стільниці</li><li>Захоплення зображення на поточному моніторі</li><li>Захоплення зображення активного вікна</li><li>Захоплення зображення прямокутної ділянки</li><li>Створення знімків за допомогою натискання комбінацій клавіш</li></ul></description>
-    <description xml:lang="zh_CN"><p>功能：</p><ul><li>抓取整个桌面</li><li>抓取当前显示器</li><li>抓取当前活动窗口</li><li>抓取方形区域</li></ul></description>
+    <description xml:lang="zh_CN"><p>Spectacle 是一个用于抓取桌面截图的简单应用程序。它可以抓取整个桌面、单个显示器、当前活动窗口、鼠标所在的窗口或是屏幕上的一块方形区域的图像。这些图像稍后便可以用于打印、向其它应用程序发送以进行进一步操作或是直接保存下来。</p><p>功能：</p><ul><li>抓取整个桌面</li><li>抓取当前显示器</li><li>抓取当前活动窗口</li><li>抓取方形区域</li><li>用于截图的键盘快捷键</li></ul></description>
     <description xml:lang="zh_TW"><p>Spectale 是一個用來擷取桌面快照的簡易應用程式。它可以擷取整個桌面、單一個顯示器、目前作用中的視窗、目前滑鼠底下的的視窗或是螢幕上的矩形區域等。其所擷取的圖片可以被列印、傳送到其他應用程式以供進一步操作或是快速儲存而不進行修改。</p><p>功能：</p><ul><li>擷取整個桌面</li><li>擷取目前螢幕</li><li>擷取作用中的視窗</li><li>擷取矩形區域</li><li>螢幕快照的鍵盤快捷鍵</li></ul></description>
     <icon type="cached" height="64" width="64">64x64/org.kde.spectacle.png</icon>
     <categories>
@@ -5220,7 +4784,7 @@
       <lang percentage="34">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">spectacle_16.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">spectacle_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -5348,7 +4912,7 @@
     </vetos>
     <url type="homepage">http://kde.org</url>
     <metadata>
-      <value key="X-CacheID">kaccounts-providers_16.12.0-0_amd64.deb</value>
+      <value key="X-CacheID">kaccounts-providers_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -5367,7 +4931,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-8fb537f75491e1937456ee084bd0bb05.png</image>
+        <image type="source" height="48" width="640">file:/roboto-a3073296d2b4190c7f0c635dd8f8a774.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5579,6 +5143,203 @@
     </languages>
     <metadata>
       <value key="X-CacheID">roboto-fonts_2.136-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
+    <id>ttf-ancient-fonts</id>
+    <pkgname>ttf-ancient-fonts</pkgname>
+    <name>Ancient Fonts</name>
+    <summary>Unicode Fonts for Ancient symbols, typefaces, and scripts</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <languages>
+      <lang>aa</lang>
+      <lang>ab</lang>
+      <lang>af</lang>
+      <lang>an</lang>
+      <lang percentage="26">ar</lang>
+      <lang percentage="59">as</lang>
+      <lang percentage="29">ast</lang>
+      <lang>av</lang>
+      <lang>ay</lang>
+      <lang>az-az</lang>
+      <lang>ba</lang>
+      <lang>be</lang>
+      <lang>bg</lang>
+      <lang>bi</lang>
+      <lang percentage="30">bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang>br</lang>
+      <lang>bs</lang>
+      <lang>bua</lang>
+      <lang>ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang>ce</lang>
+      <lang>ch</lang>
+      <lang>chm</lang>
+      <lang>co</lang>
+      <lang>crh</lang>
+      <lang>cs</lang>
+      <lang>csb</lang>
+      <lang>cu</lang>
+      <lang>cy</lang>
+      <lang>da</lang>
+      <lang>de</lang>
+      <lang>el</lang>
+      <lang>en</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang>eo</lang>
+      <lang>es</lang>
+      <lang>et</lang>
+      <lang>eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang>fi</lang>
+      <lang>fil</lang>
+      <lang>fj</lang>
+      <lang>fo</lang>
+      <lang>fr</lang>
+      <lang>fur</lang>
+      <lang>fy</lang>
+      <lang>gd</lang>
+      <lang>gl</lang>
+      <lang percentage="59">gu</lang>
+      <lang>gv</lang>
+      <lang>haw</lang>
+      <lang percentage="70">he</lang>
+      <lang percentage="59">hi</lang>
+      <lang>ho</lang>
+      <lang>hr</lang>
+      <lang>hsb</lang>
+      <lang>ht</lang>
+      <lang>hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang>ia</lang>
+      <lang>id</lang>
+      <lang>ie</lang>
+      <lang>ik</lang>
+      <lang>io</lang>
+      <lang>is</lang>
+      <lang>it</lang>
+      <lang percentage="44">ja</lang>
+      <lang>jv</lang>
+      <lang>kaa</lang>
+      <lang>ki</lang>
+      <lang>kj</lang>
+      <lang>kk</lang>
+      <lang>kl</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="70">ko</lang>
+      <lang>ku-am</lang>
+      <lang>ku-tr</lang>
+      <lang>kum</lang>
+      <lang>kv</lang>
+      <lang>kwm</lang>
+      <lang>ky</lang>
+      <lang>la</lang>
+      <lang>lb</lang>
+      <lang>lez</lang>
+      <lang>lg</lang>
+      <lang>li</lang>
+      <lang>lt</lang>
+      <lang>lv</lang>
+      <lang>mg</lang>
+      <lang>mh</lang>
+      <lang>mk</lang>
+      <lang percentage="38">ml</lang>
+      <lang>mn-mn</lang>
+      <lang>mo</lang>
+      <lang percentage="59">mr</lang>
+      <lang>ms</lang>
+      <lang>mt</lang>
+      <lang>na</lang>
+      <lang>nb</lang>
+      <lang>nds</lang>
+      <lang>ng</lang>
+      <lang>nl</lang>
+      <lang>nn</lang>
+      <lang>no</lang>
+      <lang>nr</lang>
+      <lang>nso</lang>
+      <lang>ny</lang>
+      <lang>oc</lang>
+      <lang>om</lang>
+      <lang percentage="59">or</lang>
+      <lang>os</lang>
+      <lang percentage="60">pa</lang>
+      <lang>pap-an</lang>
+      <lang>pap-aw</lang>
+      <lang>pl</lang>
+      <lang>pt</lang>
+      <lang percentage="70">pt_BR</lang>
+      <lang>rm</lang>
+      <lang>rn</lang>
+      <lang>ro</lang>
+      <lang>ru</lang>
+      <lang>rw</lang>
+      <lang>sah</lang>
+      <lang>sc</lang>
+      <lang>sco</lang>
+      <lang>se</lang>
+      <lang>sel</lang>
+      <lang>sg</lang>
+      <lang>shs</lang>
+      <lang>sk</lang>
+      <lang>sl</lang>
+      <lang>sm</lang>
+      <lang>sma</lang>
+      <lang>smj</lang>
+      <lang>smn</lang>
+      <lang>sn</lang>
+      <lang>so</lang>
+      <lang>sq</lang>
+      <lang>sr</lang>
+      <lang percentage="70">sr@latin</lang>
+      <lang>ss</lang>
+      <lang>st</lang>
+      <lang>su</lang>
+      <lang>sv</lang>
+      <lang>sw</lang>
+      <lang percentage="59">ta</lang>
+      <lang percentage="59">te</lang>
+      <lang>tg</lang>
+      <lang percentage="70">th</lang>
+      <lang>tk</lang>
+      <lang>tl</lang>
+      <lang>tn</lang>
+      <lang>to</lang>
+      <lang>tr</lang>
+      <lang>ts</lang>
+      <lang>tt</lang>
+      <lang>ty</lang>
+      <lang>tyv</lang>
+      <lang percentage="56">ug</lang>
+      <lang>uk</lang>
+      <lang>uz</lang>
+      <lang percentage="60">vi</lang>
+      <lang>vo</lang>
+      <lang>vot</lang>
+      <lang>wa</lang>
+      <lang>wen</lang>
+      <lang>wo</lang>
+      <lang>xh</lang>
+      <lang>yap</lang>
+      <lang>za</lang>
+      <lang percentage="60">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="70">zh_TW</lang>
+      <lang>zu</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -5861,6 +5622,248 @@
     </metadata>
   </component>
   <component type="font">
+    <id>ttf-indic</id>
+    <pkgname>ttf-indic</pkgname>
+    <name>Indic Opentype Fonts</name>
+    <summary>Indic Opentype Fonts collection</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <languages>
+      <lang>aa</lang>
+      <lang>an</lang>
+      <lang percentage="26">ar</lang>
+      <lang>as</lang>
+      <lang percentage="29">ast</lang>
+      <lang>ay</lang>
+      <lang percentage="57">be</lang>
+      <lang percentage="60">bg</lang>
+      <lang>bh</lang>
+      <lang>bho</lang>
+      <lang>bi</lang>
+      <lang>bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang>br</lang>
+      <lang percentage="59">bs</lang>
+      <lang percentage="70">ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang>ch</lang>
+      <lang>co</lang>
+      <lang percentage="70">cs</lang>
+      <lang>da</lang>
+      <lang>de</lang>
+      <lang percentage="60">el</lang>
+      <lang>en</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang percentage="53">eo</lang>
+      <lang>es</lang>
+      <lang percentage="36">et</lang>
+      <lang>eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang percentage="50">fi</lang>
+      <lang>fil</lang>
+      <lang>fj</lang>
+      <lang>fo</lang>
+      <lang>fr</lang>
+      <lang>fur</lang>
+      <lang>fy</lang>
+      <lang>gd</lang>
+      <lang>gl</lang>
+      <lang>gu</lang>
+      <lang>gv</lang>
+      <lang percentage="70">he</lang>
+      <lang>hi</lang>
+      <lang>hne</lang>
+      <lang>ho</lang>
+      <lang percentage="97">hr</lang>
+      <lang>ht</lang>
+      <lang percentage="70">hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang>ia</lang>
+      <lang>id</lang>
+      <lang>ie</lang>
+      <lang>io</lang>
+      <lang>is</lang>
+      <lang>it</lang>
+      <lang percentage="44">ja</lang>
+      <lang>jv</lang>
+      <lang>kj</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="70">ko</lang>
+      <lang>kok</lang>
+      <lang>kwm</lang>
+      <lang>lb</lang>
+      <lang>li</lang>
+      <lang percentage="70">lt</lang>
+      <lang percentage="70">lv</lang>
+      <lang>mai</lang>
+      <lang>mg</lang>
+      <lang percentage="38">ml</lang>
+      <lang>mr</lang>
+      <lang>ms</lang>
+      <lang>nb</lang>
+      <lang>nds</lang>
+      <lang>ne</lang>
+      <lang>ng</lang>
+      <lang>nl</lang>
+      <lang>nn</lang>
+      <lang>no</lang>
+      <lang>nr</lang>
+      <lang>nso</lang>
+      <lang>oc</lang>
+      <lang>om</lang>
+      <lang percentage="59">or</lang>
+      <lang percentage="60">pa</lang>
+      <lang>pap-an</lang>
+      <lang>pap-aw</lang>
+      <lang percentage="70">pl</lang>
+      <lang>pt</lang>
+      <lang percentage="70">pt_BR</lang>
+      <lang>rm</lang>
+      <lang>rn</lang>
+      <lang percentage="48">ro</lang>
+      <lang percentage="60">ru</lang>
+      <lang>rw</lang>
+      <lang>sa</lang>
+      <lang>sat</lang>
+      <lang>sc</lang>
+      <lang>sg</lang>
+      <lang percentage="70">sk</lang>
+      <lang percentage="60">sl</lang>
+      <lang>sma</lang>
+      <lang>smj</lang>
+      <lang>sn</lang>
+      <lang>so</lang>
+      <lang>sq</lang>
+      <lang percentage="70">sr</lang>
+      <lang percentage="70">sr@latin</lang>
+      <lang>ss</lang>
+      <lang>st</lang>
+      <lang>su</lang>
+      <lang>sv</lang>
+      <lang>sw</lang>
+      <lang>ta</lang>
+      <lang percentage="59">te</lang>
+      <lang percentage="70">th</lang>
+      <lang>tl</lang>
+      <lang>tn</lang>
+      <lang percentage="60">tr</lang>
+      <lang>ts</lang>
+      <lang percentage="56">ug</lang>
+      <lang percentage="59">uk</lang>
+      <lang>uz</lang>
+      <lang percentage="60">vi</lang>
+      <lang>vo</lang>
+      <lang>wa</lang>
+      <lang>xh</lang>
+      <lang>yap</lang>
+      <lang>za</lang>
+      <lang percentage="60">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="70">zh_TW</lang>
+      <lang>zu</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
+    <id>ttf-tagbanwa</id>
+    <pkgname>ttf-tagbanwa</pkgname>
+    <name>Tagbanwa Fonts</name>
+    <summary>A free Unicode TrueType font for the Tagbanwa script</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <languages>
+      <lang percentage="57">an</lang>
+      <lang percentage="26">ar</lang>
+      <lang percentage="59">as</lang>
+      <lang percentage="29">ast</lang>
+      <lang percentage="57">be</lang>
+      <lang percentage="60">bg</lang>
+      <lang percentage="30">bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang percentage="59">bs</lang>
+      <lang percentage="70">ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang percentage="70">cs</lang>
+      <lang percentage="70">da</lang>
+      <lang percentage="70">de</lang>
+      <lang percentage="60">el</lang>
+      <lang>en</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang percentage="53">eo</lang>
+      <lang percentage="70">es</lang>
+      <lang percentage="36">et</lang>
+      <lang percentage="70">eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang percentage="50">fi</lang>
+      <lang percentage="70">fr</lang>
+      <lang percentage="70">gl</lang>
+      <lang percentage="59">gu</lang>
+      <lang percentage="70">he</lang>
+      <lang percentage="59">hi</lang>
+      <lang percentage="97">hr</lang>
+      <lang percentage="70">hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang percentage="36">ia</lang>
+      <lang percentage="60">id</lang>
+      <lang percentage="70">it</lang>
+      <lang percentage="44">ja</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="70">ko</lang>
+      <lang percentage="70">lt</lang>
+      <lang percentage="70">lv</lang>
+      <lang percentage="38">ml</lang>
+      <lang percentage="59">mr</lang>
+      <lang percentage="64">nb</lang>
+      <lang percentage="42">nl</lang>
+      <lang percentage="70">oc</lang>
+      <lang percentage="59">or</lang>
+      <lang percentage="60">pa</lang>
+      <lang percentage="70">pl</lang>
+      <lang percentage="70">pt</lang>
+      <lang percentage="70">pt_BR</lang>
+      <lang percentage="48">ro</lang>
+      <lang percentage="60">ru</lang>
+      <lang percentage="70">sk</lang>
+      <lang percentage="60">sl</lang>
+      <lang percentage="70">sr</lang>
+      <lang percentage="70">sr@latin</lang>
+      <lang percentage="70">sv</lang>
+      <lang percentage="59">ta</lang>
+      <lang percentage="59">te</lang>
+      <lang percentage="70">th</lang>
+      <lang percentage="60">tr</lang>
+      <lang percentage="56">ug</lang>
+      <lang percentage="59">uk</lang>
+      <lang percentage="60">vi</lang>
+      <lang percentage="60">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="70">zh_TW</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
     <id>ttf-ubraille</id>
     <pkgname>ttf-ubraille</pkgname>
     <name>UBraille</name>
@@ -5872,6 +5875,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-a24389d595f56473fede591a4632271d.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang percentage="57">an</lang>
       <lang percentage="26">ar</lang>
