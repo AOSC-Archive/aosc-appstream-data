@@ -39,5 +39,4 @@ appstream-builder --api-version=0.8 \
 
 Where...
 
-- /appstream-worker/os3-rpm Contains a full mirror of the `os3-rpm` repository directory.
 - /repodata contains all that can be found in this repository.
