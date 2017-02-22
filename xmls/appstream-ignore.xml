@@ -8898,13 +8898,6 @@
     </metadata>
   </component>
   <component>
-    <id>jsmath-fonts.(null)</id>
-    <pkgname>jsmath-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">jsmath-fonts_20161221-0_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>json-c+32.(null)</id>
     <pkgname>json-c+32</pkgname>
     <metadata>
@@ -14607,6 +14600,13 @@
     <pkgname>linux-kernel-4.9.10</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-4.9.10_4.9.10-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-4.9.11.(null)</id>
+    <pkgname>linux-kernel-4.9.11</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.9.11_4.9.11-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24270,13 +24270,6 @@
     </metadata>
   </component>
   <component>
-    <id>ttf-ancient-fonts.(null)</id>
-    <pkgname>ttf-ancient-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>ttf-arphic-ukai.(null)</id>
     <pkgname>ttf-arphic-ukai</pkgname>
     <metadata>
@@ -24309,13 +24302,6 @@
     <pkgname>ttf-indic</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-tagbanwa.(null)</id>
-    <pkgname>ttf-tagbanwa</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
