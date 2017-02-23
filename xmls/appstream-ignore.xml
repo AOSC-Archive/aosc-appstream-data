@@ -1156,13 +1156,6 @@
     </metadata>
   </component>
   <component>
-    <id>averia-fonts.(null)</id>
-    <pkgname>averia-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">averia-fonts_20111109-0_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>avfs.(null)</id>
     <pkgname>avfs</pkgname>
     <metadata>
@@ -8895,6 +8888,13 @@
     <pkgname>js</pkgname>
     <metadata>
       <value key="X-CacheID">js_1.8.5-3_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>jsmath-fonts.(null)</id>
+    <pkgname>jsmath-fonts</pkgname>
+    <metadata>
+      <value key="X-CacheID">jsmath-fonts_20161221-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -24270,6 +24270,13 @@
     </metadata>
   </component>
   <component>
+    <id>ttf-ancient-fonts.(null)</id>
+    <pkgname>ttf-ancient-fonts</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>ttf-arphic-ukai.(null)</id>
     <pkgname>ttf-arphic-ukai</pkgname>
     <metadata>
@@ -24302,6 +24309,13 @@
     <pkgname>ttf-indic</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ttf-tagbanwa.(null)</id>
+    <pkgname>ttf-tagbanwa</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
