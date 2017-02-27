@@ -5545,13 +5545,6 @@
     </metadata>
   </component>
   <component>
-    <id>font-awesome.(null)</id>
-    <pkgname>font-awesome</pkgname>
-    <metadata>
-      <value key="X-CacheID">font-awesome_4.7.0-0_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>fontconfig+32.(null)</id>
     <pkgname>fontconfig+32</pkgname>
     <metadata>
@@ -11408,6 +11401,13 @@
     <pkgname>libdmtx</pkgname>
     <metadata>
       <value key="X-CacheID">libdmtx_0.7.4-2_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libdnet.(null)</id>
+    <pkgname>libdnet</pkgname>
+    <metadata>
+      <value key="X-CacheID">libdnet_1.12-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -17449,6 +17449,13 @@
     <pkgname>open-iscsi</pkgname>
     <metadata>
       <value key="X-CacheID">open-iscsi_2.0.873-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>open-vm-tools.(null)</id>
+    <pkgname>open-vm-tools</pkgname>
+    <metadata>
+      <value key="X-CacheID">open-vm-tools_10.1.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -26500,6 +26507,13 @@
     <pkgname>xmlrpc-c</pkgname>
     <metadata>
       <value key="X-CacheID">xmlrpc-c_1.41.01-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>xmlsec.(null)</id>
+    <pkgname>xmlsec</pkgname>
+    <metadata>
+      <value key="X-CacheID">xmlsec_1.2.23-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
