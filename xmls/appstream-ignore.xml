@@ -2339,6 +2339,13 @@
     </metadata>
   </component>
   <component>
+    <id>cg.(null)</id>
+    <pkgname>cg</pkgname>
+    <metadata>
+      <value key="X-CacheID">cg_3.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>cgdb.(null)</id>
     <pkgname>cgdb</pkgname>
     <metadata>
@@ -4047,6 +4054,13 @@
     </metadata>
   </component>
   <component>
+    <id>discover.(null)</id>
+    <pkgname>discover</pkgname>
+    <metadata>
+      <value key="X-CacheID">discover_5.5.3-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>dislocker.(null)</id>
     <pkgname>dislocker</pkgname>
     <metadata>
@@ -5545,6 +5559,13 @@
     </metadata>
   </component>
   <component>
+    <id>font-awesome.(null)</id>
+    <pkgname>font-awesome</pkgname>
+    <metadata>
+      <value key="X-CacheID">font-awesome_4.7.0-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>fontconfig+32.(null)</id>
     <pkgname>fontconfig+32</pkgname>
     <metadata>
@@ -6823,6 +6844,13 @@
     <pkgname>gnome-shell</pkgname>
     <metadata>
       <value key="X-CacheID">gnome-shell_3.18.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>gnome-software.(null)</id>
+    <pkgname>gnome-software</pkgname>
+    <metadata>
+      <value key="X-CacheID">gnome-software_3.20.3-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -8937,6 +8965,13 @@
     <pkgname>js</pkgname>
     <metadata>
       <value key="X-CacheID">js_1.8.5-3_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>jsmath-fonts.(null)</id>
+    <pkgname>jsmath-fonts</pkgname>
+    <metadata>
+      <value key="X-CacheID">jsmath-fonts_20161221-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -17561,6 +17596,13 @@
     <pkgname>opencv</pkgname>
     <metadata>
       <value key="X-CacheID">opencv_2.4.10-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>openexr-viewers.(null)</id>
+    <pkgname>openexr-viewers</pkgname>
+    <metadata>
+      <value key="X-CacheID">openexr-viewers_2.2.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>

@@ -169,14 +169,6 @@
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-d6d9b49af614da836986f7162c60b5c3.png</image>
-      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -418,14 +410,6 @@
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d6d9b49af614da836986f7162c60b5c3.png</image>
-      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -666,14 +650,6 @@
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-d6d9b49af614da836986f7162c60b5c3.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -989,6 +965,204 @@
     </languages>
     <metadata>
       <value key="X-CacheID">droid-fallback-fonts_6.0.1r16-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
+    <id>font-awesome</id>
+    <pkgname>font-awesome</pkgname>
+    <name>Font-Awesome</name>
+    <summary>A set of iconic fonts</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <languages>
+      <lang percentage="57">an</lang>
+      <lang percentage="26">ar</lang>
+      <lang percentage="59">as</lang>
+      <lang percentage="29">ast</lang>
+      <lang percentage="57">be</lang>
+      <lang percentage="60">bg</lang>
+      <lang percentage="30">bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang percentage="59">bs</lang>
+      <lang percentage="70">ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang percentage="70">cs</lang>
+      <lang percentage="70">da</lang>
+      <lang percentage="70">de</lang>
+      <lang percentage="60">el</lang>
+      <lang>en</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang percentage="53">eo</lang>
+      <lang percentage="70">es</lang>
+      <lang percentage="36">et</lang>
+      <lang percentage="70">eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang percentage="50">fi</lang>
+      <lang percentage="70">fr</lang>
+      <lang percentage="70">gl</lang>
+      <lang percentage="59">gu</lang>
+      <lang percentage="70">he</lang>
+      <lang percentage="59">hi</lang>
+      <lang percentage="97">hr</lang>
+      <lang percentage="70">hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang percentage="36">ia</lang>
+      <lang percentage="60">id</lang>
+      <lang percentage="70">it</lang>
+      <lang percentage="44">ja</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="70">ko</lang>
+      <lang percentage="70">lt</lang>
+      <lang percentage="70">lv</lang>
+      <lang percentage="38">ml</lang>
+      <lang percentage="59">mr</lang>
+      <lang percentage="64">nb</lang>
+      <lang percentage="42">nl</lang>
+      <lang percentage="70">oc</lang>
+      <lang percentage="59">or</lang>
+      <lang percentage="60">pa</lang>
+      <lang percentage="70">pl</lang>
+      <lang percentage="70">pt</lang>
+      <lang percentage="70">pt_BR</lang>
+      <lang percentage="48">ro</lang>
+      <lang percentage="60">ru</lang>
+      <lang percentage="70">sk</lang>
+      <lang percentage="60">sl</lang>
+      <lang percentage="70">sr</lang>
+      <lang percentage="70">sr@latin</lang>
+      <lang percentage="70">sv</lang>
+      <lang percentage="59">ta</lang>
+      <lang percentage="59">te</lang>
+      <lang percentage="70">th</lang>
+      <lang percentage="60">tr</lang>
+      <lang percentage="56">ug</lang>
+      <lang percentage="59">uk</lang>
+      <lang percentage="60">vi</lang>
+      <lang percentage="60">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="70">zh_TW</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">font-awesome_4.7.0-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
+    <id>jsmath</id>
+    <pkgname>jsmath-fonts</pkgname>
+    <name>jsMath</name>
+    <summary>The jsMath family of fonts</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <languages>
+      <lang percentage="57">an</lang>
+      <lang percentage="26">ar</lang>
+      <lang percentage="59">as</lang>
+      <lang percentage="29">ast</lang>
+      <lang percentage="57">be</lang>
+      <lang percentage="60">bg</lang>
+      <lang percentage="30">bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang percentage="59">bs</lang>
+      <lang percentage="70">ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang percentage="70">cs</lang>
+      <lang percentage="70">da</lang>
+      <lang percentage="70">de</lang>
+      <lang percentage="60">el</lang>
+      <lang>en</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang percentage="53">eo</lang>
+      <lang percentage="70">es</lang>
+      <lang percentage="36">et</lang>
+      <lang percentage="70">eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang percentage="50">fi</lang>
+      <lang>fj</lang>
+      <lang percentage="70">fr</lang>
+      <lang percentage="70">gl</lang>
+      <lang percentage="59">gu</lang>
+      <lang percentage="70">he</lang>
+      <lang percentage="59">hi</lang>
+      <lang>ho</lang>
+      <lang percentage="97">hr</lang>
+      <lang percentage="70">hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang>ia</lang>
+      <lang percentage="60">id</lang>
+      <lang>ie</lang>
+      <lang>io</lang>
+      <lang percentage="70">it</lang>
+      <lang percentage="44">ja</lang>
+      <lang>kj</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="70">ko</lang>
+      <lang>kwm</lang>
+      <lang percentage="70">lt</lang>
+      <lang percentage="70">lv</lang>
+      <lang percentage="38">ml</lang>
+      <lang percentage="59">mr</lang>
+      <lang>ms</lang>
+      <lang percentage="64">nb</lang>
+      <lang>ng</lang>
+      <lang percentage="42">nl</lang>
+      <lang>nr</lang>
+      <lang percentage="70">oc</lang>
+      <lang>om</lang>
+      <lang percentage="59">or</lang>
+      <lang percentage="60">pa</lang>
+      <lang percentage="70">pl</lang>
+      <lang percentage="70">pt</lang>
+      <lang percentage="70">pt_BR</lang>
+      <lang>rn</lang>
+      <lang percentage="48">ro</lang>
+      <lang percentage="60">ru</lang>
+      <lang>rw</lang>
+      <lang percentage="70">sk</lang>
+      <lang percentage="60">sl</lang>
+      <lang>sn</lang>
+      <lang>so</lang>
+      <lang percentage="70">sr</lang>
+      <lang percentage="70">sr@latin</lang>
+      <lang>ss</lang>
+      <lang>st</lang>
+      <lang percentage="70">sv</lang>
+      <lang>sw</lang>
+      <lang percentage="59">ta</lang>
+      <lang percentage="59">te</lang>
+      <lang percentage="70">th</lang>
+      <lang percentage="60">tr</lang>
+      <lang>ts</lang>
+      <lang percentage="56">ug</lang>
+      <lang percentage="59">uk</lang>
+      <lang>uz</lang>
+      <lang percentage="60">vi</lang>
+      <lang>xh</lang>
+      <lang>za</lang>
+      <lang percentage="60">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="70">zh_TW</lang>
+      <lang>zu</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">jsmath-fonts_20161221-0_noarch.deb</value>
     </metadata>
   </component>
   <component type="console-application">
@@ -5073,7 +5247,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-c0dbad1d4311c5ed6f7317689d0d19ed.png</image>
+        <image type="source" height="48" width="640">file:/roboto-77f137bdb389a9fdacff7f8755331618.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5732,12 +5906,6 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <screenshots>
-      <screenshot type="default">
-        <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-a24389d595f56473fede591a4632271d.png</image>
-      </screenshot>
-    </screenshots>
     <languages>
       <lang percentage="57">an</lang>
       <lang percentage="26">ar</lang>
