@@ -1929,7 +1929,7 @@
     <id>bzip2.(null)</id>
     <pkgname>bzip2</pkgname>
     <metadata>
-      <value key="X-CacheID">bzip2_1.0.6-2_amd64.deb</value>
+      <value key="X-CacheID">bzip2_1.0.6-5_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -18607,6 +18607,13 @@
     </metadata>
   </component>
   <component>
+    <id>perl-dbd-sqlite.(null)</id>
+    <pkgname>perl-dbd-sqlite</pkgname>
+    <metadata>
+      <value key="X-CacheID">perl-dbd-sqlite_1.54-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>perl-dbi.(null)</id>
     <pkgname>perl-dbi</pkgname>
     <metadata>
@@ -19486,6 +19493,13 @@
     <pkgname>perl-uri</pkgname>
     <metadata>
       <value key="X-CacheID">perl-uri_1.71-2_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>perl-www-curl.(null)</id>
+    <pkgname>perl-www-curl</pkgname>
+    <metadata>
+      <value key="X-CacheID">perl-www-curl_4.17-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24417,10 +24431,10 @@
     </metadata>
   </component>
   <component>
-    <id>ttf-indic.(null)</id>
-    <pkgname>ttf-indic</pkgname>
+    <id>ttf-tagbanwa.(null)</id>
+    <pkgname>ttf-tagbanwa</pkgname>
     <metadata>
-      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
+      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
