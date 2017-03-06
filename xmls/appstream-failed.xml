@@ -116,7 +116,7 @@
       <lang percentage="33">gu</lang>
       <lang percentage="40">he</lang>
       <lang percentage="34">hi</lang>
-      <lang percentage="48">hy</lang>
+      <lang percentage="49">hy</lang>
       <lang percentage="40">id</lang>
       <lang percentage="35">ka</lang>
       <lang percentage="29">kg</lang>
@@ -168,6 +168,10 @@
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-d5145152c7ad9b6187a1156a8d3fe535.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -410,6 +414,10 @@
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -650,6 +658,10 @@
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-d5145152c7ad9b6187a1156a8d3fe535.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -965,6 +977,412 @@
     </languages>
     <metadata>
       <value key="X-CacheID">droid-fallback-fonts_6.0.1r16-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="desktop">
+    <id>filezilla.desktop</id>
+    <pkgname>filezilla</pkgname>
+    <description><p>FileZilla is a graphical FTP, FTPS and SFTP client. It is platform independent and supports all major desktop operating systems.</p><ul><li>Easy to use</li><li>Supports FTP, FTP over SSL/TLS (FTPS) and SSH File Transfer Protocol (SFTP)</li><li>Cross-platform. Runs on Windows, Linux, *BSD, OSX and more</li><li>IPv6 support</li><li>Available in many languages</li><li>Supports resume and transfer of large files &gt;4GB</li><li>Powerful Site Manager and transfer queue</li><li>Bookmark</li><li>Drag and drop support</li><li>Configurable Speed limits</li><li>Filename filters</li><li>Directory Comparison</li><li>Network configuration wizard</li><li>The ability to use Notepad or any other program to edit a file online</li><li>HTTP/1.1, SOCKS5 and FTP Proxy support</li><li>Logging to file</li><li>Synchronized directory browsing</li><li>Remote file search</li></ul></description>
+    <kudos>
+      <kudo>HighContrast</kudo>
+    </kudos>
+    <vetos>
+      <veto>Has no Icon</veto>
+      <veto>No &lt;name&gt; in AppData</veto>
+      <veto>No &lt;summary&gt; in AppData</veto>
+    </vetos>
+    <url type="homepage">https://filezilla-project.org/</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source">https://filezilla-project.org/images/screenshots/fz3_linux_main.png</image>
+      </screenshot>
+    </screenshots>
+    <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
+      <dbus type="session">org.a11y.Bus</dbus>
+      <dbus type="session">org.bluez.obex</dbus>
+      <dbus type="session">org.freedesktop.ColorHelper</dbus>
+      <dbus type="session">org.freedesktop.systemd1</dbus>
+      <dbus type="session">org.gtk.GLib.PACRunner</dbus>
+      <dbus type="system">com.redhat.lvmdbus1</dbus>
+      <dbus type="system">fi.epitest.hostap.WPASupplicant</dbus>
+      <dbus type="system">fi.w1.wpa_supplicant1</dbus>
+      <dbus type="system">org.bluez</dbus>
+      <dbus type="system">org.freedesktop.Avahi</dbus>
+      <dbus type="system">org.freedesktop.ColorManager</dbus>
+      <dbus type="system">org.freedesktop.GeoClue2</dbus>
+      <dbus type="system">org.freedesktop.ModemManager1</dbus>
+      <dbus type="system">org.freedesktop.NetworkManager</dbus>
+      <dbus type="system">org.freedesktop.PolicyKit1</dbus>
+      <dbus type="system">org.freedesktop.hostname1</dbus>
+      <dbus type="system">org.freedesktop.import1</dbus>
+      <dbus type="system">org.freedesktop.locale1</dbus>
+      <dbus type="system">org.freedesktop.login1</dbus>
+      <dbus type="system">org.freedesktop.machine1</dbus>
+      <dbus type="system">org.freedesktop.network1</dbus>
+      <dbus type="system">org.freedesktop.nm_dispatcher</dbus>
+      <dbus type="system">org.freedesktop.resolve1</dbus>
+      <dbus type="system">org.freedesktop.systemd1</dbus>
+      <dbus type="system">org.freedesktop.timedate1</dbus>
+    </provides>
+    <languages>
+      <lang percentage="25">af</lang>
+      <lang percentage="38">an</lang>
+      <lang percentage="44">ar</lang>
+      <lang percentage="29">as</lang>
+      <lang percentage="47">ast</lang>
+      <lang percentage="25">az</lang>
+      <lang percentage="27">be</lang>
+      <lang percentage="35">be@latin</lang>
+      <lang percentage="34">bg</lang>
+      <lang percentage="45">bg_BG</lang>
+      <lang percentage="40">bn</lang>
+      <lang percentage="40">bn_IN</lang>
+      <lang percentage="26">bs</lang>
+      <lang percentage="44">ca</lang>
+      <lang percentage="29">ca@valencia</lang>
+      <lang percentage="32">ca_ES@valencia</lang>
+      <lang percentage="44">co</lang>
+      <lang percentage="43">crh</lang>
+      <lang percentage="35">cs</lang>
+      <lang percentage="44">cs_CZ</lang>
+      <lang percentage="41">cy</lang>
+      <lang percentage="44">da</lang>
+      <lang percentage="45">de</lang>
+      <lang percentage="32">dz</lang>
+      <lang percentage="45">el</lang>
+      <lang percentage="27">en@boldquot</lang>
+      <lang percentage="27">en@quot</lang>
+      <lang percentage="35">en@shaw</lang>
+      <lang percentage="35">en_CA</lang>
+      <lang percentage="35">en_GB</lang>
+      <lang percentage="28">eo</lang>
+      <lang percentage="37">es</lang>
+      <lang percentage="35">et</lang>
+      <lang percentage="45">eu</lang>
+      <lang percentage="34">fa</lang>
+      <lang percentage="31">fa_IR</lang>
+      <lang percentage="29">fi</lang>
+      <lang percentage="45">fi_FI</lang>
+      <lang percentage="45">fr</lang>
+      <lang percentage="25">ga</lang>
+      <lang percentage="35">gd</lang>
+      <lang percentage="35">gl</lang>
+      <lang percentage="36">gl_ES</lang>
+      <lang percentage="28">gu</lang>
+      <lang percentage="35">he</lang>
+      <lang percentage="38">he_IL</lang>
+      <lang percentage="29">hi</lang>
+      <lang percentage="32">hr</lang>
+      <lang percentage="35">hu</lang>
+      <lang percentage="45">hu_HU</lang>
+      <lang percentage="45">hy</lang>
+      <lang percentage="35">id</lang>
+      <lang percentage="45">id_ID</lang>
+      <lang percentage="45">it</lang>
+      <lang percentage="33">ja</lang>
+      <lang percentage="42">ja_JP</lang>
+      <lang percentage="42">kab</lang>
+      <lang percentage="25">kg</lang>
+      <lang percentage="35">kk</lang>
+      <lang percentage="49">km</lang>
+      <lang percentage="29">kn</lang>
+      <lang percentage="35">ko</lang>
+      <lang percentage="43">ko_KR</lang>
+      <lang percentage="27">lg</lang>
+      <lang percentage="35">lo_LA</lang>
+      <lang percentage="35">lt</lang>
+      <lang percentage="39">lt_LT</lang>
+      <lang percentage="35">lv</lang>
+      <lang percentage="32">lv_LV</lang>
+      <lang percentage="39">mai</lang>
+      <lang percentage="35">mk</lang>
+      <lang percentage="25">mk_MK</lang>
+      <lang percentage="39">ml</lang>
+      <lang percentage="25">mn</lang>
+      <lang percentage="29">mr</lang>
+      <lang percentage="39">my</lang>
+      <lang percentage="34">nb</lang>
+      <lang percentage="45">nb_NO</lang>
+      <lang percentage="45">nl</lang>
+      <lang percentage="25">nn</lang>
+      <lang percentage="44">nn_NO</lang>
+      <lang percentage="25">nso</lang>
+      <lang percentage="30">oc</lang>
+      <lang percentage="45">or</lang>
+      <lang percentage="34">pa</lang>
+      <lang percentage="35">pl</lang>
+      <lang percentage="44">pl_PL</lang>
+      <lang percentage="35">pt</lang>
+      <lang percentage="44">pt_BR</lang>
+      <lang percentage="44">pt_PT</lang>
+      <lang percentage="46">ro</lang>
+      <lang percentage="38">ro_RO</lang>
+      <lang percentage="44">ru</lang>
+      <lang percentage="35">sk</lang>
+      <lang percentage="36">sk_SK</lang>
+      <lang percentage="33">sl</lang>
+      <lang percentage="35">sl_SI</lang>
+      <lang percentage="37">sq</lang>
+      <lang percentage="36">sr</lang>
+      <lang percentage="25">sr@ije</lang>
+      <lang percentage="34">sr@latin</lang>
+      <lang percentage="45">sv</lang>
+      <lang percentage="29">ta</lang>
+      <lang percentage="29">te</lang>
+      <lang percentage="29">tg</lang>
+      <lang percentage="35">th</lang>
+      <lang percentage="38">th_TH</lang>
+      <lang percentage="45">tr</lang>
+      <lang percentage="49">ug</lang>
+      <lang percentage="35">uk</lang>
+      <lang percentage="45">uk_UA</lang>
+      <lang percentage="33">vi</lang>
+      <lang percentage="45">vi_VN</lang>
+      <lang percentage="25">xh</lang>
+      <lang percentage="44">zh_CN</lang>
+      <lang percentage="29">zh_HK</lang>
+      <lang percentage="43">zh_TW</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">filezilla_3.24.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
+    <id>google-crosextra-carlito</id>
+    <pkgname>crosextra-fonts</pkgname>
+    <name>Carlito</name>
+    <summary>Sans-Serif font metric-compatible with Calibri font</summary>
+    <description><p>Carlito is metric-compatible with Calibri font. Carlito comes in regular, bold, italic, and bold italic.</p></description>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <url type="homepage">http://code.google.com/p/chromium/issues/detail?id=280557</url>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Carlito – Regular</caption>
+        <image type="source" height="48" width="640">file:/google-crosextra-carlito-b45c31130cd9bb714f0bae52fb3e11a2.png</image>
+      </screenshot>
+      <screenshot priority="-2">
+        <caption>Caladea – Italic</caption>
+        <image type="source" height="48" width="640">file:/google-crosextra-carlito-686054e53e3e3597c177156e34698055.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>Caladea – Bold</caption>
+        <image type="source" height="48" width="640">file:/google-crosextra-carlito-741565a09dbeb08aef9b0f1f0212adde.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>Carlito – Bold</caption>
+        <image type="source" height="48" width="640">file:/google-crosextra-carlito-af8f533416217b470854c3bfa2eb696e.png</image>
+      </screenshot>
+      <screenshot priority="-34">
+        <caption>Carlito – Bold Italic</caption>
+        <image type="source" height="48" width="640">file:/google-crosextra-carlito-e4877e74cc1a7c941ff486e191ab0b08.png</image>
+      </screenshot>
+    </screenshots>
+    <languages>
+      <lang>aa</lang>
+      <lang>ab</lang>
+      <lang>af</lang>
+      <lang>an</lang>
+      <lang percentage="26">ar</lang>
+      <lang percentage="59">as</lang>
+      <lang>ast</lang>
+      <lang>av</lang>
+      <lang>ay</lang>
+      <lang>az-az</lang>
+      <lang>ba</lang>
+      <lang>be</lang>
+      <lang>ber-dz</lang>
+      <lang>bg</lang>
+      <lang>bi</lang>
+      <lang>bm</lang>
+      <lang percentage="30">bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang>br</lang>
+      <lang>bs</lang>
+      <lang>bua</lang>
+      <lang>ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang>ce</lang>
+      <lang>ch</lang>
+      <lang>chm</lang>
+      <lang>co</lang>
+      <lang>crh</lang>
+      <lang>cs</lang>
+      <lang>csb</lang>
+      <lang>cv</lang>
+      <lang>cy</lang>
+      <lang>da</lang>
+      <lang>de</lang>
+      <lang>el</lang>
+      <lang>en</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang>eo</lang>
+      <lang>es</lang>
+      <lang>et</lang>
+      <lang>eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang>ff</lang>
+      <lang>fi</lang>
+      <lang>fil</lang>
+      <lang>fj</lang>
+      <lang>fo</lang>
+      <lang>fr</lang>
+      <lang>fur</lang>
+      <lang>fy</lang>
+      <lang>ga</lang>
+      <lang>gd</lang>
+      <lang>gl</lang>
+      <lang>gn</lang>
+      <lang percentage="59">gu</lang>
+      <lang>gv</lang>
+      <lang>ha</lang>
+      <lang>haw</lang>
+      <lang percentage="70">he</lang>
+      <lang percentage="59">hi</lang>
+      <lang>ho</lang>
+      <lang>hr</lang>
+      <lang>hsb</lang>
+      <lang>ht</lang>
+      <lang>hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang>hz</lang>
+      <lang>ia</lang>
+      <lang>id</lang>
+      <lang>ie</lang>
+      <lang>ig</lang>
+      <lang>ik</lang>
+      <lang>io</lang>
+      <lang>is</lang>
+      <lang>it</lang>
+      <lang percentage="44">ja</lang>
+      <lang>jv</lang>
+      <lang>kaa</lang>
+      <lang>kab</lang>
+      <lang>ki</lang>
+      <lang>kj</lang>
+      <lang>kk</lang>
+      <lang>kl</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="70">ko</lang>
+      <lang>kr</lang>
+      <lang>ku-tr</lang>
+      <lang>kum</lang>
+      <lang>kv</lang>
+      <lang>kw</lang>
+      <lang>kwm</lang>
+      <lang>ky</lang>
+      <lang>la</lang>
+      <lang>lb</lang>
+      <lang>lez</lang>
+      <lang>lg</lang>
+      <lang>li</lang>
+      <lang>lt</lang>
+      <lang>lv</lang>
+      <lang>mg</lang>
+      <lang>mh</lang>
+      <lang>mi</lang>
+      <lang>mk</lang>
+      <lang percentage="38">ml</lang>
+      <lang>mn-mn</lang>
+      <lang>mo</lang>
+      <lang percentage="59">mr</lang>
+      <lang>ms</lang>
+      <lang>mt</lang>
+      <lang>na</lang>
+      <lang>nb</lang>
+      <lang>nds</lang>
+      <lang>ng</lang>
+      <lang>nl</lang>
+      <lang>nn</lang>
+      <lang>no</lang>
+      <lang>nr</lang>
+      <lang>nso</lang>
+      <lang>ny</lang>
+      <lang>oc</lang>
+      <lang>om</lang>
+      <lang percentage="59">or</lang>
+      <lang>os</lang>
+      <lang percentage="60">pa</lang>
+      <lang>pap-an</lang>
+      <lang>pap-aw</lang>
+      <lang>pl</lang>
+      <lang>pt</lang>
+      <lang percentage="70">pt_BR</lang>
+      <lang>qu</lang>
+      <lang>quz</lang>
+      <lang>rm</lang>
+      <lang>rn</lang>
+      <lang>ro</lang>
+      <lang>ru</lang>
+      <lang>rw</lang>
+      <lang>sah</lang>
+      <lang>sc</lang>
+      <lang>sco</lang>
+      <lang>se</lang>
+      <lang>sel</lang>
+      <lang>sg</lang>
+      <lang>sh</lang>
+      <lang>shs</lang>
+      <lang>sk</lang>
+      <lang>sl</lang>
+      <lang>sm</lang>
+      <lang>sma</lang>
+      <lang>smj</lang>
+      <lang>smn</lang>
+      <lang>sms</lang>
+      <lang>sn</lang>
+      <lang>so</lang>
+      <lang>sq</lang>
+      <lang>sr</lang>
+      <lang percentage="70">sr@latin</lang>
+      <lang>ss</lang>
+      <lang>st</lang>
+      <lang>su</lang>
+      <lang>sv</lang>
+      <lang>sw</lang>
+      <lang percentage="59">ta</lang>
+      <lang percentage="59">te</lang>
+      <lang>tg</lang>
+      <lang percentage="70">th</lang>
+      <lang>tk</lang>
+      <lang>tl</lang>
+      <lang>tn</lang>
+      <lang>to</lang>
+      <lang>tr</lang>
+      <lang>ts</lang>
+      <lang>tt</lang>
+      <lang>ty</lang>
+      <lang>tyv</lang>
+      <lang percentage="56">ug</lang>
+      <lang>uk</lang>
+      <lang>uz</lang>
+      <lang>ve</lang>
+      <lang percentage="60">vi</lang>
+      <lang>vo</lang>
+      <lang>vot</lang>
+      <lang>wa</lang>
+      <lang>wen</lang>
+      <lang>wo</lang>
+      <lang>xh</lang>
+      <lang>yap</lang>
+      <lang>za</lang>
+      <lang percentage="60">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="70">zh_TW</lang>
+      <lang>zu</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">crosextra-fonts_20130920-2_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -1288,7 +1706,7 @@
       <lang percentage="60">gd</lang>
       <lang percentage="31">hr</lang>
       <lang percentage="31">ia</lang>
-      <lang percentage="54">is</lang>
+      <lang percentage="59">is</lang>
       <lang percentage="53">ka</lang>
       <lang percentage="43">kg</lang>
       <lang percentage="34">ku</lang>
@@ -1901,7 +2319,7 @@
       <lang percentage="34">ko</lang>
       <lang percentage="27">lg</lang>
       <lang percentage="31">lt</lang>
-      <lang percentage="26">lv</lang>
+      <lang percentage="27">lv</lang>
       <lang percentage="39">mai</lang>
       <lang percentage="35">mk</lang>
       <lang percentage="39">ml</lang>
@@ -2002,7 +2420,7 @@
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.2-1_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -2190,7 +2608,7 @@
       <lang percentage="34">ko</lang>
       <lang percentage="27">lg</lang>
       <lang percentage="31">lt</lang>
-      <lang percentage="26">lv</lang>
+      <lang percentage="27">lv</lang>
       <lang percentage="39">mai</lang>
       <lang percentage="35">mk</lang>
       <lang percentage="39">ml</lang>
@@ -2232,7 +2650,7 @@
       <lang percentage="34">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">plasma-sdk_5.9.2-0_amd64.deb</value>
+      <value key="X-CacheID">plasma-sdk_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -2251,7 +2669,7 @@
     </vetos>
     <url type="homepage">http://kde.org/</url>
     <metadata>
-      <value key="X-CacheID">kdeplasma-addons_5.9.2-0_amd64.deb</value>
+      <value key="X-CacheID">kdeplasma-addons_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -2273,7 +2691,7 @@
     </vetos>
     <url type="homepage">http://kde.org/</url>
     <metadata>
-      <value key="X-CacheID">kdeplasma-addons_5.9.2-0_amd64.deb</value>
+      <value key="X-CacheID">kdeplasma-addons_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -2358,7 +2776,7 @@
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.2-1_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3132,7 +3550,7 @@
       <lang percentage="27">lg</lang>
       <lang>li</lang>
       <lang>lt</lang>
-      <lang percentage="26">lv</lang>
+      <lang percentage="27">lv</lang>
       <lang percentage="39">mai</lang>
       <lang>mg</lang>
       <lang>mh</lang>
@@ -4072,7 +4490,7 @@
       <lang percentage="42">hy</lang>
       <lang percentage="33">ia</lang>
       <lang percentage="35">id</lang>
-      <lang percentage="31">is</lang>
+      <lang percentage="34">is</lang>
       <lang percentage="35">it</lang>
       <lang percentage="33">ja</lang>
       <lang percentage="30">ka</lang>
@@ -4120,7 +4538,7 @@
       <lang percentage="35">uk</lang>
       <lang percentage="33">vi</lang>
       <lang percentage="25">xh</lang>
-      <lang percentage="33">zh_CN</lang>
+      <lang percentage="35">zh_CN</lang>
       <lang percentage="29">zh_HK</lang>
       <lang percentage="34">zh_TW</lang>
     </languages>
@@ -4133,24 +4551,34 @@
     <pkgname>kde-workspace</pkgname>
     <name>Global Menu</name>
     <name xml:lang="ca">Menú global</name>
+    <name xml:lang="ca@valencia">Menú global</name>
+    <name xml:lang="cs">Globální nabídka</name>
     <name xml:lang="da">Global menu</name>
+    <name xml:lang="el">Καθολικό μενού</name>
     <name xml:lang="es">Menú global</name>
+    <name xml:lang="eu">Menu orokorra</name>
+    <name xml:lang="it">Menu globale</name>
     <name xml:lang="nl">Globaal menu</name>
+    <name xml:lang="nn">Global meny</name>
+    <name xml:lang="pl">Menu globalne</name>
     <name xml:lang="pt">Menu Global</name>
+    <name xml:lang="pt_BR">Menu global</name>
     <name xml:lang="ru">Меню приложения</name>
     <name xml:lang="sk">Globálne menu</name>
     <name xml:lang="sr">Глобални мени</name>
     <name xml:lang="sr@ijekavian">Глобални мени</name>
     <name xml:lang="sr@ijekavianlatin">Globalni meni</name>
     <name xml:lang="sr@latin">Globalni meni</name>
+    <name xml:lang="sv">Global meny</name>
     <name xml:lang="uk">Загальне меню</name>
+    <name xml:lang="zh_CN">全局菜单</name>
     <developer_name>Kai Uwe Broulik &lt;kde@privat.broulik.de&gt;</developer_name>
     <vetos>
       <veto>No &lt;summary&gt; in AppData</veto>
     </vetos>
     <url type="homepage">plasma.kde.org</url>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.2-1_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4236,7 +4664,7 @@
     </vetos>
     <url type="homepage">plasma.kde.org</url>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.2-1_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4253,6 +4681,7 @@
     <name xml:lang="el">Προκαθορισμένος πίνακας</name>
     <name xml:lang="es">Panel por omisión</name>
     <name xml:lang="et">Vaikimisi paneel</name>
+    <name xml:lang="eu">Panel lehenetsia</name>
     <name xml:lang="fi">Oletuspaneeli</name>
     <name xml:lang="fr">Tableau de bord par défaut</name>
     <name xml:lang="gl">Panel predeterminado</name>
@@ -4292,7 +4721,7 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">plasma-desktop_5.9.2-0_amd64.deb</value>
+      <value key="X-CacheID">plasma-desktop_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4355,7 +4784,7 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">plasma-desktop_5.9.2-0_amd64.deb</value>
+      <value key="X-CacheID">plasma-desktop_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4364,6 +4793,7 @@
     <name>Grouping Plasmoid</name>
     <name xml:lang="ca">Plasmoide d'agrupació</name>
     <name xml:lang="ca@valencia">Plasmoide d'agrupació</name>
+    <name xml:lang="cs">Seskupovací Plasmoid</name>
     <name xml:lang="da">Grupperingsplasmoid</name>
     <name xml:lang="de">Gruppierung von Miniprogrammen</name>
     <name xml:lang="el">Πλασμοειδές ομαδοποίησης</name>
@@ -4376,6 +4806,7 @@
     <name xml:lang="nn">Grupperingselement</name>
     <name xml:lang="pl">Plazmoid grupujący</name>
     <name xml:lang="pt">Plasmóide de Agrupamento</name>
+    <name xml:lang="pt_BR">Plasmoide agrupado</name>
     <name xml:lang="ru">Группирующий виджет</name>
     <name xml:lang="sk">Zoskupovací plazmoid</name>
     <name xml:lang="sr">групишући плазмоид</name>
@@ -4393,7 +4824,7 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">kdeplasma-addons_5.9.2-0_amd64.deb</value>
+      <value key="X-CacheID">kdeplasma-addons_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4459,7 +4890,7 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">kdeplasma-addons_5.9.2-0_amd64.deb</value>
+      <value key="X-CacheID">kdeplasma-addons_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4668,7 +5099,7 @@
       <lang percentage="42">hy</lang>
       <lang percentage="33">ia</lang>
       <lang percentage="35">id</lang>
-      <lang percentage="31">is</lang>
+      <lang percentage="34">is</lang>
       <lang percentage="39">it</lang>
       <lang percentage="30">ja</lang>
       <lang percentage="30">ka</lang>
@@ -4716,7 +5147,7 @@
       <lang percentage="26">uk</lang>
       <lang percentage="61">vi</lang>
       <lang percentage="25">xh</lang>
-      <lang percentage="33">zh_CN</lang>
+      <lang percentage="35">zh_CN</lang>
       <lang percentage="29">zh_HK</lang>
       <lang percentage="34">zh_TW</lang>
     </languages>
@@ -4805,7 +5236,7 @@
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.2-1_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4970,7 +5401,7 @@
       <lang percentage="34">ko</lang>
       <lang percentage="27">lg</lang>
       <lang percentage="31">lt</lang>
-      <lang percentage="26">lv</lang>
+      <lang percentage="27">lv</lang>
       <lang percentage="39">mai</lang>
       <lang percentage="35">mk</lang>
       <lang percentage="39">ml</lang>
@@ -5100,7 +5531,7 @@
       <lang percentage="59">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">qtcreator_4.2.1-1_amd64.deb</value>
+      <value key="X-CacheID">qtcreator_4.2.1-2_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -5143,6 +5574,84 @@
       <value key="X-CacheID">kaccounts-providers_16.12.2-0_amd64.deb</value>
     </metadata>
   </component>
+  <component type="desktop">
+    <id>qtcreator.desktop</id>
+    <pkgname>qtcreator</pkgname>
+    <name>Qt Creator</name>
+    <summary>A cross-platform IDE tailored to the needs of Qt developers</summary>
+    <description><p>Qt Creator provides a cross-platform, complete integrated development environment (IDE) for application developers to create applications for multiple desktop and mobile device platforms, such as Android and iOS.</p><p>Qt Creator enables a team of developers to share a project across different development platforms with a common tool for development and debugging.</p><p>The main goal for Qt Creator is meeting the development needs of Qt developers who are looking for simplicity, usability, productivity, extendibility and openness, while aiming to lower the barrier of entry for newcomers to Qt.</p></description>
+    <kudos>
+      <kudo>HighContrast</kudo>
+    </kudos>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <project_license>LGPL-3.0</project_license>
+    <url type="homepage">https://qt-project.org/wiki/Category:Tools::QtCreator</url>
+    <screenshots>
+      <screenshot type="default">
+        <image type="source" height="547" width="756">https://wiki.qt.io/images/c/cc/Qtcreator-qtdesigner.png</image>
+      </screenshot>
+    </screenshots>
+    <provides>
+      <dbus type="session">ca.desrt.dconf</dbus>
+      <dbus type="session">org.a11y.Bus</dbus>
+      <dbus type="session">org.bluez.obex</dbus>
+      <dbus type="session">org.freedesktop.ColorHelper</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Master</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Example</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Geonames</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Gsmloc</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Hostip</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Localnet</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Manual</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Nominatim</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Plazes</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Skyhook</dbus>
+      <dbus type="session">org.freedesktop.Geoclue.Providers.Yahoo</dbus>
+      <dbus type="session">org.freedesktop.systemd1</dbus>
+      <dbus type="session">org.gnome.GConf</dbus>
+      <dbus type="session">org.gtk.GLib.PACRunner</dbus>
+      <dbus type="session">org.jackaudio.service</dbus>
+      <dbus type="system">com.redhat.lvmdbus1</dbus>
+      <dbus type="system">org.bluez</dbus>
+      <dbus type="system">org.freedesktop.Avahi</dbus>
+      <dbus type="system">org.freedesktop.ColorManager</dbus>
+      <dbus type="system">org.freedesktop.PolicyKit1</dbus>
+      <dbus type="system">org.freedesktop.RealtimeKit1</dbus>
+      <dbus type="system">org.freedesktop.hostname1</dbus>
+      <dbus type="system">org.freedesktop.import1</dbus>
+      <dbus type="system">org.freedesktop.locale1</dbus>
+      <dbus type="system">org.freedesktop.login1</dbus>
+      <dbus type="system">org.freedesktop.machine1</dbus>
+      <dbus type="system">org.freedesktop.network1</dbus>
+      <dbus type="system">org.freedesktop.resolve1</dbus>
+      <dbus type="system">org.freedesktop.systemd1</dbus>
+      <dbus type="system">org.freedesktop.timedate1</dbus>
+      <dbus type="system">org.gnome.GConf.Defaults</dbus>
+    </provides>
+    <languages>
+      <lang percentage="100">cs</lang>
+      <lang percentage="33">da</lang>
+      <lang percentage="92">de</lang>
+      <lang percentage="38">es</lang>
+      <lang percentage="90">fr</lang>
+      <lang percentage="91">ja</lang>
+      <lang percentage="37">nl</lang>
+      <lang percentage="92">pl</lang>
+      <lang percentage="38">pt_BR</lang>
+      <lang percentage="96">ru</lang>
+      <lang percentage="60">sl</lang>
+      <lang percentage="38">sv</lang>
+      <lang percentage="75">uk</lang>
+      <lang percentage="33">vi</lang>
+      <lang percentage="67">zh_CN</lang>
+      <lang percentage="59">zh_TW</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">qtcreator_4.2.1-2_amd64.deb</value>
+    </metadata>
+  </component>
   <component type="font">
     <id>roboto</id>
     <pkgname>roboto-fonts</pkgname>
@@ -5159,7 +5668,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-77f137bdb389a9fdacff7f8755331618.png</image>
+        <image type="source" height="48" width="640">file:/roboto-a3073296d2b4190c7f0c635dd8f8a774.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5807,6 +6316,94 @@
     </metadata>
   </component>
   <component type="font">
+    <id>ttf-tagbanwa</id>
+    <pkgname>ttf-tagbanwa</pkgname>
+    <name>Tagbanwa Fonts</name>
+    <summary>A free Unicode TrueType font for the Tagbanwa script</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <languages>
+      <lang percentage="57">an</lang>
+      <lang percentage="26">ar</lang>
+      <lang percentage="59">as</lang>
+      <lang percentage="29">ast</lang>
+      <lang percentage="57">be</lang>
+      <lang percentage="60">bg</lang>
+      <lang percentage="30">bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang percentage="59">bs</lang>
+      <lang percentage="70">ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang percentage="70">cs</lang>
+      <lang percentage="70">da</lang>
+      <lang percentage="70">de</lang>
+      <lang percentage="60">el</lang>
+      <lang>en</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang percentage="53">eo</lang>
+      <lang percentage="70">es</lang>
+      <lang percentage="36">et</lang>
+      <lang percentage="70">eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang percentage="50">fi</lang>
+      <lang percentage="70">fr</lang>
+      <lang percentage="70">gl</lang>
+      <lang percentage="59">gu</lang>
+      <lang percentage="70">he</lang>
+      <lang percentage="59">hi</lang>
+      <lang percentage="97">hr</lang>
+      <lang percentage="70">hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang percentage="36">ia</lang>
+      <lang percentage="60">id</lang>
+      <lang percentage="70">it</lang>
+      <lang percentage="44">ja</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="70">ko</lang>
+      <lang percentage="70">lt</lang>
+      <lang percentage="70">lv</lang>
+      <lang percentage="38">ml</lang>
+      <lang percentage="59">mr</lang>
+      <lang percentage="64">nb</lang>
+      <lang percentage="42">nl</lang>
+      <lang percentage="70">oc</lang>
+      <lang percentage="59">or</lang>
+      <lang percentage="60">pa</lang>
+      <lang percentage="70">pl</lang>
+      <lang percentage="70">pt</lang>
+      <lang percentage="70">pt_BR</lang>
+      <lang percentage="48">ro</lang>
+      <lang percentage="60">ru</lang>
+      <lang percentage="70">sk</lang>
+      <lang percentage="60">sl</lang>
+      <lang percentage="70">sr</lang>
+      <lang percentage="70">sr@latin</lang>
+      <lang percentage="70">sv</lang>
+      <lang percentage="59">ta</lang>
+      <lang percentage="59">te</lang>
+      <lang percentage="70">th</lang>
+      <lang percentage="60">tr</lang>
+      <lang percentage="56">ug</lang>
+      <lang percentage="59">uk</lang>
+      <lang percentage="60">vi</lang>
+      <lang percentage="60">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="70">zh_TW</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
     <id>ttf-ubraille</id>
     <pkgname>ttf-ubraille</pkgname>
     <name>UBraille</name>
@@ -5818,6 +6415,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-a24389d595f56473fede591a4632271d.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang percentage="57">an</lang>
       <lang percentage="26">ar</lang>
@@ -6489,7 +7092,7 @@
       <lang percentage="35">hu</lang>
       <lang percentage="42">hy</lang>
       <lang percentage="35">id</lang>
-      <lang percentage="31">is</lang>
+      <lang percentage="34">is</lang>
       <lang percentage="33">ja</lang>
       <lang percentage="30">ka</lang>
       <lang percentage="25">kg</lang>
@@ -6526,7 +7129,7 @@
       <lang percentage="35">uk</lang>
       <lang percentage="33">vi</lang>
       <lang percentage="25">xh</lang>
-      <lang percentage="33">zh_CN</lang>
+      <lang percentage="35">zh_CN</lang>
       <lang percentage="29">zh_HK</lang>
       <lang percentage="34">zh_TW</lang>
     </languages>
