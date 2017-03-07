@@ -550,7 +550,7 @@
     <id>aosc-os-arm-boot-flasher.(null)</id>
     <pkgname>aosc-os-arm-boot-flasher</pkgname>
     <metadata>
-      <value key="X-CacheID">aosc-os-arm-boot-flasher_0+git20170110-0_noarch.deb</value>
+      <value key="X-CacheID">aosc-os-arm-boot-flasher_0+git20170306-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -14855,6 +14855,13 @@
     </metadata>
   </component>
   <component>
+    <id>linux+kernel+lts.(null)</id>
+    <pkgname>linux+kernel+lts</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux+kernel+lts_0-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>linux+kernel.(null)</id>
     <pkgname>linux+kernel</pkgname>
     <metadata>
@@ -14957,6 +14964,13 @@
     <pkgname>linux-kernel-4.1.8</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-4.1.8_4.1.8-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-4.10.1.(null)</id>
+    <pkgname>linux-kernel-4.10.1</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.10.1_4.10.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -15251,6 +15265,13 @@
     <pkgname>linux-kernel-4.9.9</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-4.9.9_4.9.9-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.13.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.13</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-lts-4.9.13_4.9.13-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -25460,6 +25481,13 @@
     </metadata>
   </component>
   <component>
+    <id>ttf-ancient-fonts.(null)</id>
+    <pkgname>ttf-ancient-fonts</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>ttf-arphic-ukai.(null)</id>
     <pkgname>ttf-arphic-ukai</pkgname>
     <metadata>
@@ -26185,6 +26213,13 @@
     <pkgname>virtaal</pkgname>
     <metadata>
       <value key="X-CacheID">virtaal_0.7.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>virtualbox-guest.(null)</id>
+    <pkgname>virtualbox-guest</pkgname>
+    <metadata>
+      <value key="X-CacheID">virtualbox-guest_5.1.14-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
