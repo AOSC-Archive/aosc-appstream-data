@@ -5552,13 +5552,6 @@
     </metadata>
   </component>
   <component>
-    <id>filezilla.(null)</id>
-    <pkgname>filezilla</pkgname>
-    <metadata>
-      <value key="X-CacheID">filezilla_3.24.1-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>finch.(null)</id>
     <pkgname>finch</pkgname>
     <metadata>
@@ -6668,7 +6661,7 @@
     <id>ghostscript.(null)</id>
     <pkgname>ghostscript</pkgname>
     <metadata>
-      <value key="X-CacheID">ghostscript_9.16-0_amd64.deb</value>
+      <value key="X-CacheID">ghostscript_9.20-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -13266,6 +13259,13 @@
     </metadata>
   </component>
   <component>
+    <id>libnfc.(null)</id>
+    <pkgname>libnfc</pkgname>
+    <metadata>
+      <value key="X-CacheID">libnfc_1.7.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>libnfnetlink.(null)</id>
     <pkgname>libnfnetlink</pkgname>
     <metadata>
@@ -13647,7 +13647,7 @@
     <id>libqalculate.(null)</id>
     <pkgname>libqalculate</pkgname>
     <metadata>
-      <value key="X-CacheID">libqalculate_0.9.10-0_amd64.deb</value>
+      <value key="X-CacheID">libqalculate_0.9.11-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -16609,6 +16609,13 @@
     <pkgname>metasploit</pkgname>
     <metadata>
       <value key="X-CacheID">metasploit_4.13.6-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>mfoc.(null)</id>
+    <pkgname>mfoc</pkgname>
+    <metadata>
+      <value key="X-CacheID">mfoc_0.10.7-0_amd64.deb</value>
     </metadata>
   </component>
   <component>

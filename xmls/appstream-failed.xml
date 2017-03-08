@@ -167,7 +167,15 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-741565a09dbeb08aef9b0f1f0212adde.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-d6d9b49af614da836986f7162c60b5c3.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -408,7 +416,15 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-741565a09dbeb08aef9b0f1f0212adde.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d6d9b49af614da836986f7162c60b5c3.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -649,7 +665,15 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-741565a09dbeb08aef9b0f1f0212adde.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-d6d9b49af614da836986f7162c60b5c3.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -965,175 +989,6 @@
     </languages>
     <metadata>
       <value key="X-CacheID">droid-fallback-fonts_6.0.1r16-0_noarch.deb</value>
-    </metadata>
-  </component>
-  <component type="desktop">
-    <id>filezilla.desktop</id>
-    <pkgname>filezilla</pkgname>
-    <description><p>FileZilla is a graphical FTP, FTPS and SFTP client. It is platform independent and supports all major desktop operating systems.</p><ul><li>Easy to use</li><li>Supports FTP, FTP over SSL/TLS (FTPS) and SSH File Transfer Protocol (SFTP)</li><li>Cross-platform. Runs on Windows, Linux, *BSD, OSX and more</li><li>IPv6 support</li><li>Available in many languages</li><li>Supports resume and transfer of large files &gt;4GB</li><li>Powerful Site Manager and transfer queue</li><li>Bookmark</li><li>Drag and drop support</li><li>Configurable Speed limits</li><li>Filename filters</li><li>Directory Comparison</li><li>Network configuration wizard</li><li>The ability to use Notepad or any other program to edit a file online</li><li>HTTP/1.1, SOCKS5 and FTP Proxy support</li><li>Logging to file</li><li>Synchronized directory browsing</li><li>Remote file search</li></ul></description>
-    <kudos>
-      <kudo>HighContrast</kudo>
-    </kudos>
-    <vetos>
-      <veto>Has no Icon</veto>
-      <veto>No &lt;name&gt; in AppData</veto>
-      <veto>No &lt;summary&gt; in AppData</veto>
-    </vetos>
-    <url type="homepage">https://filezilla-project.org/</url>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">https://filezilla-project.org/images/screenshots/fz3_linux_main.png</image>
-      </screenshot>
-    </screenshots>
-    <provides>
-      <dbus type="session">ca.desrt.dconf</dbus>
-      <dbus type="session">org.a11y.Bus</dbus>
-      <dbus type="session">org.bluez.obex</dbus>
-      <dbus type="session">org.freedesktop.ColorHelper</dbus>
-      <dbus type="session">org.freedesktop.systemd1</dbus>
-      <dbus type="session">org.gtk.GLib.PACRunner</dbus>
-      <dbus type="system">com.redhat.lvmdbus1</dbus>
-      <dbus type="system">fi.epitest.hostap.WPASupplicant</dbus>
-      <dbus type="system">fi.w1.wpa_supplicant1</dbus>
-      <dbus type="system">org.bluez</dbus>
-      <dbus type="system">org.freedesktop.Avahi</dbus>
-      <dbus type="system">org.freedesktop.ColorManager</dbus>
-      <dbus type="system">org.freedesktop.GeoClue2</dbus>
-      <dbus type="system">org.freedesktop.ModemManager1</dbus>
-      <dbus type="system">org.freedesktop.NetworkManager</dbus>
-      <dbus type="system">org.freedesktop.PolicyKit1</dbus>
-      <dbus type="system">org.freedesktop.hostname1</dbus>
-      <dbus type="system">org.freedesktop.import1</dbus>
-      <dbus type="system">org.freedesktop.locale1</dbus>
-      <dbus type="system">org.freedesktop.login1</dbus>
-      <dbus type="system">org.freedesktop.machine1</dbus>
-      <dbus type="system">org.freedesktop.network1</dbus>
-      <dbus type="system">org.freedesktop.nm_dispatcher</dbus>
-      <dbus type="system">org.freedesktop.resolve1</dbus>
-      <dbus type="system">org.freedesktop.systemd1</dbus>
-      <dbus type="system">org.freedesktop.timedate1</dbus>
-    </provides>
-    <languages>
-      <lang percentage="25">af</lang>
-      <lang percentage="38">an</lang>
-      <lang percentage="44">ar</lang>
-      <lang percentage="29">as</lang>
-      <lang percentage="47">ast</lang>
-      <lang percentage="25">az</lang>
-      <lang percentage="27">be</lang>
-      <lang percentage="35">be@latin</lang>
-      <lang percentage="34">bg</lang>
-      <lang percentage="45">bg_BG</lang>
-      <lang percentage="40">bn</lang>
-      <lang percentage="40">bn_IN</lang>
-      <lang percentage="26">bs</lang>
-      <lang percentage="44">ca</lang>
-      <lang percentage="29">ca@valencia</lang>
-      <lang percentage="32">ca_ES@valencia</lang>
-      <lang percentage="44">co</lang>
-      <lang percentage="43">crh</lang>
-      <lang percentage="35">cs</lang>
-      <lang percentage="44">cs_CZ</lang>
-      <lang percentage="41">cy</lang>
-      <lang percentage="44">da</lang>
-      <lang percentage="45">de</lang>
-      <lang percentage="32">dz</lang>
-      <lang percentage="45">el</lang>
-      <lang percentage="27">en@boldquot</lang>
-      <lang percentage="27">en@quot</lang>
-      <lang percentage="35">en@shaw</lang>
-      <lang percentage="35">en_CA</lang>
-      <lang percentage="35">en_GB</lang>
-      <lang percentage="28">eo</lang>
-      <lang percentage="37">es</lang>
-      <lang percentage="35">et</lang>
-      <lang percentage="45">eu</lang>
-      <lang percentage="34">fa</lang>
-      <lang percentage="31">fa_IR</lang>
-      <lang percentage="29">fi</lang>
-      <lang percentage="45">fi_FI</lang>
-      <lang percentage="45">fr</lang>
-      <lang percentage="25">ga</lang>
-      <lang percentage="35">gd</lang>
-      <lang percentage="35">gl</lang>
-      <lang percentage="36">gl_ES</lang>
-      <lang percentage="28">gu</lang>
-      <lang percentage="35">he</lang>
-      <lang percentage="38">he_IL</lang>
-      <lang percentage="29">hi</lang>
-      <lang percentage="32">hr</lang>
-      <lang percentage="35">hu</lang>
-      <lang percentage="45">hu_HU</lang>
-      <lang percentage="45">hy</lang>
-      <lang percentage="35">id</lang>
-      <lang percentage="45">id_ID</lang>
-      <lang percentage="45">it</lang>
-      <lang percentage="33">ja</lang>
-      <lang percentage="42">ja_JP</lang>
-      <lang percentage="42">kab</lang>
-      <lang percentage="25">kg</lang>
-      <lang percentage="35">kk</lang>
-      <lang percentage="49">km</lang>
-      <lang percentage="29">kn</lang>
-      <lang percentage="35">ko</lang>
-      <lang percentage="43">ko_KR</lang>
-      <lang percentage="27">lg</lang>
-      <lang percentage="35">lo_LA</lang>
-      <lang percentage="35">lt</lang>
-      <lang percentage="39">lt_LT</lang>
-      <lang percentage="35">lv</lang>
-      <lang percentage="32">lv_LV</lang>
-      <lang percentage="39">mai</lang>
-      <lang percentage="35">mk</lang>
-      <lang percentage="25">mk_MK</lang>
-      <lang percentage="39">ml</lang>
-      <lang percentage="25">mn</lang>
-      <lang percentage="29">mr</lang>
-      <lang percentage="39">my</lang>
-      <lang percentage="34">nb</lang>
-      <lang percentage="45">nb_NO</lang>
-      <lang percentage="45">nl</lang>
-      <lang percentage="25">nn</lang>
-      <lang percentage="44">nn_NO</lang>
-      <lang percentage="25">nso</lang>
-      <lang percentage="30">oc</lang>
-      <lang percentage="45">or</lang>
-      <lang percentage="34">pa</lang>
-      <lang percentage="35">pl</lang>
-      <lang percentage="44">pl_PL</lang>
-      <lang percentage="35">pt</lang>
-      <lang percentage="44">pt_BR</lang>
-      <lang percentage="44">pt_PT</lang>
-      <lang percentage="46">ro</lang>
-      <lang percentage="38">ro_RO</lang>
-      <lang percentage="44">ru</lang>
-      <lang percentage="35">sk</lang>
-      <lang percentage="36">sk_SK</lang>
-      <lang percentage="33">sl</lang>
-      <lang percentage="35">sl_SI</lang>
-      <lang percentage="37">sq</lang>
-      <lang percentage="36">sr</lang>
-      <lang percentage="25">sr@ije</lang>
-      <lang percentage="34">sr@latin</lang>
-      <lang percentage="45">sv</lang>
-      <lang percentage="29">ta</lang>
-      <lang percentage="29">te</lang>
-      <lang percentage="29">tg</lang>
-      <lang percentage="35">th</lang>
-      <lang percentage="38">th_TH</lang>
-      <lang percentage="45">tr</lang>
-      <lang percentage="49">ug</lang>
-      <lang percentage="35">uk</lang>
-      <lang percentage="45">uk_UA</lang>
-      <lang percentage="33">vi</lang>
-      <lang percentage="45">vi_VN</lang>
-      <lang percentage="25">xh</lang>
-      <lang percentage="44">zh_CN</lang>
-      <lang percentage="29">zh_HK</lang>
-      <lang percentage="43">zh_TW</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">filezilla_3.24.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -5419,7 +5274,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-a3073296d2b4190c7f0c635dd8f8a774.png</image>
+        <image type="source" height="48" width="640">file:/roboto-de1d72591db4e2d1b8e4585b98428abc.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -6363,12 +6218,6 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <screenshots>
-      <screenshot type="default">
-        <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-a24389d595f56473fede591a4632271d.png</image>
-      </screenshot>
-    </screenshots>
     <languages>
       <lang percentage="57">an</lang>
       <lang percentage="26">ar</lang>
