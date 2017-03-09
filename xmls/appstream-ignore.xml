@@ -536,7 +536,7 @@
     <id>aosc-appstream-data.(null)</id>
     <pkgname>aosc-appstream-data</pkgname>
     <metadata>
-      <value key="X-CacheID">aosc-appstream-data_20161002-0_noarch.deb</value>
+      <value key="X-CacheID">aosc-appstream-data_20170308-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -25520,13 +25520,6 @@
     <pkgname>ttf-hanazono</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-hanazono_20160201-1_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-indic.(null)</id>
-    <pkgname>ttf-indic</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
