@@ -169,22 +169,6 @@
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
       </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Condensed – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-a4bbbab118c4bacdc8f9bfa7ca2207ae.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-d974327d7e2b443273283f8df6a73e8c.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-d5145152c7ad9b6187a1156a8d3fe535.png</image>
-      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -426,22 +410,6 @@
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
       </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Condensed – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-a4bbbab118c4bacdc8f9bfa7ca2207ae.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d974327d7e2b443273283f8df6a73e8c.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d5145152c7ad9b6187a1156a8d3fe535.png</image>
-      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -682,22 +650,6 @@
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Condensed – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-a4bbbab118c4bacdc8f9bfa7ca2207ae.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans Condensed – Bold Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-d974327d7e2b443273283f8df6a73e8c.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Sans – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-d5145152c7ad9b6187a1156a8d3fe535.png</image>
       </screenshot>
     </screenshots>
     <languages>
