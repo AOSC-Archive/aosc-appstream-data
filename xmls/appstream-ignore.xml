@@ -5853,13 +5853,6 @@
     </metadata>
   </component>
   <component>
-    <id>font-awesome.(null)</id>
-    <pkgname>font-awesome</pkgname>
-    <metadata>
-      <value key="X-CacheID">font-awesome_4.7.0-0_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>fontconfig+32.(null)</id>
     <pkgname>fontconfig+32</pkgname>
     <metadata>
