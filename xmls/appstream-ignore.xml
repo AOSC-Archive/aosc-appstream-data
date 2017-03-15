@@ -253,6 +253,13 @@
     </metadata>
   </component>
   <component>
+    <id>agg.(null)</id>
+    <pkgname>agg</pkgname>
+    <metadata>
+      <value key="X-CacheID">agg_2.5-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>agrep.(null)</id>
     <pkgname>agrep</pkgname>
     <metadata>
@@ -5853,6 +5860,13 @@
     </metadata>
   </component>
   <component>
+    <id>font-awesome.(null)</id>
+    <pkgname>font-awesome</pkgname>
+    <metadata>
+      <value key="X-CacheID">font-awesome_4.7.0-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>fontconfig+32.(null)</id>
     <pkgname>fontconfig+32</pkgname>
     <metadata>
@@ -6963,6 +6977,13 @@
     <pkgname>gmpy2</pkgname>
     <metadata>
       <value key="X-CacheID">gmpy2_2.0.8-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>gnash.(null)</id>
+    <pkgname>gnash</pkgname>
+    <metadata>
+      <value key="X-CacheID">gnash_0.8.11+git20160608-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -25534,6 +25555,13 @@
     <pkgname>ttf-adf</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-adf_1.3.0-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ttf-ancient-fonts.(null)</id>
+    <pkgname>ttf-ancient-fonts</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
