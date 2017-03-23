@@ -14893,7 +14893,7 @@
     <id>linux+kernel+lts.(null)</id>
     <pkgname>linux+kernel+lts</pkgname>
     <metadata>
-      <value key="X-CacheID">linux+kernel+lts_0-0_noarch.deb</value>
+      <value key="X-CacheID">linux+kernel+lts_3-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -15027,6 +15027,13 @@
     <pkgname>linux-kernel-4.10.4</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-4.10.4_4.10.4-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-4.10.5.(null)</id>
+    <pkgname>linux-kernel-4.10.5</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.10.5_4.10.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -15349,6 +15356,13 @@
     <pkgname>linux-kernel-lts-4.9.16</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-lts-4.9.16_4.9.16-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.17.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.17</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-lts-4.9.17_4.9.17-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -25611,13 +25625,6 @@
     <pkgname>ttf-hanazono</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-hanazono_20160201-1_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-indic.(null)</id>
-    <pkgname>ttf-indic</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
