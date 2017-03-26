@@ -25628,6 +25628,13 @@
     </metadata>
   </component>
   <component>
+    <id>ttf-tagbanwa.(null)</id>
+    <pkgname>ttf-tagbanwa</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>ttf-ubraille.(null)</id>
     <pkgname>ttf-ubraille</pkgname>
     <metadata>
