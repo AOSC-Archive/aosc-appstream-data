@@ -10053,10 +10053,31 @@
     </metadata>
   </component>
   <component>
+    <id>keepass-plugin-agent.(null)</id>
+    <pkgname>keepass-plugin-agent</pkgname>
+    <metadata>
+      <value key="X-CacheID">keepass-plugin-agent_0.8.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>keepass-plugin-challenge.(null)</id>
+    <pkgname>keepass-plugin-challenge</pkgname>
+    <metadata>
+      <value key="X-CacheID">keepass-plugin-challenge_1.5-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>keepass-plugin-favicon.(null)</id>
+    <pkgname>keepass-plugin-favicon</pkgname>
+    <metadata>
+      <value key="X-CacheID">keepass-plugin-favicon_1.9.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>keepass-plugin-http.(null)</id>
     <pkgname>keepass-plugin-http</pkgname>
     <metadata>
-      <value key="X-CacheID">keepass-plugin-http_1.8.4.0-0_amd64.deb</value>
+      <value key="X-CacheID">keepass-plugin-http_1.8.4.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10067,10 +10088,24 @@
     </metadata>
   </component>
   <component>
+    <id>keepass-plugin-otp.(null)</id>
+    <pkgname>keepass-plugin-otp</pkgname>
+    <metadata>
+      <value key="X-CacheID">keepass-plugin-otp_1.3.9-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>keepass-plugin-serpent.(null)</id>
     <pkgname>keepass-plugin-serpent</pkgname>
     <metadata>
       <value key="X-CacheID">keepass-plugin-serpent_1.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>keepass-plugin-twofish.(null)</id>
+    <pkgname>keepass-plugin-twofish</pkgname>
+    <metadata>
+      <value key="X-CacheID">keepass-plugin-twofish_1.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -25593,13 +25628,6 @@
     </metadata>
   </component>
   <component>
-    <id>ttf-ancient-fonts.(null)</id>
-    <pkgname>ttf-ancient-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>ttf-arphic-ukai.(null)</id>
     <pkgname>ttf-arphic-ukai</pkgname>
     <metadata>
@@ -25632,13 +25660,6 @@
     <pkgname>ttf-indic</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-tagbanwa.(null)</id>
-    <pkgname>ttf-tagbanwa</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
