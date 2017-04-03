@@ -466,7 +466,7 @@
     <id>amule.(null)</id>
     <pkgname>amule</pkgname>
     <metadata>
-      <value key="X-CacheID">amule_10874-1_amd64.deb</value>
+      <value key="X-CacheID">amule_2.3.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -1762,6 +1762,13 @@
     <pkgname>bluez-qt</pkgname>
     <metadata>
       <value key="X-CacheID">bluez-qt_5.15.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>bluez-tools.(null)</id>
+    <pkgname>bluez-tools</pkgname>
+    <metadata>
+      <value key="X-CacheID">bluez-tools_20161212-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -5013,13 +5020,6 @@
     </metadata>
   </component>
   <component>
-    <id>eom.(null)</id>
-    <pkgname>eom</pkgname>
-    <metadata>
-      <value key="X-CacheID">eom_1.12.0-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>ephoto.(null)</id>
     <pkgname>ephoto</pkgname>
     <metadata>
@@ -5338,7 +5338,7 @@
     <id>fbterm.(null)</id>
     <pkgname>fbterm</pkgname>
     <metadata>
-      <value key="X-CacheID">fbterm_1.7.0-0_amd64.deb</value>
+      <value key="X-CacheID">fbterm_1.7.0-2_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -8593,7 +8593,7 @@
     <id>httrack.(null)</id>
     <pkgname>httrack</pkgname>
     <metadata>
-      <value key="X-CacheID">httrack_3.48.22-0_amd64.deb</value>
+      <value key="X-CacheID">httrack_3.49.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -21053,7 +21053,7 @@
     <id>polkit-efl.(null)</id>
     <pkgname>polkit-efl</pkgname>
     <metadata>
-      <value key="X-CacheID">polkit-efl_20150104-0_noarch.deb</value>
+      <value key="X-CacheID">polkit-efl_20150104-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -25810,13 +25810,6 @@
     </metadata>
   </component>
   <component>
-    <id>ttf-ancient-fonts.(null)</id>
-    <pkgname>ttf-ancient-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>ttf-arphic-ukai.(null)</id>
     <pkgname>ttf-arphic-ukai</pkgname>
     <metadata>
@@ -25849,13 +25842,6 @@
     <pkgname>ttf-indic</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-tagbanwa.(null)</id>
-    <pkgname>ttf-tagbanwa</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
