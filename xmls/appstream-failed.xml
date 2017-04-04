@@ -361,13 +361,9 @@
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
       </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-d6d9b49af614da836986f7162c60b5c3.png</image>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-d5145152c7ad9b6187a1156a8d3fe535.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -610,13 +606,9 @@
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
       </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d6d9b49af614da836986f7162c60b5c3.png</image>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d5145152c7ad9b6187a1156a8d3fe535.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -859,13 +851,9 @@
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
       </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Book</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>DejaVu Sans Mono – Oblique</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-d6d9b49af614da836986f7162c60b5c3.png</image>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-d5145152c7ad9b6187a1156a8d3fe535.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5191,7 +5179,15 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-0faf7b5e84da9e63c5aa597a4519d98e.png</image>
+        <image type="source" height="48" width="640">file:/roboto-d5895ed83f2adca2f1369fe151ea87de.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>Roboto – Bold</caption>
+        <image type="source" height="48" width="640">file:/roboto-ac2aa8e36fabb878cd8df94ced9ec5b7.png</image>
+      </screenshot>
+      <screenshot priority="-2">
+        <caption>Roboto Black – Italic</caption>
+        <image type="source" height="48" width="640">file:/roboto-896e4d808212d584972c41859c8b70c6.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5839,6 +5835,94 @@
     </metadata>
   </component>
   <component type="font">
+    <id>ttf-tagbanwa</id>
+    <pkgname>ttf-tagbanwa</pkgname>
+    <name>Tagbanwa Fonts</name>
+    <summary>A free Unicode TrueType font for the Tagbanwa script</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <languages>
+      <lang percentage="57">an</lang>
+      <lang percentage="26">ar</lang>
+      <lang percentage="59">as</lang>
+      <lang percentage="29">ast</lang>
+      <lang percentage="57">be</lang>
+      <lang percentage="60">bg</lang>
+      <lang percentage="30">bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang percentage="59">bs</lang>
+      <lang percentage="70">ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang percentage="71">cs</lang>
+      <lang percentage="71">da</lang>
+      <lang percentage="71">de</lang>
+      <lang percentage="60">el</lang>
+      <lang>en</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang percentage="53">eo</lang>
+      <lang percentage="71">es</lang>
+      <lang percentage="36">et</lang>
+      <lang percentage="71">eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang percentage="50">fi</lang>
+      <lang percentage="71">fr</lang>
+      <lang percentage="71">gl</lang>
+      <lang percentage="59">gu</lang>
+      <lang percentage="71">he</lang>
+      <lang percentage="59">hi</lang>
+      <lang percentage="97">hr</lang>
+      <lang percentage="71">hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang percentage="36">ia</lang>
+      <lang percentage="60">id</lang>
+      <lang percentage="71">it</lang>
+      <lang percentage="44">ja</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="71">ko</lang>
+      <lang percentage="71">lt</lang>
+      <lang percentage="71">lv</lang>
+      <lang percentage="38">ml</lang>
+      <lang percentage="59">mr</lang>
+      <lang percentage="68">nb</lang>
+      <lang percentage="42">nl</lang>
+      <lang percentage="70">oc</lang>
+      <lang percentage="59">or</lang>
+      <lang percentage="60">pa</lang>
+      <lang percentage="71">pl</lang>
+      <lang percentage="70">pt</lang>
+      <lang percentage="71">pt_BR</lang>
+      <lang percentage="48">ro</lang>
+      <lang percentage="60">ru</lang>
+      <lang percentage="71">sk</lang>
+      <lang percentage="60">sl</lang>
+      <lang percentage="71">sr</lang>
+      <lang percentage="71">sr@latin</lang>
+      <lang percentage="71">sv</lang>
+      <lang percentage="59">ta</lang>
+      <lang percentage="59">te</lang>
+      <lang percentage="70">th</lang>
+      <lang percentage="43">tr</lang>
+      <lang percentage="56">ug</lang>
+      <lang percentage="59">uk</lang>
+      <lang percentage="60">vi</lang>
+      <lang percentage="70">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="71">zh_TW</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
     <id>ttf-ubraille</id>
     <pkgname>ttf-ubraille</pkgname>
     <name>UBraille</name>
@@ -5850,6 +5934,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-ee4946c501869229a5739890b2b8960b.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang percentage="57">an</lang>
       <lang percentage="26">ar</lang>
