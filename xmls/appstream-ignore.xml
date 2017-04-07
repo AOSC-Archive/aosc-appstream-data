@@ -5874,13 +5874,6 @@
     </metadata>
   </component>
   <component>
-    <id>font-awesome.(null)</id>
-    <pkgname>font-awesome</pkgname>
-    <metadata>
-      <value key="X-CacheID">font-awesome_4.7.0-0_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>fontconfig+32.(null)</id>
     <pkgname>fontconfig+32</pkgname>
     <metadata>
@@ -25828,13 +25821,6 @@
     <pkgname>ttf-adf</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-adf_1.3.0-0_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-ancient-fonts.(null)</id>
-    <pkgname>ttf-ancient-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
