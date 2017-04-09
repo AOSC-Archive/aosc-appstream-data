@@ -5874,6 +5874,13 @@
     </metadata>
   </component>
   <component>
+    <id>font-awesome.(null)</id>
+    <pkgname>font-awesome</pkgname>
+    <metadata>
+      <value key="X-CacheID">font-awesome_4.7.0-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>fontconfig+32.(null)</id>
     <pkgname>fontconfig+32</pkgname>
     <metadata>
@@ -15156,6 +15163,13 @@
     </metadata>
   </component>
   <component>
+    <id>linux-kernel-4.10.9.(null)</id>
+    <pkgname>linux-kernel-4.10.9</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.10.9_4.10.9-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>linux-kernel-4.2.1.(null)</id>
     <pkgname>linux-kernel-4.2.1</pkgname>
     <metadata>
@@ -15496,6 +15510,13 @@
     <pkgname>linux-kernel-lts-4.9.19</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-lts-4.9.19_4.9.19-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.21.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.21</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-lts-4.9.21_4.9.21-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -25856,6 +25877,13 @@
     <pkgname>ttf-hanazono</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-hanazono_20160201-1_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ttf-indic.(null)</id>
+    <pkgname>ttf-indic</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
