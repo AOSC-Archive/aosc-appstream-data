@@ -5622,6 +5622,13 @@
     </metadata>
   </component>
   <component>
+    <id>firmware-free.(null)</id>
+    <pkgname>firmware-free</pkgname>
+    <metadata>
+      <value key="X-CacheID">firmware-free_20170224-2_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>firmware-nonfree.(null)</id>
     <pkgname>firmware-nonfree</pkgname>
     <metadata>
@@ -5871,13 +5878,6 @@
     <pkgname>folks</pkgname>
     <metadata>
       <value key="X-CacheID">folks_0.11.0-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>font-awesome.(null)</id>
-    <pkgname>font-awesome</pkgname>
-    <metadata>
-      <value key="X-CacheID">font-awesome_4.7.0-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -15002,6 +15002,13 @@
     </metadata>
   </component>
   <component>
+    <id>linux+kernel+libre.(null)</id>
+    <pkgname>linux+kernel+libre</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux+kernel+libre_1-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>linux+kernel+lts.(null)</id>
     <pkgname>linux+kernel+lts</pkgname>
     <metadata>
@@ -15461,6 +15468,13 @@
     <pkgname>linux-kernel-4.9.9</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-4.9.9_4.9.9-1_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-libre-4.10.9-gnu.(null)</id>
+    <pkgname>linux-kernel-libre-4.10.9-gnu</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-libre-4.10.9-gnu_4.10.9-gnu-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
