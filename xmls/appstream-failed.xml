@@ -359,7 +359,23 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-fdf26ac3f9a3124cababa442c5336e17.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-546b911ac64553e9f6b15063d3d8800e.png</image>
+      </screenshot>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-d5145152c7ad9b6187a1156a8d3fe535.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -600,7 +616,23 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-fdf26ac3f9a3124cababa442c5336e17.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-546b911ac64553e9f6b15063d3d8800e.png</image>
+      </screenshot>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d5145152c7ad9b6187a1156a8d3fe535.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -841,7 +873,23 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-fdf26ac3f9a3124cababa442c5336e17.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans – Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-546b911ac64553e9f6b15063d3d8800e.png</image>
+      </screenshot>
+      <screenshot priority="-12">
+        <caption>DejaVu Sans Light – ExtraLight</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-d5145152c7ad9b6187a1156a8d3fe535.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5165,13 +5213,9 @@
       <veto>duplicate of roboto-slab-fonts-20150306-0</veto>
     </vetos>
     <screenshots>
-      <screenshot type="default" priority="-2">
-        <caption>Roboto Black – Italic</caption>
-        <image type="source" height="48" width="640">file:/roboto-896e4d808212d584972c41859c8b70c6.png</image>
-      </screenshot>
-      <screenshot>
+      <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-0faf7b5e84da9e63c5aa597a4519d98e.png</image>
+        <image type="source" height="48" width="640">file:/roboto-a3073296d2b4190c7f0c635dd8f8a774.png</image>
       </screenshot>
     </screenshots>
     <languages>
