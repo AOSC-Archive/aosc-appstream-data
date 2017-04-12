@@ -4540,7 +4540,7 @@
     <id>dovecot.(null)</id>
     <pkgname>dovecot</pkgname>
     <metadata>
-      <value key="X-CacheID">dovecot_2.2.28-0_amd64.deb</value>
+      <value key="X-CacheID">dovecot_2.2.29-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -17742,7 +17742,7 @@
     <id>netctl.(null)</id>
     <pkgname>netctl</pkgname>
     <metadata>
-      <value key="X-CacheID">netctl_1.12-0_noarch.deb</value>
+      <value key="X-CacheID">netctl_1.12-1_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -20052,7 +20052,7 @@
     <id>perl-image-exiftool.(null)</id>
     <pkgname>perl-image-exiftool</pkgname>
     <metadata>
-      <value key="X-CacheID">perl-image-exiftool_10.45-0_noarch.deb</value>
+      <value key="X-CacheID">perl-image-exiftool_10.49-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -21256,7 +21256,7 @@
     <id>pptp.(null)</id>
     <pkgname>pptp</pkgname>
     <metadata>
-      <value key="X-CacheID">pptp_1.8.0-2_amd64.deb</value>
+      <value key="X-CacheID">pptp_1.8.0-3_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -22699,6 +22699,13 @@
     <pkgname>qtruby</pkgname>
     <metadata>
       <value key="X-CacheID">qtruby_4.14.3-3_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>qtsingleapplication.(null)</id>
+    <pkgname>qtsingleapplication</pkgname>
+    <metadata>
+      <value key="X-CacheID">qtsingleapplication_2.6.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -25891,13 +25898,6 @@
     <pkgname>ttf-hanazono</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-hanazono_20160201-1_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-indic.(null)</id>
-    <pkgname>ttf-indic</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
