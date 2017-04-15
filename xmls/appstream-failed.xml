@@ -359,7 +359,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-62188a0f5bfff4e4a145e117351225cf.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -600,7 +600,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-62188a0f5bfff4e4a145e117351225cf.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -841,7 +841,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-62188a0f5bfff4e4a145e117351225cf.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5167,7 +5167,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-a387f409ada7e47357146aac59df1da3.png</image>
+        <image type="source" height="48" width="640">file:/roboto-0faf7b5e84da9e63c5aa597a4519d98e.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5661,6 +5661,248 @@
     </metadata>
   </component>
   <component type="font">
+    <id>ttf-indic</id>
+    <pkgname>ttf-indic</pkgname>
+    <name>Indic Opentype Fonts</name>
+    <summary>Indic Opentype Fonts collection</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <languages>
+      <lang>aa</lang>
+      <lang>an</lang>
+      <lang percentage="26">ar</lang>
+      <lang>as</lang>
+      <lang percentage="29">ast</lang>
+      <lang>ay</lang>
+      <lang percentage="57">be</lang>
+      <lang percentage="60">bg</lang>
+      <lang>bh</lang>
+      <lang>bho</lang>
+      <lang>bi</lang>
+      <lang>bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang>br</lang>
+      <lang percentage="59">bs</lang>
+      <lang percentage="70">ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang>ch</lang>
+      <lang>co</lang>
+      <lang percentage="71">cs</lang>
+      <lang>da</lang>
+      <lang>de</lang>
+      <lang percentage="60">el</lang>
+      <lang>en</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang percentage="53">eo</lang>
+      <lang>es</lang>
+      <lang percentage="36">et</lang>
+      <lang>eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang percentage="50">fi</lang>
+      <lang>fil</lang>
+      <lang>fj</lang>
+      <lang>fo</lang>
+      <lang>fr</lang>
+      <lang>fur</lang>
+      <lang>fy</lang>
+      <lang>gd</lang>
+      <lang>gl</lang>
+      <lang>gu</lang>
+      <lang>gv</lang>
+      <lang percentage="71">he</lang>
+      <lang>hi</lang>
+      <lang>hne</lang>
+      <lang>ho</lang>
+      <lang percentage="97">hr</lang>
+      <lang>ht</lang>
+      <lang percentage="71">hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang>ia</lang>
+      <lang>id</lang>
+      <lang>ie</lang>
+      <lang>io</lang>
+      <lang>is</lang>
+      <lang>it</lang>
+      <lang percentage="44">ja</lang>
+      <lang>jv</lang>
+      <lang>kj</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="71">ko</lang>
+      <lang>kok</lang>
+      <lang>kwm</lang>
+      <lang>lb</lang>
+      <lang>li</lang>
+      <lang percentage="71">lt</lang>
+      <lang percentage="71">lv</lang>
+      <lang>mai</lang>
+      <lang>mg</lang>
+      <lang percentage="38">ml</lang>
+      <lang>mr</lang>
+      <lang>ms</lang>
+      <lang>nb</lang>
+      <lang>nds</lang>
+      <lang>ne</lang>
+      <lang>ng</lang>
+      <lang>nl</lang>
+      <lang>nn</lang>
+      <lang>no</lang>
+      <lang>nr</lang>
+      <lang>nso</lang>
+      <lang>oc</lang>
+      <lang>om</lang>
+      <lang percentage="59">or</lang>
+      <lang percentage="60">pa</lang>
+      <lang>pap-an</lang>
+      <lang>pap-aw</lang>
+      <lang percentage="71">pl</lang>
+      <lang>pt</lang>
+      <lang percentage="71">pt_BR</lang>
+      <lang>rm</lang>
+      <lang>rn</lang>
+      <lang percentage="48">ro</lang>
+      <lang percentage="60">ru</lang>
+      <lang>rw</lang>
+      <lang>sa</lang>
+      <lang>sat</lang>
+      <lang>sc</lang>
+      <lang>sg</lang>
+      <lang percentage="71">sk</lang>
+      <lang percentage="60">sl</lang>
+      <lang>sma</lang>
+      <lang>smj</lang>
+      <lang>sn</lang>
+      <lang>so</lang>
+      <lang>sq</lang>
+      <lang percentage="71">sr</lang>
+      <lang percentage="71">sr@latin</lang>
+      <lang>ss</lang>
+      <lang>st</lang>
+      <lang>su</lang>
+      <lang>sv</lang>
+      <lang>sw</lang>
+      <lang>ta</lang>
+      <lang percentage="59">te</lang>
+      <lang percentage="70">th</lang>
+      <lang>tl</lang>
+      <lang>tn</lang>
+      <lang percentage="43">tr</lang>
+      <lang>ts</lang>
+      <lang percentage="56">ug</lang>
+      <lang percentage="59">uk</lang>
+      <lang>uz</lang>
+      <lang percentage="60">vi</lang>
+      <lang>vo</lang>
+      <lang>wa</lang>
+      <lang>xh</lang>
+      <lang>yap</lang>
+      <lang>za</lang>
+      <lang percentage="70">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="71">zh_TW</lang>
+      <lang>zu</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
+    <id>ttf-tagbanwa</id>
+    <pkgname>ttf-tagbanwa</pkgname>
+    <name>Tagbanwa Fonts</name>
+    <summary>A free Unicode TrueType font for the Tagbanwa script</summary>
+    <categories>
+      <category>Addons</category>
+      <category>Fonts</category>
+    </categories>
+    <vetos>
+      <veto>Has no Icon</veto>
+    </vetos>
+    <languages>
+      <lang percentage="57">an</lang>
+      <lang percentage="26">ar</lang>
+      <lang percentage="59">as</lang>
+      <lang percentage="29">ast</lang>
+      <lang percentage="57">be</lang>
+      <lang percentage="60">bg</lang>
+      <lang percentage="30">bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang percentage="59">bs</lang>
+      <lang percentage="70">ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang percentage="71">cs</lang>
+      <lang percentage="71">da</lang>
+      <lang percentage="71">de</lang>
+      <lang percentage="60">el</lang>
+      <lang>en</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang percentage="53">eo</lang>
+      <lang percentage="71">es</lang>
+      <lang percentage="36">et</lang>
+      <lang percentage="71">eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang percentage="50">fi</lang>
+      <lang percentage="71">fr</lang>
+      <lang percentage="71">gl</lang>
+      <lang percentage="59">gu</lang>
+      <lang percentage="71">he</lang>
+      <lang percentage="59">hi</lang>
+      <lang percentage="97">hr</lang>
+      <lang percentage="71">hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang percentage="36">ia</lang>
+      <lang percentage="60">id</lang>
+      <lang percentage="71">it</lang>
+      <lang percentage="44">ja</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="71">ko</lang>
+      <lang percentage="71">lt</lang>
+      <lang percentage="71">lv</lang>
+      <lang percentage="38">ml</lang>
+      <lang percentage="59">mr</lang>
+      <lang percentage="68">nb</lang>
+      <lang percentage="42">nl</lang>
+      <lang percentage="70">oc</lang>
+      <lang percentage="59">or</lang>
+      <lang percentage="60">pa</lang>
+      <lang percentage="71">pl</lang>
+      <lang percentage="70">pt</lang>
+      <lang percentage="71">pt_BR</lang>
+      <lang percentage="48">ro</lang>
+      <lang percentage="60">ru</lang>
+      <lang percentage="71">sk</lang>
+      <lang percentage="60">sl</lang>
+      <lang percentage="71">sr</lang>
+      <lang percentage="71">sr@latin</lang>
+      <lang percentage="71">sv</lang>
+      <lang percentage="59">ta</lang>
+      <lang percentage="59">te</lang>
+      <lang percentage="70">th</lang>
+      <lang percentage="43">tr</lang>
+      <lang percentage="56">ug</lang>
+      <lang percentage="59">uk</lang>
+      <lang percentage="60">vi</lang>
+      <lang percentage="70">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="71">zh_TW</lang>
+    </languages>
+    <metadata>
+      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
+    </metadata>
+  </component>
+  <component type="font">
     <id>ttf-ubraille</id>
     <pkgname>ttf-ubraille</pkgname>
     <name>UBraille</name>
@@ -5675,7 +5917,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-e5b52d2c7f4b4415b07284b99473b8ab.png</image>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-a24389d595f56473fede591a4632271d.png</image>
       </screenshot>
     </screenshots>
     <languages>
