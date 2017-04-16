@@ -508,7 +508,7 @@
     <id>aosc-appstream-data.(null)</id>
     <pkgname>aosc-appstream-data</pkgname>
     <metadata>
-      <value key="X-CacheID">aosc-appstream-data_20170413-0_noarch.deb</value>
+      <value key="X-CacheID">aosc-appstream-data_20170415-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -21001,10 +21001,24 @@
     </metadata>
   </component>
   <component>
+    <id>python-msgpack.(null)</id>
+    <pkgname>python-msgpack</pkgname>
+    <metadata>
+      <value key="X-CacheID">python-msgpack_0.4.8-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>python-musicbrainzngs.(null)</id>
     <pkgname>python-musicbrainzngs</pkgname>
     <metadata>
       <value key="X-CacheID">python-musicbrainzngs_0.6-1_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>python-neovim.(null)</id>
+    <pkgname>python-neovim</pkgname>
+    <metadata>
+      <value key="X-CacheID">python-neovim_0.1.13-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -24680,13 +24694,6 @@
     <pkgname>ttf-indic</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-tagbanwa.(null)</id>
-    <pkgname>ttf-tagbanwa</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
