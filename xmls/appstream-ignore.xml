@@ -508,7 +508,7 @@
     <id>aosc-appstream-data.(null)</id>
     <pkgname>aosc-appstream-data</pkgname>
     <metadata>
-      <value key="X-CacheID">aosc-appstream-data_20170415-0_noarch.deb</value>
+      <value key="X-CacheID">aosc-appstream-data_20170416-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -24659,6 +24659,13 @@
     <pkgname>ttf-adf</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-adf_20090423-2_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ttf-ancient-fonts.(null)</id>
+    <pkgname>ttf-ancient-fonts</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
