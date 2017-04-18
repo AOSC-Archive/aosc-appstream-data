@@ -8313,7 +8313,7 @@
     <id>iana-etc.(null)</id>
     <pkgname>iana-etc</pkgname>
     <metadata>
-      <value key="X-CacheID">iana-etc_20161101-0_noarch.deb</value>
+      <value key="X-CacheID">iana-etc_20170404-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -8992,7 +8992,7 @@
     <id>joe.(null)</id>
     <pkgname>joe</pkgname>
     <metadata>
-      <value key="X-CacheID">joe_4.4-0_amd64.deb</value>
+      <value key="X-CacheID">joe_4.4-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -16601,7 +16601,7 @@
     <id>neovim.(null)</id>
     <pkgname>neovim</pkgname>
     <metadata>
-      <value key="X-CacheID">neovim_0.1.7-1_amd64.deb</value>
+      <value key="X-CacheID">neovim_0.1.7-2_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24662,13 +24662,6 @@
     </metadata>
   </component>
   <component>
-    <id>ttf-ancient-fonts.(null)</id>
-    <pkgname>ttf-ancient-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>ttf-arphic-ukai.(null)</id>
     <pkgname>ttf-arphic-ukai</pkgname>
     <metadata>
@@ -25316,7 +25309,7 @@
     <id>vim-nox.(null)</id>
     <pkgname>vim-nox</pkgname>
     <metadata>
-      <value key="X-CacheID">vim-nox_8.0.0456-0_amd64.deb</value>
+      <value key="X-CacheID">vim-nox_8.0.0563-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
