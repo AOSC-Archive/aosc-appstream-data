@@ -150,196 +150,87 @@
       <value key="X-CacheID">choqok_1.5-1_amd64.deb</value>
     </metadata>
   </component>
-  <component type="desktop">
-    <id>com.gexperts.Terminix.desktop</id>
-    <pkgname>tilix</pkgname>
-    <translation type="gettext">terminix</translation>
-    <name>Terminix</name>
-    <summary>A tiling terminal for GNOME</summary>
-    <summary xml:lang="cs">Dlaždicový terminál pro GNOME</summary>
-    <summary xml:lang="de">Ein Terminal für GNOME mit Kacheldarstellung</summary>
-    <summary xml:lang="es">Una terminal divisible para GNOME</summary>
-    <summary xml:lang="fr">Un terminal scindable pour GNOME</summary>
-    <summary xml:lang="he">מסוף בריצוף עבור GNOME</summary>
-    <summary xml:lang="it">Un terminale a riquadri per GNOME</summary>
-    <summary xml:lang="ja">GNOME のタイル型ターミナル</summary>
-    <summary xml:lang="ko">그놈을 위한 타일링 터미널</summary>
-    <summary xml:lang="nl">Een terminal voor GNOME met tegelmogelijkheid</summary>
-    <summary xml:lang="pl">Emuluje działanie terminala w środowisku GNOME wykorzystując interfejs kafli</summary>
-    <summary xml:lang="pt_BR">Um terminal em mosaico para o GNOME</summary>
-    <summary xml:lang="pt_PT">Um terminal em mosaico para o GNOME</summary>
-    <summary xml:lang="ru">Тайлинговый терминал для GNOME</summary>
-    <summary xml:lang="sv">En sida-vid-sida-terminal för GNOME</summary>
-    <summary xml:lang="uk">Мозаїчний термінал для Gnome</summary>
-    <summary xml:lang="zh_CN">GNOME 的平铺终端模拟器</summary>
-    <description><p>Terminix is a tiling terminal emulator.</p><p>It lets you:</p><ul><li>Layout terminals in any fashion by splitting them horizontally or vertically</li><li>Terminals can be re-arranged using drag and drop both within and between windows</li><li>Terminals can be detached into a new window via drag and drop</li><li>Input can be synchronized between terminals so commands typed in one terminal are replicated to the others</li><li>The grouping of terminals can be saved and loaded from disk</li><li>Terminals support custom titles</li><li>Color schemes are stored in files and custom color schemes can be created by simply creating a new file</li><li>Transparent background</li><li>Supports notifications when processes are completed out of view</li></ul><p>The application was written using GTK 3 and an effort was made to conform to GNOME Human Interface Guidelines (HIG). As a result, it does use client-side-decorations, though it can be disabled if necessary.</p><p>Terminix has been tested with GNOME and with Unity.</p></description>
-    <description xml:lang="bg"><ul><li>Прозрачен фон</li></ul></description>
-    <description xml:lang="cs"><p>Terminix je dlaždicový emulátor terminálu.</p><p>Můžete v něm:</p><ul><li>Rozložit terminály libovolným rozdělením vodorovně či svisle</li><li>Přesouvat terminály přetáhnutím uvnitř oken i mezi okny</li><li>Přetažením odpojit terminály do nového okna</li><li>Synchronizovat vstup mezi terminály, aby se příkazy zadávané v jednom replikovaly v dalších</li><li>Ukládat seskupení terminálů a zpětně načítat z disku</li><li>Nastavit terminálům vlastní titulky</li><li>Barevná schémata jsou uložena v souborech a vlastní můžete vytvořit prostě založením nového souboru</li><li>Průhledné pozadí</li><li>Podporuje upozornění, když skončí procesy v nezaměřeném okně</li></ul><p>Tato aplikace je napsána pomocí GTK 3 a snahou bylo zůstat v souladu se Zásadami lidského rozhraní (HIG) GNOME. Ve výsledku tedy Terminix využívá dekorace na straně klienta, umí je však v případě nutnosti i vypnout.</p><p>Terminix je testován v GNOME a Unity.</p></description>
-    <description xml:lang="de"><p>Terminix ist ein Terminal-Emulator mit Kacheldarstellung.</p><p>Damit können Sie:</p><ul><li>Terminals durch horizontales oder vertikales Teilen beliebig anordnen</li><li>Terminals durch ziehen und ablegen sowohl innerhalb eines Fensters als auch zwischen Fenstern neu anordnen</li><li>Terminals per ziehen und ablegen als neues Fenster loslösen</li><li>Die Eingabe zwischen Terminals synchronisieren, um Befehle in einem Terminal auf ein anderes zu replizieren</li><li>Die Gruppierung der Terminals speichern und vom Datenträger laden</li><li>Terminals unterstützen benutzerdefinierte Titel</li><li>Farbschemata werden in Dateien gespeichert und benutzerdefinierte Farbschemata können durch Anlegen einer Datei erstellt werden</li><li>Transparenter Hintergrund</li><li>Unterstützt Benachrichtigungen, wenn nicht sichtbare Prozesse beendet werden</li></ul><p>Die Anwendung wurde mit GTK 3 geschrieben und es wurde Wert darauf gelegt, den GNOME Human Interface Guidelines (HIG) zu entsprechen. Infolgedessen werden Client Side Decorations verwendet, die aber bei Bedarf deaktiviert werden können.</p><p>Terminix wurde mit GNOME und Unity getestet.</p></description>
-    <description xml:lang="el"><p>Σας επιτρέπει να:</p><ul><li>Διαφανές παρασκήνιο</li></ul></description>
-    <description xml:lang="es"><p>Terminix es un emulador de terminal divisible.</p><p>Le permite:</p><ul><li>Distribuir las terminales dividiéndolas horizontalmente o verticalmente</li><li>Las terminales pueden ser reordenadas arrastrando y soltando entre ventanas</li><li>Las terminales se pueden mover a una ventana nueva vía arrastrar y soltar</li><li>La entrada puede ser sincronizada entre terminales haciendo que los comandos introducidos en una se repliquen en las otras</li><li>La agrupación de terminales se puede guardar y cargar desde el disco</li><li>Las terminales soportan títulos personalizados</li><li>las combinaciones de colores se guardan en archivos y es posible crear combinaciones personalizadas tan solo con un archivo nuevo</li><li>Fondo transparente</li><li>Soporte de notificaciones para procesos finalizados fuera de la vista</li></ul><p>La aplicación fue escrita usando GTK 3 realizando un esfuerzo en cumplir las Directrices de Interfaz Humana de GNOME (HIG). Como resultado, se utilizan decoraciones en el lado del cliente, aunque se pueden desactivar si fuera necesario.</p><p>Terminix fue probado en GNOME y en Unity.</p></description>
-    <description xml:lang="fr"><p>Terminix est un émulateur de terminal scindable.</p><p>Il vous permet :</p><ul><li>D'organiser les terminaux de toutes les façons en les divisant horizontalement et verticalement</li><li>Les terminaux peuvent être réorganisés en utilisant le glisser-déposer dans une même fenêtre ou entre les fenêtres</li><li>Les terminaux peuvent être détachés en une nouvelle fenêtre via un glisser-déposer</li><li>L'entrée peut être synchronisée entre les terminaux de façon à ce que les commandes tapées dans un terminal soient répliquées dans les autres</li><li>Les groupes de terminaux peuvent être enregistrés et chargés depuis le disque</li><li>Les terminaux acceptent les titres personnalisés</li><li>Les combinaisons de couleur sont stockées dans des fichiers et des combinaisons de couleur personnalisées peuvent être créées simplement en créant un nouveau fichier</li><li>Transparence du fond</li><li>Supporte les notifications bureau quand les processus s'achèvent sans avoir le focus</li></ul><p>L'application a été écrite en utilisant GTK 3 et un effort a été fait pour se conformer aux GNOME Human Interface Guidelines (HIG). Ceci fait qu'elle utilise des décorations côté client, quoiqu'elles puissent être désactivées si nécessaire.</p><p>Terminix a été testé sous GNOME et sous Unity.</p></description>
-    <description xml:lang="he"><p>Terminix הוא מדמה מסוף בריצוף.</p><p>ביכולתו:</p><ul><li>פריסת מסופים בכל דרך באמצעות פיצולם, אופקית או אנכית</li><li>ארגון מחדש של מסופים באמצעות גרירה ושחרור מחוץ לחלונות ובתוכם</li><li>ניתוק מסופים לחלון חדש באמצעות גרירה ושחרור</li><li>סנכרון קלט בין מסופים כך שפקודה המוזנת לאחד מועתקת לאחרים</li><li>שמירה וטעינה של קיבוץ המסופים</li><li>תמיכה בהתאמה אישית של כותרות המסופים</li><li>אחסון תכניות צבעים בקבצים ויצירת תכניות צבעים חדשות באמצעות יצירת קובץ חדש</li><li>רקע שקוף</li><li>תמיכה בהתראות בסיום תהליכים מחוץ לתצוגה</li></ul><p>היישום נכתב באמצעות GTK 3 ונעשה מאמץ להתאימו להנחיות לממשק אנוש (HIG) של GNOME. כתוצאה מכך, נעשה שימוש בקישוטי צד־לקוח, אם כי ניתן להשביתם בעת הצורך.</p><p>Terminix נבדק עם GNOME ועם Unity.</p></description>
-    <description xml:lang="it"><p>Terminix è un emulatore di terminale a riquadri.</p><p>Ti consente di:</p><ul><li>disporre di più terminali multipli su un'unica finestra dividendola orizzontalmente o verticalmente</li><li>riordinare i terminali mediante trascinamento</li><li>spostare i terminali da una finestra all'altra mediante trascinamento</li><li>sincronizzare l'input tra più terminali, così che i comandi digitati in un terminale sono replicati negli altri</li><li>raggruppare i terminali, salvarli su disco e caricarli successivamente</li><li>i terminali supportano i titoli personalizzati</li><li>gli schemi dei colori sono memorizzati su file e i colori personalizzati possono essere salvati semplicemente creando un nuovo file</li><li>sfondo trasparente</li><li>notifica il completamento dei processi quando il terminale non è visibile</li></ul><p>L'applicazione è scritta in GTK 3 e si conforma alle GNOME Human Interface Guidelines (HIG). Di conseguenza fa uso di client-side-decorations, anche se possono essere disattivate, se necessario.</p><p>Terminix è stato testato su GNOME e Unity.</p></description>
-    <description xml:lang="ja"><p>Terminix はタイル型ターミナルエミュレータです。</p><p>このような事ができます:</p><ul><li>ターミナルを縦・横へ分割し様々なレイアウトで使用できます</li><li>ターミナルはウィンドウ内またはウィンドウ間でドラッグアンドドロップする事で再配置できます</li><li>ターミナルはドラッグアンドドロップで新しいウィンドウへ切り離す事ができます</li><li>あるターミナルに入力されたコマンドを他のターミナルへ複製し、ターミナル間で入力を同期する事ができます</li><li>ターミナルをグループ化し、ディスクへ保存・読み出しする事ができます</li><li>ターミナルはカスタムタイルに対応しています</li><li>カラースキームはファイルに保存され、新しいファイルを作成するだけでカスタムカラースキームを作成できます</li><li>背景の透明化</li><li>プロセスが見えなくなったときの通知に対応</li></ul><p>このアプリケーションは GTK 3 を使用して作成され、GNOME Human Interface Guidelines (HIG) に準拠するように努力しました。 その結果、クライアント側のデコレーションを使用します。これは必要に応じて無効にすることができます。</p><p>Terminix は GNOME と Unity でテストされています。</p></description>
-    <description xml:lang="ko"><p>Terminix 는 타일링 터미널 에뮬레이터 입니다.</p><p>다음과 같은 것을 할 수 있게 해 줍니다:</p><ul><li>터미널을 가로 또는 세로로 분할하여 원하는 방식으로 배치하세요</li><li>창 안이나 창 사이에서 끌어옮겨 터미널을 재배열 할 수 있습니다</li><li>터미널을 끌어옮겨 새 창으로 분리 할 수 있습니다</li><li>터미널 사이 입력을 동기화 할 수 있으며 한 터미널에서의 입력이 다른 터미널에 복제 됩니다</li><li>터미널 그루핑은 디스크에 저장하거나 불러올 수 있습니다</li><li>터미널은 사용자 정의 제목을 지원합니다</li><li>색상 스키마는 파일에 보관되며 사용자 정의 색상 스키마는 단순히 새 파일 생성으로 생성 될 수 있습니다</li><li>투명한 배경</li><li>뷰 밖에서 프로세스를 끝날때에 대한 알림 지원</li></ul><p>이 앱은 GTK3 로 작성 되었으며 그놈 휴먼 인터페이스 가이드라인(HIG) 에 따르고자 노력 했습니다. 결과적으로, 이 앱은 클라이언트 측 데코레이션을 사용하며, 필요한 경우 비활성화 될 수 있습니다.</p><p>Terminix 는 그놈과 유니티에서 시험하였습니다.</p></description>
-    <description xml:lang="nl"><p>Terminix is een terminalapplicatie met tegelmogelijkheid.</p><p>Het stelt u in staat om:</p><ul><li>Terminals indelen op welke manier dan ook door ze horizontaal of verticaal te splitsen</li><li>Terminals kunnen anders worden ingedeeld middels slepen-en-neerzetten binnen en tussen vensters</li><li>Terminal kunnen worden veranderd in een nieuw venster middels slepen-en-neerzetten</li><li>De invoer kan worden gesynchroniseerd tussen terminals zodat opdrachten uit de ene terminal kunnen worden hergebruikt in andere terminals</li><li>Gegroepeerde terminals kunnen worden opgeslagen naar en geladen vanaf een schijf</li><li>De terminals hebben ondersteuning voor aangepaste titels</li><li>Kleurenschema's worden opgeslagen in bestanden en aangepaste kleurenschema's kunnen worden gecreëerd door het creëren van een nieuw bestand</li><li>Doorzichtige achtergrond</li><li>Ondersteunt meldingen voor processen die buiten het zicht worden voltooid</li></ul><p>De applicatie is geschreven in GTK 3 en er is veel moeite gestoken in het volgen van de richtlijnen van de HIG (GNOME Human Interface Guidelines). Dit resulteert in het gebruik van client-side-decorations maar deze kunnen, indien nodig, worden uitgeschakeld.</p><p>Terminix is getest onder GNOME en Unity.</p></description>
-    <description xml:lang="pl"><p>Terminix jest emulatorem terminala obsługującym kafle.</p><p>Pozwala użytkownikowi na:</p><ul><li>rozmieszczanie terminali w dowolny sposób, dzieląc je pionowo lub poziomo,</li><li>przenoszenie terminali pomiędzy oknami przeciągając je,</li><li>odłączanie terminali do nowych okien przeciągając je,</li><li>synchronizowanie wejścia pomiędzy terminalami, co umożliwia powielanie poleceń wprowadzonych w jednym terminalu,</li><li>grupowanie terminali, zapisywanie grup na dysku i wczytywanie ich,</li><li>nadawanie własnych tytułów terminali,</li><li>przechowywanie zestawów kolorów w plikach i tworzenie własnych zestawów kolorów,</li><li>ustalenie przezroczystego tła,</li><li>powiadamianie o zakończonych procesach, które są niewidoczne.</li></ul><p>Program opracowano używając GTK3, zachowując wytyczne GNOME Human Interface Guidelines (HIG). W wyniku tego wyświetla on obramowania po stronie klienta, choć w razie potrzeby można je wyłączyć.</p><p>Terminix został przetestowany z GNOME i Unity.</p></description>
-    <description xml:lang="pt_BR"><p>Terminix é um emulador de terminal em mosaico.</p><p>Ele permite:</p><ul><li>Dispor terminais de diferentes maneiras, dividindo-os horizontalmente ou verticalmente</li><li>Reorganizar terminais arrastando e soltando em uma mesma janela, ou entre janelas diferentes</li><li>Separar terminais em novas janelas arrastando e soltando</li><li>Sincronizar a entrada entre diferentes terminais, replicando comandos digitados em um terminal para outros</li><li>Carregar e salvar grupos de terminais de/para o disco</li><li>Atribuir títulos personalizados aos terminais</li><li>Criar e armazenar novos esquemas de cores personalizados apenas manipulando arquivos</li><li>Utilizar plano de fundo transparente</li><li>Receber notificações quando processos terminarem em segundo plano</li></ul><p>A aplicação utiliza o GTK 3, observando as diretrizes de interface de usuário do GNOME (GNOME HIG). Portanto, decorações de janela internas são utilizadas, mas podem ser desabilitadas se necessário.</p><p>O Terminix foi testado nos ambientes GNOME e Unity.</p></description>
-    <description xml:lang="pt_PT"><p>Terminix é um emulador de terminal em mosaico.</p><p>Ele permite:</p><ul><li>Dispor terminais de diferentes maneiras, dividindo-os horizontalmente ou verticalmente</li><li>Reorganizar terminais arrastando e soltando em uma mesma janela, ou entre janelas diferentes</li><li>Separar terminais em novas janelas arrastando e soltando</li><li>Sincronizar a entrada entre diferentes terminais, replicando comandos digitados em um terminal para outros</li><li>Carregar e salvar grupos de terminais de/para o disco</li><li>Atribuir títulos personalizados aos terminais</li><li>Criar e armazenar novos esquemas de cores personalizados apenas manipulando arquivos</li><li>Utilizar plano de fundo transparente</li><li>Receber notificações quando processos terminarem em segundo plano</li></ul><p>A aplicação utiliza o GTK 3, observando as diretrizes de interface de usuário do GNOME (GNOME HIG). Portanto, decorações de janela internas são utilizadas, mas podem ser desabilitadas se necessário.</p><p>O Terminix foi testado nos ambientes GNOME e Unity.</p></description>
-    <description xml:lang="ru"><p>Terminix является тайлинговым эмулятором терминала.</p><p>Это позволяет:</p><ul><li>Компоновать терминалы можно любым способом, путем разделения их по горизонтали или по вертикали</li><li>Терминалы могут быть перестроены с помощью перетаскивания как внутри, так и между окнами</li><li>Терминалы могут быть отделены в новое окно с помощью перетаскивания</li><li>Ввод может быть синхронизирован между терминалами, поэтому команды набранные в одном терминале, повторяются на другие</li><li>Группировка терминалов может быть сохранена и загружена с диска</li><li>Терминалы поддерживают пользовательские названия</li><li>Цветовые схемы сохраняются в файлах и пользовательские цветовые схемы могут быть созданы путем простого создания нового файла</li><li>Прозрачный фон</li><li>Поддержка уведомлений, когда процессы завершаются вне поля зрения</li></ul><p>Приложение было написано с использованием GTK 3 и были предприняты усилия, чтобы они соответствовали GNOME Human Interface Guidelines (HIG). В результате, оно используется на стороне клиента-украшения, хотя оно может быть отключено, если это необходимо.</p><p>Terminix был протестирован с GNOME и Unity.</p></description>
-    <description xml:lang="sv"><p>Terminix är en terminalemulator där terminaler placeras sida vid sida.</p><p>Den låter dig:</p><ul><li>Ändra layout för terminaler på vilket sätt som helst genom att dela dem horisontellt eller vertikalt</li><li>Terminaler kan omplaceras genom att dra och släppa dem både inom och mellan fönster</li><li>Terminaler kan kopplas loss till ett nytt fönster genom att dra och släppa dem</li><li>Inmatning kan synkroniseras mellan terminaler så att kommandon som skrivs in i en terminal upprepas till de andra</li><li>Grupperingen av terminaler kan sparas och läsas in från disk</li><li>Terminaler stöder anpassade titlar</li><li>Färgscheman lagras i filer och anpassade färgscheman kan enkelt skapas genom att skapa en ny fil</li><li>Transparent bakgrund</li><li>Stöder aviseringar då processer utom synhåll blir klara</li></ul><p>Programmet skrevs med GTK 3 och försöker följa GNOME:s riktlinjer för mänskliga gränssnitt (HIG). Som ett resultat av detta använder det dekorationer från klientsidan, men det kan inaktiveras om nödvändigt.</p><p>Terminix har testats med GNOME och med Unity.</p></description>
-    <description xml:lang="tr"><ul><li>Şeffaf arkaplan</li></ul><p>Terminix, GNOME ve Unity ile test edilmiştir.</p></description>
-    <description xml:lang="uk"><p>Terminix — мозаїчний емулятор термінала.</p><p>Він дозволяє:</p><ul><li>Компонувати термінали в будь-якому вигляді, розділивши їх горизонтально та вертикально</li><li>Термінали можна впорядковувати перетягуванням у вікнах і між ними</li><li>Термінали можна від'єднати в нове вікно через перетягування</li><li>Введення можна синхронізувати між терміналами, тож команди, які будуть вводитись, будуть повторюватись на інших терміналах</li><li>Групування терміналів можна зберегти і завантажити з диска</li><li>Термінали підтримують власні заголовки</li><li>Схеми кольорів збережено у файлах і власні схеми кольорів додаються через звичайне створення нових файлів</li><li>Прозоре тло</li><li>Підтримування сповіщень, коли дії завершується позаочно</li></ul><p>Програма написана з використанням GTK 3 і дотримується настанов щодо правил побудови інтерфейсу (GNOME HIG). У результаті, використовується оздоблення на боку клієнта, хоча його можна вимкнути, якщо потрібно.</p><p>Terminix випробувано з GNOME і Unity.</p></description>
-    <description xml:lang="zh_CN"><p>Terminix 是一个平铺终端模拟器。</p><p>它可让你：</p><ul><li>通过垂直和水平分割随心所欲地排布终端</li><li>可通过在窗口内外拖放重新安排终端</li><li>可通过拖放将终端脱离为新的窗口</li><li>可在终端之间同步输入，可将一个终端的输入复制到另一个终端里</li><li>可从磁盘保存和载入终端分组</li><li>终端支持自定义标题</li><li>配色方案存储在文件中，可通过创建文件来创建新的配色方案</li><li>透明背景</li><li>支持进程在视图外完成时发送桌面通知</li></ul><p>该应用程序使用 GTK 3 编写并尝试兼容 GNOME 人机交互指南（HIG）。因此，Terminix 使用了客户端窗口装饰（CSD），但此功能可随时关闭。</p><p>Terminix 已在 GNOME 和 Unity 上测试。</p></description>
-    <icon type="cached" height="128" width="128">128x128/com.gexperts.Terminix.png</icon>
-    <icon type="cached" height="64" width="64">64x64/com.gexperts.Terminix.png</icon>
-    <categories>
-      <category>System</category>
-      <category>TerminalEmulator</category>
-    </categories>
-    <keywords>
-      <keyword>cmd</keyword>
-      <keyword>command</keyword>
-      <keyword>commandline</keyword>
-      <keyword>prompt</keyword>
-      <keyword>shell</keyword>
-      <keyword xml:lang="cs">příkaz</keyword>
-      <keyword xml:lang="cs">příkazová řádka</keyword>
-      <keyword xml:lang="cs">terminál</keyword>
-      <keyword xml:lang="de">Befehl</keyword>
-      <keyword xml:lang="de">Befehlszeile</keyword>
-      <keyword xml:lang="de">Prompt</keyword>
-      <keyword xml:lang="de">Shell</keyword>
-      <keyword xml:lang="it">comando</keyword>
-      <keyword xml:lang="it">linea di comando</keyword>
-      <keyword xml:lang="nl">opdracht</keyword>
-      <keyword xml:lang="nl">opdrachtprompt</keyword>
-      <keyword xml:lang="pl">polecenie</keyword>
-      <keyword xml:lang="pl">powłoka</keyword>
-      <keyword xml:lang="pl">wierszpoleceń</keyword>
-      <keyword xml:lang="pt_BR">comando</keyword>
-      <keyword xml:lang="pt_BR">linha de comando</keyword>
-    </keywords>
-    <kudos>
-      <kudo>AppMenu</kudo>
-      <kudo>HiDpiIcon</kudo>
-      <kudo>HighContrast</kudo>
-      <kudo>ModernToolkit</kudo>
-      <kudo>Notifications</kudo>
-    </kudos>
+  <component type="font">
+    <id>courier-prime-fonts</id>
+    <pkgname>courier-prime-fonts</pkgname>
+    <name>Courier Prime</name>
+    <summary>An "improved" Courier font family.</summary>
     <vetos>
-      <veto>duplicate of terminix-1.5.0-0</veto>
+      <veto>Has no Icon</veto>
     </vetos>
-    <project_license>MPL-2.0</project_license>
-    <url type="bugtracker">https://github.com/gnunn1/terminix/issues</url>
-    <url type="faq">https://gnunn1.github.io/terminix-web/faq</url>
-    <url type="help">https://gnunn1.github.io/terminix-web/manual/</url>
-    <url type="homepage">https://gnunn1.github.io/terminix-web/</url>
-    <url type="translate">https://hosted.weblate.org/projects/terminix/translations/</url>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">http://www.gexperts.com/img/terminix/terminix2.png</image>
-      </screenshot>
-    </screenshots>
-    <provides>
-      <binary>terminix</binary>
-      <dbus type="session">ca.desrt.dconf</dbus>
-      <dbus type="session">com.gexperts.Terminix</dbus>
-      <dbus type="session">org.a11y.Bus</dbus>
-      <dbus type="session">org.freedesktop.ColorHelper</dbus>
-      <dbus type="session">org.freedesktop.systemd1</dbus>
-      <dbus type="session">org.gtk.GLib.PACRunner</dbus>
-      <dbus type="system">com.redhat.lvmdbus1</dbus>
-      <dbus type="system">org.freedesktop.ColorManager</dbus>
-      <dbus type="system">org.freedesktop.PolicyKit1</dbus>
-      <dbus type="system">org.freedesktop.hostname1</dbus>
-      <dbus type="system">org.freedesktop.import1</dbus>
-      <dbus type="system">org.freedesktop.locale1</dbus>
-      <dbus type="system">org.freedesktop.login1</dbus>
-      <dbus type="system">org.freedesktop.machine1</dbus>
-      <dbus type="system">org.freedesktop.network1</dbus>
-      <dbus type="system">org.freedesktop.resolve1</dbus>
-      <dbus type="system">org.freedesktop.systemd1</dbus>
-      <dbus type="system">org.freedesktop.timedate1</dbus>
-    </provides>
     <languages>
-      <lang percentage="26">af</lang>
-      <lang percentage="28">an</lang>
-      <lang percentage="34">ar</lang>
-      <lang percentage="33">as</lang>
-      <lang percentage="53">ast</lang>
-      <lang percentage="26">az</lang>
-      <lang percentage="30">be</lang>
-      <lang percentage="40">be@latin</lang>
-      <lang percentage="25">bn</lang>
-      <lang percentage="28">bn_IN</lang>
-      <lang percentage="30">bs</lang>
-      <lang percentage="39">ca</lang>
-      <lang percentage="33">ca@valencia</lang>
-      <lang percentage="49">crh</lang>
-      <lang percentage="40">cy</lang>
-      <lang percentage="39">da</lang>
-      <lang percentage="37">dz</lang>
-      <lang percentage="30">en@boldquot</lang>
-      <lang percentage="30">en@quot</lang>
-      <lang percentage="40">en@shaw</lang>
-      <lang percentage="40">en_CA</lang>
-      <lang percentage="39">en_GB</lang>
-      <lang percentage="32">eo</lang>
-      <lang percentage="27">et</lang>
-      <lang percentage="39">eu</lang>
-      <lang percentage="39">fa</lang>
-      <lang percentage="34">fi</lang>
-      <lang percentage="26">ga</lang>
-      <lang percentage="39">gd</lang>
-      <lang percentage="39">gl</lang>
-      <lang percentage="32">gu</lang>
-      <lang percentage="33">hi</lang>
-      <lang percentage="39">hr</lang>
-      <lang percentage="39">hu</lang>
-      <lang percentage="48">hy</lang>
-      <lang percentage="27">ia</lang>
-      <lang percentage="39">is</lang>
-      <lang percentage="34">ka</lang>
-      <lang percentage="28">kg</lang>
-      <lang percentage="39">kk</lang>
-      <lang percentage="27">km</lang>
-      <lang percentage="33">kn</lang>
-      <lang percentage="31">lg</lang>
-      <lang percentage="39">lv</lang>
-      <lang percentage="45">mai</lang>
-      <lang percentage="40">mk</lang>
-      <lang percentage="28">ml</lang>
-      <lang percentage="26">mn</lang>
-      <lang percentage="33">mr</lang>
-      <lang percentage="44">my</lang>
-      <lang percentage="39">nb</lang>
-      <lang percentage="30">ne</lang>
-      <lang percentage="25">nn</lang>
-      <lang percentage="26">nso</lang>
-      <lang percentage="37">oc</lang>
-      <lang percentage="28">or</lang>
-      <lang percentage="39">pa</lang>
-      <lang percentage="39">pt</lang>
-      <lang percentage="25">ro</lang>
-      <lang percentage="39">sk</lang>
-      <lang percentage="38">sl</lang>
-      <lang percentage="42">sq</lang>
-      <lang percentage="39">sr</lang>
-      <lang percentage="26">sr@ije</lang>
-      <lang percentage="39">sr@latin</lang>
-      <lang percentage="33">ta</lang>
-      <lang percentage="33">te</lang>
-      <lang percentage="33">tg</lang>
-      <lang percentage="39">th</lang>
-      <lang percentage="27">ug</lang>
-      <lang percentage="38">vi</lang>
-      <lang percentage="29">xh</lang>
-      <lang percentage="33">zh_HK</lang>
+      <lang percentage="57">an</lang>
+      <lang percentage="26">ar</lang>
+      <lang percentage="59">as</lang>
+      <lang percentage="29">ast</lang>
+      <lang percentage="57">be</lang>
+      <lang percentage="60">bg</lang>
+      <lang percentage="30">bn</lang>
+      <lang percentage="60">bn_IN</lang>
+      <lang percentage="59">bs</lang>
+      <lang percentage="70">ca</lang>
+      <lang percentage="59">ca@valencia</lang>
+      <lang percentage="71">cs</lang>
+      <lang percentage="71">da</lang>
+      <lang percentage="71">de</lang>
+      <lang percentage="60">el</lang>
+      <lang percentage="71">en@boldquot</lang>
+      <lang percentage="71">en@quot</lang>
+      <lang percentage="28">en@shaw</lang>
+      <lang percentage="50">en_CA</lang>
+      <lang percentage="70">en_GB</lang>
+      <lang percentage="53">eo</lang>
+      <lang percentage="71">es</lang>
+      <lang percentage="36">et</lang>
+      <lang percentage="71">eu</lang>
+      <lang percentage="30">fa</lang>
+      <lang percentage="50">fi</lang>
+      <lang percentage="71">fr</lang>
+      <lang percentage="71">gl</lang>
+      <lang percentage="59">gu</lang>
+      <lang percentage="71">he</lang>
+      <lang percentage="59">hi</lang>
+      <lang percentage="97">hr</lang>
+      <lang percentage="71">hu</lang>
+      <lang percentage="43">hy</lang>
+      <lang percentage="36">ia</lang>
+      <lang percentage="69">id</lang>
+      <lang percentage="71">it</lang>
+      <lang percentage="44">ja</lang>
+      <lang percentage="59">kn</lang>
+      <lang percentage="71">ko</lang>
+      <lang percentage="71">lt</lang>
+      <lang percentage="71">lv</lang>
+      <lang percentage="38">ml</lang>
+      <lang percentage="59">mr</lang>
+      <lang percentage="68">nb</lang>
+      <lang percentage="42">nl</lang>
+      <lang percentage="70">oc</lang>
+      <lang percentage="59">or</lang>
+      <lang percentage="60">pa</lang>
+      <lang percentage="71">pl</lang>
+      <lang percentage="70">pt</lang>
+      <lang percentage="71">pt_BR</lang>
+      <lang percentage="48">ro</lang>
+      <lang percentage="71">ru</lang>
+      <lang percentage="71">sk</lang>
+      <lang percentage="60">sl</lang>
+      <lang percentage="71">sr</lang>
+      <lang percentage="71">sr@latin</lang>
+      <lang percentage="71">sv</lang>
+      <lang percentage="59">ta</lang>
+      <lang percentage="59">te</lang>
+      <lang percentage="70">th</lang>
+      <lang percentage="43">tr</lang>
+      <lang percentage="56">ug</lang>
+      <lang percentage="59">uk</lang>
+      <lang percentage="60">vi</lang>
+      <lang percentage="70">zh_CN</lang>
+      <lang percentage="59">zh_HK</lang>
+      <lang percentage="71">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">tilix_1.5.2-0_amd64.deb</value>
+      <value key="X-CacheID">courier-prime-fonts_20170419-0_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
@@ -360,6 +251,18 @@
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -602,6 +505,18 @@
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-sans-mono-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
       </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-240a4f205fd7e51a3c93a550929a5f73.png</image>
+      </screenshot>
     </screenshots>
     <languages>
       <lang>aa</lang>
@@ -842,6 +757,18 @@
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
         <image type="source" height="48" width="640">file:/dejavu-serif-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+      </screenshot>
+      <screenshot>
+        <caption>DejaVu Sans Mono – Book</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-e6d4e08fb1ecc3f855c461b85163a19b.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-d5145152c7ad9b6187a1156a8d3fe535.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -1119,7 +1046,7 @@
       <lang percentage="71">hu</lang>
       <lang percentage="43">hy</lang>
       <lang percentage="36">ia</lang>
-      <lang percentage="60">id</lang>
+      <lang percentage="69">id</lang>
       <lang percentage="71">it</lang>
       <lang>ja</lang>
       <lang percentage="59">kn</lang>
@@ -1137,7 +1064,7 @@
       <lang percentage="70">pt</lang>
       <lang percentage="71">pt_BR</lang>
       <lang percentage="48">ro</lang>
-      <lang percentage="60">ru</lang>
+      <lang percentage="71">ru</lang>
       <lang percentage="71">sk</lang>
       <lang percentage="60">sl</lang>
       <lang percentage="71">sr</lang>
@@ -1210,7 +1137,7 @@
       <lang percentage="71">hu</lang>
       <lang percentage="43">hy</lang>
       <lang>ia</lang>
-      <lang percentage="60">id</lang>
+      <lang percentage="69">id</lang>
       <lang>ie</lang>
       <lang>io</lang>
       <lang percentage="71">it</lang>
@@ -1237,7 +1164,7 @@
       <lang percentage="71">pt_BR</lang>
       <lang>rn</lang>
       <lang percentage="48">ro</lang>
-      <lang percentage="60">ru</lang>
+      <lang percentage="71">ru</lang>
       <lang>rw</lang>
       <lang percentage="71">sk</lang>
       <lang percentage="60">sl</lang>
@@ -2073,7 +2000,7 @@
       <lang percentage="33">fi</lang>
       <lang percentage="33">fr</lang>
       <lang percentage="35">gd</lang>
-      <lang percentage="33">gl</lang>
+      <lang percentage="32">gl</lang>
       <lang percentage="28">gu</lang>
       <lang percentage="28">he</lang>
       <lang percentage="29">hi</lang>
@@ -2093,25 +2020,25 @@
       <lang percentage="34">ko</lang>
       <lang percentage="27">lg</lang>
       <lang percentage="31">lt</lang>
-      <lang percentage="27">lv</lang>
+      <lang percentage="26">lv</lang>
       <lang percentage="39">mai</lang>
       <lang percentage="35">mk</lang>
       <lang percentage="39">ml</lang>
       <lang percentage="29">mr</lang>
       <lang percentage="39">my</lang>
       <lang percentage="32">nb</lang>
-      <lang percentage="31">nds</lang>
+      <lang percentage="30">nds</lang>
       <lang percentage="26">ne</lang>
       <lang percentage="34">nl</lang>
       <lang percentage="31">nn</lang>
       <lang percentage="33">oc</lang>
       <lang percentage="45">or</lang>
-      <lang percentage="26">pa</lang>
+      <lang percentage="28">pa</lang>
       <lang percentage="34">pl</lang>
       <lang percentage="34">pt</lang>
       <lang percentage="32">pt_BR</lang>
       <lang percentage="29">ro</lang>
-      <lang percentage="34">ru</lang>
+      <lang percentage="33">ru</lang>
       <lang percentage="26">se</lang>
       <lang percentage="33">sk</lang>
       <lang percentage="34">sl</lang>
@@ -2363,7 +2290,7 @@
       <lang percentage="33">fi</lang>
       <lang percentage="33">fr</lang>
       <lang percentage="35">gd</lang>
-      <lang percentage="33">gl</lang>
+      <lang percentage="32">gl</lang>
       <lang percentage="28">gu</lang>
       <lang percentage="28">he</lang>
       <lang percentage="29">hi</lang>
@@ -2383,25 +2310,25 @@
       <lang percentage="34">ko</lang>
       <lang percentage="27">lg</lang>
       <lang percentage="31">lt</lang>
-      <lang percentage="27">lv</lang>
+      <lang percentage="26">lv</lang>
       <lang percentage="39">mai</lang>
       <lang percentage="35">mk</lang>
       <lang percentage="39">ml</lang>
       <lang percentage="29">mr</lang>
       <lang percentage="39">my</lang>
       <lang percentage="32">nb</lang>
-      <lang percentage="31">nds</lang>
+      <lang percentage="30">nds</lang>
       <lang percentage="26">ne</lang>
       <lang percentage="34">nl</lang>
       <lang percentage="31">nn</lang>
       <lang percentage="33">oc</lang>
       <lang percentage="45">or</lang>
-      <lang percentage="26">pa</lang>
+      <lang percentage="28">pa</lang>
       <lang percentage="34">pl</lang>
       <lang percentage="34">pt</lang>
       <lang percentage="32">pt_BR</lang>
       <lang percentage="29">ro</lang>
-      <lang percentage="34">ru</lang>
+      <lang percentage="33">ru</lang>
       <lang percentage="26">se</lang>
       <lang percentage="33">sk</lang>
       <lang percentage="34">sl</lang>
@@ -3046,7 +2973,7 @@
       <lang percentage="27">lg</lang>
       <lang>li</lang>
       <lang>lt</lang>
-      <lang percentage="27">lv</lang>
+      <lang percentage="26">lv</lang>
       <lang percentage="39">mai</lang>
       <lang>mg</lang>
       <lang>mh</lang>
@@ -3071,7 +2998,7 @@
       <lang>om</lang>
       <lang percentage="45">or</lang>
       <lang>os</lang>
-      <lang percentage="26">pa</lang>
+      <lang percentage="28">pa</lang>
       <lang>pap-an</lang>
       <lang>pap-aw</lang>
       <lang>pl</lang>
@@ -4005,7 +3932,7 @@
       <lang percentage="29">mr</lang>
       <lang percentage="39">my</lang>
       <lang percentage="34">nb</lang>
-      <lang percentage="31">nds</lang>
+      <lang percentage="30">nds</lang>
       <lang percentage="26">ne</lang>
       <lang percentage="35">nl</lang>
       <lang percentage="31">nn</lang>
@@ -4616,7 +4543,7 @@
       <lang percentage="29">mr</lang>
       <lang percentage="39">my</lang>
       <lang percentage="34">nb</lang>
-      <lang percentage="31">nds</lang>
+      <lang percentage="30">nds</lang>
       <lang percentage="26">ne</lang>
       <lang percentage="26">nl</lang>
       <lang percentage="31">nn</lang>
@@ -4880,7 +4807,7 @@
       <lang percentage="33">fi</lang>
       <lang percentage="33">fr</lang>
       <lang percentage="35">gd</lang>
-      <lang percentage="33">gl</lang>
+      <lang percentage="32">gl</lang>
       <lang percentage="28">gu</lang>
       <lang percentage="28">he</lang>
       <lang percentage="29">hi</lang>
@@ -4900,25 +4827,25 @@
       <lang percentage="34">ko</lang>
       <lang percentage="27">lg</lang>
       <lang percentage="31">lt</lang>
-      <lang percentage="27">lv</lang>
+      <lang percentage="26">lv</lang>
       <lang percentage="39">mai</lang>
       <lang percentage="35">mk</lang>
       <lang percentage="39">ml</lang>
       <lang percentage="29">mr</lang>
       <lang percentage="39">my</lang>
       <lang percentage="32">nb</lang>
-      <lang percentage="31">nds</lang>
+      <lang percentage="30">nds</lang>
       <lang percentage="26">ne</lang>
       <lang percentage="34">nl</lang>
       <lang percentage="31">nn</lang>
       <lang percentage="33">oc</lang>
       <lang percentage="45">or</lang>
-      <lang percentage="26">pa</lang>
+      <lang percentage="28">pa</lang>
       <lang percentage="34">pl</lang>
       <lang percentage="34">pt</lang>
       <lang percentage="32">pt_BR</lang>
       <lang percentage="29">ro</lang>
-      <lang percentage="34">ru</lang>
+      <lang percentage="33">ru</lang>
       <lang percentage="26">se</lang>
       <lang percentage="33">sk</lang>
       <lang percentage="34">sl</lang>
@@ -5626,7 +5553,7 @@
       <lang percentage="71">hu</lang>
       <lang percentage="43">hy</lang>
       <lang percentage="36">ia</lang>
-      <lang percentage="60">id</lang>
+      <lang percentage="69">id</lang>
       <lang percentage="71">it</lang>
       <lang percentage="44">ja</lang>
       <lang percentage="59">kn</lang>
@@ -5644,7 +5571,7 @@
       <lang percentage="70">pt</lang>
       <lang percentage="71">pt_BR</lang>
       <lang percentage="48">ro</lang>
-      <lang percentage="60">ru</lang>
+      <lang percentage="71">ru</lang>
       <lang percentage="71">sk</lang>
       <lang percentage="60">sl</lang>
       <lang percentage="71">sr</lang>
@@ -5709,7 +5636,7 @@
       <lang percentage="71">hu</lang>
       <lang percentage="43">hy</lang>
       <lang percentage="36">ia</lang>
-      <lang percentage="60">id</lang>
+      <lang percentage="69">id</lang>
       <lang percentage="71">it</lang>
       <lang percentage="44">ja</lang>
       <lang percentage="59">kn</lang>
@@ -5727,7 +5654,7 @@
       <lang percentage="70">pt</lang>
       <lang percentage="71">pt_BR</lang>
       <lang percentage="48">ro</lang>
-      <lang percentage="60">ru</lang>
+      <lang percentage="71">ru</lang>
       <lang percentage="71">sk</lang>
       <lang percentage="60">sl</lang>
       <lang percentage="71">sr</lang>
@@ -5798,7 +5725,7 @@
       <lang percentage="71">hu</lang>
       <lang percentage="43">hy</lang>
       <lang>ia</lang>
-      <lang percentage="60">id</lang>
+      <lang percentage="69">id</lang>
       <lang>ie</lang>
       <lang>io</lang>
       <lang percentage="71">it</lang>
@@ -5970,7 +5897,7 @@
       <lang>rm</lang>
       <lang>rn</lang>
       <lang percentage="48">ro</lang>
-      <lang percentage="60">ru</lang>
+      <lang percentage="71">ru</lang>
       <lang>rw</lang>
       <lang>sa</lang>
       <lang>sat</lang>
@@ -6064,7 +5991,7 @@
       <lang percentage="71">hu</lang>
       <lang percentage="43">hy</lang>
       <lang percentage="36">ia</lang>
-      <lang percentage="60">id</lang>
+      <lang percentage="69">id</lang>
       <lang percentage="71">it</lang>
       <lang percentage="44">ja</lang>
       <lang percentage="59">kn</lang>
@@ -6082,7 +6009,7 @@
       <lang percentage="70">pt</lang>
       <lang percentage="71">pt_BR</lang>
       <lang percentage="48">ro</lang>
-      <lang percentage="60">ru</lang>
+      <lang percentage="71">ru</lang>
       <lang percentage="71">sk</lang>
       <lang percentage="60">sl</lang>
       <lang percentage="71">sr</lang>
@@ -6158,7 +6085,7 @@
       <lang percentage="71">hu</lang>
       <lang percentage="43">hy</lang>
       <lang percentage="36">ia</lang>
-      <lang percentage="60">id</lang>
+      <lang percentage="69">id</lang>
       <lang percentage="71">it</lang>
       <lang percentage="44">ja</lang>
       <lang percentage="59">kn</lang>
@@ -6176,7 +6103,7 @@
       <lang percentage="70">pt</lang>
       <lang percentage="71">pt_BR</lang>
       <lang percentage="48">ro</lang>
-      <lang percentage="60">ru</lang>
+      <lang percentage="71">ru</lang>
       <lang percentage="71">sk</lang>
       <lang percentage="60">sl</lang>
       <lang percentage="71">sr</lang>
@@ -6241,7 +6168,7 @@
       <lang percentage="71">hu</lang>
       <lang percentage="43">hy</lang>
       <lang percentage="36">ia</lang>
-      <lang percentage="60">id</lang>
+      <lang percentage="69">id</lang>
       <lang percentage="71">it</lang>
       <lang percentage="44">ja</lang>
       <lang percentage="59">kn</lang>
@@ -6259,7 +6186,7 @@
       <lang percentage="70">pt</lang>
       <lang percentage="71">pt_BR</lang>
       <lang percentage="48">ro</lang>
-      <lang percentage="60">ru</lang>
+      <lang percentage="71">ru</lang>
       <lang percentage="71">sk</lang>
       <lang percentage="60">sl</lang>
       <lang percentage="71">sr</lang>
@@ -6324,7 +6251,7 @@
       <lang percentage="71">hu</lang>
       <lang percentage="43">hy</lang>
       <lang percentage="36">ia</lang>
-      <lang percentage="60">id</lang>
+      <lang percentage="69">id</lang>
       <lang percentage="71">it</lang>
       <lang percentage="44">ja</lang>
       <lang percentage="59">kn</lang>
@@ -6342,7 +6269,7 @@
       <lang percentage="70">pt</lang>
       <lang percentage="71">pt_BR</lang>
       <lang percentage="48">ro</lang>
-      <lang percentage="60">ru</lang>
+      <lang percentage="71">ru</lang>
       <lang percentage="71">sk</lang>
       <lang percentage="60">sl</lang>
       <lang percentage="71">sr</lang>
@@ -6407,7 +6334,7 @@
       <lang percentage="71">hu</lang>
       <lang percentage="43">hy</lang>
       <lang percentage="36">ia</lang>
-      <lang percentage="60">id</lang>
+      <lang percentage="69">id</lang>
       <lang percentage="71">it</lang>
       <lang percentage="44">ja</lang>
       <lang percentage="59">kn</lang>
@@ -6425,7 +6352,7 @@
       <lang percentage="70">pt</lang>
       <lang percentage="71">pt_BR</lang>
       <lang percentage="48">ro</lang>
-      <lang percentage="60">ru</lang>
+      <lang percentage="71">ru</lang>
       <lang percentage="71">sk</lang>
       <lang percentage="60">sl</lang>
       <lang percentage="71">sr</lang>
