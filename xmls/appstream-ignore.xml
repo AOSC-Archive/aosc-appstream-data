@@ -3833,7 +3833,7 @@
     <id>dbus.(null)</id>
     <pkgname>dbus</pkgname>
     <metadata>
-      <value key="X-CacheID">dbus_1.10.18-0_amd64.deb</value>
+      <value key="X-CacheID">dbus_1.10.18-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -14526,6 +14526,13 @@
     </metadata>
   </component>
   <component>
+    <id>linux+kernel+lts.(null)</id>
+    <pkgname>linux+kernel+lts</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux+kernel+lts_7-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>linux+kernel.(null)</id>
     <pkgname>linux+kernel</pkgname>
     <metadata>
@@ -23671,7 +23678,7 @@
     <id>sunxi-tools.(null)</id>
     <pkgname>sunxi-tools</pkgname>
     <metadata>
-      <value key="X-CacheID">sunxi-tools_1.4.1-0_amd64.deb</value>
+      <value key="X-CacheID">sunxi-tools_1.4.2+git20170331-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -23700,6 +23707,13 @@
     <pkgname>sweeper</pkgname>
     <metadata>
       <value key="X-CacheID">sweeper_16.12.3-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>swift-im.(null)</id>
+    <pkgname>swift-im</pkgname>
+    <metadata>
+      <value key="X-CacheID">swift-im_3.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24834,6 +24848,13 @@
     <pkgname>ttf-hanazono</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-hanazono_20160201-2_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>ttf-indic.(null)</id>
+    <pkgname>ttf-indic</pkgname>
+    <metadata>
+      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
