@@ -14554,6 +14554,13 @@
     </metadata>
   </component>
   <component>
+    <id>linux-kernel-4.10.12.(null)</id>
+    <pkgname>linux-kernel-4.10.12</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-4.10.12_4.10.12-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>linux-kernel-4.10.4.(null)</id>
     <pkgname>linux-kernel-4.10.4</pkgname>
     <metadata>
@@ -14586,6 +14593,13 @@
     <pkgname>linux-kernel-4.10.9</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-4.10.9_4.10.9-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-libre-4.10.12-gnu.(null)</id>
+    <pkgname>linux-kernel-libre-4.10.12-gnu</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-libre-4.10.12-gnu_4.10.12-gnu-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -14642,6 +14656,13 @@
     <pkgname>linux-kernel-lts-4.9.23</pkgname>
     <metadata>
       <value key="X-CacheID">linux-kernel-lts-4.9.23_4.9.23-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.24.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.24</pkgname>
+    <metadata>
+      <value key="X-CacheID">linux-kernel-lts-4.9.24_4.9.24-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -17071,6 +17092,13 @@
     <pkgname>nose</pkgname>
     <metadata>
       <value key="X-CacheID">nose_1.3.7-4_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>notepadqq.(null)</id>
+    <pkgname>notepadqq</pkgname>
+    <metadata>
+      <value key="X-CacheID">notepadqq_1.0.1-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -23063,6 +23091,13 @@
     <pkgname>slip</pkgname>
     <metadata>
       <value key="X-CacheID">slip_0.6.4-0_noarch.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>slock.(null)</id>
+    <pkgname>slock</pkgname>
+    <metadata>
+      <value key="X-CacheID">slock_1.4-0_amd64.deb</value>
     </metadata>
   </component>
   <component>

@@ -250,11 +250,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-62188a0f5bfff4e4a145e117351225cf.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -495,11 +491,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-62188a0f5bfff4e4a145e117351225cf.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -740,11 +732,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
-      </screenshot>
-      <screenshot priority="-12">
-        <caption>DejaVu Sans Light – ExtraLight</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-5302dc62f45bf6eb4b68eb75bf103717.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-62188a0f5bfff4e4a145e117351225cf.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5070,7 +5058,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-76b4357e4cf79227b7904493ec6323ef.png</image>
+        <image type="source" height="48" width="640">file:/roboto-a3073296d2b4190c7f0c635dd8f8a774.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -6017,7 +6005,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-a8f9456feabdf3fd40cfd1e17ecdf0ae.png</image>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-a24389d595f56473fede591a4632271d.png</image>
       </screenshot>
     </screenshots>
     <languages>
