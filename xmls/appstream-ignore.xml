@@ -16713,7 +16713,7 @@
     <id>neofetch.(null)</id>
     <pkgname>neofetch</pkgname>
     <metadata>
-      <value key="X-CacheID">neofetch_3.0.1-0_noarch.deb</value>
+      <value key="X-CacheID">neofetch_3.1.0-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -21715,6 +21715,13 @@
     </metadata>
   </component>
   <component>
+    <id>quassel.(null)</id>
+    <pkgname>quassel</pkgname>
+    <metadata>
+      <value key="X-CacheID">quassel_0.12.4-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>quazip.(null)</id>
     <pkgname>quazip</pkgname>
     <metadata>
@@ -24858,13 +24865,6 @@
     </metadata>
   </component>
   <component>
-    <id>ttf-ancient-fonts.(null)</id>
-    <pkgname>ttf-ancient-fonts</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-ancient-fonts_2.59-2_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>ttf-arphic-ukai.(null)</id>
     <pkgname>ttf-arphic-ukai</pkgname>
     <metadata>
@@ -24897,13 +24897,6 @@
     <pkgname>ttf-indic</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-tagbanwa.(null)</id>
-    <pkgname>ttf-tagbanwa</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -25604,6 +25597,13 @@
     <pkgname>vis</pkgname>
     <metadata>
       <value key="X-CacheID">vis_0.2-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>vivaldi.(null)</id>
+    <pkgname>vivaldi</pkgname>
+    <metadata>
+      <value key="X-CacheID">vivaldi_1.8.770.56-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
