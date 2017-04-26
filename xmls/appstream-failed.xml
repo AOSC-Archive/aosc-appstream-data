@@ -250,7 +250,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -491,7 +491,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -732,7 +732,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5717,6 +5717,12 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
+    <screenshots>
+      <screenshot type="default">
+        <caption>Braille – Regular</caption>
+        <image type="source" height="48" width="640">file:/ttf-ubraille-a24389d595f56473fede591a4632271d.png</image>
+      </screenshot>
+    </screenshots>
     <languages>
       <lang percentage="57">an</lang>
       <lang percentage="26">ar</lang>

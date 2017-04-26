@@ -26436,7 +26436,7 @@
     <id>xdg-utils.(null)</id>
     <pkgname>xdg-utils</pkgname>
     <metadata>
-      <value key="X-CacheID">xdg-utils_1.1.1-1_noarch.deb</value>
+      <value key="X-CacheID">xdg-utils_1.1.1-2_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -27458,7 +27458,7 @@
     <id>zotero.(null)</id>
     <pkgname>zotero</pkgname>
     <metadata>
-      <value key="X-CacheID">zotero_4.0.27-0_amd64.deb</value>
+      <value key="X-CacheID">zotero_4.0.29.10-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
