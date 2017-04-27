@@ -250,7 +250,11 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -491,7 +495,11 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -732,7 +740,11 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+      </screenshot>
+      <screenshot priority="-32">
+        <caption>DejaVu Sans – Bold Oblique</caption>
+        <image type="source" height="48" width="640">file:/dejavu-serif-240a4f205fd7e51a3c93a550929a5f73.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -1396,269 +1408,6 @@
     </metadata>
   </component>
   <component type="desktop">
-    <id>org.kde.bomber.desktop</id>
-    <pkgname>bomber</pkgname>
-    <name>Bomber</name>
-    <name xml:lang="eu">Bonba jartzailea</name>
-    <name xml:lang="hne">बम्बर</name>
-    <name xml:lang="kk">Бомбылаушы</name>
-    <name xml:lang="km">យន្តហោះ​ទម្លាក់​គ្រាប់​បែក</name>
-    <name xml:lang="lt">Bombarduotojas</name>
-    <name xml:lang="mr">बाँबर</name>
-    <name xml:lang="ms">Pengebom</name>
-    <name xml:lang="nn">Bombar</name>
-    <name xml:lang="pl">Bombowiec</name>
-    <name xml:lang="ro">Bombardier</name>
-    <name xml:lang="sl">Bombnik</name>
-    <name xml:lang="sr">Бомбардер</name>
-    <name xml:lang="sr@ijekavian">Бомбардер</name>
-    <name xml:lang="sr@ijekavianlatin">Bombarder</name>
-    <name xml:lang="sr@latin">Bombarder</name>
-    <name xml:lang="sr_Latn">Bombarder</name>
-    <name xml:lang="sr_ijekavian">Бомбардер</name>
-    <name xml:lang="sr_ijekavianlatin">Bombarder</name>
-    <name xml:lang="tr">Bombacı</name>
-    <name xml:lang="ug">بومبىچى</name>
-    <name xml:lang="zh_TW">戰鬥機_Bomber</name>
-    <developer_name>The KDE Community</developer_name>
-    <developer_name xml:lang="ast">La comunidá KDE</developer_name>
-    <developer_name xml:lang="bs">KDE zajednica</developer_name>
-    <developer_name xml:lang="ca">La comunitat KDE</developer_name>
-    <developer_name xml:lang="ca_valencia">La comunitat KDE</developer_name>
-    <developer_name xml:lang="cs">Komunita KDE</developer_name>
-    <developer_name xml:lang="de">Die KDE-Gemeinschaft</developer_name>
-    <developer_name xml:lang="el">Η Κοινότητα του KDE</developer_name>
-    <developer_name xml:lang="es">La comunidad KDE</developer_name>
-    <developer_name xml:lang="et">KDE kogukond</developer_name>
-    <developer_name xml:lang="fi">KDE-yhteisö</developer_name>
-    <developer_name xml:lang="fr">La communauté KDE</developer_name>
-    <developer_name xml:lang="gl">A comunidade de KDE</developer_name>
-    <developer_name xml:lang="hu">A KDE közösség</developer_name>
-    <developer_name xml:lang="it">La Comunità KDE</developer_name>
-    <developer_name xml:lang="ko">KDE 커뮤니티</developer_name>
-    <developer_name xml:lang="nds">De KDE-Meenschap</developer_name>
-    <developer_name xml:lang="nl">De KDE gemeenschap</developer_name>
-    <developer_name xml:lang="nn">KDE-fellesskapet</developer_name>
-    <developer_name xml:lang="pl">Społeczność KDE</developer_name>
-    <developer_name xml:lang="pt">A Comunidade do KDE</developer_name>
-    <developer_name xml:lang="pt_BR">KDE Community</developer_name>
-    <developer_name xml:lang="ru">Сообщество KDE</developer_name>
-    <developer_name xml:lang="sk">KDE komunita</developer_name>
-    <developer_name xml:lang="sl">Skupnost KDE</developer_name>
-    <developer_name xml:lang="sr">заједница КДЕ‑а</developer_name>
-    <developer_name xml:lang="sr_Latn">zajednica KDE‑a</developer_name>
-    <developer_name xml:lang="sr_ijekavian">заједница КДЕ‑а</developer_name>
-    <developer_name xml:lang="sr_ijekavianlatin">zajednica KDE‑a</developer_name>
-    <developer_name xml:lang="sv">KDE-gemenskapen</developer_name>
-    <developer_name xml:lang="tr">KDE Topluluğu</developer_name>
-    <developer_name xml:lang="uk">Спільнота KDE</developer_name>
-    <developer_name xml:lang="zh_CN">KDE 社区</developer_name>
-    <developer_name xml:lang="zh_TW">KDE 社群</developer_name>
-    <description><p>Bomber is a single player arcade game. The player is invading various cities in a plane that is decreasing in height.</p><p>The goal of the game is to destroy all the buildings and advance to the next level. Each level gets a bit harder by increasing the speed of the plane and the height of the buildings.</p></description>
-    <description xml:lang="ast"><p>Bomber ye un xuegu arcade d'un xugador. El xugador invadirá delles ciudaes nun avión qu'amenorga la so llatitú.</p><p>La meta d'esti xuegu ye destruyir toles construcciones y avanzar al nivel siguiente. Cada nivel vuélvese un pocoñín más difícil pol incrementu de velocidá del avión y l'altor de les construcciones.</p></description>
-    <description xml:lang="bs"><p>Bomber je arkadna igra za jednog igrača. Igrač napada razne gradove avionom koji smanjuje visinu.</p><p>Cilj igre je da uništite sve zgrade da bi prešli na sljedeći nivo. Svaki nivo postaje malo teži povećanjem brzine aviona i visine zgrade.</p></description>
-    <description xml:lang="ca"><p>El Bomber és un joc arcade per a un sol jugador. El jugador està envaint diverses ciutats en un avió que va disminuint en alçada.</p><p>L'objectiu del joc és destruir tots els edificis i avançar al següent nivell. Cada nivell es torna més difícil, incrementant la velocitat de l'avió i l'alçada dels edificis.</p></description>
-    <description xml:lang="ca_valencia"><p>El Bomber és un joc arcade per a un sol jugador. El jugador està envaint diverses ciutats en un avió que va disminuint en alçària.</p><p>L'objectiu del joc és destruir tots els edificis i avançar al següent nivell. Cada nivell es torna més difícil, incrementant la velocitat de l'avió i l'alçària dels edificis.</p></description>
-    <description xml:lang="de"><p>Bomber ist ein Arcade-Spiel für einen Spieler, bei dem unterschiedliche und in der Höhe steigende Städte mit einem Flugzeug angegriffen werden.</p><p>Das Spielziel ist die Zerstörung aller Gebäude und der damit verbundene Aufstieg in die nächste Ebene. Die Ebenen werden durch die zunehmende Geschwindigkeit der Flugzeuge und Höhe der Gebäude immer schwieriger.</p></description>
-    <description xml:lang="el"><p>Το Bomber είναι ένα ηλεκτρονικό παιχνίδι για έναν παίκτη. Ο παίκτης εισβάλλει σε διάφορες πόλεις με ένα μαχητικό το οποίο χάνει ύψος.</p><p>Ο στόχος του παιχνιδιού είναι να καταστραφούν όλα τα κτήρια και η προώθηση στο επόμενο επίπεδο. Σε κάθε επίπεδο η δυσκολία αυξάνεται με την αύξηση της ταχύτητας του μαχητικού και του ύψους των κτηρίων.</p></description>
-    <description xml:lang="es"><p>Bomber es un juego recreativo para un único jugador. El jugador está invadiendo diversas ciudades en un avión que cada vez vuela más bajo.</p><p>El objetivo del juego consiste en destruir todos los edificios para avanzar hasta el siguiente nivel. Cada nivel se va haciendo más difícil al aumentarse la velocidad del avión y la altura de los edificios.</p></description>
-    <description xml:lang="et"><p>Bomber on üksikmängija arkaadmäng. Mängija peab ründama erinevaid linnu lennukil, mis laskub aina madalamale.</p><p>Mängu eesmärk on hävitada kõik ehitised ja jõuda järgmisele tasemele. Iga tase muutub aina raskemaks: suureneb lennuki kiirus ning kasvab ehitiste kõrgus.</p></description>
-    <description xml:lang="fi"><p>Bomber on yhden pelaajan pelihallipeli, jossa pelaaja hyökkää kaupunkeihin lentokoneella, jonka korkeus vähenee vähitellen.</p><p>Pelin tavoitteena on tuhota kaikki rakennukset ja edetä seuraavalle tasolle. Kukin taso on edellistä vaikeampi; lentokone on nopeampi ja rakennukset ovat korkeampia.</p></description>
-    <description xml:lang="fr"><p>Bomber est un jeu d'arcade pour un seul joueur. Le joueur doit envahir des villes depuis un avion dont l'altitude décroît.</p><p>Le but du jeu est de détruire tous les bâtiments pour atteindre le niveau suivant. Chaque niveau devient plus difficile en augmentant la vitesse de l'avion et la hauteur des bâtiments.</p></description>
-    <description xml:lang="gl"><p>Bomber é un xogo arcade para un único xogador, que montado nun avión invadirá varias cidades mentres o aparello vai reducindo a súa altitude.</p><p>O obxectivo do xogo consiste en destruír os edificios e avanzar ao seguinte nivel. Cada novo nivel resultará máis difícil, pois aumentará a velocidade do avión, así como a altura dos edificios.</p></description>
-    <description xml:lang="hu"><p>A Bomber egy egyjátékos arcade játék. A játékos különböző városokat igáz le egy repülővel, ami folyamatosan veszít magasságából.</p><p>A játék célja, hogy minden épületet elpusztítsunk, mielőtt továbbléphetnénk a következő szintre. Minden szint egyre nehezedik azzal, hogy a repülő sebessége növekszik, az épületek magassága pedig nő.</p></description>
-    <description xml:lang="it"><p>Bomber è un semplice gioco arcade per un solo giocatore. Questi deve invadere delle città in una pianura inclinata.</p><p>Lo scopo del gioco è di distruggere tutti gli edifici e raggiungere il livello successivo. Ogni livello è un po' più difficile perché aumenta la pendenza del piano e l'altezza degli edifici.</p></description>
-    <description xml:lang="ko"><p>Bomber는 단일 플레이어 아케이드 게임입니다. 플레이어는 계속 하강하는 비행기를 타고 도시를 침략합니다.</p><p>게임 목표는 모든 건물을 파괴하고 다음 단계로 진행하는 것입니다. 각각 단계별로 비행기가 빨라지고 건물이 높아집니다.</p></description>
-    <description xml:lang="nds"><p>Bomber is en Enkelspeler-Speelhallenspeel. De Speler griept en Reeg Steder mit en Fleger an, dat jümmers wieder daal kummt.</p><p>Dat Speel is, Du rietst all Hüüs daal un kummst so na de nakamen Speelstoop. Elkeen Stoop is sworer; de Fleger fliggt gauer un de Hüüs sünd höger.</p></description>
-    <description xml:lang="nl"><p>Bomber is een arcade spel voor een enkele speler. De speler bezoekt verschillende steden in een vliegtuig dat dat steeds lager gaat.</p><p>Het doel van het spel is om alle gebouwen te vernietigen en verder te gaan naar het volgende niveau. Elk niveau wordt een beetje moeilijker door de snelheid van het vliegtuig te verhogen en de hoogte van de gebouwen.</p></description>
-    <description xml:lang="nn"><p>Bombar er eit arkadespel for éin spelar. Målet er å bomba byar med eit bombefly som stadig flyr lågare.</p><p>Målet med spelet er å bomba alle bygningane for å komma vidare til neste brett. Kvart brett vert vanskelgare, med raskare fly og høgare bygningar.</p></description>
-    <description xml:lang="pl"><p>Bombowiec to gra zręcznościowa dla jednego gracza. Gracz najeżdża różne miasta na płaszczyźnie, która obniża się na wysokości.</p><p>Celem gry jest zniszczenie wszystkich budynków i przejście do następnego poziomu. Każdy poziom staje się coraz trudniejszy poprzez zwiększanie szybkości płaszczyzny i wysokości budynków.</p></description>
-    <description xml:lang="pt"><p>O Bomber é um jogo simples para um jogador. O jogador está a invadir diversas cidades com um avião que vai reduzindo a sua altitude.</p><p>O objectivo do jogo é destruir todos os edifícios e avançar para o nível seguinte. Cada nível vai ficando mais difícil, aumentando a velocidade do avião e a altura dos edifícios.</p></description>
-    <description xml:lang="pt_BR"><p>Bomber é um jogo tipo arcade para um único jogador. O jogador está invadindo várias cidades com um avião que vai descendo em altitude.</p><p>O objetivo do jogo é destruir todos os edifícios e passar ao nível seguinte. Cada nível vai ficando um pouco mais difícil ao aumentar a velocidade do avião e a altura dos edifícios.</p></description>
-    <description xml:lang="ru"><p>Bomber — аркадная игра для одного игрока. Игрок атакует различные города с бомбардировщика, и они уменьшаются по высоте.</p><p>Цель игры — разрушить все здания и продвинуться на следующий уровень. Очередной уровень сложнее предыдущего за счёт увеличения скорости самолёта и высоты зданий.</p></description>
-    <description xml:lang="sk"><p>Bomber je arkádová hra pre jedného hráča. Hráč napáda rôzne mestá v lietadle, ktoré klesá.</p><p>Cieľom hry je zničiť všetky budovy na postúpenie do ďalšej úrovne. Každá úroveň je o niečo ťažšia zvýšením rýchlosti lietadla a výškou budov.</p></description>
-    <description xml:lang="sl"><p>Bombnik je enoigralska arkadna igra. Igralec napada raznolika mesta z letalom, ki se sčasoma spušča.</p><p>Cilj igre je uničiti vse zgradbe in tako preiti v naslednjo stopnjo. Vsaka stopnja je težja, saj se poveča hitrost letala in višina zgradb.</p></description>
-    <description xml:lang="sr"><p>Бомбардер је аркадна игра за једног играча. Нападајте градове авионом којем опада висина.</p><p>Циљ игре је уништити све зграде и прећи на следећи ниво. Сваки ниво је мало тежи од претходног, тиме што се повећава брзина авиона и висина зграда.</p></description>
-    <description xml:lang="sr_Latn"><p>Bombarder je arkadna igra za jednog igrača. Napadajte gradove avionom kojem opada visina.</p><p>Cilj igre je uništiti sve zgrade i preći na sledeći nivo. Svaki nivo je malo teži od prethodnog, time što se povećava brzina aviona i visina zgrada.</p></description>
-    <description xml:lang="sr_ijekavian"><p>Бомбардер је аркадна игра за једног играча. Нападајте градове авионом којем опада висина.</p><p>Циљ игре је уништити све зграде и прећи на следећи ниво. Сваки ниво је мало тежи од претходног, тиме што се повећава брзина авиона и висина зграда.</p></description>
-    <description xml:lang="sr_ijekavianlatin"><p>Bombarder je arkadna igra za jednog igrača. Napadajte gradove avionom kojem opada visina.</p><p>Cilj igre je uništiti sve zgrade i preći na sledeći nivo. Svaki nivo je malo teži od prethodnog, time što se povećava brzina aviona i visina zgrada.</p></description>
-    <description xml:lang="sv"><p>Bomber är ett spelhallsspel för en ensam spelare. Spelaren invaderar olika städer i ett flygplan som flyger på allt lägre höjd.</p><p>Spelets mål är att förstöra alla byggnader och gå vidare till nästa nivå. Varje nivå blir lite svårare genom att planets hastighet och byggnadernas höjd ökar.</p></description>
-    <description xml:lang="tr"><p>Bombacı tek oyunculu bir makine oyunudur. Oyuncu yüksekliği azalan bir uçakla çeşitli şehirleri istila eder.</p><p>Oyunun amacı şehirdeki bütün binaları yıkmak ve bir sonraki seviyeye geçmektir. Her seviyede uçağın hızı ve binaların yüksekliği arttırılarak zorluk arttırılır.</p></description>
-    <description xml:lang="uk"><p>Bomber — аркадна гра для одного гравця. Гравець бомбардує з літака міста, висота будинків у яких поступово зростає.</p><p>Метою гри є зруйнувати всі будинки і перейти на наступний рівень. З кожним рівнем гра стає складнішою, оскільки зростає швидкість літака і висота будинків.</p></description>
-    <description xml:lang="zh_TW"><p>Bomber 是個大型單玩家遊戲。玩家要侵略多個城市，由高到低。</p><p>遊戲的目的是要催毀所有的建築物，並進到下一關。每一關難度會越來越高，建築物也會越來越高。</p></description>
-    <icon type="cached" height="128" width="128">128x128/org.kde.bomber.png</icon>
-    <icon type="cached" height="64" width="64">64x64/org.kde.bomber.png</icon>
-    <categories>
-      <category>ArcadeGame</category>
-      <category>Game</category>
-    </categories>
-    <kudos>
-      <kudo>HiDpiIcon</kudo>
-      <kudo>HighContrast</kudo>
-    </kudos>
-    <vetos>
-      <veto>No &lt;summary&gt; in AppData</veto>
-    </vetos>
-    <project_license>GPL-2.0+</project_license>
-    <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=bomber</url>
-    <url type="help">http://docs.kde.org/stable/en/kdegames/bomber/index.html</url>
-    <project_group>KDE</project_group>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">http://kde.org/images/screenshots/bomber.png</image>
-      </screenshot>
-    </screenshots>
-    <provides>
-      <binary>bomber</binary>
-      <dbus type="session">ca.desrt.dconf</dbus>
-      <dbus type="session">org.a11y.Bus</dbus>
-      <dbus type="session">org.bluez.obex</dbus>
-      <dbus type="session">org.freedesktop.ColorHelper</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Master</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Example</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Geonames</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Gsmloc</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Hostip</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Localnet</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Manual</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Nominatim</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Plazes</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Skyhook</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Yahoo</dbus>
-      <dbus type="session">org.freedesktop.systemd1</dbus>
-      <dbus type="session">org.gnome.GConf</dbus>
-      <dbus type="session">org.gnome.zeitgeist.Engine</dbus>
-      <dbus type="session">org.gnome.zeitgeist.SimpleIndexer</dbus>
-      <dbus type="session">org.gtk.GLib.PACRunner</dbus>
-      <dbus type="session">org.jackaudio.service</dbus>
-      <dbus type="session">org.kde.kcookiejar5</dbus>
-      <dbus type="session">org.kde.kded5</dbus>
-      <dbus type="session">org.kde.kglobalaccel</dbus>
-      <dbus type="session">org.kde.kiod5</dbus>
-      <dbus type="session">org.kde.kpasswdserver</dbus>
-      <dbus type="session">org.kde.kssld5</dbus>
-      <dbus type="session">org.kde.kwalletd</dbus>
-      <dbus type="session">org.kde.kwalletd5</dbus>
-      <dbus type="system">com.redhat.lvmdbus1</dbus>
-      <dbus type="system">org.bluez</dbus>
-      <dbus type="system">org.freedesktop.Avahi</dbus>
-      <dbus type="system">org.freedesktop.ColorManager</dbus>
-      <dbus type="system">org.freedesktop.PolicyKit1</dbus>
-      <dbus type="system">org.freedesktop.RealtimeKit1</dbus>
-      <dbus type="system">org.freedesktop.UDisks2</dbus>
-      <dbus type="system">org.freedesktop.UPower</dbus>
-      <dbus type="system">org.freedesktop.hostname1</dbus>
-      <dbus type="system">org.freedesktop.import1</dbus>
-      <dbus type="system">org.freedesktop.locale1</dbus>
-      <dbus type="system">org.freedesktop.login1</dbus>
-      <dbus type="system">org.freedesktop.machine1</dbus>
-      <dbus type="system">org.freedesktop.network1</dbus>
-      <dbus type="system">org.freedesktop.resolve1</dbus>
-      <dbus type="system">org.freedesktop.systemd1</dbus>
-      <dbus type="system">org.freedesktop.timedate1</dbus>
-      <dbus type="system">org.gnome.GConf.Defaults</dbus>
-    </provides>
-    <languages>
-      <lang percentage="42">an</lang>
-      <lang percentage="39">ar</lang>
-      <lang percentage="29">as</lang>
-      <lang percentage="54">ast</lang>
-      <lang percentage="27">be</lang>
-      <lang percentage="35">be@latin</lang>
-      <lang percentage="39">bg</lang>
-      <lang percentage="40">bn</lang>
-      <lang percentage="40">bn_IN</lang>
-      <lang percentage="59">bs</lang>
-      <lang percentage="61">ca</lang>
-      <lang percentage="61">ca@valencia</lang>
-      <lang percentage="43">crh</lang>
-      <lang percentage="61">cs</lang>
-      <lang percentage="35">cy</lang>
-      <lang percentage="61">da</lang>
-      <lang percentage="61">de</lang>
-      <lang percentage="32">dz</lang>
-      <lang percentage="60">el</lang>
-      <lang percentage="27">en@boldquot</lang>
-      <lang percentage="27">en@quot</lang>
-      <lang percentage="35">en@shaw</lang>
-      <lang percentage="35">en_CA</lang>
-      <lang percentage="61">en_GB</lang>
-      <lang percentage="37">eo</lang>
-      <lang percentage="61">es</lang>
-      <lang percentage="61">et</lang>
-      <lang percentage="58">eu</lang>
-      <lang percentage="30">fa</lang>
-      <lang percentage="61">fi</lang>
-      <lang percentage="61">fr</lang>
-      <lang percentage="58">ga</lang>
-      <lang percentage="61">gd</lang>
-      <lang percentage="61">gl</lang>
-      <lang percentage="32">gu</lang>
-      <lang percentage="48">he</lang>
-      <lang percentage="25">hi</lang>
-      <lang percentage="45">hr</lang>
-      <lang percentage="60">hu</lang>
-      <lang percentage="42">hy</lang>
-      <lang percentage="61">ia</lang>
-      <lang percentage="45">id</lang>
-      <lang percentage="42">is</lang>
-      <lang percentage="61">it</lang>
-      <lang percentage="58">ja</lang>
-      <lang percentage="30">ka</lang>
-      <lang percentage="25">kg</lang>
-      <lang percentage="59">kk</lang>
-      <lang percentage="59">km</lang>
-      <lang percentage="29">kn</lang>
-      <lang percentage="50">ko</lang>
-      <lang percentage="27">lg</lang>
-      <lang percentage="32">lt</lang>
-      <lang percentage="34">lv</lang>
-      <lang percentage="29">mai</lang>
-      <lang percentage="29">mk</lang>
-      <lang percentage="35">ml</lang>
-      <lang percentage="55">mr</lang>
-      <lang percentage="39">my</lang>
-      <lang percentage="61">nb</lang>
-      <lang percentage="60">nds</lang>
-      <lang percentage="26">ne</lang>
-      <lang percentage="61">nl</lang>
-      <lang percentage="36">nn</lang>
-      <lang percentage="33">oc</lang>
-      <lang percentage="45">or</lang>
-      <lang percentage="41">pa</lang>
-      <lang percentage="61">pl</lang>
-      <lang percentage="61">pt</lang>
-      <lang percentage="61">pt_BR</lang>
-      <lang percentage="59">ro</lang>
-      <lang percentage="61">ru</lang>
-      <lang percentage="34">se</lang>
-      <lang percentage="61">sk</lang>
-      <lang percentage="61">sl</lang>
-      <lang percentage="37">sq</lang>
-      <lang percentage="61">sr</lang>
-      <lang percentage="61">sr@ijekavian</lang>
-      <lang percentage="61">sr@ijekavianlatin</lang>
-      <lang percentage="61">sr@latin</lang>
-      <lang percentage="61">sv</lang>
-      <lang percentage="28">ta</lang>
-      <lang percentage="28">te</lang>
-      <lang percentage="29">tg</lang>
-      <lang percentage="29">th</lang>
-      <lang percentage="60">tr</lang>
-      <lang percentage="41">ug</lang>
-      <lang percentage="61">uk</lang>
-      <lang percentage="33">vi</lang>
-      <lang percentage="28">wa</lang>
-      <lang percentage="25">xh</lang>
-      <lang percentage="61">zh_CN</lang>
-      <lang percentage="29">zh_HK</lang>
-      <lang percentage="61">zh_TW</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">bomber_16.12.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component type="desktop">
     <id>org.kde.braindump.desktop</id>
     <pkgname>calligra</pkgname>
     <name>Braindump</name>
@@ -1845,11 +1594,23 @@
     <pkgname>cervisia</pkgname>
     <name>Cervisia</name>
     <name xml:lang="zh_TW">版本控制_Cervisia</name>
+    <summary>A graphical CVS version control system front-end</summary>
+    <summary xml:lang="ca">Un frontal gràfic del sistema de control de versions CVS</summary>
+    <summary xml:lang="ca_valencia">Un frontal gràfic del sistema de control de versions CVS</summary>
+    <summary xml:lang="cs">Grafické prostředí pro systém pro správu verzí CVS</summary>
+    <summary xml:lang="de">Eine grafische Benutzeroberfläche für das Versionsverwaltungssystem CVS</summary>
+    <summary xml:lang="es">Una interfaz gráfica para el sistema de control de versiones CVS</summary>
+    <summary xml:lang="nl">Een grafische front-end voor CVS versiecontrolsysteem</summary>
+    <summary xml:lang="pt">Uma interface gráfica para o sistema de controlo de versões CVS</summary>
+    <summary xml:lang="sl">Grafično začelje sistema za nadzor različic CVS</summary>
+    <summary xml:lang="sv">Ett grafiskt gränssnitt för CVS versionskontrollsystem</summary>
+    <summary xml:lang="uk">Графічна оболонка для системи керування версіями CVS</summary>
     <description><p>Cervisia is a user friendly version control system front-end. The aim is to support CVS and other version control system programs in a unified interface, featuring conflict resolution, difference and history viewers, status for the working copy files, and support for most version control functions.</p></description>
     <description xml:lang="bs"><p>Cervisia je korisniči orijentisani sistem za praćenje kontrole verzija. Cilj je da se podrži CVS i druge programi za kontrolu verzija u jedinstven interfejs, koji obuhvata rješavanje konflikta, preglednike razlika i istorije, status za radne kopije datoteka, i podršku za većinu funkcija kontrole verzija.</p></description>
     <description xml:lang="ca"><p>El Cervisia és un frontal amigable del sistema pel control de versions. El seu objectiu és implementar el CVS i altres programes del sistema de control de versions en una interfície unificada, amb resolució de conflictes, diferències i visors de l'historial, estat dels fitxers de la còpia de treball, i admet la majoria de les funcions pel control de versions.</p></description>
     <description xml:lang="ca_valencia"><p>El Cervisia és un frontal amigable del sistema pel control de versions. El seu objectiu és implementar el CVS i altres programes del sistema de control de versions en una interfície unificada, amb resolució de conflictes, diferències i visors de l'historial, estat dels fitxers de la còpia de treball, i admet la majoria de les funcions pel control de versions.</p></description>
     <description xml:lang="de"><p>Cervisia ist eine anwenderfreundliche Benutzeroberfläche für Versionsverwaltungssysteme. Die Zielsetzung besteht darin eine einheitliche Oberfläche für CVS und andere Versionsverwaltungen zu schaffen, die das Auflösen von Versionskonflikten, die Darstellung von Versionsunterschieden und Änderungsverläufen und die Verwaltung von lokalen Arbeitskopien anbietet.</p></description>
+    <description xml:lang="el"><p>Το Cervisia είναι ένα φιλικό περιβάλλον στο χρήστη, συστήματος ελέγχου εκδόσεων. Ο στόχος είναι η υποστήριξη CVS  και άλλων προγραμμάτων συστήματος ελέγχου εκδόσεων, σε μια ενιαίαδιεπαφή, που διαθέτει την επίλυση συγκρούσεων, τη διαφορά και την εμφάνιση ιστορικού,κατάστασης για τα αρχεία αντιγράφου εργασίας, καθώς και υποστήριξη για τους περισσότερες λειτουργίες  ελέγχου έκδοσης.</p></description>
     <description xml:lang="es"><p>Cervisia es una amigable interfaz de sistema de control de versiones. Está pensada para implementar CVS y otros programas de sistema de control de versiones usando una interfaz unificada, proporcionando resolución de conflictos, visores de diferencias y de historial, estado de los archivos de la copia de trabajo e implementación de la mayor parte de las funciones de control de versiones.</p></description>
     <description xml:lang="et"><p>Cervisia on kasutajasõbralik versioonihaldussüsteemi kasutajaliides. Selle eesmärk on toetada CVS-i ja muid versioonihaldussüsteemi programme ühtse liidesena, mis võimaldab lahendada konflikte, vaadata erinevusi ja ajalugu, näha töös olevate failide staatust ja üldse kasutada enamikku võimalusi, mida versioonihaldussüsteemid pakuvad.</p></description>
     <description xml:lang="fr"><p>Cervisia est une interface utilisateur agréable pour les gestionnaires de révision. L'objectif est la prise en charge de CVS et d'autres systèmes de contrôle de révision au sein d'une interface unifiée fournissant la résolution des conflits, l'affichage des différences et des historiques, l'affichage de l'état de la copie de travail ainsi que la prise en charge de la plupart des fonctionnalités des systèmes de contrôle de révision.</p></description>
@@ -1871,7 +1632,6 @@
     </kudos>
     <vetos>
       <veto>Has no Icon</veto>
-      <veto>No &lt;summary&gt; in AppData</veto>
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=cervisia</url>
@@ -1932,101 +1692,59 @@
       <dbus type="system">org.gnome.GConf.Defaults</dbus>
     </provides>
     <languages>
-      <lang percentage="42">an</lang>
-      <lang percentage="27">ar</lang>
-      <lang percentage="29">as</lang>
-      <lang percentage="47">ast</lang>
-      <lang percentage="27">be</lang>
-      <lang percentage="35">be@latin</lang>
-      <lang percentage="34">bg</lang>
-      <lang percentage="40">bn</lang>
-      <lang percentage="40">bn_IN</lang>
-      <lang percentage="28">bs</lang>
-      <lang percentage="34">ca</lang>
-      <lang percentage="34">ca@valencia</lang>
-      <lang percentage="43">crh</lang>
-      <lang percentage="33">cs</lang>
-      <lang percentage="35">cy</lang>
-      <lang percentage="34">da</lang>
-      <lang percentage="33">de</lang>
-      <lang percentage="32">dz</lang>
-      <lang percentage="33">el</lang>
-      <lang percentage="27">en@boldquot</lang>
-      <lang percentage="27">en@quot</lang>
-      <lang percentage="35">en@shaw</lang>
-      <lang percentage="35">en_CA</lang>
-      <lang percentage="34">en_GB</lang>
-      <lang percentage="28">eo</lang>
-      <lang percentage="34">es</lang>
-      <lang percentage="33">et</lang>
-      <lang percentage="26">eu</lang>
-      <lang percentage="34">fa</lang>
-      <lang percentage="33">fi</lang>
-      <lang percentage="33">fr</lang>
-      <lang percentage="35">gd</lang>
-      <lang percentage="32">gl</lang>
-      <lang percentage="28">gu</lang>
-      <lang percentage="28">he</lang>
-      <lang percentage="29">hi</lang>
-      <lang percentage="26">hr</lang>
-      <lang percentage="31">hu</lang>
-      <lang percentage="42">hy</lang>
-      <lang percentage="33">ia</lang>
-      <lang percentage="35">id</lang>
-      <lang percentage="25">is</lang>
-      <lang percentage="34">it</lang>
-      <lang percentage="27">ja</lang>
-      <lang percentage="30">ka</lang>
-      <lang percentage="25">kg</lang>
-      <lang percentage="27">kk</lang>
-      <lang percentage="27">km</lang>
-      <lang percentage="29">kn</lang>
-      <lang percentage="34">ko</lang>
-      <lang percentage="27">lg</lang>
-      <lang percentage="31">lt</lang>
-      <lang percentage="26">lv</lang>
-      <lang percentage="39">mai</lang>
-      <lang percentage="35">mk</lang>
-      <lang percentage="39">ml</lang>
-      <lang percentage="29">mr</lang>
-      <lang percentage="39">my</lang>
-      <lang percentage="32">nb</lang>
-      <lang percentage="30">nds</lang>
-      <lang percentage="26">ne</lang>
-      <lang percentage="34">nl</lang>
-      <lang percentage="31">nn</lang>
-      <lang percentage="33">oc</lang>
-      <lang percentage="45">or</lang>
-      <lang percentage="28">pa</lang>
-      <lang percentage="34">pl</lang>
-      <lang percentage="34">pt</lang>
-      <lang percentage="32">pt_BR</lang>
-      <lang percentage="29">ro</lang>
-      <lang percentage="33">ru</lang>
-      <lang percentage="26">se</lang>
-      <lang percentage="33">sk</lang>
-      <lang percentage="34">sl</lang>
-      <lang percentage="37">sq</lang>
-      <lang percentage="34">sr</lang>
-      <lang percentage="34">sr@ijekavian</lang>
-      <lang percentage="34">sr@ijekavianlatin</lang>
-      <lang percentage="34">sr@latin</lang>
-      <lang percentage="34">sv</lang>
-      <lang percentage="29">ta</lang>
-      <lang percentage="29">te</lang>
-      <lang percentage="29">tg</lang>
-      <lang percentage="25">th</lang>
-      <lang percentage="32">tr</lang>
-      <lang percentage="25">ug</lang>
-      <lang percentage="34">uk</lang>
-      <lang percentage="33">vi</lang>
-      <lang percentage="25">xh</lang>
-      <lang percentage="34">zh_CN</lang>
-      <lang percentage="29">zh_HK</lang>
-      <lang percentage="34">zh_TW</lang>
+      <lang percentage="26">af</lang>
+      <lang percentage="28">an</lang>
+      <lang percentage="34">as</lang>
+      <lang percentage="26">az</lang>
+      <lang percentage="31">be</lang>
+      <lang percentage="41">be@latin</lang>
+      <lang percentage="27">bg</lang>
+      <lang percentage="26">bn</lang>
+      <lang percentage="28">bn_IN</lang>
+      <lang percentage="50">crh</lang>
+      <lang percentage="41">cy</lang>
+      <lang percentage="38">dz</lang>
+      <lang percentage="31">en@boldquot</lang>
+      <lang percentage="31">en@quot</lang>
+      <lang percentage="41">en@shaw</lang>
+      <lang percentage="41">en_CA</lang>
+      <lang percentage="40">gd</lang>
+      <lang percentage="33">gu</lang>
+      <lang percentage="49">hy</lang>
+      <lang percentage="39">ia</lang>
+      <lang percentage="40">id</lang>
+      <lang percentage="29">is</lang>
+      <lang percentage="35">ka</lang>
+      <lang percentage="29">kg</lang>
+      <lang percentage="34">kn</lang>
+      <lang percentage="31">lg</lang>
+      <lang percentage="46">mai</lang>
+      <lang percentage="28">mk</lang>
+      <lang percentage="28">ml</lang>
+      <lang percentage="26">mn</lang>
+      <lang percentage="25">ms</lang>
+      <lang percentage="45">my</lang>
+      <lang percentage="30">ne</lang>
+      <lang percentage="26">nso</lang>
+      <lang percentage="38">oc</lang>
+      <lang percentage="28">or</lang>
+      <lang percentage="30">se</lang>
+      <lang percentage="43">sq</lang>
+      <lang percentage="39">sr</lang>
+      <lang percentage="26">sr@ije</lang>
+      <lang percentage="39">sr@ijekavian</lang>
+      <lang percentage="39">sr@ijekavianlatin</lang>
+      <lang percentage="39">sr@latin</lang>
+      <lang percentage="34">ta</lang>
+      <lang percentage="34">te</lang>
+      <lang percentage="34">tg</lang>
+      <lang percentage="29">th</lang>
+      <lang percentage="39">vi</lang>
+      <lang percentage="30">xh</lang>
+      <lang percentage="34">zh_HK</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">cervisia_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">cervisia_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -2085,7 +1803,7 @@
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -2316,7 +2034,7 @@
       <lang percentage="34">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">plasma-sdk_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">plasma-sdk_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -2335,7 +2053,7 @@
     </vetos>
     <url type="homepage">http://kde.org/</url>
     <metadata>
-      <value key="X-CacheID">kdeplasma-addons_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kdeplasma-addons_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -2357,7 +2075,7 @@
     </vetos>
     <url type="homepage">http://kde.org/</url>
     <metadata>
-      <value key="X-CacheID">kdeplasma-addons_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kdeplasma-addons_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -2442,242 +2160,7 @@
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.4-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component type="desktop">
-    <id>org.kde.kaddressbook.desktop</id>
-    <pkgname>kaddressbook</pkgname>
-    <name>KAddressBook</name>
-    <name xml:lang="ar">دفتر عناوينك</name>
-    <name xml:lang="cy">KAddressBook/LlyfrKyfeiriadau</name>
-    <name xml:lang="et">KDE aadressiraamat</name>
-    <name xml:lang="eu">Helbide-liburua</name>
-    <name xml:lang="he">פנקס כתובות</name>
-    <name xml:lang="mk">КАдресар</name>
-    <name xml:lang="mr">के-एड्रेस-बूक</name>
-    <name xml:lang="nds">KAdressbook</name>
-    <name xml:lang="ne">केडीई ठेगाना पुस्तिका</name>
-    <name xml:lang="nn">KDE-adressebok</name>
-    <name xml:lang="pa">ਕੇ-ਐਡਰੈੱਸਬੁੱਕ</name>
-    <name xml:lang="pl">Książka adresowa</name>
-    <name xml:lang="sr">К‑адресар</name>
-    <name xml:lang="sr@ijekavian">К‑адресар</name>
-    <name xml:lang="sr@ijekavianlatin">K‑adresar</name>
-    <name xml:lang="sr@latin">K‑adresar</name>
-    <name xml:lang="sr_Latn">K‑adresar</name>
-    <name xml:lang="sr_ijekavian">К‑адресар</name>
-    <name xml:lang="sr_ijekavianlatin">K‑adresar</name>
-    <name xml:lang="sv">Adressbok</name>
-    <name xml:lang="ta">கேமுகவரிப் புத்தகம்</name>
-    <name xml:lang="th">สมุดที่อยู่ K</name>
-    <name xml:lang="zh_TW">KDE 通訊錄</name>
-    <description><p>KAddressBook stores all the personal details of your family, friends and other contacts.</p><p>Features:</p><ul><li>Imports and exports to nearly every address book standard</li><li>Reads .vcf format files, and can import and export vCards and csv format files</li><li>Can use multiple LDAP servers</li><li>Configurable filters and powerful search capabilities</li><li>Integrates with other Kontact components, e.g. exporting Birthday reminders to KOrganizer</li><li>Capable of groupware integration</li><li>Powered by Akonadi</li></ul></description>
-    <description xml:lang="ar"><p>يخزّن «دفتر عناوينك» كلّ التّفاصيل الشّخصيّة عن عائلتك، وأصدقائك ومتراسليك الآخرين.</p><p>الميزات:</p><ul><li>الاستيراد والتّصدير إلى ما يقارب كلّ معيار لدفاتر العناوين</li><li>قراءة ملفّات النّسق ‎.vcf، وإمكانيّة استيراد بطاقات vCard وملفّات النّسق csv وتصديرها</li><li>إمكانيّة استخدام خواديم LDAP متعدّدة</li><li>مرشّحات يمكن ضبطها وإمكانيّات بحث قويّة</li><li>التّكامل مع مكوّنات «تراسلك» الأخرى، كتصدير تذكير تواريخ الميلاد إلى «منظّمك»</li><li>إمكانيّة التّكامل مع البرمجيّات التّعاونيّة</li><li>يدعمه «أكونادي»</li></ul></description>
-    <description xml:lang="bs"><p>Svojstva:</p><ul></ul></description>
-    <description xml:lang="ca"><p>El KAddressBook emmagatzema totes les dades personals de la vostra família, amics i altres contactes.</p><p>Característiques:</p><ul><li>Importa i exporta a gairebé tots els estàndards de la llibreta d'adreces</li><li>Llegeix el format de fitxer .vcf, i pot importar i exportar els formats de fitxer vCard i CSV</li><li>Pot usar múltiples servidors LDAP</li><li>Filtres configurables i potents capacitats de cerca</li><li>S'integra amb els altres components del Kontact, p. ex., l'exportació dels recordatoris d'aniversari pel KOrganizer</li><li>Capaç d'integrar-se amb el treball en grup</li><li>Desenvolupat per a l'Akonadi</li></ul></description>
-    <description xml:lang="ca_valencia"><p>El KAddressBook emmagatzema totes les dades personals de la vostra família, amics i altres contactes.</p><p>Característiques:</p><ul><li>Importa i exporta a gairebé tots els estàndards de la llibreta d'adreces</li><li>Llig el format de fitxer .vcf, i pot importar i exportar els formats de fitxer vCard i CSV</li><li>Pot usar múltiples servidors LDAP</li><li>Filtres configurables i potents capacitats de busca</li><li>S'integra amb els altres components del Kontact, p. ex., l'exportació dels recordatoris d'aniversari pel KOrganizer</li><li>Capaç d'integrar-se amb el treball en grup</li><li>Desenvolupat per a l'Akonadi</li></ul></description>
-    <description xml:lang="cs"><p>Vlastnosti:</p><ul></ul></description>
-    <description xml:lang="da"><p>Funktioner:</p><ul></ul></description>
-    <description xml:lang="de"><p>KAddressBook speichert alle persönlichen Kontaktdaten Ihrer Familie, Freunde und anderer Kontakte.</p><p>Funktionen:</p><ul><li>Import und Export fast aller Adressbuch-Standards</li><li>Lesen von Dateien im Format „vcf“ und Import und Export von Dateien im Format vCard und CSV</li><li>Kann mehrere LDAP-Server verwenden</li><li>Einstellbare Filter und leistungsfähige Suchfunktionen</li><li>Integration mit anderen Komponenten von Kontact wie zum Beispiel der Export von Erinnerungen an Geburtstage zu KOrganizer</li><li>Einbindung in Groupware ist möglich</li><li>Unterstützt durch Akonadi</li></ul></description>
-    <description xml:lang="es"><p>KAddressBook almacena todos los detalles personales de su familia, amigos y otros contactos.</p><p>Características:</p><ul><li>Importa y exporta a casi todas las libretas de direcciones estándar</li><li>Lee archivos de formato .vcf, y puede importar y exportar formatos de archivo vCard y csv</li><li>Usted puede usar varios servidores LDAP</li><li>Filtros configurables y poderosas capacidades de búsqueda</li><li>Se integra con otros componentes de Kontact, p. ej., exportación de recordatorios de cumpleaños a KOrganizer</li><li>Capaz de integración con herramientas de colaboración</li><li>Basado en Akonadi</li></ul></description>
-    <description xml:lang="et"><p>KDE aadressiraamat salvestab kõik sinu pere, sõprade ja muude kontaktide isiklikud detailid.</p><p>Omadused:</p><ul><li>Peaaegu kõigi aadressiraamatu standardite importimine ja eksportimine</li><li>.vcf-vormingus failide lugemine ning vCard- ja CSV-vormingus failide importimine ja eksportimine</li><li>Mitme LDAP serveri kasutamise võimalus</li><li>Seadistatavad filtrid ja võimas otsing</li><li>Lõimimine teiste Kontacti komponentidega, näiteks sünnipäeva-meeldetuletuste eksportimiseks KOrganizerisse</li><li>Grupitööga lõimimise võimalus</li><li>Akonadi avarad võimalused</li></ul></description>
-    <description xml:lang="fi"><p>KAddressBook tallentaa henkilökohtaiset tiedot perheestäsi, ystävistäsi ja muista henkilöistä.</p><p>Ominaisuudet:</p><ul><li>Tukee lähes minkä tahansa osoitekirjamuodon tuontia ja vientiä</li><li>Lukee .vcf-muotoisia tiedostoja ja voi tuoda ja viedä vCard- ja CSC-muotoisia tiedostoja</li><li>Osaa käyttää useampia LDAP-palvelimia</li><li>Muokattavat suodattimet ja tehokkaat hakuominaisuudet</li><li>Integroituu muihin Kontactin osiin, esim. syntymäpäivämuistutusten vienti KOrganizeriin</li><li>Osaa integroitua työryhmäohjelmistoihin</li><li>Toimii Akonadin avulla</li></ul></description>
-    <description xml:lang="fr"><p>KAddressBook mémorise toutes les coordonnées de votre famille, vos amis et autres contacts.</p><p>Fonctionnalités :</p><ul><li>Import et export vers presque tous les formats standards de carnet d'adresse</li><li>Lit les fichiers au format VCF, et importe et exporte les fichiers aux formats vCard et CSV</li><li>Filtres personnalisables et fonctions de recherche poussées</li><li>Intégré avec les autres composants de la suite Kontact, par exemple pour exporter un rappel d'anniversaire vers KOrganizer</li><li>Possibilités d'intégration en logiciel de groupe de travail</li><li>Fonctionne avec Akonadi</li></ul></description>
-    <description xml:lang="gl"><p>KAddressBook almacena todos os detalles persoais dos seus familiares, amigos e outros contactos.</p><p>Funcionalidades:</p><ul><li>Pode importar e exportar a practicamente todos os estándares de caderno de enderezos.</li><li>Pode ler ficheiros no formato «.vcf», e pode importar e exportar ficheiros en formato vCard ou CSV.</li><li>Pode configurarse para empregar varios servidores de LDAP.</li><li>Permite configurar filtros e conta con potentes funcionalidades de busca.</li><li>Intégrase con outros compoñentes de Kontact. Por exemplo, exporta as lembranzas de aniversarios a KOrganizer.</li><li>Pode integrarse con software de xestión de grupos.</li><li>Está baseado en Akonadi.</li></ul></description>
-    <description xml:lang="hu"><p>A KAddressBook tárolja a családja, barátai és más partnereinek minden személyes adatát.</p><p>Szolgáltatások:</p><ul><li>Importálás és exportálás közel minden címjegyzékformátumba</li><li>A .vcf fájlformátum olvasása, vCard és CSV fájlok importálása és exportálása</li><li>Konfigurálható szűrők és hatékony keresési képességek</li><li>Integráció más Kontact komponensekkel, például születésnapi emlékeztetők exportálása a KOrganizerbe</li><li>Csoportmunka-integráció</li><li>Akonadi támogatás</li></ul></description>
-    <description xml:lang="it"><p>KAddressBook memorizza tutti i dati personali dei vostri familiari, amici e altri contatti.</p><p>Caratteristiche:</p><ul><li>Importazione ed esportazioni da quasi ogni formato standard di rubrica</li><li>Legge file in formato .vcf, e può importare ed esportare vCard e file in formato csv</li><li>Può utilizzare server LDAP multipli</li><li>Filtri configurabili e potenti funzionalità di ricerca</li><li>Si integra con altri componenti di Kontact, ad esempioesportazione dei promemoria dei compleanni in KOrganizer</li><li>Supporta l'integrazione di groupware</li><li>Powered by Akonadi</li></ul></description>
-    <description xml:lang="ko"><p>KAddressBook은 가족, 친구, 기타 연락처 정보를 저장합니다.</p><p>기능:</p><ul><li>거의 모든 주소록 표준 형식으로 연락처 가져오고 내보내기</li><li>.vcf 형식 파일을 읽고, vCard 및 CSV 파일로 가져오고 내보내기</li><li>다중 LDAP 서버 연결</li><li>설정 가능한 필터와 강력한 검색 기능</li><li>KOragnizer에 생일 알림을 추가하는 것과 같은 다른 Kontact 구성 요소와 통합</li><li>그룹웨어 통합 기능</li><li>Akonadi 기반</li></ul></description>
-    <description xml:lang="lt"><p>Ypatybės:</p><ul></ul></description>
-    <description xml:lang="nb"><p>KAddressBook lagrer alle personlige detaljer for famile, venner og andre kontakter.</p><p>Egenskaper:</p><ul><li>Importerer og eksporterer til nesten alle adressebok-standarder</li><li>Leser filer i .vcf format, og kan importere og eksportere vCards og filer i csv format</li><li>Kan bruke flere LDAP-tjenere</li><li>Fleksible filtre og kraftige søkemuligheter</li><li>Integreres med andre Kontact-komponenter, f.eks. eksportere fødselsdag-påminnelser til KOrganizer</li><li>Kan integreres i gruppevare</li><li>Drives av Akonadi</li></ul></description>
-    <description xml:lang="nds"><p>KAdressbook wohrt all de persöönlichen Enkelheiten över Dien Familie, Dien Frünnen un anner Kontakten.</p><p>Markmalen:</p><ul><li>Importeren ut un Exporteren na meist all Adressbook-Standards.</li><li>Leest Dateien in't VCF-Formaat un kann Daten ut vCard- un CSV-Dateien importeren un dor ok hen exporteren.</li><li>Instellbor Filtern un en deegt Söök</li><li>Arbeit mit anner Kontact-Komponenten tosamen, exporteert a.B. Geboortsdag-Vöranstööt na KOrganizer.</li><li>Arbeit mit Arbeitkoppelprogrammen tosamen</li><li>Akonadi arbeidt in'n Achtergrund</li></ul></description>
-    <description xml:lang="nl"><p>KAddressBook slaat alle persoonlijke details op van uw familie, vrienden en andere contactpersonen.</p><p>Mogelijkheden:</p><ul><li>Importeert en exporteert naar bijna elke adresboekstandaard</li><li>Leest .vcf-formaat bestanden en kan vCards importeren en exporteren en csv-formaat bestanden</li><li>Kan meerdere LDAP-servers gebruiken</li><li>In te stellen filters en krachtige zoekfuncties</li><li>Integreert met andere componenten van Kontact, bijv. exporteren van herinneringen van verjaardagen aan KOrganizer</li><li>Kan met groupware integreren</li><li>Powered door Akonadi</li></ul></description>
-    <description xml:lang="pl"><p>Książka adresowa przechowuje wszystkie dane osobiste o twojej rodzinie, przyjaciołach i innych znajomych.</p><p>Możliwości:</p><ul><li>Importowanie i eksportowane do niemalże każdego standardu książki adresowej</li><li>Czytanie plików w postaci .vcf oraz importowanie i eksportowanie wizytówek w postaci vCard i csv</li><li>Możliwość używania wielu serwerów LDAP</li><li>Ustawialne filtry i zaawansowane możliwości wyszukiwania</li><li>Integracja z innymi składnikami Kontact, np. eksportowanie przypomnień o urodzinach do KOrgranizera</li><li>Możliwość integracji z oprogramowaniem groupware</li><li>Napędzane przez Akonadi</li></ul></description>
-    <description xml:lang="pt"><p>O KAddressBook guarda todos os detalhes pessoais sobre os seus familiares, amigos e outros contactos.</p><p>Funcionalidades:</p><ul><li>Importa e exporta para praticamente todos formatos de livros de endereços</li><li>Lê os ficheiros no formato .vcf e poderá importar e exportar os formatos de ficheiros vCard e CSV</li><li>Poderá usar diversos servidores de LDAP</li><li>Capacidades para filtros configuráveis e pesquisa poderosa</li><li>Integra-se com os outros componentes do Kontact, p.ex. exportar chamadas de atenção de aniversários para o KOrganizer</li><li>Capacidades de integração em grupo</li><li>Reforçado pelo Akonadi</li></ul></description>
-    <description xml:lang="pt_BR"><p>O KAddressBook armazena todos os detalhes pessoais sobre seus familiares, amigos e outros contatos.</p><p>Funcionalidades:</p><ul><li>Importa e exporta para praticamente todos os padrões de livros de endereços</li><li>Lê arquivos no formato .vcf e pode importar e exportar os formatos de arquivo vCard e CSV</li><li>Pode usar diversos servidores LDAP</li><li>Capacidade de configuração de filtros e pesquisa poderosa</li><li>Integra-se com os outros componentes do Kontact, p.ex., exportar lembretes de aniversário para o KOrganizer</li><li>Capacidades de integração com groupware</li><li>Desenvolvido por Akonadi</li></ul></description>
-    <description xml:lang="ro"><p>KAddressBook păstrează toate datele personale ale familiei, prietenilor și altor contacte ale dumneavoastră.</p><p>Caracteristici:</p><ul><li>Importă și exportă în aproape toate standardele de cărți de adrese</li></ul></description>
-    <description xml:lang="ru"><p>KAddressBook хранит контакты для связи с вашими друзьями, родными и коллегами, а также другую подробную информацию о них</p><p>Возможности:</p><ul><li>Импорт и экспорт в практически любой формат адресной книги;</li><li>Чтение файлов .vcf; импорт и экспорт в форматы vCard (электронные визитные карточки) и CSV;</li><li>Подключение к нескольким серверам LDAP;</li><li>Настраиваемые фильтры и эффективная функция поиска;</li><li>Интеграция с другими компонентами Kontact, например в KOrganizer можно добавить напоминания о днях рождения людей;</li><li>Возможна интеграция с серверами совместной работы;</li><li>Программа построена на архитектуре Akonadi.</li></ul></description>
-    <description xml:lang="sk"><p>KAddressBook ukladá všetky osobné podrobnosti o vašej rodine, priateľoch a iných kontaktoch.</p><p>Funkcie:</p><ul><li>Importuje a exportuje do takmer každého štandardu adresára kontaktov</li><li>Číta súbory formátu .vcf a vie importovať a exportovať vCards a súbory formátu csv</li><li>Vie použiť viac LDAP serverov</li><li>Nastaviteľné filtre a silné možnosti hľadania</li><li>Integruje sa s ďalšími komponentmi programu Kontact, napr. exportuje pripomienky narodenín do KOrganizera</li><li>Schopnosť integrácie s groupware</li><li>Založené na Akonadi</li></ul></description>
-    <description xml:lang="sl"><p>KAddressBook shranjuje vse osebne podatke vaše družine, vaših prijateljev in drugih stikov.</p><p>Zmožnosti:</p><ul><li>Uvoz in izvoz skoraj vsakega imeniškega standarda</li><li>Branje datotek vrste .vcf in uvoz/izvoz vizitk vCard ter datotek csv</li><li>Uporaba več strežnikov LDAP naenkrat</li><li>Prilagodljivi filtri in zmogljiv iskalnik</li><li>Podpira druge sestavne dele Kontacta, npr. v KOrganizer lahko izvozite opomnike o rojstnih dnevih</li><li>Podpira programe za skupinsko delo</li><li>Temelji na Akonadiju</li></ul></description>
-    <description xml:lang="sr"><p>К‑адресар складишти приватне детаље о вашој породици, пријатељима и другим контактима.</p><p>Могућности:</p><ul><li>Увоз и извоз за скоро сваки адресарски стандард.</li><li>Читање в‑кард фајлова, увоз и извоз за формате в‑кард и ЦСВ.</li><li>Коришћење вишеструких ЛДАП сервера.</li><li>Подесиви филтери и моћне способности претраге.</li><li>Уклапање у остале компоненте Контакта, нпр. извоз подсетника на рођендане у К‑организатор.</li><li>Могуће уклапање са групвером.</li><li>Изграђено над Аконадијем.</li></ul></description>
-    <description xml:lang="sr_Latn"><p>K‑adresar skladišti privatne detalje o vašoj porodici, prijateljima i drugim kontaktima.</p><p>Mogućnosti:</p><ul><li>Uvoz i izvoz za skoro svaki adresarski standard.</li><li>Čitanje vCard fajlova, uvoz i izvoz za formate vCard i CSV.</li><li>Korišćenje višestrukih LDAP servera.</li><li>Podesivi filteri i moćne sposobnosti pretrage.</li><li>Uklapanje u ostale komponente Kontacta, npr. izvoz podsetnika na rođendane u K‑organizator.</li><li>Moguće uklapanje sa grupverom.</li><li>Izgrađeno nad Akonadijem.</li></ul></description>
-    <description xml:lang="sr_ijekavian"><p>К‑адресар складишти приватне детаље о вашој породици, пријатељима и другим контактима.</p><p>Могућности:</p><ul><li>Увоз и извоз за скоро сваки адресарски стандард.</li><li>Читање в‑кард фајлова, увоз и извоз за формате в‑кард и ЦСВ.</li><li>Коришћење вишеструких ЛДАП сервера.</li><li>Подесиви филтери и моћне способности претраге.</li><li>Уклапање у остале компоненте Контакта, нпр. извоз подсетника на рођендане у К‑организатор.</li><li>Могуће уклапање са групвером.</li><li>Изграђено над Аконадијем.</li></ul></description>
-    <description xml:lang="sr_ijekavianlatin"><p>K‑adresar skladišti privatne detalje o vašoj porodici, prijateljima i drugim kontaktima.</p><p>Mogućnosti:</p><ul><li>Uvoz i izvoz za skoro svaki adresarski standard.</li><li>Čitanje vCard fajlova, uvoz i izvoz za formate vCard i CSV.</li><li>Korišćenje višestrukih LDAP servera.</li><li>Podesivi filteri i moćne sposobnosti pretrage.</li><li>Uklapanje u ostale komponente Kontacta, npr. izvoz podsetnika na rođendane u K‑organizator.</li><li>Moguće uklapanje sa grupverom.</li><li>Izgrađeno nad Akonadijem.</li></ul></description>
-    <description xml:lang="sv"><p>Adressboken lagrar all personlig information för din familj, dina vänner och andra kontakter.</p><p>Funktioner:</p><ul><li>Importerar och exporterar till nästan alla adressboksstandarder</li><li>Läser filer med .vcf-format, och kan importera och exportera filer med vCard- och csv-format</li><li>Kan använda flera LDAP-servrar</li><li>Inställningsbara filter och kraftfulla sökmöjligheter</li><li>Integrerar med andra komponenter i Kontact, t.ex. med export av påminnelser om födelsedagar till Korganizer</li><li>Klarar av integrering med grupprogram</li><li>Drivs av Akonadi</li></ul></description>
-    <description xml:lang="tr"><p>KAddressBook ailenizin, arkadaşlarınızın ve diğer bağlantılarınızın tüm kişisel detaylarını saklar.</p><p>Özellikler:</p><ul><li>Nerdeyse tüm adres defteri standartlarında içe ve dışa aktarma yapar</li><li>.vcf biçim dosyalarını okur, ve vCard ve csv biçim dosyalarını içe ve dışa aktarabilir</li><li>Birden çok LDAP sunucusu kullanabilir</li><li>Ayarlanabilir filtreler ve güçlü arama yetenekleri</li><li>Diğer Kontact bileşenleriyle tümleşir, örn. Doğum günü hatırlatmalarını KOrganizer'a aktarır</li><li>Groupware tümleştirmesini destekler</li><li>Akonadi tarafından güçlendirilmiştir</li></ul></description>
-    <description xml:lang="uk"><p>Програма KAddressBook здатна зберігати особисті дані для спілкування з вашою родиною, друзями та дані щодо контактів.</p><p>Можливості:</p><ul><li>імпортування та експортування даних у майже довільних стандартах зберігання даних адресних книг;</li><li>читання файлів у форматі .vcf, імпортування та експортування даних у форматах vCard та CSV;</li><li>можливість використання декількох серверів LDAP;</li><li>зручні фільтри та потужні можливості з пошуку;</li><li>інтеграція з іншими компонентами Kontact, зокрема експортування нагадувань щодо днів народження до KOrganizer;</li><li>можливість інтегрування з програмним забезпеченням для групової роботи;</li><li>усі додаткові можливості, роботу яких забезпечує Akonadi.</li></ul></description>
-    <description xml:lang="zh_CN"><p>KAddressBook 存错所有您家庭，朋友和其他联系的个人信息。</p><p>功能：</p><ul><li>导入和导出几乎所有地址簿标准格式</li><li>读取 .vcf 格式文件，可以导入和导出 vCard 和 csv 格式文件</li><li>能够使用多个 LDAP 服务器</li><li>可配置的过滤器和强大的搜索能力</li><li>和其他 Kontact 组件集成，例如导出生日提醒到 KOrganizer</li><li>支持群件集成</li><li>由 Akonadi 支持</li></ul></description>
-    <description xml:lang="zh_TW"><p>KDE 通訊錄會儲存所有您的家庭、朋友與其他聯絡人的個人資料詳情。</p><p>功能：</p><ul><li>可以匯入與匯出幾乎所有的通訊錄標準格式</li><li>讀取 .vcf 格式檔案，並可匯入與匯出 vCards 與 csv 格式檔案。</li><li>可以使用多個 LDAP 伺服器</li><li>可設定的過濾器與強大的搜尋機制</li><li>可與其它的 Kontact 組件整合，如匯出生日提醒到 KOrganizer</li><li>可做群組整合</li><li>使用 Akonadi</li></ul></description>
-    <icon type="cached" height="128" width="128">128x128/org.kde.kaddressbook.png</icon>
-    <icon type="cached" height="64" width="64">64x64/org.kde.kaddressbook.png</icon>
-    <categories>
-      <category>ContactManagement</category>
-      <category>Office</category>
-    </categories>
-    <kudos>
-      <kudo>HiDpiIcon</kudo>
-      <kudo>HighContrast</kudo>
-    </kudos>
-    <vetos>
-      <veto>No &lt;summary&gt; in AppData</veto>
-    </vetos>
-    <project_license>GPL-2.0+</project_license>
-    <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kaddressbook</url>
-    <project_group>KDE</project_group>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">http://kde.org/images/screenshots/kaddressbook.png</image>
-      </screenshot>
-    </screenshots>
-    <provides>
-      <binary>kaddressbook</binary>
-      <dbus type="session">ca.desrt.dconf</dbus>
-      <dbus type="session">org.a11y.Bus</dbus>
-      <dbus type="session">org.bluez.obex</dbus>
-      <dbus type="session">org.freedesktop.Akonadi.Control</dbus>
-      <dbus type="session">org.freedesktop.ColorHelper</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Master</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Example</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Geonames</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Gsmloc</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Hostip</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Localnet</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Manual</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Nominatim</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Plazes</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Skyhook</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Yahoo</dbus>
-      <dbus type="session">org.freedesktop.systemd1</dbus>
-      <dbus type="session">org.gnome.GConf</dbus>
-      <dbus type="session">org.gnome.zeitgeist.Engine</dbus>
-      <dbus type="session">org.gnome.zeitgeist.SimpleIndexer</dbus>
-      <dbus type="session">org.gtk.GLib.PACRunner</dbus>
-      <dbus type="session">org.jackaudio.service</dbus>
-      <dbus type="session">org.kde.kcookiejar5</dbus>
-      <dbus type="session">org.kde.kded5</dbus>
-      <dbus type="session">org.kde.kglobalaccel</dbus>
-      <dbus type="session">org.kde.kiod5</dbus>
-      <dbus type="session">org.kde.kpasswdserver</dbus>
-      <dbus type="session">org.kde.kssld5</dbus>
-      <dbus type="session">org.kde.kwalletd</dbus>
-      <dbus type="session">org.kde.kwalletd5</dbus>
-      <dbus type="system">com.redhat.lvmdbus1</dbus>
-      <dbus type="system">org.bluez</dbus>
-      <dbus type="system">org.freedesktop.Avahi</dbus>
-      <dbus type="system">org.freedesktop.ColorManager</dbus>
-      <dbus type="system">org.freedesktop.PolicyKit1</dbus>
-      <dbus type="system">org.freedesktop.RealtimeKit1</dbus>
-      <dbus type="system">org.freedesktop.UDisks2</dbus>
-      <dbus type="system">org.freedesktop.UPower</dbus>
-      <dbus type="system">org.freedesktop.hostname1</dbus>
-      <dbus type="system">org.freedesktop.import1</dbus>
-      <dbus type="system">org.freedesktop.locale1</dbus>
-      <dbus type="system">org.freedesktop.login1</dbus>
-      <dbus type="system">org.freedesktop.machine1</dbus>
-      <dbus type="system">org.freedesktop.network1</dbus>
-      <dbus type="system">org.freedesktop.resolve1</dbus>
-      <dbus type="system">org.freedesktop.systemd1</dbus>
-      <dbus type="system">org.freedesktop.timedate1</dbus>
-      <dbus type="system">org.gnome.GConf.Defaults</dbus>
-    </provides>
-    <languages>
-      <lang percentage="42">an</lang>
-      <lang percentage="39">ar</lang>
-      <lang percentage="29">as</lang>
-      <lang percentage="54">ast</lang>
-      <lang percentage="27">be</lang>
-      <lang percentage="35">be@latin</lang>
-      <lang percentage="39">bg</lang>
-      <lang percentage="40">bn</lang>
-      <lang percentage="40">bn_IN</lang>
-      <lang percentage="59">bs</lang>
-      <lang percentage="61">ca</lang>
-      <lang percentage="61">ca@valencia</lang>
-      <lang percentage="43">crh</lang>
-      <lang percentage="52">cs</lang>
-      <lang percentage="35">cy</lang>
-      <lang percentage="36">da</lang>
-      <lang percentage="55">de</lang>
-      <lang percentage="32">dz</lang>
-      <lang percentage="60">el</lang>
-      <lang percentage="56">en@boldquot</lang>
-      <lang percentage="56">en@quot</lang>
-      <lang percentage="35">en@shaw</lang>
-      <lang percentage="35">en_CA</lang>
-      <lang percentage="61">en_GB</lang>
-      <lang percentage="37">eo</lang>
-      <lang percentage="36">es</lang>
-      <lang percentage="61">et</lang>
-      <lang percentage="58">eu</lang>
-      <lang percentage="30">fa</lang>
-      <lang percentage="61">fi</lang>
-      <lang percentage="51">fr</lang>
-      <lang percentage="58">ga</lang>
-      <lang percentage="61">gd</lang>
-      <lang percentage="61">gl</lang>
-      <lang percentage="32">gu</lang>
-      <lang percentage="48">he</lang>
-      <lang percentage="25">hi</lang>
-      <lang percentage="45">hr</lang>
-      <lang percentage="60">hu</lang>
-      <lang percentage="42">hy</lang>
-      <lang percentage="61">ia</lang>
-      <lang percentage="45">id</lang>
-      <lang percentage="42">is</lang>
-      <lang percentage="61">it</lang>
-      <lang percentage="56">ja</lang>
-      <lang percentage="30">ka</lang>
-      <lang percentage="25">kg</lang>
-      <lang percentage="59">kk</lang>
-      <lang percentage="59">km</lang>
-      <lang percentage="29">kn</lang>
-      <lang percentage="50">ko</lang>
-      <lang percentage="27">lg</lang>
-      <lang percentage="32">lt</lang>
-      <lang percentage="34">lv</lang>
-      <lang percentage="29">mai</lang>
-      <lang percentage="29">mk</lang>
-      <lang percentage="35">ml</lang>
-      <lang percentage="55">mr</lang>
-      <lang percentage="39">my</lang>
-      <lang percentage="54">nb</lang>
-      <lang percentage="60">nds</lang>
-      <lang percentage="26">ne</lang>
-      <lang percentage="61">nl</lang>
-      <lang percentage="36">nn</lang>
-      <lang percentage="33">oc</lang>
-      <lang percentage="45">or</lang>
-      <lang percentage="41">pa</lang>
-      <lang percentage="36">pl</lang>
-      <lang percentage="61">pt</lang>
-      <lang percentage="61">pt_BR</lang>
-      <lang percentage="59">ro</lang>
-      <lang percentage="56">ru</lang>
-      <lang percentage="34">se</lang>
-      <lang percentage="61">sk</lang>
-      <lang percentage="61">sl</lang>
-      <lang percentage="37">sq</lang>
-      <lang percentage="61">sr</lang>
-      <lang percentage="61">sr@ijekavian</lang>
-      <lang percentage="61">sr@ijekavianlatin</lang>
-      <lang percentage="61">sr@latin</lang>
-      <lang percentage="36">sv</lang>
-      <lang percentage="28">ta</lang>
-      <lang percentage="28">te</lang>
-      <lang percentage="29">tg</lang>
-      <lang percentage="29">th</lang>
-      <lang percentage="34">tr</lang>
-      <lang percentage="41">ug</lang>
-      <lang percentage="56">uk</lang>
-      <lang percentage="33">vi</lang>
-      <lang percentage="28">wa</lang>
-      <lang percentage="25">xh</lang>
-      <lang percentage="61">zh_CN</lang>
-      <lang percentage="29">zh_HK</lang>
-      <lang percentage="50">zh_TW</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">kaddressbook_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -2695,7 +2178,6 @@
     <name xml:lang="tg">Китен</name>
     <name xml:lang="zh_TW">語言_Kiten</name>
     <summary>Japanese Reference and Study Tool</summary>
-    <summary xml:lang="ast">Ferramienta de referencia y estudiu xaponesa</summary>
     <summary xml:lang="bg">Самоучител по японски</summary>
     <summary xml:lang="bs">Alat za učenje japanskog</summary>
     <summary xml:lang="ca">Eina de referència i estudi del japonès</summary>
@@ -2749,7 +2231,6 @@
     <summary xml:lang="zh_CN">日语参考/学习工具</summary>
     <summary xml:lang="zh_TW">日語參考/學習工具</summary>
     <description><p>Kiten is a Japanese reference and study tool. It features an English to Japanese and Japanese to English dictionary, as well as a Kanji dictionary. For the Kanji dictionary there are multiple ways supported to look up characters.</p></description>
-    <description xml:lang="ast"><p>Kiten ye una ferramienta d'estudiu y de referencia xaponesa. Tien como carauterístiques un diccionariu xaponés/inglés-inglés/xaponés, amás d'un diccionariu kanji. Pal diccionariu kanji hai múltiples formes sofitaes pa guetar caráuteres.</p></description>
     <description xml:lang="bs"><p>Kiten je japanski referenca i studijski alat. Posjeduje rječnik engleskog na japanski i japanski na engleski rečnik, kao i Kanji rječnik. Za Kanji rječniku postoji više načina podržanih za pregled znakova.</p></description>
     <description xml:lang="ca"><p>El Kiten és una eina de referència i estudi del japonès. Inclou un diccionari de l'anglès al japonès i del japonès a l'anglès, i també un diccionari Kanji. Pel diccionari Kanji, s'admeten múltiples maneres de cercar caràcters.</p></description>
     <description xml:lang="ca_valencia"><p>El Kiten és una eina de referència i estudi del japonés. Inclou un diccionari de l'anglés al japonés i del japonés a l'anglés, i també un diccionari Kanji. Pel diccionari Kanji, s'admeten múltiples maneres de buscar caràcters.</p></description>
@@ -2851,44 +2332,38 @@
       <lang>aa</lang>
       <lang>af</lang>
       <lang>an</lang>
-      <lang percentage="27">ar</lang>
-      <lang percentage="29">as</lang>
-      <lang percentage="47">ast</lang>
+      <lang percentage="34">as</lang>
       <lang>av</lang>
       <lang>ay</lang>
+      <lang percentage="26">az</lang>
       <lang>az-az</lang>
       <lang>be</lang>
-      <lang percentage="35">be@latin</lang>
+      <lang percentage="41">be@latin</lang>
       <lang>bg</lang>
       <lang>bi</lang>
-      <lang percentage="40">bn</lang>
-      <lang percentage="40">bn_IN</lang>
+      <lang percentage="26">bn</lang>
+      <lang percentage="28">bn_IN</lang>
       <lang>br</lang>
-      <lang percentage="28">bs</lang>
       <lang>ca</lang>
-      <lang percentage="34">ca@valencia</lang>
       <lang>ce</lang>
       <lang>ch</lang>
       <lang>co</lang>
       <lang>crh</lang>
       <lang>cs</lang>
       <lang>csb</lang>
-      <lang percentage="35">cy</lang>
+      <lang percentage="41">cy</lang>
       <lang>da</lang>
       <lang>de</lang>
-      <lang percentage="32">dz</lang>
-      <lang percentage="33">el</lang>
+      <lang percentage="38">dz</lang>
       <lang>en</lang>
-      <lang percentage="27">en@boldquot</lang>
-      <lang percentage="27">en@quot</lang>
-      <lang percentage="35">en@shaw</lang>
-      <lang percentage="35">en_CA</lang>
-      <lang percentage="34">en_GB</lang>
+      <lang percentage="31">en@boldquot</lang>
+      <lang percentage="31">en@quot</lang>
+      <lang percentage="41">en@shaw</lang>
+      <lang percentage="41">en_CA</lang>
       <lang>eo</lang>
       <lang>es</lang>
       <lang>et</lang>
       <lang>eu</lang>
-      <lang percentage="34">fa</lang>
       <lang>fi</lang>
       <lang>fil</lang>
       <lang>fj</lang>
@@ -2898,17 +2373,15 @@
       <lang>fy</lang>
       <lang>gd</lang>
       <lang>gl</lang>
-      <lang percentage="28">gu</lang>
+      <lang percentage="33">gu</lang>
       <lang>gv</lang>
       <lang>haw</lang>
-      <lang percentage="28">he</lang>
-      <lang percentage="29">hi</lang>
+      <lang percentage="33">he</lang>
       <lang>ho</lang>
-      <lang percentage="26">hr</lang>
       <lang>hsb</lang>
       <lang>ht</lang>
       <lang>hu</lang>
-      <lang percentage="42">hy</lang>
+      <lang percentage="49">hy</lang>
       <lang>ia</lang>
       <lang>id</lang>
       <lang>ie</lang>
@@ -2918,15 +2391,13 @@
       <lang>it</lang>
       <lang>ja</lang>
       <lang>jv</lang>
-      <lang percentage="30">ka</lang>
-      <lang percentage="25">kg</lang>
+      <lang percentage="35">ka</lang>
+      <lang percentage="29">kg</lang>
       <lang>ki</lang>
       <lang>kj</lang>
-      <lang percentage="27">kk</lang>
       <lang>kl</lang>
-      <lang percentage="27">km</lang>
-      <lang percentage="29">kn</lang>
-      <lang percentage="34">ko</lang>
+      <lang percentage="34">kn</lang>
+      <lang percentage="39">ko</lang>
       <lang>ku-tr</lang>
       <lang>kum</lang>
       <lang>kw</lang>
@@ -2934,23 +2405,22 @@
       <lang>la</lang>
       <lang>lb</lang>
       <lang>lez</lang>
-      <lang percentage="27">lg</lang>
+      <lang percentage="31">lg</lang>
       <lang>li</lang>
       <lang>lt</lang>
-      <lang percentage="26">lv</lang>
-      <lang percentage="39">mai</lang>
+      <lang percentage="46">mai</lang>
       <lang>mg</lang>
       <lang>mh</lang>
-      <lang percentage="35">mk</lang>
-      <lang percentage="39">ml</lang>
+      <lang percentage="28">mk</lang>
+      <lang percentage="28">ml</lang>
+      <lang percentage="26">mn</lang>
       <lang>mo</lang>
-      <lang percentage="29">mr</lang>
       <lang>ms</lang>
-      <lang percentage="39">my</lang>
+      <lang percentage="45">my</lang>
       <lang>na</lang>
       <lang>nb</lang>
       <lang>nds</lang>
-      <lang percentage="26">ne</lang>
+      <lang percentage="30">ne</lang>
       <lang>ng</lang>
       <lang>nl</lang>
       <lang>nn</lang>
@@ -2960,25 +2430,23 @@
       <lang>ny</lang>
       <lang>oc</lang>
       <lang>om</lang>
-      <lang percentage="45">or</lang>
+      <lang percentage="28">or</lang>
       <lang>os</lang>
-      <lang percentage="28">pa</lang>
+      <lang percentage="33">pa</lang>
       <lang>pap-an</lang>
       <lang>pap-aw</lang>
       <lang>pl</lang>
       <lang>pt</lang>
-      <lang percentage="32">pt_BR</lang>
       <lang>rm</lang>
       <lang>rn</lang>
       <lang>ro</lang>
       <lang>ru</lang>
       <lang>rw</lang>
       <lang>sc</lang>
-      <lang percentage="26">se</lang>
+      <lang percentage="30">se</lang>
       <lang>sel</lang>
       <lang>sg</lang>
       <lang>sk</lang>
-      <lang percentage="34">sl</lang>
       <lang>sm</lang>
       <lang>sma</lang>
       <lang>smj</lang>
@@ -2986,18 +2454,19 @@
       <lang>so</lang>
       <lang>sq</lang>
       <lang>sr</lang>
-      <lang percentage="34">sr@ijekavian</lang>
-      <lang percentage="34">sr@ijekavianlatin</lang>
-      <lang percentage="34">sr@latin</lang>
+      <lang percentage="26">sr@ije</lang>
+      <lang percentage="39">sr@ijekavian</lang>
+      <lang percentage="39">sr@ijekavianlatin</lang>
+      <lang percentage="39">sr@latin</lang>
       <lang>ss</lang>
       <lang>st</lang>
       <lang>su</lang>
       <lang>sv</lang>
       <lang>sw</lang>
-      <lang percentage="29">ta</lang>
-      <lang percentage="29">te</lang>
-      <lang percentage="29">tg</lang>
-      <lang percentage="25">th</lang>
+      <lang percentage="34">ta</lang>
+      <lang percentage="34">te</lang>
+      <lang percentage="34">tg</lang>
+      <lang percentage="29">th</lang>
       <lang>tk</lang>
       <lang>tl</lang>
       <lang>tn</lang>
@@ -3005,10 +2474,8 @@
       <lang>tr</lang>
       <lang>ts</lang>
       <lang>ty</lang>
-      <lang percentage="25">ug</lang>
-      <lang percentage="34">uk</lang>
       <lang>uz</lang>
-      <lang percentage="33">vi</lang>
+      <lang percentage="39">vi</lang>
       <lang>vo</lang>
       <lang>vot</lang>
       <lang>wa</lang>
@@ -3016,242 +2483,11 @@
       <lang>xh</lang>
       <lang>yap</lang>
       <lang>za</lang>
-      <lang percentage="34">zh_CN</lang>
-      <lang percentage="29">zh_HK</lang>
-      <lang percentage="34">zh_TW</lang>
+      <lang percentage="34">zh_HK</lang>
       <lang>zu</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kiten_16.12.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component type="desktop">
-    <id>org.kde.knotes.desktop</id>
-    <pkgname>knotes</pkgname>
-    <name>KNotes</name>
-    <name xml:lang="af">Knotas</name>
-    <name xml:lang="ar">ملاحظاتك</name>
-    <name xml:lang="cy">KNodiadau</name>
-    <name xml:lang="eo">Notoj</name>
-    <name xml:lang="hr">Bilješka</name>
-    <name xml:lang="mk">КБелешки</name>
-    <name xml:lang="mr">के-नोट्स</name>
-    <name xml:lang="ne">केडीई टिपोट</name>
-    <name xml:lang="pa">ਕੇ-ਨੋਟਿਸ</name>
-    <name xml:lang="pl">KNotatki</name>
-    <name xml:lang="sr">К‑белешке</name>
-    <name xml:lang="sr@ijekavian">К‑биљешке</name>
-    <name xml:lang="sr@ijekavianlatin">K‑bilješke</name>
-    <name xml:lang="sr@latin">K‑beleške</name>
-    <name xml:lang="sv">Knotes</name>
-    <name xml:lang="ta">கேகுறிப்புகள்</name>
-    <name xml:lang="zh_TW">螢幕便利貼_KNotes</name>
-    <description><p>KNotes is a program that lets you write the computer equivalent of sticky notes. The notes are saved automatically when you exit the program, and they display when you open the program.</p><p>Features:</p><ul><li>Write notes in your choice of font and background color</li><li>Use drag and drop to email your notes</li><li>Can be dragged into Calendar to book a time-slot</li><li>Notes can be printed</li></ul></description>
-    <description xml:lang="ar"><p>«ملاحظاتك» هو برنامج يسمح لك بكتابة المقابل البرمجيّ للملاحظات اللاصقة. تُحفظ الملاحظات آليًّا عند خروجك من البرنامج وتُعرض عندما تفتحه.</p><p>الميزات:</p><ul><li>إمكانيّة كتابة الملاحظات بما تختار من خطّ ولون خلفيّة</li><li>إمكانيّة استخدام السّحب والإفلات لإرسال ملاحظاتك عبر البريد</li><li>إمكانيّة طباعة الملاحظات</li></ul></description>
-    <description xml:lang="ast"><p>KNotes ye un programa que te permite escribir al ordenador l'equivalente a notes pegañoses. Les notes guárdense automáticamente al colar del programa y amuésense al abrilu.</p><p>Carauterístiques:</p><ul><li>Escribi notes na fonte y color de fondu qu'escueyas</li><li>Arrastra y suelta les tos notes pa unviales per corréu</li><li>Puen arrastrase fasta'l Calendariu p'anotar una ranula de tiempu</li><li>Les notes puen imprentase</li></ul></description>
-    <description xml:lang="bs"><p>Svojstva:</p><ul></ul></description>
-    <description xml:lang="ca"><p>El KNotes és un programa que permet escriure l'equivalent informàtic a les notes adhesives. Les notes es desen automàticament en sortir del programa, i es mostren en obrir el programa.</p><p>Característiques:</p><ul><li>Escriu les notes amb el tipus de lletra i el color de fons de la vostra elecció</li><li>Usa arrossega i deixa per enviar les vostres notes</li><li>Es poden arrossegar al calendari per a reservar un horari</li><li>Les notes es poden imprimir</li></ul></description>
-    <description xml:lang="ca_valencia"><p>El KNotes és un programa que permet escriure l'equivalent informàtic a les notes adhesives. Les notes es guarden automàticament en eixir del programa, i es mostren en obrir el programa.</p><p>Característiques:</p><ul><li>Escriu les notes amb el tipus de lletra i el color de fons de la vostra elecció</li><li>Usa arrossega i deixa per enviar les vostres notes</li><li>Es poden arrossegar al calendari per a reservar un horari</li><li>Les notes es poden imprimir</li></ul></description>
-    <description xml:lang="cs"><p>Vlastnosti:</p><ul></ul></description>
-    <description xml:lang="da"><p>Funktioner:</p><ul></ul></description>
-    <description xml:lang="de"><p>KNotes erlaubt das Anbringen virtueller Haftnotizen ("Post-it") auf dem Bildschirm. Die Notizen werden beim Beenden des Programms automatisch gespeichert und beim Neustart wieder geladen und angezeigt.</p><p>Funktionen:</p><ul><li>Notizen können in ausgewählter Farbe für Schrift und Hintergrund erstellt werden</li><li>Ziehen und Ablegen (Drag and Drop), um Ihre Notizen als E-Mail zu versenden</li><li>Kann in einen Kalender gezogen werden, um einen Zeitraum zu belegen.</li><li>Notizen können ausgedruckt werden</li></ul></description>
-    <description xml:lang="en_GB"><p>KNotes is a program that lets you write the computer equivalent of sticky notes. The notes are saved automatically when you exit the program, and they display when you open the program.</p><p>Features:</p><ul><li>Write notes in your choice of font and background colour</li><li>Use drag and drop to email your notes</li><li>Can be dragged into Calendar to book a time-slot</li><li>Notes can be printed</li></ul></description>
-    <description xml:lang="es"><p>KNotes es un programa que le permite escribir en el equipo el equivalente de notas pegajosas. Las notas se guardan automáticamente cuando usted sale del programa y se muestran cuando lo abre.</p><p>Características:</p><ul><li>Escriba notas en el tipo de letra y color de fondo de su elección</li><li>Use arrastrar y soltar para enviar sus notas por correo</li><li>Puede soltarse en el calendario para reservar una ranura de tiempo</li><li>Las notas pueden imprimirse</li></ul></description>
-    <description xml:lang="et"><p>KNotes on rakendus, mille abil saab arvutil kirjutada samasuguseid märkmeid, mida muidu kirjutatakse kleepuvate märkmepaberite peale. Sedelid salvestatakse automaatselt rakendusest väljudes ning seda taasavades näidatakse neid uuesti.</p><p>Omadused:</p><ul><li>Märkuste kirjutamine enda valitud kirja ja taustavärviga</li><li>Märkuste lohistamise teel e-postiga saatmine</li><li>Lohistamise võimalus kalendrisse mõne aja broneerimiseks</li><li>Trükkimise võimalus</li></ul></description>
-    <description xml:lang="fi"><p>KNotes on ohjelma, jolla voit kirjoittaa tarralappujen tietokonevastineita. Laput tallennetaan automaattisesti ohjelmasta poistuessasi ja näytetään avatessasi ohjelman.</p><p>Ominaisuudet:</p><ul><li>Voit valita muistilappujen fontin ja taustavärin</li><li>Voit lähettää muistilappusi sähköpostitse vetämällä ja pudottamalla</li><li>Voit vetää muistilaput kalenteriin varataksesi tapahtumalle ajan</li><li>Muistilaput voi tulostaa</li></ul></description>
-    <description xml:lang="fr"><p>KNotes est un programme qui vous permet d'avoir l'équivalent électronique des papillons autocollants (Post-it®). Les notes sont enregistrées automatiquement lorsque vous quittez le programme, et elles s'affichent lorsque vous l'ouvrez.</p><p>Fonctionnalités :</p><ul><li>Écrivez des notes avec la police de caractère et la couleur de fond de votre choix</li><li>Utilisez le glisser-déposer pour envoyer vos notes par courriel</li><li>Glissez les notes dans le calendrier pour réserver des créneaux horaires</li><li>Imprimez les notes</li></ul></description>
-    <description xml:lang="gl"><p>KNotes é un programa que permite escribir o que sería un equivalente informático das notas pegañentas. As notas grávanse automaticamente cando se sae do programa e móstranse cando se abre o programa.</p><p>Funcionalidades:</p><ul><li>Escriba notas usando o tipo e letra e cor de fondo que prefira.</li><li>Use arrastrar e soltar para enviar as súas notas por correo electrónico.</li><li>Pode arrastras as notas a un calendario para asocialas a un espazo de tempo.</li><li>Pode imprimir as notas.</li></ul></description>
-    <description xml:lang="hu"><p>A KNotes program használatával kisebb jegyzeteket lehet készíteni. A jegyzetek a programból való kilépéskor automatikusan mentésre kerülnek, a program indulásakor pedig ismét megjelennek.</p><p>Szolgáltatások:</p><ul><li>Jegyzetek írása tetszőleges betűtípussal és háttérszínnel</li><li>Jegyzetek elküldése e-mailben a fogd-és-vidd módszerrel</li><li>Naptárba húzható egy időablak lefoglalásához</li><li>A jegyzetek nyomtathatók</li></ul></description>
-    <description xml:lang="ia"><p>Characteristicas:</p><ul></ul></description>
-    <description xml:lang="it"><p>KNotes è un programma che ti permette di scrivere nel computer l'equivalente delle note adesive (post-it). Le note vengono salvate automaticamente alla chiusura del programma, e visualizzate quando lo apri.</p><p>Caratteristiche:</p><ul><li>Scrivi le note scegliendo il carattere e lo sfondo</li><li>Usa la funzione di trascinamento per inviare le note con la posta elettronica</li><li>Possono essere trascinate e incollate nel Calendario per creare degli intervalli</li><li>Le note possono essere stampate</li></ul></description>
-    <description xml:lang="ko"><p>KNotes는 메모를 남길 수 있는 프로그램입니다. 프로그램을 종료할 때 메모를 자동으로 저장하고, 다음 실행 때 보여 줍니다.</p><p>기능:</p><ul><li>사용자 정의 글꼴 및 배경색 지원</li><li>드래그 앤 드롭으로 바로 이메일 보내기</li><li>달력에 드래그 앤 드롭으로 일정 추가</li><li>인쇄 기능</li></ul></description>
-    <description xml:lang="lt"><p>Ypatybės:</p><ul></ul></description>
-    <description xml:lang="nb"><p>KNotes er et program du kan bruke til å skrive «gule lapper» på datamaskinen.  Lappene lagres automatisk når du går ut av programmet, og vises igjen når du starter programmet.</p><p>Egenskaper:</p><ul><li>Skriv notater med den fargen du velger på skrift og bakgrunn</li><li>Bruk dra og slipp til å sende notatene på e-øpost</li><li>Kan dras inn i Kalendar for å holde av en tid</li><li>Notater kan skrives ut</li></ul></description>
-    <description xml:lang="nds"><p>Mit KNotes kannst Du so wat as Anback-Notizen för den Reekner maken. De Notizen warrt bi't Utmaken vun't Programm automaatsch sekert un wedder wiest, wenn Du dat Programm wedder opröppst.</p><p>Markmalen:</p><ul><li>De Notizen mit Dien Schriftoort un Achtergrundklöör schrieven</li><li>Notizen över Trecken un Afleggen mit Nettpost loosstüern</li><li>Laat sik na den Kalenner trecken, wat en Stoot Tiet reserveren deit</li><li>Notizen laat sik drucken</li></ul></description>
-    <description xml:lang="nl"><p>Knotes is de digitale variant van de gele zelfklevende notitieblaadjes. De notities worden bij het afsluiten automatisch bewaard en worden weer getoond wanneer het programma gestart wordt.</p><p>Mogelijkheden:</p><ul><li>Schrijf notities met uw keuze voor lettertype en achtergrondkleur</li><li>Slepen en neerzetten gebruiken om uw notities te e-mailen</li><li>Kan versleept worden in Agenda om een time-slot te boeken</li><li>Notities kunnen worden afgedrukt</li></ul></description>
-    <description xml:lang="pl"><p>KNotatki jest programem, który umożliwia tworzenie w komputerze tzw. żółtych karteczek. Takie karteczki są samoczynnie zapisywane przy wyjściu z programu i pokazywane przy otwieraniu programu.</p><p>Możliwości:</p><ul><li>Pisanie notatek według własnego wyboru czcionki i koloru</li><li>Używanie przeciągania i upuszczania do wysyłania pocztą swoich notatek</li><li>Możliwość przeciągnięcia na kalendarz celem zaplanowania przedziału czasowego</li><li>Możliwość drukowania notatek</li></ul></description>
-    <description xml:lang="pt"><p>O KNotes é um programa que lhe permite escrever o equivalente para computadores das notas autocolantes. As notas são gravadas automaticamente quando sair do programa e as mesmas voltam a aparecer quando o abrir.</p><p>Funcionalidades:</p><ul><li>Escrever notas à sua escolha, com determinados tipos de letra e cores de fundo</li><li>Arrastar as notas para as enviar por e-mail</li><li>Pode ser arrastado para o Calendário para agendar um espaço de tempo</li><li>As notas podem ser impressas</li></ul></description>
-    <description xml:lang="pt_BR"><p>KNotes é um programa que lhe permite escrever no computador da mesma forma que usa notas autoadesivas. As notas são gravadas automaticamente quando você sai do programa e depois apresentadas quando você abre o programa.</p><p>Funcionalidades:</p><ul><li>Escrever notas com a fonte e cor de fundo de sua escolha</li><li>Arrastar e soltar as notas para envio por e-mail</li><li>Pode ser arrastado para o calendário para agendar um espaço de tempo</li><li>As notas podem ser impressas</li></ul></description>
-    <description xml:lang="ro"><p>Caracteristici:</p><ul><li>Notele pot fi tipărite</li></ul></description>
-    <description xml:lang="ru"><p>Программа KNotes имитирует клейкие записки на экране компьютера. При выходе из программы записки сохраняются и восстанавливаются при следующем запуске.</p><p>Возможности:</p><ul><li>Выбор цвета шрифта и фона для заметок;</li><li>Отправка заметок по электронной почте путём их перетаскивания;</li><li>Добавление событий путём перетаскивания заметок на календарь;</li><li>Заметки можно печатать.</li></ul></description>
-    <description xml:lang="sk"><p>KNotes je program, ktorý vám umožní písať na počítači ekvivalent "sticky notes". Poznámky sa ukladajú automaticky keď ukončíte program a potom sa zobrazia pri otvorení programu.</p><p>Funkcie:</p><ul><li>Písanie poznámok podľa vášho výberu písma a farby pozadia</li><li>Použitie drag and drop na poslanie vašich poznámok</li><li>Je možné potiahnutie do kalendára na rezervovanie termínu</li><li>Poznámky je možné tlačiť</li></ul></description>
-    <description xml:lang="sl"><p>KNotes je program, ki vam omogoča pisanje lepljivih sporočilc na računalniku. Sporočilca so samodejno shranjena ob izhodu iz programa in prikazana ob odprtju programa.</p><p>Zmožnosti:</p><ul><li>Pisanje sporočilc s pisavo in barvo ozadja po meri</li><li>Pošiljanje sporočilc preko e-pošte s pomočjo povleci/spusti</li><li>Sporočilca lahko povlečete v koledar in rezervirate določen termin</li><li>Sporočilca lahko natisnete</li></ul></description>
-    <description xml:lang="sv"><p>Knotes är ett program som låter dig skriva datorns motsvarighet till klisterlappar. Anteckningarna sparas automatiskt när programmet avslutas, och visas när programmet startas.</p><p>Funktioner:</p><ul><li>Skriv anteckningar med eget val av teckensnitt och bakgrundsfärg</li><li>Använd drag och släpp för att skicka anteckningar med e-post</li><li>Kan dras till en kalender för att boka en tidslucka</li><li>Anteckningar kan skrivas ut</li></ul></description>
-    <description xml:lang="tr"><p>KNotes yapışkan notların bilgisayar eşleniğini yazmanızı sağlayan bir programdır. Notlar programdan çıktığınızda otomatik olarak kaydedilir, ve açtığınızda görüntülenir.</p><p>Özellikler:</p><ul><li>Seçtiğiniz yazı tipi ve arka plan rengi ile notlarınız yazın</li><li>Notlarınızı e-posta ile göndermek için sürükle bırak kullanın</li><li>Belli bir zaman yuvasını tutması için Takvim'e sürüklenebilir</li><li>Notlar yazdırılabilir</li></ul></description>
-    <description xml:lang="uk"><p>KNotes — це програма, що дозволяє створювати комп'ютерний еквівалент липких листочків із нотатками. Нотатки автоматично зберігаються під час завершення роботи програми і показуються при її запуску.</p><p>Можливості:</p><ul><li>запис нотаток бажаним для вас кольором і шрифтом на тлі бажаного кольору;</li><li>використання перетягування зі скиданням для надсилання ваших нотаток електронною поштою;</li><li>можливість перетягування нотаток до календаря для створення запису планування;</li><li>можливість друку нотаток.</li></ul></description>
-    <description xml:lang="zh_CN"><p>功能：</p><ul></ul></description>
-    <description xml:lang="zh_TW"><p>KNotes 讓您可以在螢幕上貼便利貼。便條會在離開時自動儲存，開啟程式時再顯示。</p><p>功能：</p><ul><li>可以選擇便條的字型與背景顏色</li><li>可以用拖放的方式透過電子郵件傳送您的便條</li><li>可以拖到行事曆中來預約時間</li><li>可以列印便條</li></ul></description>
-    <icon type="cached" height="128" width="128">128x128/org.kde.knotes.png</icon>
-    <icon type="cached" height="64" width="64">64x64/org.kde.knotes.png</icon>
-    <categories>
-      <category>TextTools</category>
-      <category>Utility</category>
-    </categories>
-    <kudos>
-      <kudo>HiDpiIcon</kudo>
-      <kudo>HighContrast</kudo>
-    </kudos>
-    <vetos>
-      <veto>No &lt;summary&gt; in AppData</veto>
-    </vetos>
-    <project_license>GPL-2.0+</project_license>
-    <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=knotes</url>
-    <url type="help">http://docs.kde.org/stable/en/kdepim/knotes/index.html</url>
-    <project_group>KDE</project_group>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">http://kde.org/images/screenshots/knotes.png</image>
-      </screenshot>
-    </screenshots>
-    <provides>
-      <binary>knotes</binary>
-      <dbus type="session">ca.desrt.dconf</dbus>
-      <dbus type="session">org.a11y.Bus</dbus>
-      <dbus type="session">org.bluez.obex</dbus>
-      <dbus type="session">org.freedesktop.Akonadi.Control</dbus>
-      <dbus type="session">org.freedesktop.ColorHelper</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Master</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Example</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Geonames</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Gsmloc</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Hostip</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Localnet</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Manual</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Nominatim</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Plazes</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Skyhook</dbus>
-      <dbus type="session">org.freedesktop.Geoclue.Providers.Yahoo</dbus>
-      <dbus type="session">org.freedesktop.systemd1</dbus>
-      <dbus type="session">org.gnome.GConf</dbus>
-      <dbus type="session">org.gnome.zeitgeist.Engine</dbus>
-      <dbus type="session">org.gnome.zeitgeist.SimpleIndexer</dbus>
-      <dbus type="session">org.gtk.GLib.PACRunner</dbus>
-      <dbus type="session">org.jackaudio.service</dbus>
-      <dbus type="session">org.kde.kcookiejar5</dbus>
-      <dbus type="session">org.kde.kded5</dbus>
-      <dbus type="session">org.kde.kglobalaccel</dbus>
-      <dbus type="session">org.kde.kiod5</dbus>
-      <dbus type="session">org.kde.kpasswdserver</dbus>
-      <dbus type="session">org.kde.kssld5</dbus>
-      <dbus type="session">org.kde.kwalletd</dbus>
-      <dbus type="session">org.kde.kwalletd5</dbus>
-      <dbus type="system">com.redhat.lvmdbus1</dbus>
-      <dbus type="system">org.bluez</dbus>
-      <dbus type="system">org.freedesktop.Avahi</dbus>
-      <dbus type="system">org.freedesktop.ColorManager</dbus>
-      <dbus type="system">org.freedesktop.PolicyKit1</dbus>
-      <dbus type="system">org.freedesktop.RealtimeKit1</dbus>
-      <dbus type="system">org.freedesktop.UDisks2</dbus>
-      <dbus type="system">org.freedesktop.UPower</dbus>
-      <dbus type="system">org.freedesktop.hostname1</dbus>
-      <dbus type="system">org.freedesktop.import1</dbus>
-      <dbus type="system">org.freedesktop.locale1</dbus>
-      <dbus type="system">org.freedesktop.login1</dbus>
-      <dbus type="system">org.freedesktop.machine1</dbus>
-      <dbus type="system">org.freedesktop.network1</dbus>
-      <dbus type="system">org.freedesktop.resolve1</dbus>
-      <dbus type="system">org.freedesktop.systemd1</dbus>
-      <dbus type="system">org.freedesktop.timedate1</dbus>
-      <dbus type="system">org.gnome.GConf.Defaults</dbus>
-    </provides>
-    <languages>
-      <lang percentage="42">an</lang>
-      <lang percentage="39">ar</lang>
-      <lang percentage="29">as</lang>
-      <lang percentage="54">ast</lang>
-      <lang percentage="27">be</lang>
-      <lang percentage="35">be@latin</lang>
-      <lang percentage="39">bg</lang>
-      <lang percentage="40">bn</lang>
-      <lang percentage="40">bn_IN</lang>
-      <lang percentage="59">bs</lang>
-      <lang percentage="61">ca</lang>
-      <lang percentage="61">ca@valencia</lang>
-      <lang percentage="43">crh</lang>
-      <lang percentage="61">cs</lang>
-      <lang percentage="35">cy</lang>
-      <lang percentage="61">da</lang>
-      <lang percentage="61">de</lang>
-      <lang percentage="32">dz</lang>
-      <lang percentage="60">el</lang>
-      <lang percentage="27">en@boldquot</lang>
-      <lang percentage="27">en@quot</lang>
-      <lang percentage="35">en@shaw</lang>
-      <lang percentage="35">en_CA</lang>
-      <lang percentage="61">en_GB</lang>
-      <lang percentage="37">eo</lang>
-      <lang percentage="61">es</lang>
-      <lang percentage="61">et</lang>
-      <lang percentage="58">eu</lang>
-      <lang percentage="30">fa</lang>
-      <lang percentage="61">fi</lang>
-      <lang percentage="61">fr</lang>
-      <lang percentage="58">ga</lang>
-      <lang percentage="61">gd</lang>
-      <lang percentage="61">gl</lang>
-      <lang percentage="32">gu</lang>
-      <lang percentage="48">he</lang>
-      <lang percentage="25">hi</lang>
-      <lang percentage="45">hr</lang>
-      <lang percentage="60">hu</lang>
-      <lang percentage="42">hy</lang>
-      <lang percentage="61">ia</lang>
-      <lang percentage="45">id</lang>
-      <lang percentage="42">is</lang>
-      <lang percentage="61">it</lang>
-      <lang percentage="58">ja</lang>
-      <lang percentage="30">ka</lang>
-      <lang percentage="25">kg</lang>
-      <lang percentage="59">kk</lang>
-      <lang percentage="59">km</lang>
-      <lang percentage="29">kn</lang>
-      <lang percentage="50">ko</lang>
-      <lang percentage="27">lg</lang>
-      <lang percentage="32">lt</lang>
-      <lang percentage="34">lv</lang>
-      <lang percentage="29">mai</lang>
-      <lang percentage="29">mk</lang>
-      <lang percentage="35">ml</lang>
-      <lang percentage="55">mr</lang>
-      <lang percentage="39">my</lang>
-      <lang percentage="61">nb</lang>
-      <lang percentage="60">nds</lang>
-      <lang percentage="26">ne</lang>
-      <lang percentage="61">nl</lang>
-      <lang percentage="36">nn</lang>
-      <lang percentage="33">oc</lang>
-      <lang percentage="45">or</lang>
-      <lang percentage="41">pa</lang>
-      <lang percentage="61">pl</lang>
-      <lang percentage="61">pt</lang>
-      <lang percentage="61">pt_BR</lang>
-      <lang percentage="59">ro</lang>
-      <lang percentage="61">ru</lang>
-      <lang percentage="34">se</lang>
-      <lang percentage="61">sk</lang>
-      <lang percentage="61">sl</lang>
-      <lang percentage="37">sq</lang>
-      <lang percentage="61">sr</lang>
-      <lang percentage="61">sr@ijekavian</lang>
-      <lang percentage="61">sr@ijekavianlatin</lang>
-      <lang percentage="61">sr@latin</lang>
-      <lang percentage="61">sv</lang>
-      <lang percentage="28">ta</lang>
-      <lang percentage="28">te</lang>
-      <lang percentage="29">tg</lang>
-      <lang percentage="29">th</lang>
-      <lang percentage="60">tr</lang>
-      <lang percentage="41">ug</lang>
-      <lang percentage="61">uk</lang>
-      <lang percentage="33">vi</lang>
-      <lang percentage="28">wa</lang>
-      <lang percentage="25">xh</lang>
-      <lang percentage="61">zh_CN</lang>
-      <lang percentage="29">zh_HK</lang>
-      <lang percentage="61">zh_TW</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">knotes_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kiten_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3302,6 +2538,7 @@
     <summary xml:lang="zh_CN">KDE 文件管理器 &amp; 网页浏览器</summary>
     <summary xml:lang="zh_TW">KDE 檔案管理員與網頁瀏覽器</summary>
     <description><p>Konqueror is KDE's Webbrowser and swiss-army-knife for any kind of file-management and file previewing.</p><p>Features:</p><ul><li>Webbrowsing using KHTML or KDEWebKit as rendering engines</li><li>File management using most of Dolphin's features (including version-control, service menus and the basic UI)</li><li>File management on ftp and sftp servers</li><li>Full featured FTP-client (you can split views to display local and remote folders and previews in the same window)</li><li>Embedded applications to preview files (e.g. Okular and Calligra for documents, Gwenview for pictures, KTextEditor for text-files)</li><li>Different kinds of plugins: Service-menus, KParts (embedded applications), KIO (accessing files using special protocols like http or ftp) and KPart-plugins (like AdBlocker...)</li></ul></description>
+    <description xml:lang="ast"><p>Carauterístiques:</p><ul></ul></description>
     <description xml:lang="bs"><p>Konqueror je KDE's Webbrowser i švicarski nož za sve vrste upravljanja datotekama i pregled datoteka.</p><p>Svojstva:</p><ul><li>Pregled weba koristeći KHTML ili KDEWebKit kao pogona za obratu</li><li>Upravljanje datotekama s većinom Dolphin mogućnosti (kontrola verzija, servisni meniji i osnovni UI)</li><li>Upravljanje datotekama na ftp i sftp serverima</li><li>Puni FTP-klijent (možete podijeliti poglede da prikazuje lokalne i udaljene direktorije i preglede u istom prozoru)</li><li>Ugrađene aplikacije za pregled datoteka (npr.. Okular i Calligra za dokumente, Gwenview za slike, KTextEditor za tekst datoetke)</li><li>Razne vrste dodataka: Servisni meniji, KParts (ugrađene aplikacije), KIO (pristup datotekama specijalnim protokolima poput http ili ftp) i KPart-dodacima (kao što je AdBlocker...)</li></ul></description>
     <description xml:lang="ca"><p>Konqueror és el navegador web del KDE i una autèntica navalla suïssa per a qualsevol tipus de gestió de fitxers i vista prèvia de fitxers.</p><p>Característiques:</p><ul><li>Navegació web usant KHTML o KDEWebKit com a motors de renderització</li><li>Gestió de fitxers usant la major part de les característiques del Dolphin (incloent-hi el control de versions, menús de servei i la interfície d'usuari bàsica)</li><li>Gestió de fitxers als servidors FTP i SFTP</li><li>Un complet client FTP (podeu dividir les vistes per a mostrar les carpetes locals i remotes, així com les vistes prèvies a la mateixa finestra)</li><li>Aplicacions incrustades per a previsualitzar fitxers (p. ex., Okular i Calligra pels documents, Gwenview per a les fotografies, KTextEditor pels fitxers de text)</li><li>Diferents tipus de connectors: menús de servei, les KPart (aplicacions incrustades), KIO (accés a fitxers usant protocols especials com HTTP o FTP) i connectors amb KPart (com AdBlocker...)</li></ul></description>
     <description xml:lang="ca_valencia"><p>Konqueror és el navegador web del KDE i una autèntica navalla suïssa per a qualsevol tipus de gestió de fitxers i vista prèvia de fitxers.</p><p>Característiques:</p><ul><li>Navegació web usant KHTML o KDEWebKit com a motors de renderització</li><li>Gestió de fitxers usant la major part de les característiques del Dolphin (incloent-hi el control de versions, menús de servei i la interfície d'usuari bàsica)</li><li>Gestió de fitxers als servidors FTP i SFTP</li><li>Un complet client FTP (podeu dividir les vistes per a mostrar les carpetes locals i remotes, així com les vistes prèvies a la mateixa finestra)</li><li>Aplicacions incrustades per a previsualitzar fitxers (p. ex., Okular i Calligra pels documents, Gwenview per a les fotografies, KTextEditor pels fitxers de text)</li><li>Diferents tipus de connectors: menús de servei, les KPart (aplicacions incrustades), KIO (accés a fitxers usant protocols especials com HTTP o FTP) i connectors amb KPart (com AdBlocker...)</li></ul></description>
@@ -3417,132 +2654,165 @@
       <dbus type="system">org.kde.ksysguard.processlisthelper</dbus>
     </provides>
     <languages>
-      <lang percentage="82">ast</lang>
-      <lang percentage="25">bs</lang>
-      <lang percentage="25">ca</lang>
-      <lang percentage="25">ca@valencia</lang>
-      <lang percentage="71">crh</lang>
-      <lang percentage="25">cs</lang>
-      <lang percentage="25">da</lang>
-      <lang percentage="25">de</lang>
-      <lang percentage="25">el</lang>
-      <lang percentage="28">en</lang>
-      <lang percentage="25">en_GB</lang>
-      <lang percentage="25">es</lang>
-      <lang percentage="25">et</lang>
-      <lang percentage="25">fi</lang>
-      <lang percentage="25">fr</lang>
-      <lang percentage="25">gd</lang>
-      <lang percentage="25">gl</lang>
-      <lang percentage="25">hu</lang>
-      <lang percentage="25">ia</lang>
-      <lang percentage="50">id</lang>
-      <lang percentage="25">it</lang>
-      <lang percentage="28">ja</lang>
-      <lang percentage="25">kk</lang>
-      <lang percentage="25">km</lang>
-      <lang percentage="72">kn</lang>
-      <lang percentage="81">mr</lang>
-      <lang percentage="53">ms</lang>
-      <lang percentage="25">nb</lang>
-      <lang percentage="25">nds</lang>
-      <lang percentage="25">nl</lang>
-      <lang percentage="38">or</lang>
-      <lang percentage="80">pa</lang>
-      <lang percentage="25">pl</lang>
-      <lang percentage="25">pt</lang>
-      <lang percentage="25">pt_BR</lang>
-      <lang percentage="25">ro</lang>
-      <lang percentage="25">ru</lang>
-      <lang percentage="25">sk</lang>
-      <lang percentage="25">sl</lang>
-      <lang percentage="25">sr</lang>
-      <lang percentage="25">sr@ijekavian</lang>
-      <lang percentage="25">sr@ijekavianlatin</lang>
-      <lang percentage="25">sr@latin</lang>
-      <lang percentage="25">sv</lang>
-      <lang percentage="80">ta</lang>
-      <lang percentage="25">tr</lang>
-      <lang percentage="25">uk</lang>
-      <lang percentage="43">vi</lang>
-      <lang percentage="25">zh_CN</lang>
-      <lang percentage="25">zh_TW</lang>
+      <lang percentage="27">as</lang>
+      <lang percentage="88">crh</lang>
+      <lang percentage="34">en</lang>
+      <lang percentage="29">en@boldquot</lang>
+      <lang percentage="29">en@quot</lang>
+      <lang percentage="32">gd</lang>
+      <lang percentage="26">gu</lang>
+      <lang percentage="89">kn</lang>
+      <lang percentage="66">ms</lang>
+      <lang percentage="28">oc</lang>
+      <lang percentage="47">or</lang>
+      <lang percentage="32">sr@ijekavian</lang>
+      <lang percentage="32">sr@ijekavianlatin</lang>
+      <lang percentage="32">sr@latin</lang>
+      <lang percentage="100">ta</lang>
+      <lang percentage="25">te</lang>
+      <lang percentage="27">tg</lang>
+      <lang percentage="53">vi</lang>
+      <lang percentage="27">zh_HK</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">konqueror_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">konqueror_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
-    <id>org.kde.kontact.desktop</id>
-    <pkgname>kontact</pkgname>
-    <name>Kontact</name>
-    <name xml:lang="ar">تراسلك</name>
-    <name xml:lang="mk">Контакт</name>
-    <name xml:lang="mr">कॉन्टेक्ट</name>
-    <name xml:lang="ne">सम्पर्क गर्नुहोस्</name>
-    <name xml:lang="nn">Kontakt</name>
-    <name xml:lang="pa">ਕੇ-ਸੰਪਰਕ</name>
-    <name xml:lang="sr">Контакт</name>
-    <name xml:lang="sr@ijekavian">Контакт</name>
-    <name xml:lang="ta">தொடர்பு கொள்</name>
-    <name xml:lang="zh_TW">個人資訊管理_Kontact</name>
-    <description><p>Kontact is the integrated solution to your personal information management (PIM) needs. It combines well-known KDE applications like KMail, KOrganizer and KAddressBook into a single interface to provide easy access to mail, scheduling, address book and other PIM functionality.</p></description>
-    <description xml:lang="ar"><p>«تراسلك» هو حلّ متكامل لاحتياجات إدارة معلوماتك الشّخصيّة (PIM). يضمّ الطّقم برمجيّات كدي المعروفة مثل «بريدك»، و«منظّمك» و«دفتر عناوينك» إلى واجهة واحدة لتوفير نفاذ أسهل إلى البريد، والجدولة ودفتر العناوين وأيّة وظائف PIM أخرى.</p></description>
-    <description xml:lang="ca"><p>El Kontact és la solució integral per a la gestió de la vostra informació personal (PIM) que necessiteu. Combina aplicacions KDE conegudes com el KMail, KOrganizer i KAddressBook en una única interfície per a facilitar l'accés al correu, la planificació, la llibreta d'adreces i altres funcionalitats del PIM.</p></description>
-    <description xml:lang="ca_valencia"><p>El Kontact és la solució integral per a la gestió de la vostra informació personal (PIM) que necessiteu. Combina aplicacions KDE conegudes com el KMail, KOrganizer i KAddressBook en una única interfície per a facilitar l'accés al correu, la planificació, la llibreta d'adreces i altres funcionalitats del PIM.</p></description>
-    <description xml:lang="cs"><p>Kontact je integrované řešení pro vaše potřeby pro správu osobních informací(PIM). Kombinuje dobře známé aplikace KDE jako KMail, KOrganizer a KAddressBook do jednoho rozhraní pro snadný přístup k poště, plánování, knize adres a další funkcionalitě PIM.</p></description>
-    <description xml:lang="de"><p>Kontact ist das integrierte Programm für Persönliche Informationsverwaltung (PIM). Es kombiniert bekannte KDE-Programme wie KMail, KOrganizer und KAddressBook unter einer einheitlichen Oberfläche. Damit hat man einfachen Zugriff auf E-Mail, Termine, Adressbuch und weitere PIM-Funktionen.</p></description>
-    <description xml:lang="el"><p>Ο Kontact είναι η ενσωματωμένη λύση για τις ανάγκες διαχείρισης των προσωπικών σας πληροφοριών (PIM). Συνδυάζει γνωστές εφαρμογές του KDE όπως τα KMail, KOrganizer και KAddressBook σε μια και μόνο γραφική διεπαφή για να παρέχει εύκολη πρόσβαση σε ηλ. αλληλογραφία, προγραμματισμό, βιβλίο διευθύνσεων και άλλες λειτουργικότητες PIM.</p></description>
-    <description xml:lang="es"><p>Kontact es la solución integrada para sus necesidades de gestión de información personal (PIM). Combina aplicaciones conocidas de KDE como KMail, KOrganizer y KAddressBook en una interfaz sencilla para proporcionar acceso a correo, planificación, libretas de direcciones y otras funcionalidades de PIM.</p></description>
-    <description xml:lang="et"><p>Kontact kujutab endast sinu personaalse infohalduse (PIM) vajaduste integreeritud lahendust. See koondab teada-tuntud KDE rakendused, näiteks KMail, KOrganizer ja KDE aadressiraamat, ühte liidesesse, mis võimaldab hõlpsasti kasutada e-posti, ajakavu, aadressiraamatut ja muid PIM-i funktsioone.</p></description>
-    <description xml:lang="fi"><p>Kontact on integroitu ratkaisu henkilökohtaisen tiedonhallintasi (PIM) tarpeisiin. Se yhdistää tunnetut KDE-sovellukset kuten KMailin, KOrganizerin ja KAddressBookin yhteen käyttöliittymään, jolloin voit helposti käyttää sähköpostia, ajastuksia, osoitekirjaa tai muita PIM-toimintoja.</p></description>
-    <description xml:lang="fr"><p>Kontact est la solution intégrée pour la gestion de vos informations personnelles (PIM). Il combine des applications KDE bien connues telles que KMail, KOrganizer et KAddressBook au sein d'une interface pour fournir un accès facile aux courriers électroniques, agendas, carnets d'adresses et autres fonctionnalités relatives aux informations personnelles.</p></description>
-    <description xml:lang="gl"><p>Kontact é a solución completa que necesita para a súa xestión de información persoal (PIM). Combina aplicativos tradicionais de KDE como KMail, KOrganizer e KAddressBook nunha única interface para facilitar o acceso ao correo, calendarios, cadernos de enderezos e outras funcionalidades de xestión de información persoal.</p></description>
-    <description xml:lang="hu"><p>A Kontact az integrált megoldás az Ön személyi információkezelési igényeire. Egy felületen kombinálja a jól ismert KDE alkalmazásokat, mint például a KMail, KOrganizer és KAddressBook, hogy egyszerűen hozzáférhessen leveleihez, naptáraihoz, címjegyzékeihez és más szolgáltatásokhoz.</p></description>
-    <description xml:lang="it"><p>Kontact è la soluzione integrata per la gestione delle informazioni personali (PIM). Combina in una singola interfaccia le ben note applicazioni KDE come KMail, KOrganizer e KAddressBook, permettendo di accedere agevolmente alla posta, all'agenda, alla rubrica indirizzi e alle altre funzionalità di PIM.</p></description>
-    <description xml:lang="ko"><p>Kontact는 통합된 개인 정보 관리(PIM) 도구입니다. KMail, KOrganizer, KAddresssBook 등 KDE 프로그램을 한 자리에서 접근할 수 있으며, 이메일, 일정, 주소록 및 기타 PIM 기능에 접근할 수 있습니다.</p></description>
-    <description xml:lang="nb"><p>Kontact er en integrert løsning på dine problemer men å håndtere personlig informasjon (PIM). Den kobler sammen velkjente KDE-programmer som KMail, KOrganizer og KAddressBook til en felles brukerflate som gir enkel tilgang til e-post, tidsplanlegging, adressebok og andre PIM-funksjoner.</p></description>
-    <description xml:lang="nds"><p>Kontact is de inbuut Lösen för Dien Persöönlich-Informatschonen-Pleeg (PIM). Dat föhrt faken bruukt KDE-Programmen as KMail, KOrganizer un KAdressbook binnen een Böversiet tosamen; so is de Togriep op Nettpost, Planen, Adressbook un anner PIM-Funkschonen bannig eenfach.</p></description>
-    <description xml:lang="nl"><p>Kontact is een alles-in-één oplossing voor het beheren van al uw persoonlijke behoeften van beheer (PIM). Het combineert welbekende KDE-toepassingen als KMail, KOrganizer en KAddressbook tot één geheel, zodat u snel en eenvoudig toegang hebt tot uw e-mail, agenda, adressen en andere handige PIM-toepassingen.</p></description>
-    <description xml:lang="pl"><p>Kontact jest zintegrowanym rozwiązaniem odpowiadającym na potrzeby zarządzania informacjami osobistymi (ZIO). Łączy znane aplikacje KDE takie jak KMail, KOrganizer oraz Książka adresowa w program o jednym układzie sterowania, aby umożliwić łatwy dostęp do poczty, planowania, książki adresowej i innych funkcjonalności ZIO.</p></description>
-    <description xml:lang="pt"><p>O Kontact é a solução integrada para as suas necessidades de gestão de informações pessoais (PIM). Combina as conhecidas aplicações do KDE que são o  KMail, o KOrganizer e o KAddressBook numa única interface, de forma a dar um acesso simples ao correio, calendários, livros de endereço e outras funcionalidades de PIM.</p></description>
-    <description xml:lang="pt_BR"><p>Kontact é a solução integrada para suas necessidades de gerenciamento de informações pessoais (PIM). Ele agrupa os aplicativos conhecidos do KDE, como o KMail, o KOrganizer e o KAddressBook em uma única interface, para oferecer um acesso simples ao e-mail, à agenda, ao livro de endereços e a outras funcionalidades de PIM.</p></description>
-    <description xml:lang="ru"><p>Kontact — это персональный информационный менеджер (PIM). Он интегрирует почтовый клиент KMail, персональный органайзер KOrganizer и адресную книгу KAddressBook в единый интерфейс.</p></description>
-    <description xml:lang="sk"><p>Kontact je integrované riešenie pre vaše potreby správy osobných informácií (PIM). Kombinuje dobre známe KDE aplikácie ako KMail, KOrganizer a KAddressBook do jedného rozhrania na poskytnutie ľahkému prístupu k pošte, plánovaniu, adresáru a iným funkciám PIM.</p></description>
-    <description xml:lang="sl"><p>Kontact je enovit paket za upravljanje osebnih podatkov (PIM). V enovit vmesnik združuje znane programe za KDE kot npr. KMail, KOrganizer in KAddressBook in ponuja enostaven dostop do e-pošte, razporejanja opravil, imenika in drugih funkcij.</p></description>
-    <description xml:lang="sv"><p>Kontact är den integrerade lösningen för personlig informationshantering (PIM). Den kombinerar välkända KDE-program såsom Kmail, Korganizer och adressboken i ett enda gränssnitt för att enkelt ge tillgång till e-post, schemaläggning, adresser och annan funktionalitet för personlig informationshantering.</p></description>
-    <description xml:lang="tr"><p>Kontact kişisel bilgi yönetimi (PIM) ihtiyaçlarınız için tümleşik bir çözümdür. KMail, KOrganizer ve KAddressBook gibi iyi bilinen KDE uygulamalarını tek bir arayüzde birleştirerek e-posta, zamanlama, adres defteri ve diğer PIM işlevlerine kolay erişim sunar.</p></description>
-    <description xml:lang="uk"><p>Kontact — інтегроване рішення для забезпечення ваших потреб у керуванні особистими даними (PIM). Ця програма поєднує добре відомі програми KDE, зокрема KMail, KOrganizer та KAddressBook у межах єдиного інтерфейсу, який полегшує доступ до пошти, планів, адресної книги та інших можливостей з керування особистими даними.</p></description>
-    <description xml:lang="zh_CN"><p>Kontact 是您的个人信息管理（PIM）的集成化解决方案。他组合了知名的 KDE 应用程序，例如 KMail，KOrgranizer 和 KAddressBook 到一个界面当中，从而提供对邮件，计划，地址簿和其他个人信息管理功能的简单访问。</p></description>
-    <description xml:lang="zh_TW"><p>Kontact 是一套個人資訊管理（PIM）的整合解決方案。它將用的 KDE 應用程式，如 KMail, KOrganizer, KAddressBook 等，結合在單一介面中，讓您可以輕鬆處理郵件、排程、通訊錄等等功能。</p></description>
-    <icon type="cached" height="128" width="128">128x128/org.kde.kontact.png</icon>
-    <icon type="cached" height="64" width="64">64x64/org.kde.kontact.png</icon>
+    <id>org.kde.krfb.desktop</id>
+    <pkgname>krfb</pkgname>
+    <name>Krfb</name>
+    <name xml:lang="bn">কে-আর-এফ-বি</name>
+    <name xml:lang="hi">केआरएफबी</name>
+    <name xml:lang="hne">केआरएफबी</name>
+    <name xml:lang="ml">കെആര്‍എഫ്ബി</name>
+    <name xml:lang="mr">के-आर-एफ-बी</name>
+    <name xml:lang="nds">KRfb</name>
+    <name xml:lang="sr">КРФБ</name>
+    <name xml:lang="sr@ijekavian">КРФБ</name>
+    <name xml:lang="sr@ijekavianlatin">KRFB</name>
+    <name xml:lang="sr@latin">KRFB</name>
+    <name xml:lang="sr_Latn">KRFB</name>
+    <name xml:lang="sr_ijekavian">КРФБ</name>
+    <name xml:lang="sr_ijekavianlatin">KRFB</name>
+    <name xml:lang="zh_TW">桌面分享_Krfb</name>
+    <summary>Desktop sharing</summary>
+    <summary xml:lang="af">Werkskerm Deeling</summary>
+    <summary xml:lang="ar">مشاركة سطح المكتب</summary>
+    <summary xml:lang="ast">Compartición d'escritoriu</summary>
+    <summary xml:lang="bg">Споделяне на работния плот</summary>
+    <summary xml:lang="bn">ডেস্কটপ ভাগাভাগি</summary>
+    <summary xml:lang="br">Rannañ ar vurev</summary>
+    <summary xml:lang="bs">Dijeljenje radne površine</summary>
+    <summary xml:lang="ca">Compartició de l'escriptori</summary>
+    <summary xml:lang="ca@valencia">Compartir l'escriptori</summary>
+    <summary xml:lang="ca_valencia">Compartició de l'escriptori</summary>
+    <summary xml:lang="cs">Sdílení pracovní plochy</summary>
+    <summary xml:lang="cy">Rhannu Penbwrdd</summary>
+    <summary xml:lang="da">Skrivebordsdeling</summary>
+    <summary xml:lang="de">Freigabe der Arbeitsfläche</summary>
+    <summary xml:lang="el">Κοινή χρήση επιφάνειας εργασίας</summary>
+    <summary xml:lang="eo">Tabula komunigado</summary>
+    <summary xml:lang="es">Compartir el escritorio</summary>
+    <summary xml:lang="et">Töölaua jagamine</summary>
+    <summary xml:lang="eu">Mahaigaina partekatzea</summary>
+    <summary xml:lang="fi">Työpöydän jakaminen</summary>
+    <summary xml:lang="fr">Partage de bureaux</summary>
+    <summary xml:lang="ga">Roinnt Deisce</summary>
+    <summary xml:lang="gl">Compartición do escritorio</summary>
+    <summary xml:lang="he">שיתוף שולחנות עבודה</summary>
+    <summary xml:lang="hi">डेस्कटॉप साझेदारी</summary>
+    <summary xml:lang="hne">डेस्कटाप साझेदारी</summary>
+    <summary xml:lang="hr">Dijeljenje radne površine</summary>
+    <summary xml:lang="hu">Munkaasztal-megosztás</summary>
+    <summary xml:lang="ia">Compartir de scriptorio</summary>
+    <summary xml:lang="is">Skjáborðamiðlun</summary>
+    <summary xml:lang="it">Condivisione del desktop</summary>
+    <summary xml:lang="ja">デスクトップ共有</summary>
+    <summary xml:lang="kk">Үстелді ортақтастыру</summary>
+    <summary xml:lang="km">ការ​ចែក​រំលែក​ផ្ទែ​តុ</summary>
+    <summary xml:lang="ko">데스크톱 공유</summary>
+    <summary xml:lang="lt">Dalinimasis darbalaukiu</summary>
+    <summary xml:lang="lv">Darbvirsmas koplietošana</summary>
+    <summary xml:lang="mk">Делење на работната површина</summary>
+    <summary xml:lang="ml">പണിയിടം പങ്കുവെക്കല്‍</summary>
+    <summary xml:lang="mr">डेस्कटॉप शेअरींग</summary>
+    <summary xml:lang="ms">Perkongsian Ruang Kerja</summary>
+    <summary xml:lang="nb">Delte skrivebord</summary>
+    <summary xml:lang="nds">Schriefdisch-Freegaav</summary>
+    <summary xml:lang="nl">Bureaublad delen</summary>
+    <summary xml:lang="nn">Skrivebordsdeling</summary>
+    <summary xml:lang="pa">ਡੈਸਕਟਾਪ ਸ਼ੇਅਰਿੰਗ</summary>
+    <summary xml:lang="pl">Współdzielenie pulpitu</summary>
+    <summary xml:lang="pt">Partilha do ecrã</summary>
+    <summary xml:lang="pt_BR">Compartilhamento do ambiente de trabalho</summary>
+    <summary xml:lang="ro">Partajare birou</summary>
+    <summary xml:lang="ru">Параметры общего рабочего стола</summary>
+    <summary xml:lang="si">වැඩතල හවුල්</summary>
+    <summary xml:lang="sk">Zdieľanie pracovnej plochy</summary>
+    <summary xml:lang="sl">Souporaba namizja</summary>
+    <summary xml:lang="sr">Дељење површи</summary>
+    <summary xml:lang="sr@ijekavian">Дијељење површи</summary>
+    <summary xml:lang="sr@ijekavianlatin">Dijeljenje površi</summary>
+    <summary xml:lang="sr@latin">Deljenje površi</summary>
+    <summary xml:lang="sr_Latn">Deljenje površi</summary>
+    <summary xml:lang="sr_ijekavian">Дељење површи</summary>
+    <summary xml:lang="sr_ijekavianlatin">Deljenje površi</summary>
+    <summary xml:lang="sv">Skrivbordsdelning</summary>
+    <summary xml:lang="ta">பணிமேடை பகிர்வு</summary>
+    <summary xml:lang="tg">Истифодаи Муштараки Мизи Корӣ</summary>
+    <summary xml:lang="th">ใช้งานพื้นที่ทำงานร่วมกัน</summary>
+    <summary xml:lang="tr">Masaüstü Paylaşımı</summary>
+    <summary xml:lang="ug">ئۈستەلئۈستىنى ھەمبەھىرلەش</summary>
+    <summary xml:lang="uk">Спільне користування стільницею</summary>
+    <summary xml:lang="xh">Ulwahlulelano lwe Desktop</summary>
+    <summary xml:lang="zh_CN">桌面共享</summary>
+    <summary xml:lang="zh_HK">桌面分享</summary>
+    <summary xml:lang="zh_TW">桌面分享</summary>
+    <description><p>Krfb Desktop Sharing is a server application that allows you to share your current session with a user on another machine, who can use a VNC client to view or even control the desktop.</p></description>
+    <description xml:lang="ca"><p>El Krfb és una aplicació de servidor que permet compartir la vostra sessió actual amb un usuari en una altra màquina, la qual pot emprar un client VNC per veure o controlar l'escriptori.</p></description>
+    <description xml:lang="ca_valencia"><p>El Krfb és una aplicació de servidor que permet compartir la vostra sessió actual amb un usuari en una altra màquina, la qual pot emprar un client VNC per veure o controlar l'escriptori.</p></description>
+    <description xml:lang="de"><p>Krfb ist eine Serveranwendung, welche die gemeinsame Benutzung der aktuellen Sitzung mit einem Benutzer auf einem anderen Rechner ermöglicht, der mit Hilfe eines VNC-Programms den Bildschirminhalt sehen oder sogar die Arbeitsfläche bedienen kann.</p></description>
+    <description xml:lang="es"><p>Krfb para compartir el escritorio es una aplicación de servidor que le permite compartir su sesión actual con un usuario de otra máquina, que puede usar un cliente VNC para ver e incluso controlar su escritorio.</p></description>
+    <description xml:lang="it"><p>Condivisione del desktop Krfb è un'applicazione server che permette di condividere la sessione attuale con un utente su un'altra macchina, che potrà usare un client VNC per visualizzare ed anche controllare il desktop.</p></description>
+    <description xml:lang="nl"><p>Bureaublad delen is een server-applicatie die u in staat stelt uw huidige sessie te delen met een gebruiker op een andere machine, die een VNC-client kan gebruiken om uw bureaublad te bekijken of zelfs te besturen.</p></description>
+    <description xml:lang="pl"><p>Współdzielenie pulpitu Krfb jest aplikacją serwerową, która umożliwia współdzielenie twojej bieżącej sesji z użytkownikiem na innym komputerze, który może użyć klienta VNC do oglądania,a a nawet sterowania twoim pulpitem.</p></description>
+    <description xml:lang="pt"><p>A Partilha de Ecrã Krfb é uma aplicação de servidor que lhe permite partilhar a sua sessão actual com um utilizador noutra máquina, o qual poderá usar um cliente de VNC para ver ou mesmo controlar o ambiente de trabalho.</p></description>
+    <description xml:lang="sk"><p>Krfb je serverová aplikácia, ktorá vám umožní zdieľať vaše aktuálne sedenie s používateľom na inom stroji, ktorý môže používať VNC klienta na pripojenie alebo ovládanie stanice.</p></description>
+    <description xml:lang="sl"><p>Souporaba namizja Krfb je strežniški program, ki vam dovoli, da delite vašo trenutno sejo z uporabnikom na drugem računalniku, ki ima odjemalec VNC. Uporabnik lahko gleda ali celo nadzira namizje.</p></description>
+    <description xml:lang="sr"><p>КРФБ је серверски програм за дељење површи, којим можете да поделите своју текућу сесију са корисником на другој машини. Удаљени корисник може да употреби неки ВНЦ клијент за гледање површи, па чак и управљање њоме.</p></description>
+    <description xml:lang="sr_Latn"><p>KRFB je serverski program za deljenje površi, kojim možete da podelite svoju tekuću sesiju sa korisnikom na drugoj mašini. Udaljeni korisnik može da upotrebi neki VNC klijent za gledanje površi, pa čak i upravljanje njome.</p></description>
+    <description xml:lang="sr_ijekavian"><p>КРФБ је серверски програм за дељење површи, којим можете да поделите своју текућу сесију са корисником на другој машини. Удаљени корисник може да употреби неки ВНЦ клијент за гледање површи, па чак и управљање њоме.</p></description>
+    <description xml:lang="sr_ijekavianlatin"><p>KRFB je serverski program za deljenje površi, kojim možete da podelite svoju tekuću sesiju sa korisnikom na drugoj mašini. Udaljeni korisnik može da upotrebi neki VNC klijent za gledanje površi, pa čak i upravljanje njome.</p></description>
+    <description xml:lang="sv"><p>Krfb-skrivbordsdelning är ett serverprogram som gör det möjligt att dela aktuell session med en användare på en annan dator, som kan använda en VNC-klient för att betrakta eller till och med kontrollera skrivbordet.</p></description>
+    <description xml:lang="uk"><p>Програма для спільного використання стільниці Krfb — це серверна програма, яка надає вам змогу розділити ваш поточний сеанс роботи з користувачем, який працює на іншому комп’ютері, так, щоб цей користувач зміг скористатися клієнтом VNC для перегляду або навіть керування вашою стільницею.</p></description>
+    <description xml:lang="zh_CN"><p>Krfb 桌面共享是一个可以让您与另一个在其他机器上的用户共享当前会话的服务器程序，他可以使用 VNC 客户端来查看甚至控制桌面。</p></description>
     <categories>
-      <category>Office</category>
+      <category>Network</category>
+      <category>RemoteAccess</category>
+      <category>System</category>
     </categories>
     <kudos>
-      <kudo>HiDpiIcon</kudo>
       <kudo>HighContrast</kudo>
     </kudos>
     <vetos>
-      <veto>No &lt;summary&gt; in AppData</veto>
+      <veto>Failed to find icon: Failed to find icon krfb</veto>
+      <veto>Has no Icon</veto>
     </vetos>
-    <project_license>GPL-2.0+</project_license>
-    <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kontact</url>
-    <url type="help">http://docs.kde.org/stable/en/kdepim/kontact/index.html</url>
-    <url type="homepage">http://www.kontact.org/</url>
+    <url type="bugtracker">https://bugs.kde.org</url>
+    <url type="donation">https://www.kde.org/community/donations</url>
+    <url type="homepage">https://www.kde.org</url>
     <project_group>KDE</project_group>
     <screenshots>
       <screenshot type="default">
-        <image type="source">http://kde.org/images/screenshots/kontact.png</image>
+        <image type="source">https://cdn.kde.org/screenshots/krfb/krfb.png</image>
       </screenshot>
     </screenshots>
     <provides>
-      <binary>kontact</binary>
+      <binary>krfb</binary>
       <dbus type="session">ca.desrt.dconf</dbus>
       <dbus type="session">org.a11y.Bus</dbus>
       <dbus type="session">org.bluez.obex</dbus>
-      <dbus type="session">org.freedesktop.Akonadi.Control</dbus>
       <dbus type="session">org.freedesktop.ColorHelper</dbus>
       <dbus type="session">org.freedesktop.Geoclue.Master</dbus>
       <dbus type="session">org.freedesktop.Geoclue.Providers.Example</dbus>
@@ -3561,12 +2831,7 @@
       <dbus type="session">org.gnome.zeitgeist.SimpleIndexer</dbus>
       <dbus type="session">org.gtk.GLib.PACRunner</dbus>
       <dbus type="session">org.jackaudio.service</dbus>
-      <dbus type="session">org.kde.kcookiejar5</dbus>
-      <dbus type="session">org.kde.kded5</dbus>
       <dbus type="session">org.kde.kglobalaccel</dbus>
-      <dbus type="session">org.kde.kiod5</dbus>
-      <dbus type="session">org.kde.kpasswdserver</dbus>
-      <dbus type="session">org.kde.kssld5</dbus>
       <dbus type="session">org.kde.kwalletd</dbus>
       <dbus type="session">org.kde.kwalletd5</dbus>
       <dbus type="system">com.redhat.lvmdbus1</dbus>
@@ -3575,8 +2840,6 @@
       <dbus type="system">org.freedesktop.ColorManager</dbus>
       <dbus type="system">org.freedesktop.PolicyKit1</dbus>
       <dbus type="system">org.freedesktop.RealtimeKit1</dbus>
-      <dbus type="system">org.freedesktop.UDisks2</dbus>
-      <dbus type="system">org.freedesktop.UPower</dbus>
       <dbus type="system">org.freedesktop.hostname1</dbus>
       <dbus type="system">org.freedesktop.import1</dbus>
       <dbus type="system">org.freedesktop.locale1</dbus>
@@ -3589,103 +2852,52 @@
       <dbus type="system">org.gnome.GConf.Defaults</dbus>
     </provides>
     <languages>
-      <lang percentage="42">an</lang>
-      <lang percentage="39">ar</lang>
-      <lang percentage="29">as</lang>
-      <lang percentage="54">ast</lang>
-      <lang percentage="27">be</lang>
-      <lang percentage="35">be@latin</lang>
-      <lang percentage="39">bg</lang>
-      <lang percentage="40">bn</lang>
-      <lang percentage="40">bn_IN</lang>
-      <lang percentage="59">bs</lang>
-      <lang percentage="61">ca</lang>
-      <lang percentage="61">ca@valencia</lang>
-      <lang percentage="43">crh</lang>
-      <lang percentage="52">cs</lang>
-      <lang percentage="35">cy</lang>
-      <lang percentage="36">da</lang>
-      <lang percentage="55">de</lang>
-      <lang percentage="32">dz</lang>
-      <lang percentage="60">el</lang>
-      <lang percentage="56">en@boldquot</lang>
-      <lang percentage="56">en@quot</lang>
-      <lang percentage="35">en@shaw</lang>
-      <lang percentage="35">en_CA</lang>
-      <lang percentage="61">en_GB</lang>
-      <lang percentage="37">eo</lang>
-      <lang percentage="36">es</lang>
-      <lang percentage="61">et</lang>
-      <lang percentage="58">eu</lang>
-      <lang percentage="30">fa</lang>
-      <lang percentage="61">fi</lang>
-      <lang percentage="51">fr</lang>
-      <lang percentage="58">ga</lang>
-      <lang percentage="61">gd</lang>
-      <lang percentage="61">gl</lang>
-      <lang percentage="32">gu</lang>
-      <lang percentage="48">he</lang>
-      <lang percentage="25">hi</lang>
-      <lang percentage="45">hr</lang>
-      <lang percentage="60">hu</lang>
-      <lang percentage="42">hy</lang>
-      <lang percentage="61">ia</lang>
-      <lang percentage="45">id</lang>
-      <lang percentage="42">is</lang>
-      <lang percentage="61">it</lang>
-      <lang percentage="56">ja</lang>
-      <lang percentage="30">ka</lang>
-      <lang percentage="25">kg</lang>
-      <lang percentage="59">kk</lang>
-      <lang percentage="59">km</lang>
-      <lang percentage="29">kn</lang>
-      <lang percentage="50">ko</lang>
-      <lang percentage="27">lg</lang>
-      <lang percentage="32">lt</lang>
-      <lang percentage="34">lv</lang>
-      <lang percentage="29">mai</lang>
-      <lang percentage="29">mk</lang>
-      <lang percentage="35">ml</lang>
-      <lang percentage="55">mr</lang>
-      <lang percentage="39">my</lang>
-      <lang percentage="54">nb</lang>
-      <lang percentage="60">nds</lang>
-      <lang percentage="26">ne</lang>
-      <lang percentage="61">nl</lang>
-      <lang percentage="36">nn</lang>
-      <lang percentage="33">oc</lang>
-      <lang percentage="45">or</lang>
-      <lang percentage="41">pa</lang>
-      <lang percentage="36">pl</lang>
-      <lang percentage="61">pt</lang>
-      <lang percentage="61">pt_BR</lang>
-      <lang percentage="59">ro</lang>
-      <lang percentage="56">ru</lang>
-      <lang percentage="34">se</lang>
-      <lang percentage="61">sk</lang>
-      <lang percentage="61">sl</lang>
-      <lang percentage="37">sq</lang>
-      <lang percentage="61">sr</lang>
-      <lang percentage="61">sr@ijekavian</lang>
-      <lang percentage="61">sr@ijekavianlatin</lang>
-      <lang percentage="61">sr@latin</lang>
-      <lang percentage="36">sv</lang>
-      <lang percentage="28">ta</lang>
-      <lang percentage="28">te</lang>
-      <lang percentage="29">tg</lang>
-      <lang percentage="29">th</lang>
-      <lang percentage="34">tr</lang>
-      <lang percentage="41">ug</lang>
-      <lang percentage="56">uk</lang>
-      <lang percentage="33">vi</lang>
-      <lang percentage="28">wa</lang>
-      <lang percentage="25">xh</lang>
-      <lang percentage="61">zh_CN</lang>
-      <lang percentage="29">zh_HK</lang>
-      <lang percentage="50">zh_TW</lang>
+      <lang percentage="26">af</lang>
+      <lang percentage="28">an</lang>
+      <lang percentage="34">as</lang>
+      <lang percentage="26">az</lang>
+      <lang percentage="31">be</lang>
+      <lang percentage="41">be@latin</lang>
+      <lang percentage="26">bn</lang>
+      <lang percentage="28">bn_IN</lang>
+      <lang percentage="50">crh</lang>
+      <lang percentage="41">cy</lang>
+      <lang percentage="38">dz</lang>
+      <lang percentage="31">en@boldquot</lang>
+      <lang percentage="31">en@quot</lang>
+      <lang percentage="41">en@shaw</lang>
+      <lang percentage="41">en_CA</lang>
+      <lang percentage="40">gd</lang>
+      <lang percentage="33">gu</lang>
+      <lang percentage="49">hy</lang>
+      <lang percentage="40">id</lang>
+      <lang percentage="35">ka</lang>
+      <lang percentage="29">kg</lang>
+      <lang percentage="34">kn</lang>
+      <lang percentage="31">lg</lang>
+      <lang percentage="46">mai</lang>
+      <lang percentage="41">mk</lang>
+      <lang percentage="28">ml</lang>
+      <lang percentage="26">mn</lang>
+      <lang percentage="25">ms</lang>
+      <lang percentage="45">my</lang>
+      <lang percentage="30">ne</lang>
+      <lang percentage="26">nso</lang>
+      <lang percentage="38">oc</lang>
+      <lang percentage="28">or</lang>
+      <lang percentage="43">sq</lang>
+      <lang percentage="26">sr@ije</lang>
+      <lang percentage="40">sr@latin</lang>
+      <lang percentage="34">ta</lang>
+      <lang percentage="34">te</lang>
+      <lang percentage="34">tg</lang>
+      <lang percentage="40">th</lang>
+      <lang percentage="39">vi</lang>
+      <lang percentage="30">xh</lang>
+      <lang percentage="34">zh_HK</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kontact_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">krfb_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3696,32 +2908,23 @@
     <name xml:lang="de">KWave</name>
     <name xml:lang="fr">KWave</name>
     <summary>Kwave is a sound editor built on KDE Frameworks 5</summary>
-    <summary xml:lang="ast">Un editor de soníu pa KDE</summary>
-    <summary xml:lang="bs">Editor zvuka za KDE</summary>
     <summary xml:lang="ca">El Kwave és un editor de so construït amb els Frameworks 5 del KDE</summary>
-    <summary xml:lang="ca@valencia">Un editor de so pel KDE</summary>
+    <summary xml:lang="ca@valencia">Un editor de so creat per la comunitat KDE</summary>
     <summary xml:lang="ca_valencia">El Kwave és un editor de so construït amb els Frameworks 5 del KDE</summary>
     <summary xml:lang="cs">KWave je editor zvuku postavený na KDE Frameworks 5</summary>
-    <summary xml:lang="da">Lydredigering til KDE</summary>
     <summary xml:lang="de">KWave ist ein Sound-Editor für die KDE-Frameworks 5</summary>
     <summary xml:lang="es">Kwave es un editor de sonido construido sobre KDE Frameworks 5</summary>
     <summary xml:lang="et">Kwave on KDE Frameworks 5 peale ehitatud heliredaktor</summary>
     <summary xml:lang="fi">Kwave on KDE Frameworks 5 -alustalle suunniteltu äänimuokkain</summary>
-    <summary xml:lang="fr">Un éditeur de sons pour KDE</summary>
-    <summary xml:lang="gl">Un editor de sons para KDE.</summary>
     <summary xml:lang="it">Kwave è un editor per il suono basato su KDE Frameworks 5</summary>
     <summary xml:lang="nl">Kwave is een geluidsbewerker gebouwd op KDE Frameworks 5</summary>
     <summary xml:lang="pl">Kwave jest edytorem dźwięku zbudowanym na Szkieletetach KDE 5</summary>
     <summary xml:lang="pt">O Kwave é um editor de som baseado nas Plataformas do KDE 5</summary>
     <summary xml:lang="pt_BR">Kwave é um editor de som construído no KDE Frameworks 5</summary>
-    <summary xml:lang="ru">Аудиоредактор для рабочей среды KDE</summary>
     <summary xml:lang="sk">Kwave je editor zvuku navrhnutý pre KDE Frameworks 5</summary>
     <summary xml:lang="sv">Kwave är en ljudeditor konstruerad med KDE Ramverk 5</summary>
     <summary xml:lang="uk">Kwave — звуковий редактор, створений на основі KDE Frameworks 5</summary>
-    <summary xml:lang="zh_CN">KDE 声音编辑器</summary>
-    <summary xml:lang="zh_TW">KDE 音效編輯器</summary>
     <description><p>With Kwave you can record, play back, import and edit many sorts of audio files including multi channel files.</p><p>Kwave includes some plugins to transform audio files in several ways and presents a graphical view with a complete zoom- and scroll capability.</p></description>
-    <description xml:lang="ast"><p>Con Kwave pues grabar, reproducir, importar y editar munches tribes d'audiu incluyendo ficheros multi-canal.</p><p>Kwave inclúi dellos complementos pa tresformar ficheros d'audiu en delles formes y presenta una vista gráfica con una capacidá competa de zoom y desplazamientu.</p></description>
     <description xml:lang="bs"><p>Sa KWave možete snimati, reprodukovati, uvoziti i uređivati mnogo vrsta audio datoteka uključujući višekanalne datoteke.</p><p>Kwave uključuje neke dodatke za transformaciju audio datoteka na više načina i predstavlja grafički pogled s kompletnom mogućnošću uvećanja i klizanja.</p></description>
     <description xml:lang="ca"><p>Amb el Kwave podeu enregistrar, escoltar, importar i editar molts tipus de fitxers d'àudio inclosos els fitxers multicanal.</p><p>El Kwave inclou alguns connectors per a transformar els fitxers d'àudio de diverses formes, i presenta una vista gràfica amb un capacitat de zoom i desplaçament complets.</p></description>
     <description xml:lang="ca_valencia"><p>Amb el Kwave podeu gravar, escoltar, importar i editar molts tipus de fitxers d'àudio inclosos els fitxers multicanal.</p><p>El Kwave inclou alguns connectors per a transformar els fitxers d'àudio de diverses formes, i presenta una vista gràfica amb un capacitat de zoom i desplaçament complets.</p></description>
@@ -3837,101 +3040,98 @@
       <dbus type="system">org.gnome.GConf.Defaults</dbus>
     </provides>
     <languages>
-      <lang percentage="42">an</lang>
-      <lang percentage="30">ar</lang>
-      <lang percentage="29">as</lang>
-      <lang percentage="47">ast</lang>
-      <lang percentage="27">be</lang>
-      <lang percentage="35">be@latin</lang>
-      <lang percentage="34">bg</lang>
-      <lang percentage="40">bn</lang>
-      <lang percentage="40">bn_IN</lang>
-      <lang percentage="26">bs</lang>
-      <lang percentage="35">ca</lang>
-      <lang percentage="29">ca@valencia</lang>
-      <lang percentage="43">crh</lang>
-      <lang percentage="35">cs</lang>
-      <lang percentage="35">cy</lang>
-      <lang percentage="35">da</lang>
-      <lang percentage="35">de</lang>
-      <lang percentage="32">dz</lang>
-      <lang percentage="35">el</lang>
-      <lang percentage="27">en@boldquot</lang>
-      <lang percentage="27">en@quot</lang>
-      <lang percentage="35">en@shaw</lang>
-      <lang percentage="35">en_CA</lang>
-      <lang percentage="35">en_GB</lang>
-      <lang percentage="28">eo</lang>
-      <lang percentage="35">es</lang>
-      <lang percentage="44">et</lang>
-      <lang percentage="35">eu</lang>
-      <lang percentage="34">fa</lang>
-      <lang percentage="29">fi</lang>
-      <lang percentage="35">fr</lang>
-      <lang percentage="35">gd</lang>
-      <lang percentage="35">gl</lang>
-      <lang percentage="28">gu</lang>
-      <lang percentage="35">he</lang>
-      <lang percentage="29">hi</lang>
-      <lang percentage="35">hr</lang>
-      <lang percentage="35">hu</lang>
-      <lang percentage="42">hy</lang>
-      <lang percentage="33">ia</lang>
-      <lang percentage="35">id</lang>
-      <lang percentage="34">is</lang>
-      <lang percentage="35">it</lang>
-      <lang percentage="33">ja</lang>
-      <lang percentage="30">ka</lang>
-      <lang percentage="25">kg</lang>
-      <lang percentage="35">kk</lang>
-      <lang percentage="49">km</lang>
-      <lang percentage="29">kn</lang>
-      <lang percentage="35">ko</lang>
-      <lang percentage="27">lg</lang>
-      <lang percentage="35">lt</lang>
-      <lang percentage="35">lv</lang>
-      <lang percentage="39">mai</lang>
-      <lang percentage="35">mk</lang>
-      <lang percentage="39">ml</lang>
-      <lang percentage="29">mr</lang>
-      <lang percentage="39">my</lang>
-      <lang percentage="34">nb</lang>
-      <lang percentage="30">nds</lang>
-      <lang percentage="26">ne</lang>
-      <lang percentage="35">nl</lang>
-      <lang percentage="31">nn</lang>
-      <lang percentage="33">oc</lang>
-      <lang percentage="45">or</lang>
-      <lang percentage="34">pa</lang>
-      <lang percentage="35">pl</lang>
-      <lang percentage="35">pt</lang>
-      <lang percentage="35">pt_BR</lang>
-      <lang percentage="46">ro</lang>
-      <lang percentage="35">ru</lang>
-      <lang percentage="26">se</lang>
-      <lang percentage="35">sk</lang>
-      <lang percentage="33">sl</lang>
-      <lang percentage="37">sq</lang>
-      <lang percentage="34">sr</lang>
-      <lang percentage="34">sr@ijekavian</lang>
-      <lang percentage="34">sr@ijekavianlatin</lang>
-      <lang percentage="34">sr@latin</lang>
-      <lang percentage="35">sv</lang>
-      <lang percentage="29">ta</lang>
-      <lang percentage="29">te</lang>
-      <lang percentage="29">tg</lang>
-      <lang percentage="35">th</lang>
-      <lang percentage="33">tr</lang>
-      <lang percentage="49">ug</lang>
-      <lang percentage="35">uk</lang>
-      <lang percentage="33">vi</lang>
-      <lang percentage="25">xh</lang>
-      <lang percentage="35">zh_CN</lang>
-      <lang percentage="29">zh_HK</lang>
-      <lang percentage="34">zh_TW</lang>
+      <lang percentage="26">af</lang>
+      <lang percentage="28">an</lang>
+      <lang percentage="35">ar</lang>
+      <lang percentage="34">as</lang>
+      <lang percentage="26">az</lang>
+      <lang percentage="31">be</lang>
+      <lang percentage="41">be@latin</lang>
+      <lang percentage="40">bg</lang>
+      <lang percentage="26">bn</lang>
+      <lang percentage="28">bn_IN</lang>
+      <lang percentage="39">ca</lang>
+      <lang percentage="39">ca@valencia</lang>
+      <lang percentage="50">crh</lang>
+      <lang percentage="38">cs</lang>
+      <lang percentage="41">cy</lang>
+      <lang percentage="39">de</lang>
+      <lang percentage="38">dz</lang>
+      <lang percentage="40">el</lang>
+      <lang percentage="31">en@boldquot</lang>
+      <lang percentage="31">en@quot</lang>
+      <lang percentage="41">en@shaw</lang>
+      <lang percentage="41">en_CA</lang>
+      <lang percentage="39">en_GB</lang>
+      <lang percentage="33">eo</lang>
+      <lang percentage="39">es</lang>
+      <lang percentage="38">et</lang>
+      <lang percentage="40">eu</lang>
+      <lang percentage="39">fa</lang>
+      <lang percentage="38">fi</lang>
+      <lang percentage="26">ga</lang>
+      <lang percentage="40">gd</lang>
+      <lang percentage="36">gl</lang>
+      <lang percentage="33">gu</lang>
+      <lang percentage="40">he</lang>
+      <lang percentage="34">hi</lang>
+      <lang percentage="40">hr</lang>
+      <lang percentage="40">hu</lang>
+      <lang percentage="49">hy</lang>
+      <lang percentage="28">ia</lang>
+      <lang percentage="40">id</lang>
+      <lang percentage="40">is</lang>
+      <lang percentage="39">it</lang>
+      <lang percentage="35">ka</lang>
+      <lang percentage="29">kg</lang>
+      <lang percentage="40">kk</lang>
+      <lang percentage="28">km</lang>
+      <lang percentage="34">kn</lang>
+      <lang percentage="40">ko</lang>
+      <lang percentage="31">lg</lang>
+      <lang percentage="40">lt</lang>
+      <lang percentage="40">lv</lang>
+      <lang percentage="46">mai</lang>
+      <lang percentage="41">mk</lang>
+      <lang percentage="28">ml</lang>
+      <lang percentage="26">mn</lang>
+      <lang percentage="34">mr</lang>
+      <lang percentage="25">ms</lang>
+      <lang percentage="45">my</lang>
+      <lang percentage="40">nb</lang>
+      <lang percentage="35">nds</lang>
+      <lang percentage="30">ne</lang>
+      <lang percentage="39">nl</lang>
+      <lang percentage="25">nn</lang>
+      <lang percentage="26">nso</lang>
+      <lang percentage="38">oc</lang>
+      <lang percentage="28">or</lang>
+      <lang percentage="40">pa</lang>
+      <lang percentage="39">pl</lang>
+      <lang percentage="39">pt</lang>
+      <lang percentage="36">pt_BR</lang>
+      <lang percentage="26">ro</lang>
+      <lang percentage="30">se</lang>
+      <lang percentage="39">sl</lang>
+      <lang percentage="43">sq</lang>
+      <lang percentage="40">sr</lang>
+      <lang percentage="26">sr@ije</lang>
+      <lang percentage="39">sr@ijekavian</lang>
+      <lang percentage="39">sr@ijekavianlatin</lang>
+      <lang percentage="40">sr@latin</lang>
+      <lang percentage="39">sv</lang>
+      <lang percentage="34">ta</lang>
+      <lang percentage="34">te</lang>
+      <lang percentage="34">tg</lang>
+      <lang percentage="40">th</lang>
+      <lang percentage="28">ug</lang>
+      <lang percentage="39">uk</lang>
+      <lang percentage="39">vi</lang>
+      <lang percentage="30">xh</lang>
+      <lang percentage="34">zh_HK</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">kwave_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kwave_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -3954,11 +3154,13 @@
     <name xml:lang="pt_BR">Menu global</name>
     <name xml:lang="ru">Меню приложения</name>
     <name xml:lang="sk">Globálne menu</name>
+    <name xml:lang="sl">Splošni meni</name>
     <name xml:lang="sr">Глобални мени</name>
     <name xml:lang="sr@ijekavian">Глобални мени</name>
     <name xml:lang="sr@ijekavianlatin">Globalni meni</name>
     <name xml:lang="sr@latin">Globalni meni</name>
     <name xml:lang="sv">Global meny</name>
+    <name xml:lang="tr">Genel Menü</name>
     <name xml:lang="uk">Загальне меню</name>
     <name xml:lang="zh_CN">全局菜单</name>
     <developer_name>Kai Uwe Broulik &lt;kde@privat.broulik.de&gt;</developer_name>
@@ -3967,7 +3169,7 @@
     </vetos>
     <url type="homepage">plasma.kde.org</url>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4053,7 +3255,7 @@
     </vetos>
     <url type="homepage">plasma.kde.org</url>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4110,7 +3312,7 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">plasma-desktop_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">plasma-desktop_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4173,7 +3375,7 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">plasma-desktop_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">plasma-desktop_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4198,11 +3400,13 @@
     <name xml:lang="pt_BR">Plasmoide agrupado</name>
     <name xml:lang="ru">Группирующий виджет</name>
     <name xml:lang="sk">Zoskupovací plazmoid</name>
+    <name xml:lang="sl">Plasmoid za združevanje</name>
     <name xml:lang="sr">групишући плазмоид</name>
     <name xml:lang="sr@ijekavian">групишући плазмоид</name>
     <name xml:lang="sr@ijekavianlatin">grupišući plazmoid</name>
     <name xml:lang="sr@latin">grupišući plazmoid</name>
     <name xml:lang="sv">Grupperingsplasmoid</name>
+    <name xml:lang="tr">Plazmidleri Gruplandırma</name>
     <name xml:lang="uk">Плазмоїд групування</name>
     <name xml:lang="zh_CN">分组小部件</name>
     <name xml:lang="zh_TW">組織 Plasmoid</name>
@@ -4213,7 +3417,7 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">kdeplasma-addons_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kdeplasma-addons_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4279,14 +3483,13 @@
     <url type="homepage">http://plasma.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">kdeplasma-addons_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kdeplasma-addons_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
     <id>org.kde.plasma.worldclock</id>
     <pkgname>marble</pkgname>
     <name>World Clock</name>
-    <name xml:lang="ast">Reló mundial</name>
     <name xml:lang="bg">Световен часовник</name>
     <name xml:lang="bs">Svijetski Sat</name>
     <name xml:lang="ca">Rellotge mundial</name>
@@ -4340,7 +3543,7 @@
     <url type="homepage">https://marble.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">marble_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">marble_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="generic">
@@ -4373,7 +3576,7 @@
     <url type="homepage">https://marble.kde.org/</url>
     <project_group>KDE</project_group>
     <metadata>
-      <value key="X-CacheID">marble_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">marble_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4626,70 +3829,70 @@
     </vetos>
     <project_license>GPL-2.0+</project_license>
     <metadata>
-      <value key="X-CacheID">kde-workspace_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kde-workspace_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
-    <id>org.kde.spectacle.desktop</id>
-    <pkgname>spectacle</pkgname>
-    <name>Spectacle</name>
-    <name xml:lang="sr">Спектакл</name>
-    <name xml:lang="sr@ijekavian">Спектакл</name>
-    <name xml:lang="sr_ijekavian">Спектакл</name>
-    <description><p>Spectacle is a simple application for capturing desktop screenshots. It can capture images of the entire desktop, a single monitor, the currently active window, the window currently under the mouse, or a rectangular region of the screen. The images can then be printed, sent to other applications for manipulation, or quickly be saved as-is.</p><p>Features:</p><ul><li>Capture Entire Desktop</li><li>Capture Current Monitor</li><li>Capture Active Window</li><li>Capture Rectangular Region</li><li>Keyboard shortcuts for taking screenshots</li></ul></description>
-    <description xml:lang="ca"><p>L'Spectacle és una aplicació per a prendre captures de pantalla de l'escriptori. Pot capturar imatges de tot l'escriptori, un sol monitor, la finestra activa, la finestra sota el ratolí o d'una regió rectangular de la pantalla. Les imatges es poden imprimir, enviar a altres aplicacions per a la seva manipulació o desar-les com estan.</p><p>Característiques:</p><ul><li>Captura l'escriptori sencer</li><li>Captura el monitor actual</li><li>Captura la finestra activa</li><li>Captura una regió rectangular</li><li>Dreceres de teclat per a prendre captures de pantalla</li></ul></description>
-    <description xml:lang="ca_valencia"><p>L'Spectacle és una aplicació per a prendre captures de pantalla de l'escriptori. Pot capturar imatges de tot l'escriptori, un sol monitor, la finestra activa, la finestra sota el ratolí o d'una regió rectangular de la pantalla. Les imatges es poden imprimir, enviar a altres aplicacions per a la seua manipulació o guardar-les com estan.</p><p>Característiques:</p><ul><li>Captura l'escriptori sencer</li><li>Captura el monitor actual</li><li>Captura la finestra activa</li><li>Captura una regió rectangular</li><li>Dreceres de teclat per a prendre captures de pantalla</li></ul></description>
-    <description xml:lang="cs"><p>Vlastnosti:</p><ul><li>Zachytit celou plochu</li><li>Zachytit současný monitor</li><li>Zachytit aktivní okno</li><li>Zachytit obdélníkovou oblast</li></ul></description>
-    <description xml:lang="de"><p>Funktionen:</p><ul><li>Die gesamte Arbeitsfläche aufnehmen</li><li>Den aktuellen Bildschirm aufnehmen</li><li>Das aktive Fenster aufnehmen</li><li>Einen rechteckigen Bereich aufnehmen</li><li>Kurzbefehle für die Aufnahme von Bildschirmfotos</li></ul></description>
-    <description xml:lang="es"><p>Spectacle es una sencilla aplicación para realizar capturas de pantalla del escritorio. Puede capturar imágenes de todo el escritorio, de un único monitor, de la ventana activa actual, de la ventana que esté bajo el cursor o de un área rectangular de la pantalla. Las imágenes se pueden imprimir, enviar a otras aplicaciones para su procesamiento o guardar en el disco de forma inmediata.</p><p>Funciones:</p><ul><li>Capturar todo el escritorio</li><li>Capturar el monitor actual</li><li>Capturar la ventana activa</li><li>Capturar un área rectangular</li><li>Accesos rápidos de teclado para realizar capturas</li></ul></description>
-    <description xml:lang="et"><p>Spectacle on lihtne ekraanipiltide tegemise rakendus. See võib pildistada tervet töölauda, konkreetset monitori, parajasti aktiivset akent, hiire all olevat akent või ekraanil valitud ristkülikukujulist osa. Tehtud pilte saab trükkida, saata töötlemiseks teistesse rakendustesse või ka lihtsalt kiiresti ja muutmata salvestada.</p><p>Omadused:</p><ul><li>Kogu töölaua pildistamine</li><li>Aktiivse monitori pildistamine</li><li>Aktiivse akna pildistamine</li><li>Ristkülikukujulise ala pildistamine</li><li>Ekraanipildi tegemine kiirklahve kasutades</li></ul></description>
-    <description xml:lang="fi"><p>Spectacle on yksinkertainen sovellus ruutukaappauskuvien ottamiseksi. Se voi kaapata kuvan koko työpöydältä, yksittäiseltä näytöltä, aktiivisesta ikkunasta, hiiren alla olevasta ikkunasta tai suorakulmaisesta näytön alueesta. Kuvat voi myöhemmin tulostaa, lähettää muihin sovelluksiin käsiteltäväksi tai tallentaa sellaisinaan.</p><p>Ominaisuuksia:</p><ul><li>Koko työpöydän kaappaus</li><li>Nykyisen näytön kaappaus</li><li>Aktiivisen ikkunan kaappaus</li><li>Suorakulmaisen alueen kaappaus</li><li>Pikanäppäimet kuvakaappausten ottamiseksi</li></ul></description>
-    <description xml:lang="he"><p>תכונות</p><ul><li>צילום כל שולחן עבודה</li><li>צילום המסך הנוכחי</li><li>צילום החלון הפעיל</li><li>צילון מלבן</li><li>קיצור דרך לצילום מסך</li></ul></description>
-    <description xml:lang="id"><p>Spectacle adalah aplikasi sederhana untuk menangkap cuplikan layar desktop. Hal ini bisa menangkap citra-citra dari seluruh desktop, monitor tunggal, jendela yang sedang aktif, jendela saat ini yang sedang di bawah  mouse, atau wilayah berbentuk persegi pada layar. Citra-citra kemudian bisa dicetak, dikirim ke aplikasi lain untuk manipulasi, atau secara cepat disimpan sebagai apa.</p><p>Fitur:</p><ul><li>Tangkap Entri Desktop</li><li>Tangkap Monitor Saat Ini</li><li>Tangkap Jendela Aktif</li><li>Tangkap Wilayah Berbentuk Persegi</li><li>Pintasan keyboard untuk mengambil cuplikan-layar</li></ul></description>
-    <description xml:lang="it"><p>Spectacle è una semplice applicazione per catturare schermate. Può acquisire immagini dell'intero desktop, di un singolo monitor, della finestra attiva, della finestra sotto il puntatore del mouse, o di una regione rettangolare dello schermo. Le immagini possono essere stampate, inviate ad altre applicazioni per essere modificate, o salvate rapidamente così come sono.</p><p>Funzionalità:</p><ul><li>Cattura l'intero desktop</li><li>Cattura il monitor attuale</li><li>Cattura la finestra attiva</li><li>Cattura una regione rettangolare</li><li>Scorciatoie di tastiera per acquisire schermate</li></ul></description>
-    <description xml:lang="ko"><p>Spectacle은 데스크톱 스크린샷을 찍는 프로그램입니다. 전체 데스크톱, 단일 모니터, 활성 창, 마우스 아래 창, 화면의 사각형 영역을 찍을 수 있습니다. 사진을 인쇄하거나, 그대로 저장하거나, 다른 프로그램에서 곧바로 편집할 수 있습니다.</p><p>기능:</p><ul><li>전체 데스크톱 찍기</li><li>현재 모니터 찍기</li><li>활성 창 찍기</li><li>화면의 사각형 영역 찍기</li><li>화면 스크린샷 찍기 단축키</li></ul></description>
-    <description xml:lang="nl"><p>Spectacle is een eenvoudige toepassing voor het opnemen van schermafbeeldingen van het bureaublad. Het kan afbeeldingen van het gehele bureaublad, een enkele monitor, het nu actieve venster, het venster nu onder de muis of een rechthoekig gebied van het scherm. De afbeelding kan dan afgedrukt worden, naar een andere toepassing voor bewerking worden verzonden of snel worden opgeslagen zoals deze nu is.</p><p>Mogelijkheden:</p><ul><li>Opname van het gehele bureaublad</li><li>Opname van de huidige monitor</li><li>Opname van het actieve venster</li><li>Opname van een rechthoekig gebied</li><li>Sneltoetsen voor het maken van schermafdrukken</li></ul></description>
-    <description xml:lang="nn"><p>Spectacle er eit enkel program for å ta skjermbilete. Det kan ta bilete av heile skrivebordet, ein einskild skjerm, det gjeldande vindauget, vindauget under musepeikaren eller eit utsnitt av skjermflata. Bileta kan skrivast ut, sendast til andre program for vidare arbeid eller lagrast direkte.</p><p>Funksjonar:</p><ul><li>Ta bilete av heile skrivebordet</li><li>Ta bilete av gjeldande skjerm</li><li>Ta bilete av aktivt vindauge</li><li>Ta bilete av skjermutsnitt</li><li>Snøggtastar for å ta bilete av skjermen</li></ul></description>
-    <description xml:lang="pl"><p>Spectacle to prosta aplikacja do wykonywania zrzutów ekranu. Za jej pomocą można przechwycić cały pulpit, pojedynczy monitor, obecnie aktywne okno, okno obecnie pod wskaźnikiem myszy lub prostokątny obszar ekrany. Zrzuty można wydrukować, wysłać do innej aplikacji do obróbki lub szybko zapisać tak jak go wykonano.</p><p>Możliwości:</p><ul><li>Przechwytywanie całego pulpitu</li><li>Przechwytywanie bieżącego monitora</li><li>Przechwytywanie aktywnego okna</li><li>Przechwytywanie obszaru prostokątnego</li><li>Skróty klawiszowe do wykonywania zrzutów ekranu</li></ul></description>
-    <description xml:lang="pt"><p>O Spectacle é uma aplicação simples para capturar imagens do ecrã. Pode capturar imagens de todo o ecrã, de um único monitor, da janela activa no momento, da janela sob o cursor do rato ou de uma região rectangular do ecrã. As imagens poderão então ser impressas, enviadas para outras aplicações para posterior manipulação ou serem gravadas como estão.</p><p>Funcionalidades:</p><ul><li>Captura de Todo o Ecrã</li><li>Captura do Monitor Actual</li><li>Captura da Janela Activa</li><li>Captura de uma Região Rectangular</li><li>Atalhos do teclado para capturar as imagens</li></ul></description>
-    <description xml:lang="pt_BR"><p>Recursos:</p><ul></ul></description>
-    <description xml:lang="ru"><p>Spectacle — простая программа для создания снимков экрана (скриншотов). Она позволяет делать снимки всех экранов, отдельного экрана, текущего или выбранного окна и прямоугольных областей на экране. Далее снимок можно напечатать, открыть в других приложениях или сохранить в файл нажатием одной кнопки.</p><p>Возможности:</p><ul><li>Создание снимка всех экранов;</li><li>Создание снимка текущего экрана;</li><li>Создание снимка активного окна;</li><li>Создание снимка прямоугольной области экрана;</li><li>Создания снимков экрана нажатием комбинаций клавиш на клавиатуре.</li></ul></description>
-    <description xml:lang="sk"><p>Spectacle je jednoduchá aplikácia na snímanie plochy. Dokáže zachytiť obrázky celej plochy, jedného monitora, aktívneho okna, okna pod myšou alebo pravouhlej oblasti obrazovky. Obrázky sa dajú tlačiť, poslať do inej aplikácie na manipuláciu alebo rýchlo uložiť tak, ako sú.</p><p>Funkcie:</p><ul><li>Zachytiť celú plochu</li><li>Zachytiť aktuálny monitor</li><li>Zachytiť aktuálne okno</li><li>Zachytiť pravouhlú oblasť</li><li>Klávesové skratky na tvorbu snímok</li></ul></description>
-    <description xml:lang="sl"><p>Spectacle je preprost program za zajemanje zaslonskih slik namizja. Zajame lahko slike celotnega namizja, enega zaslona, trenutno dejavnega okna, okna pod miško ali pravokotnega območja pod miško. Te slike lahko nato natisnete, pošljete v druge programe ali pa hitro shranite.</p><p>Zmožnosti:</p><ul><li>Zajem celotnega namizja</li><li>Zajem trenutnega zaslona</li><li>Zajem dejavnega okna</li><li>Zajem pravokotnega območja</li><li>Tipkovne bližnjice za zajemanje zaslonskih slik</li></ul></description>
-    <description xml:lang="sr"><p>Спектакл је једноставан програм за хватање снимака екрана. Може да сними целу површ, један монитор, тренутно активни прозор, прозор тренутно под мишем, или правоугаону зону екрана. Слике могу да се штампају, шаљу у друге програме на обраду или брзо сачувају такве какве су.</p><p>Могућности:</p><ul><li>снимање целе површи</li><li>снимање тренутног монитора</li><li>снимање активног прозора</li><li>снимање правоугаоне зоне</li><li>пречице са тастатуре за хватање снимака</li></ul></description>
-    <description xml:lang="sr_Latn"><p>Spectacle je jednostavan program za hvatanje snimaka ekrana. Može da snimi celu površ, jedan monitor, trenutno aktivni prozor, prozor trenutno pod mišem, ili pravougaonu zonu ekrana. Slike mogu da se štampaju, šalju u druge programe na obradu ili brzo sačuvaju takve kakve su.</p><p>Mogućnosti:</p><ul><li>snimanje cele površi</li><li>snimanje trenutnog monitora</li><li>snimanje aktivnog prozora</li><li>snimanje pravougaone zone</li><li>prečice sa tastature za hvatanje snimaka</li></ul></description>
-    <description xml:lang="sr_ijekavian"><p>Спектакл је једноставан програм за хватање снимака екрана. Може да сними целу површ, један монитор, тренутно активни прозор, прозор тренутно под мишем, или правоугаону зону екрана. Слике могу да се штампају, шаљу у друге програме на обраду или брзо сачувају такве какве су.</p><p>Могућности:</p><ul><li>снимање целе површи</li><li>снимање тренутног монитора</li><li>снимање активног прозора</li><li>снимање правоугаоне зоне</li><li>пречице са тастатуре за хватање снимака</li></ul></description>
-    <description xml:lang="sr_ijekavianlatin"><p>Spectacle je jednostavan program za hvatanje snimaka ekrana. Može da snimi celu površ, jedan monitor, trenutno aktivni prozor, prozor trenutno pod mišem, ili pravougaonu zonu ekrana. Slike mogu da se štampaju, šalju u druge programe na obradu ili brzo sačuvaju takve kakve su.</p><p>Mogućnosti:</p><ul><li>snimanje cele površi</li><li>snimanje trenutnog monitora</li><li>snimanje aktivnog prozora</li><li>snimanje pravougaone zone</li><li>prečice sa tastature za hvatanje snimaka</li></ul></description>
-    <description xml:lang="sv"><p>Spectacle är ett enkelt program för att ta skärmbilder av skrivbordet. Det kan ta bilder av hela skrivbordet, en enda bildskärm, fönstret som för närvarande är aktivt, fönstret som för närvarande är under musen, eller ett rektangulärt skärmområde. Bilderna kan därefter skrivas ut, skickas till andra program för behandling, eller snabbt sparas som de är.</p><p>Funktioner:</p><ul><li>Ta en bild av hela skrivbordet</li><li>Ta en bild av aktuell bildskärm</li><li>Ta en bild av aktivt fönster</li><li>Ta en bild av ett rektangulärt område</li><li>Snabbtangenter för att ta skärmbilder</li></ul></description>
-    <description xml:lang="uk"><p>Spectacle — проста програма для створення знімків екрана. Передбачено можливість захоплення знімків усієї стільниці, окремого монітора, поточного активного вікна, вікна під вказівником миші або прямокутної ділянки на екрані. Створені зображення можна надрукувати, надіслати до іншої програми для обробки або зберегти без змін.</p><p>Можливості:</p><ul><li>Захоплення зображення усієї стільниці</li><li>Захоплення зображення на поточному моніторі</li><li>Захоплення зображення активного вікна</li><li>Захоплення зображення прямокутної ділянки</li><li>Створення знімків за допомогою натискання комбінацій клавіш</li></ul></description>
-    <description xml:lang="zh_CN"><p>Spectacle 是一个用于抓取桌面截图的简单应用程序。它可以抓取整个桌面、单个显示器、当前活动窗口、鼠标所在的窗口或是屏幕上的一块方形区域的图像。这些图像稍后便可以用于打印、向其它应用程序发送以进行进一步操作或是直接保存下来。</p><p>功能：</p><ul><li>抓取整个桌面</li><li>抓取当前显示器</li><li>抓取当前活动窗口</li><li>抓取方形区域</li><li>用于截图的键盘快捷键</li></ul></description>
-    <description xml:lang="zh_TW"><p>Spectale 是一個用來擷取桌面快照的簡易應用程式。它可以擷取整個桌面、單一個顯示器、目前作用中的視窗、目前滑鼠底下的的視窗或是螢幕上的矩形區域等。其所擷取的圖片可以被列印、傳送到其他應用程式以供進一步操作或是快速儲存而不進行修改。</p><p>功能：</p><ul><li>擷取整個桌面</li><li>擷取目前螢幕</li><li>擷取作用中的視窗</li><li>擷取矩形區域</li><li>螢幕快照的鍵盤快捷鍵</li></ul></description>
-    <icon type="cached" height="64" width="64">64x64/org.kde.spectacle.png</icon>
-    <categories>
-      <category>Utility</category>
-    </categories>
+    <id>org.kde.umbrello.desktop</id>
+    <pkgname>umbrello</pkgname>
+    <name>Umbrello</name>
+    <summary>UML Modeller</summary>
+    <summary xml:lang="ca">Modelador UML</summary>
+    <summary xml:lang="ca_valencia">Modelador UML</summary>
+    <summary xml:lang="cs">UML modelář</summary>
+    <summary xml:lang="de">UML-Modeller</summary>
+    <summary xml:lang="es">Modelador UML</summary>
+    <summary xml:lang="et">UML-i modelleerimise rakendus</summary>
+    <summary xml:lang="fi">UML-mallinnusohjelma</summary>
+    <summary xml:lang="gl">Modelador de UML</summary>
+    <summary xml:lang="it">Modellatore UML</summary>
+    <summary xml:lang="ko">UML 모델러</summary>
+    <summary xml:lang="nl">UML-modeller</summary>
+    <summary xml:lang="pl">Program do modelowania UML</summary>
+    <summary xml:lang="pt">Modelador de UML</summary>
+    <summary xml:lang="pt_BR">Modelador de UML</summary>
+    <summary xml:lang="sk">Modelár UML</summary>
+    <summary xml:lang="sl">Modelirnik UML</summary>
+    <summary xml:lang="sv">UML-modellering</summary>
+    <summary xml:lang="uk">Засіб моделювання UML</summary>
+    <description><p>Umbrello is a Unified Modelling Language (UML) modelling tool and code generator. It can create diagrams of software and other systems in the industry-standard UML format, and can also generate code from UML diagrams in a variety of programming languages.</p><p>Features:</p><ul><li>Supported formats: XMI</li><li>Several type of diagrams supported: use case, class, sequence, communication, state, activity, component, deployment, entity relationship</li></ul></description>
+    <description xml:lang="ca"><p>L'Umbrello és una eina de modelatge de Llenguatge Unificat de Modelatge (UML) i generador de codi. Pot crear diagrames de programari i altres sistemes en el format UML estàndard de la indústria, i també pot generar codi des de diagrames UML en diversos llenguatges de programació.</p><p>Característiques:</p><ul><li>Formats acceptats: XMI</li><li>Es permeten diversos tipus de diagrames: cas d'ús, classe, seqüència, comunicació, estat, activitat, component, desplegament, entitat relació</li></ul></description>
+    <description xml:lang="ca_valencia"><p>L'Umbrello és una eina de modelatge de Llenguatge Unificat de Modelatge (UML) i generador de codi. Pot crear diagrames de programari i altres sistemes en el format UML estàndard de la indústria, i també pot generar codi des de diagrames UML en diversos llenguatges de programació.</p><p>Característiques:</p><ul><li>Formats acceptats: XMI</li><li>Es permeten diversos tipus de diagrames: cas d'ús, classe, seqüència, comunicació, estat, activitat, component, desplegament, entitat relació</li></ul></description>
+    <description xml:lang="cs"><p>Vlastnosti:</p><ul><li>Podporované formáty: XMI</li></ul></description>
+    <description xml:lang="de"><p>Umbrello ist ein Modellierungswerkzeug und Quelltextgenerator für die vereinheitlichte Modellierungssprache (UML). Es können Diagramme von Software und anderen System im Industriestandard UML sowie Quelltext für verschiedene Sprachen erstellt werden.</p><p>Funktionen:</p><ul><li>Unterstützte Formate: XMI</li><li>Verschiedene Diagramm-Typen werden unterstützt: Anwendungsfalldiagramm, Klassendiagramm, Sequenzdiagramm, Kommunikationsdiagramm, Zustandsdiagramm, Aktivitätsdiagramm, Komponentendiagramm, Verteilungsdiagramm, Entity-Relationship-Diagramm</li></ul></description>
+    <description xml:lang="es"><p>Umbrello es una herramienta de modelado y de generación de código para el lenguaje unificado de modelado (UML). Puede crear diagramas de software y de otros sistemas en el formato estándar de la industria UML, además de generar código a partir de diagramas UML en diversos lenguajes de programación.</p><p>Funciones:</p><ul><li>Formatos permitidos: XMI</li><li>Permite usar varios tipos de diagramas: casos de uso, clase, secuencia, comunicación, estado, actividad, componente, despliegue y relación de entidades</li></ul></description>
+    <description xml:lang="et"><p>Umbrello on unifitseeritud modelleerimiskeele UML modelleerimistööriist ja koodi genereerija. See võib luua tarkvara ja muude süsteemide skeeme standardses UML-vormingus, samuti genereerida UML-skeemide põhjal koodi mitmes programmeerimiskeeles.</p><p>Omadused:</p><ul><li>Toetatud vormingud: XMI</li></ul></description>
+    <description xml:lang="fi"><p>Umbrello on UML-mallinnusohjelma. Umbrellolla voi luoda kaavioita ohjelmistoista ja muista järjestelmistä käyttäen standardia UML-muotoa. Sillä voi myös luoda koodin UML-kaavioiden perusteella useille ohjelmointikielille.</p><p>Ominaisuuksia:</p><ul><li>Tukee XMI-tiedostomuotoa</li><li>Tukee monenlaisia kaavioita: käyttötapauskaavio, luokkakaavio, sekvenssikaavio, kommunikointikaavio, tilakaavio, aktiviteettikaavio, komponenttikaavio, sijoittelukaavio, käsitekaavio</li></ul></description>
+    <description xml:lang="gl"><p>Umbrello é unha ferramenta de modelaxe e xerador de código baseado na linguaxe de modelaxe UML. Pode crear diagramas de software e doutros sistemas usando o formato estándar da industria, UML, e pode tamén xerar código a partir de diagramas UML en varios linguaxes de programación.</p><p>Funcionalidades:</p><ul><li>Formatos compatíbeis: XMI.</li><li>Permite traballar con varios tipos de diagramas: caso de uso, clase, secuencia, comunicación, estado, actividade, compoñente, distribución, e entidade-relación.</li></ul></description>
+    <description xml:lang="it"><p>Umbrello è uno strumento per diagrammi UML e un generatore di codice. Può creare diagrammi di software e altri sistemi nello standard industriale UML, e può anche generare codice partendo dai diagrammi UML in diversi linguaggi di programmazione.</p><p>Funzionalità:</p><ul><li>Formati supportati: XMI</li><li>Diversi tipi di diagrammi supportati: casi d'uso, classe, sequenza, comunicazione, stato, attività, componente, dispiegamento, relazione tra entità</li></ul></description>
+    <description xml:lang="ko"><p>Umbrello는 통합 모델링 언어(UML) 모델링 도구 및 코드 생성기입니다. 산업 표준 UML 포맷으로 소프트웨어 및 기타 시스템 다이어그램을 생성할 수 있으며, UML 다이어그램에서 여러 프로그래밍 언어로 코드를 생성할 수 있습니다.</p><p>기능:</p><ul><li>지원하는 형식: XMI</li><li>지원하는 다이어그램 종류: 사용 예시, 클래스, 시퀀스, 통신, 상태, 활동, 구성 요소, 배포, 엔티티 관계</li></ul></description>
+    <description xml:lang="nl"><p>Umbrello is een Unified Modelling Language (UML) hulpmiddel voor modellering en generator van code. Het kan diagrammen van software en andere systemen maken  in het industrie-standaard UML-formaat en kan ook code genereren uit UML diagrammen in een verscheidenheid van programmeertalen.</p><p>Kenmerken:</p><ul><li>Ondersteunde formaten: XMI</li><li>Verschillende typen diagrammen worden ondersteund: use case, klassen, volgorde, communicatie, status, activiteit, component, toepassing, relaties tussen eenheden</li></ul></description>
+    <description xml:lang="pl"><p>Umbrello jest Unified Modelling Language (UML) (z ang. Językiem do Jednolitego Modelowania)  i generatorem kodu. Może tworzyć diagramy oprogramowania i innych systemów w formacie standardu przemysłowego UML, a także generować kod z diagramów UML w wielu językach programowania.</p><p>Możliwości:</p><ul><li>Obsługiwane formaty: XMI</li><li>Kilka obsługiwanych rodzajów diagramów: przypadki użycia, klasy, sekwencje, komunikacja, stany, aktywności, składniki, zastosowanie, współzależności obiektów</li></ul></description>
+    <description xml:lang="pt"><p>O Umbrello é uma ferramenta de modelação em UML (Unified Modelling Language) e gerador de código. Poderá criar diagramas de aplicações e outros sistemas, usando o formato-padrão da indústria UML, podendo também gerar código a partir de diagramas UML, numa grande variedade de linguagens de programação.</p><p>Funcionalidades:</p><ul><li>Formatos suportados: XMI</li><li>Diversos tipos de diagramas suportados: casos de uso, classe, sequência, comunicação, estado, actividade, componente, entrada em produção, entidade-associação</li></ul></description>
+    <description xml:lang="pt_BR"><p>Umbrello é uma ferramenta de modelação de UML (Unified Modelling Language) e gerador de código. Ele pode criar diagramas de softwares e outros sistemas, usando o formato de UML padrão da indústria, assim como gerar código a partir de diagramas UML, em uma grande variedade de linguagens de programação.</p><p>Funcionalidades:</p><ul><li>Formatos suportados: XMI</li><li>Há suporte para diversos tipos de diagramas: casos de uso, classe, sequência, comunicação, estado, atividade, componente, distribuição, relacionamento de entidade</li></ul></description>
+    <description xml:lang="sk"><p>Umbrello je nástroj na modelovania v UML a generátor kódu. Dokáže vytvárať diagramy softvéru a iných systémov v priemyselnom štandarde UML a tiež generovať kód z UML diagramov v množstve programovacích jazykov.</p><p>Funkcie:</p><ul><li>Podporované formáty: XMI</li><li>Podporovaných je niekoľko typov diagramov: prípady použitia, triedy, sekvencie, stavy, aktivity, nasadenie, vzťahy entít</li></ul></description>
+    <description xml:lang="sl"><p>Umbrello je orodje za modeliranje v poenotenem jeziku za modeliranje (UML) in ustvarjalnik kode. Ustvari lahko diagrame programov in drugih sistemov v industrijski standardizirani obliki UML, iz diagramov UML pa lahko ustvari tudi kodo v različnih programskih jezikih.</p><p>Zmožnosti:</p><ul><li>Podprte oblike: XMI</li><li>Podprte so številne vrste diagramov: primer uporabe, razred, zaporedje, sporazumevanje, stanje, dejavnost, sestavni del, namestitev, odvisnost entitet</li></ul></description>
+    <description xml:lang="sv"><p>Umbrello är ett modelleringsverktyg för Unified Modelling Language och kodgenerator. Det kan skapa diagram av programvara och andra system med industristandardformatet UML, och kan också skapa kod från UML-diagram på ett antal olika programspråk.</p><p>Funktioner:</p><ul><li>Format som stöds: XMI</li><li>Flera diagramtyper stöds: användningsfall, klass, sekvens, kommunikation, tillstånd, aktivitet, komponent, utplacering, objektsamband</li></ul></description>
+    <description xml:lang="uk"><p>Umbrello — засіб моделювання уніфікованою мовою моделювання (UML) та інструмент для створення шаблонів коду. Програма здатна створювати діаграми систем програмного забезпечення та інших систем у стандартному форматі UML та реалізовувати діаграми UML у програмному коді багатьма мовами програмування.</p><p>Можливості:</p><ul><li>Підтримувані формати: XMI</li><li>Підтримка декількох типів діаграм: випадків використання, класів, послідовності, обміну даними, станів, компонент, розміщення та взаємозв’язку компонентів.</li></ul></description>
     <kudos>
       <kudo>HighContrast</kudo>
     </kudos>
     <vetos>
-      <veto>No &lt;summary&gt; in AppData</veto>
+      <veto>Has no Icon</veto>
     </vetos>
     <project_license>GPL-2.0+</project_license>
-    <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=spectacle</url>
-    <url type="homepage">http://kde.org/applications/graphics/spectacle/</url>
+    <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=umbrello</url>
+    <url type="help">http://docs.kde.org/stable/en/kdesdk/umbrello/index.html</url>
+    <url type="homepage">http://umbrello.kde.org</url>
     <project_group>KDE</project_group>
     <screenshots>
       <screenshot type="default">
-        <image type="source" height="537" width="880">http://kde.org/images/screenshots/spectacle.png</image>
+        <image type="source">http://kde.org/images/screenshots/umbrello.png</image>
       </screenshot>
     </screenshots>
     <provides>
-      <binary>spectacle</binary>
+      <binary>umbrello5</binary>
       <dbus type="session">ca.desrt.dconf</dbus>
-      <dbus type="session">com.canonical.indicators.webcredentials</dbus>
-      <dbus type="session">com.google.code.AccountsSSO.SingleSignOn</dbus>
-      <dbus type="session">com.nokia.SingleSignOn.Backup</dbus>
-      <dbus type="session">com.nokia.singlesignonui</dbus>
       <dbus type="session">org.a11y.Bus</dbus>
       <dbus type="session">org.bluez.obex</dbus>
       <dbus type="session">org.freedesktop.ColorHelper</dbus>
@@ -4710,8 +3913,6 @@
       <dbus type="session">org.gnome.zeitgeist.SimpleIndexer</dbus>
       <dbus type="session">org.gtk.GLib.PACRunner</dbus>
       <dbus type="session">org.jackaudio.service</dbus>
-      <dbus type="session">org.kde.KScreen</dbus>
-      <dbus type="session">org.kde.Spectacle</dbus>
       <dbus type="session">org.kde.kcookiejar5</dbus>
       <dbus type="session">org.kde.kglobalaccel</dbus>
       <dbus type="session">org.kde.kiod5</dbus>
@@ -4833,7 +4034,7 @@
       <lang percentage="34">zh_TW</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">spectacle_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">umbrello_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -4928,7 +4129,7 @@
     <id>owncloud_kaccounts_ui</id>
     <pkgname>kaccounts-providers</pkgname>
     <name>OwnCloud KAccounts QML plugin</name>
-    <name xml:lang="ast">Complementu QML de KAccounts d'OwnCloud</name>
+    <name xml:lang="ast">Complementu QML de KAccounts d'ownCloud</name>
     <name xml:lang="ca">Connector OwnCloud en QML per a KAccounts</name>
     <name xml:lang="ca@valencia">Connector OwnCloud en QML per a KAccounts</name>
     <name xml:lang="cs">QML modul KAccounts pro OwnCloud</name>
@@ -4938,6 +4139,7 @@
     <name xml:lang="et">KAccountsi OwnCloudi QML-plugin</name>
     <name xml:lang="fi">OwnCloud KAccounts -QML-liitännäinen</name>
     <name xml:lang="gl">Complemento QML de KAccounts de OwnCloud</name>
+    <name xml:lang="hu">OwnCloud KAccounts QML-bővítmény</name>
     <name xml:lang="it">Estensione QML di KAccounts per OwnCloud</name>
     <name xml:lang="ko">OwnCloud KAccounts QML 플러그인</name>
     <name xml:lang="nl">OwnCloud KAccounts QML plug-in</name>
@@ -4961,7 +4163,7 @@
     </vetos>
     <url type="homepage">http://kde.org</url>
     <metadata>
-      <value key="X-CacheID">kaccounts-providers_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kaccounts-providers_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -5058,7 +4260,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-c0dbad1d4311c5ed6f7317689d0d19ed.png</image>
+        <image type="source" height="48" width="640">file:/roboto-ebb7460846bad8f7e397d4c1c9df4647.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -5552,160 +4754,6 @@
     </metadata>
   </component>
   <component type="font">
-    <id>ttf-indic</id>
-    <pkgname>ttf-indic</pkgname>
-    <name>Indic Opentype Fonts</name>
-    <summary>Indic Opentype Fonts collection</summary>
-    <categories>
-      <category>Addons</category>
-      <category>Fonts</category>
-    </categories>
-    <vetos>
-      <veto>Has no Icon</veto>
-    </vetos>
-    <languages>
-      <lang>aa</lang>
-      <lang>an</lang>
-      <lang percentage="26">ar</lang>
-      <lang>as</lang>
-      <lang percentage="29">ast</lang>
-      <lang>ay</lang>
-      <lang percentage="57">be</lang>
-      <lang percentage="60">bg</lang>
-      <lang>bh</lang>
-      <lang>bho</lang>
-      <lang>bi</lang>
-      <lang>bn</lang>
-      <lang percentage="60">bn_IN</lang>
-      <lang>br</lang>
-      <lang percentage="59">bs</lang>
-      <lang percentage="70">ca</lang>
-      <lang percentage="59">ca@valencia</lang>
-      <lang>ch</lang>
-      <lang>co</lang>
-      <lang percentage="71">cs</lang>
-      <lang>da</lang>
-      <lang>de</lang>
-      <lang percentage="60">el</lang>
-      <lang>en</lang>
-      <lang percentage="71">en@boldquot</lang>
-      <lang percentage="71">en@quot</lang>
-      <lang percentage="28">en@shaw</lang>
-      <lang percentage="50">en_CA</lang>
-      <lang percentage="70">en_GB</lang>
-      <lang percentage="53">eo</lang>
-      <lang>es</lang>
-      <lang percentage="36">et</lang>
-      <lang>eu</lang>
-      <lang percentage="30">fa</lang>
-      <lang percentage="50">fi</lang>
-      <lang>fil</lang>
-      <lang>fj</lang>
-      <lang>fo</lang>
-      <lang>fr</lang>
-      <lang>fur</lang>
-      <lang>fy</lang>
-      <lang>gd</lang>
-      <lang>gl</lang>
-      <lang>gu</lang>
-      <lang>gv</lang>
-      <lang percentage="71">he</lang>
-      <lang>hi</lang>
-      <lang>hne</lang>
-      <lang>ho</lang>
-      <lang percentage="97">hr</lang>
-      <lang>ht</lang>
-      <lang percentage="71">hu</lang>
-      <lang percentage="43">hy</lang>
-      <lang>ia</lang>
-      <lang>id</lang>
-      <lang>ie</lang>
-      <lang>io</lang>
-      <lang>is</lang>
-      <lang>it</lang>
-      <lang percentage="44">ja</lang>
-      <lang>jv</lang>
-      <lang>kj</lang>
-      <lang percentage="59">kn</lang>
-      <lang percentage="71">ko</lang>
-      <lang>kok</lang>
-      <lang>kwm</lang>
-      <lang>lb</lang>
-      <lang>li</lang>
-      <lang percentage="71">lt</lang>
-      <lang percentage="71">lv</lang>
-      <lang>mai</lang>
-      <lang>mg</lang>
-      <lang percentage="38">ml</lang>
-      <lang>mr</lang>
-      <lang>ms</lang>
-      <lang>nb</lang>
-      <lang>nds</lang>
-      <lang>ne</lang>
-      <lang>ng</lang>
-      <lang>nl</lang>
-      <lang>nn</lang>
-      <lang>no</lang>
-      <lang>nr</lang>
-      <lang>nso</lang>
-      <lang>oc</lang>
-      <lang>om</lang>
-      <lang percentage="59">or</lang>
-      <lang percentage="60">pa</lang>
-      <lang>pap-an</lang>
-      <lang>pap-aw</lang>
-      <lang percentage="71">pl</lang>
-      <lang>pt</lang>
-      <lang percentage="71">pt_BR</lang>
-      <lang>rm</lang>
-      <lang>rn</lang>
-      <lang percentage="48">ro</lang>
-      <lang percentage="71">ru</lang>
-      <lang>rw</lang>
-      <lang>sa</lang>
-      <lang>sat</lang>
-      <lang>sc</lang>
-      <lang>sg</lang>
-      <lang percentage="71">sk</lang>
-      <lang percentage="60">sl</lang>
-      <lang>sma</lang>
-      <lang>smj</lang>
-      <lang>sn</lang>
-      <lang>so</lang>
-      <lang>sq</lang>
-      <lang percentage="71">sr</lang>
-      <lang percentage="71">sr@latin</lang>
-      <lang>ss</lang>
-      <lang>st</lang>
-      <lang>su</lang>
-      <lang>sv</lang>
-      <lang>sw</lang>
-      <lang>ta</lang>
-      <lang percentage="59">te</lang>
-      <lang percentage="70">th</lang>
-      <lang>tl</lang>
-      <lang>tn</lang>
-      <lang percentage="43">tr</lang>
-      <lang>ts</lang>
-      <lang percentage="56">ug</lang>
-      <lang percentage="59">uk</lang>
-      <lang>uz</lang>
-      <lang percentage="60">vi</lang>
-      <lang>vo</lang>
-      <lang>wa</lang>
-      <lang>xh</lang>
-      <lang>yap</lang>
-      <lang>za</lang>
-      <lang percentage="70">zh_CN</lang>
-      <lang percentage="59">zh_HK</lang>
-      <lang percentage="71">zh_TW</lang>
-      <lang>zu</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component type="font">
     <id>ttf-ubraille</id>
     <pkgname>ttf-ubraille</pkgname>
     <name>UBraille</name>
@@ -5717,12 +4765,6 @@
     <vetos>
       <veto>Has no Icon</veto>
     </vetos>
-    <screenshots>
-      <screenshot type="default">
-        <caption>Braille – Regular</caption>
-        <image type="source" height="48" width="640">file:/ttf-ubraille-a24389d595f56473fede591a4632271d.png</image>
-      </screenshot>
-    </screenshots>
     <languages>
       <lang percentage="57">an</lang>
       <lang percentage="26">ar</lang>

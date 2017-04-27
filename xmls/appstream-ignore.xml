@@ -284,14 +284,14 @@
     <id>akonadi-calendar-tools.(null)</id>
     <pkgname>akonadi-calendar-tools</pkgname>
     <metadata>
-      <value key="X-CacheID">akonadi-calendar-tools_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">akonadi-calendar-tools_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>akonadi-calendar.(null)</id>
     <pkgname>akonadi-calendar</pkgname>
     <metadata>
-      <value key="X-CacheID">akonadi-calendar_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">akonadi-calendar_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -305,28 +305,28 @@
     <id>akonadi-import-wizard.(null)</id>
     <pkgname>akonadi-import-wizard</pkgname>
     <metadata>
-      <value key="X-CacheID">akonadi-import-wizard_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">akonadi-import-wizard_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>akonadi-mime.(null)</id>
     <pkgname>akonadi-mime</pkgname>
     <metadata>
-      <value key="X-CacheID">akonadi-mime_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">akonadi-mime_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>akonadi-notes.(null)</id>
     <pkgname>akonadi-notes</pkgname>
     <metadata>
-      <value key="X-CacheID">akonadi-notes_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">akonadi-notes_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>akonadi-search.(null)</id>
     <pkgname>akonadi-search</pkgname>
     <metadata>
-      <value key="X-CacheID">akonadi-search_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">akonadi-search_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -354,7 +354,7 @@
     <id>akonadiconsole.(null)</id>
     <pkgname>akonadiconsole</pkgname>
     <metadata>
-      <value key="X-CacheID">akonadiconsole_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">akonadiconsole_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -544,6 +544,13 @@
     <pkgname>apcupsd</pkgname>
     <metadata>
       <value key="X-CacheID">apcupsd_3.14.14-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>apg.(null)</id>
+    <pkgname>apg</pkgname>
+    <metadata>
+      <value key="X-CacheID">apg_2.2.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -1026,7 +1033,7 @@
     <id>audiocd-kio.(null)</id>
     <pkgname>audiocd-kio</pkgname>
     <metadata>
-      <value key="X-CacheID">audiocd-kio_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">audiocd-kio_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -1299,7 +1306,7 @@
     <id>baloo-widgets.(null)</id>
     <pkgname>baloo-widgets</pkgname>
     <metadata>
-      <value key="X-CacheID">baloo-widgets_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">baloo-widgets_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -1688,13 +1695,6 @@
     </metadata>
   </component>
   <component>
-    <id>bomber.(null)</id>
-    <pkgname>bomber</pkgname>
-    <metadata>
-      <value key="X-CacheID">bomber_16.12.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>boost.(null)</id>
     <pkgname>boost</pkgname>
     <metadata>
@@ -1747,7 +1747,7 @@
     <id>breeze-grub.(null)</id>
     <pkgname>breeze-grub</pkgname>
     <metadata>
-      <value key="X-CacheID">breeze-grub_5.9.4-0_noarch.deb</value>
+      <value key="X-CacheID">breeze-grub_5.9.5-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -2272,7 +2272,7 @@
     <id>cervisia.(null)</id>
     <pkgname>cervisia</pkgname>
     <metadata>
-      <value key="X-CacheID">cervisia_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">cervisia_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -3438,6 +3438,13 @@
     </metadata>
   </component>
   <component>
+    <id>crystalhd-modules.(null)</id>
+    <pkgname>crystalhd-modules</pkgname>
+    <metadata>
+      <value key="X-CacheID">crystalhd-modules_20170321-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>csdp.(null)</id>
     <pkgname>csdp</pkgname>
     <metadata>
@@ -3525,14 +3532,14 @@
     <id>curl+32.(null)</id>
     <pkgname>curl+32</pkgname>
     <metadata>
-      <value key="X-CacheID">curl+32_7.53.1-0_noarch.deb</value>
+      <value key="X-CacheID">curl+32_7.54.0-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
     <id>curl.(null)</id>
     <pkgname>curl</pkgname>
     <metadata>
-      <value key="X-CacheID">curl_7.53.1-0_amd64.deb</value>
+      <value key="X-CacheID">curl_7.54.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -4078,7 +4085,7 @@
     <id>discover.(null)</id>
     <pkgname>discover</pkgname>
     <metadata>
-      <value key="X-CacheID">discover_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">discover_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -4477,7 +4484,7 @@
     <id>e2fsprogs.(null)</id>
     <pkgname>e2fsprogs</pkgname>
     <metadata>
-      <value key="X-CacheID">e2fsprogs_1.43.4-0_amd64.deb</value>
+      <value key="X-CacheID">e2fsprogs_1.43.4-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -4876,7 +4883,7 @@
     <id>eventviews.(null)</id>
     <pkgname>eventviews</pkgname>
     <metadata>
-      <value key="X-CacheID">eventviews_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">eventviews_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -5331,7 +5338,7 @@
     <id>filelight.(null)</id>
     <pkgname>filelight</pkgname>
     <metadata>
-      <value key="X-CacheID">filelight_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">filelight_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -5744,7 +5751,7 @@
     <id>fping.(null)</id>
     <pkgname>fping</pkgname>
     <metadata>
-      <value key="X-CacheID">fping_3.15-0_amd64.deb</value>
+      <value key="X-CacheID">fping_4.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -6515,6 +6522,13 @@
     <pkgname>gifsicle</pkgname>
     <metadata>
       <value key="X-CacheID">gifsicle_1.88-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>gimp-hidpi.(null)</id>
+    <pkgname>gimp-hidpi</pkgname>
+    <metadata>
+      <value key="X-CacheID">gimp-hidpi_20170215-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -7333,7 +7347,7 @@
     <id>grantlee-editor.(null)</id>
     <pkgname>grantlee-editor</pkgname>
     <metadata>
-      <value key="X-CacheID">grantlee-editor_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">grantlee-editor_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -8670,7 +8684,7 @@
     <id>incidenceeditor.(null)</id>
     <pkgname>incidenceeditor</pkgname>
     <metadata>
-      <value key="X-CacheID">incidenceeditor_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">incidenceeditor_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9083,7 +9097,7 @@
     <id>jovie.(null)</id>
     <pkgname>jovie</pkgname>
     <metadata>
-      <value key="X-CacheID">jovie_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">jovie_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9188,21 +9202,21 @@
     <id>kaccessible.(null)</id>
     <pkgname>kaccessible</pkgname>
     <metadata>
-      <value key="X-CacheID">kaccessible_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kaccessible_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kaccounts-integration.(null)</id>
     <pkgname>kaccounts-integration</pkgname>
     <metadata>
-      <value key="X-CacheID">kaccounts-integration_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kaccounts-integration_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kaccounts-providers.(null)</id>
     <pkgname>kaccounts-providers</pkgname>
     <metadata>
-      <value key="X-CacheID">kaccounts-providers_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kaccounts-providers_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9230,14 +9244,7 @@
     <id>kactivitymanagerd.(null)</id>
     <pkgname>kactivitymanagerd</pkgname>
     <metadata>
-      <value key="X-CacheID">kactivitymanagerd_5.9.4-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>kaddressbook.(null)</id>
-    <pkgname>kaddressbook</pkgname>
-    <metadata>
-      <value key="X-CacheID">kaddressbook_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kactivitymanagerd_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9245,13 +9252,6 @@
     <pkgname>kaigen-gothic</pkgname>
     <metadata>
       <value key="X-CacheID">kaigen-gothic_20150804-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>kajongg.(null)</id>
-    <pkgname>kajongg</pkgname>
-    <metadata>
-      <value key="X-CacheID">kajongg_16.12.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9328,14 +9328,14 @@
     <id>kbounce.(null)</id>
     <pkgname>kbounce</pkgname>
     <metadata>
-      <value key="X-CacheID">kbounce_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kbounce_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kbreakout.(null)</id>
     <pkgname>kbreakout</pkgname>
     <metadata>
-      <value key="X-CacheID">kbreakout_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kbreakout_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9349,7 +9349,7 @@
     <id>kcalcore.(null)</id>
     <pkgname>kcalcore</pkgname>
     <metadata>
-      <value key="X-CacheID">kcalcore_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kcalcore_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9419,7 +9419,7 @@
     <id>kcontacts.(null)</id>
     <pkgname>kcontacts</pkgname>
     <metadata>
-      <value key="X-CacheID">kcontacts_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kcontacts_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9448,6 +9448,13 @@
     <pkgname>kcron</pkgname>
     <metadata>
       <value key="X-CacheID">kcron_16.12.3-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>kdav.(null)</id>
+    <pkgname>kdav</pkgname>
+    <metadata>
+      <value key="X-CacheID">kdav_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9503,21 +9510,21 @@
     <id>kde-gtk-config.(null)</id>
     <pkgname>kde-gtk-config</pkgname>
     <metadata>
-      <value key="X-CacheID">kde-gtk-config_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kde-gtk-config_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kde-l10n.(null)</id>
     <pkgname>kde-l10n</pkgname>
     <metadata>
-      <value key="X-CacheID">kde-l10n_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kde-l10n_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kde-runtime.(null)</id>
     <pkgname>kde-runtime</pkgname>
     <metadata>
-      <value key="X-CacheID">kde-runtime_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kde-runtime_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9538,7 +9545,7 @@
     <id>kdebugsettings.(null)</id>
     <pkgname>kdebugsettings</pkgname>
     <metadata>
-      <value key="X-CacheID">kdebugsettings_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kdebugsettings_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9573,7 +9580,7 @@
     <id>kdegraphics-mobipocket.(null)</id>
     <pkgname>kdegraphics-mobipocket</pkgname>
     <metadata>
-      <value key="X-CacheID">kdegraphics-mobipocket_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kdegraphics-mobipocket_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9587,7 +9594,7 @@
     <id>kdelibs.(null)</id>
     <pkgname>kdelibs</pkgname>
     <metadata>
-      <value key="X-CacheID">kdelibs_4.14.30-0_amd64.deb</value>
+      <value key="X-CacheID">kdelibs_4.14.31-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9601,28 +9608,28 @@
     <id>kdenetwork-filesharing.(null)</id>
     <pkgname>kdenetwork-filesharing</pkgname>
     <metadata>
-      <value key="X-CacheID">kdenetwork-filesharing_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kdenetwork-filesharing_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kdepim-addons.(null)</id>
     <pkgname>kdepim-addons</pkgname>
     <metadata>
-      <value key="X-CacheID">kdepim-addons_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kdepim-addons_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kdepim-apps-libs.(null)</id>
     <pkgname>kdepim-apps-libs</pkgname>
     <metadata>
-      <value key="X-CacheID">kdepim-apps-libs_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kdepim-apps-libs_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kdepim-runtime.(null)</id>
     <pkgname>kdepim-runtime</pkgname>
     <metadata>
-      <value key="X-CacheID">kdepim-runtime_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kdepim-runtime_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9706,14 +9713,14 @@
     <id>kdialog.(null)</id>
     <pkgname>kdialog</pkgname>
     <metadata>
-      <value key="X-CacheID">kdialog_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kdialog_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kdiamond.(null)</id>
     <pkgname>kdiamond</pkgname>
     <metadata>
-      <value key="X-CacheID">kdiamond_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kdiamond_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9885,17 +9892,10 @@
     </metadata>
   </component>
   <component>
-    <id>kfloppy.(null)</id>
-    <pkgname>kfloppy</pkgname>
-    <metadata>
-      <value key="X-CacheID">kfloppy_16.12.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>kfourinline.(null)</id>
     <pkgname>kfourinline</pkgname>
     <metadata>
-      <value key="X-CacheID">kfourinline_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kfourinline_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9909,14 +9909,14 @@
     <id>kgeography.(null)</id>
     <pkgname>kgeography</pkgname>
     <metadata>
-      <value key="X-CacheID">kgeography_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kgeography_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kget.(null)</id>
     <pkgname>kget</pkgname>
     <metadata>
-      <value key="X-CacheID">kget_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kget_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -9951,7 +9951,7 @@
     <id>khotkeys.(null)</id>
     <pkgname>khotkeys</pkgname>
     <metadata>
-      <value key="X-CacheID">khotkeys_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">khotkeys_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10091,7 +10091,7 @@
     <id>kiten.(null)</id>
     <pkgname>kiten</pkgname>
     <metadata>
-      <value key="X-CacheID">kiten_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kiten_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10126,14 +10126,14 @@
     <id>kjumpingcube.(null)</id>
     <pkgname>kjumpingcube</pkgname>
     <metadata>
-      <value key="X-CacheID">kjumpingcube_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kjumpingcube_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kldap.(null)</id>
     <pkgname>kldap</pkgname>
     <metadata>
-      <value key="X-CacheID">kldap_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kldap_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10147,7 +10147,7 @@
     <id>klines.(null)</id>
     <pkgname>klines</pkgname>
     <metadata>
-      <value key="X-CacheID">klines_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">klines_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10161,7 +10161,7 @@
     <id>kmag.(null)</id>
     <pkgname>kmag</pkgname>
     <metadata>
-      <value key="X-CacheID">kmag_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kmag_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10175,7 +10175,7 @@
     <id>kmail-account-wizard.(null)</id>
     <pkgname>kmail-account-wizard</pkgname>
     <metadata>
-      <value key="X-CacheID">kmail-account-wizard_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kmail-account-wizard_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10203,21 +10203,14 @@
     <id>kmenuedit.(null)</id>
     <pkgname>kmenuedit</pkgname>
     <metadata>
-      <value key="X-CacheID">kmenuedit_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kmenuedit_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kmime.(null)</id>
     <pkgname>kmime</pkgname>
     <metadata>
-      <value key="X-CacheID">kmime_16.12.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>kmines.(null)</id>
-    <pkgname>kmines</pkgname>
-    <metadata>
-      <value key="X-CacheID">kmines_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kmime_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10259,7 +10252,7 @@
     <id>knavalbattle.(null)</id>
     <pkgname>knavalbattle</pkgname>
     <metadata>
-      <value key="X-CacheID">knavalbattle_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">knavalbattle_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10274,13 +10267,6 @@
     <pkgname>knewstuff</pkgname>
     <metadata>
       <value key="X-CacheID">knewstuff_5.33.0-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>knotes.(null)</id>
-    <pkgname>knotes</pkgname>
-    <metadata>
-      <value key="X-CacheID">knotes_16.12.3-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10319,31 +10305,17 @@
     </metadata>
   </component>
   <component>
-    <id>kompare.(null)</id>
-    <pkgname>kompare</pkgname>
-    <metadata>
-      <value key="X-CacheID">kompare_16.12.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>konqueror.(null)</id>
     <pkgname>konqueror</pkgname>
     <metadata>
-      <value key="X-CacheID">konqueror_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">konqueror_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>konquest.(null)</id>
     <pkgname>konquest</pkgname>
     <metadata>
-      <value key="X-CacheID">konquest_16.12.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>kontact.(null)</id>
-    <pkgname>kontact</pkgname>
-    <metadata>
-      <value key="X-CacheID">kontact_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">konquest_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10462,7 +10434,7 @@
     <id>kremotecontrol.(null)</id>
     <pkgname>kremotecontrol</pkgname>
     <metadata>
-      <value key="X-CacheID">kremotecontrol_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kremotecontrol_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10476,14 +10448,14 @@
     <id>kreversi.(null)</id>
     <pkgname>kreversi</pkgname>
     <metadata>
-      <value key="X-CacheID">kreversi_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kreversi_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>krfb.(null)</id>
     <pkgname>krfb</pkgname>
     <metadata>
-      <value key="X-CacheID">krfb_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">krfb_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10518,14 +10490,14 @@
     <id>kscreen.(null)</id>
     <pkgname>kscreen</pkgname>
     <metadata>
-      <value key="X-CacheID">kscreen_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kscreen_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>kscreenlocker.(null)</id>
     <pkgname>kscreenlocker</pkgname>
     <metadata>
-      <value key="X-CacheID">kscreenlocker_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kscreenlocker_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10553,7 +10525,7 @@
     <id>ksnakeduel.(null)</id>
     <pkgname>ksnakeduel</pkgname>
     <metadata>
-      <value key="X-CacheID">ksnakeduel_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">ksnakeduel_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10564,17 +10536,10 @@
     </metadata>
   </component>
   <component>
-    <id>ksquares.(null)</id>
-    <pkgname>ksquares</pkgname>
-    <metadata>
-      <value key="X-CacheID">ksquares_16.12.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>ksshaskpass.(null)</id>
     <pkgname>ksshaskpass</pkgname>
     <metadata>
-      <value key="X-CacheID">ksshaskpass_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">ksshaskpass_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10609,7 +10574,7 @@
     <id>ktimer.(null)</id>
     <pkgname>ktimer</pkgname>
     <metadata>
-      <value key="X-CacheID">ktimer_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">ktimer_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10630,14 +10595,14 @@
     <id>ktp-accounts-kcm.(null)</id>
     <pkgname>ktp-accounts-kcm</pkgname>
     <metadata>
-      <value key="X-CacheID">ktp-accounts-kcm_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">ktp-accounts-kcm_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
     <id>ktp-approver.(null)</id>
     <pkgname>ktp-approver</pkgname>
     <metadata>
-      <value key="X-CacheID">ktp-approver_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">ktp-approver_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10672,7 +10637,7 @@
     <id>ktp-contact-runner.(null)</id>
     <pkgname>ktp-contact-runner</pkgname>
     <metadata>
-      <value key="X-CacheID">ktp-contact-runner_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">ktp-contact-runner_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10686,7 +10651,7 @@
     <id>ktp-filetransfer-handler.(null)</id>
     <pkgname>ktp-filetransfer-handler</pkgname>
     <metadata>
-      <value key="X-CacheID">ktp-filetransfer-handler_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">ktp-filetransfer-handler_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10700,7 +10665,7 @@
     <id>ktp-send-file.(null)</id>
     <pkgname>ktp-send-file</pkgname>
     <metadata>
-      <value key="X-CacheID">ktp-send-file_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">ktp-send-file_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10756,7 +10721,7 @@
     <id>kwallet-pam.(null)</id>
     <pkgname>kwallet-pam</pkgname>
     <metadata>
-      <value key="X-CacheID">kwallet-pam_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kwallet-pam_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10777,7 +10742,7 @@
     <id>kwave.(null)</id>
     <pkgname>kwave</pkgname>
     <metadata>
-      <value key="X-CacheID">kwave_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">kwave_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -10819,7 +10784,7 @@
     <id>kwrited.(null)</id>
     <pkgname>kwrited</pkgname>
     <metadata>
-      <value key="X-CacheID">kwrited_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">kwrited_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -11471,6 +11436,13 @@
     <pkgname>libcryptui</pkgname>
     <metadata>
       <value key="X-CacheID">libcryptui_3.12.2-3_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
+    <id>libcrystalhd.(null)</id>
+    <pkgname>libcrystalhd</pkgname>
+    <metadata>
+      <value key="X-CacheID">libcrystalhd_20170321-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -12457,7 +12429,7 @@
     <id>libkface.(null)</id>
     <pkgname>libkface</pkgname>
     <metadata>
-      <value key="X-CacheID">libkface_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">libkface_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -12471,7 +12443,7 @@
     <id>libkipi.(null)</id>
     <pkgname>libkipi</pkgname>
     <metadata>
-      <value key="X-CacheID">libkipi_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">libkipi_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -12492,7 +12464,7 @@
     <id>libkleo.(null)</id>
     <pkgname>libkleo</pkgname>
     <metadata>
-      <value key="X-CacheID">libkleo_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">libkleo_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -12527,7 +12499,7 @@
     <id>libkomparediff2.(null)</id>
     <pkgname>libkomparediff2</pkgname>
     <metadata>
-      <value key="X-CacheID">libkomparediff2_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">libkomparediff2_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -12555,7 +12527,7 @@
     <id>libkscreen.(null)</id>
     <pkgname>libkscreen</pkgname>
     <metadata>
-      <value key="X-CacheID">libkscreen_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">libkscreen_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -14865,7 +14837,7 @@
     <id>lskat.(null)</id>
     <pkgname>lskat</pkgname>
     <metadata>
-      <value key="X-CacheID">lskat_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">lskat_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -15453,7 +15425,7 @@
     <id>mariadb.(null)</id>
     <pkgname>mariadb</pkgname>
     <metadata>
-      <value key="X-CacheID">mariadb_10.1.21-0_amd64.deb</value>
+      <value key="X-CacheID">mariadb_10.1.21-1_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -16027,7 +15999,7 @@
     <id>mkvtoolnix.(null)</id>
     <pkgname>mkvtoolnix</pkgname>
     <metadata>
-      <value key="X-CacheID">mkvtoolnix_10.0.0-0_amd64.deb</value>
+      <value key="X-CacheID">mkvtoolnix_11.0.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -17182,7 +17154,7 @@
     <id>nss+32.(null)</id>
     <pkgname>nss+32</pkgname>
     <metadata>
-      <value key="X-CacheID">nss+32_3.29.3-0_noarch.deb</value>
+      <value key="X-CacheID">nss+32_3.30.2-0_noarch.deb</value>
     </metadata>
   </component>
   <component>
@@ -17196,7 +17168,7 @@
     <id>nss.(null)</id>
     <pkgname>nss</pkgname>
     <metadata>
-      <value key="X-CacheID">nss_3.30.1-0_amd64.deb</value>
+      <value key="X-CacheID">nss_3.30.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -17994,7 +17966,7 @@
     <id>palapeli.(null)</id>
     <pkgname>palapeli</pkgname>
     <metadata>
-      <value key="X-CacheID">palapeli_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">palapeli_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -19849,7 +19821,7 @@
     <id>pim-data-exporter.(null)</id>
     <pkgname>pim-data-exporter</pkgname>
     <metadata>
-      <value key="X-CacheID">pim-data-exporter_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">pim-data-exporter_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -19989,7 +19961,7 @@
     <id>plasma-integration.(null)</id>
     <pkgname>plasma-integration</pkgname>
     <metadata>
-      <value key="X-CacheID">plasma-integration_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">plasma-integration_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -20129,7 +20101,7 @@
     <id>polkit-kde-agent-1.(null)</id>
     <pkgname>polkit-kde-agent-1</pkgname>
     <metadata>
-      <value key="X-CacheID">polkit-kde-agent-1_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">polkit-kde-agent-1_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -20234,7 +20206,7 @@
     <id>powerdevil.(null)</id>
     <pkgname>powerdevil</pkgname>
     <metadata>
-      <value key="X-CacheID">powerdevil_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">powerdevil_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -21701,6 +21673,13 @@
     </metadata>
   </component>
   <component>
+    <id>qtsingleapplication.(null)</id>
+    <pkgname>qtsingleapplication</pkgname>
+    <metadata>
+      <value key="X-CacheID">qtsingleapplication_2.6.1-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>qtvirtualkeyboard.(null)</id>
     <pkgname>qtvirtualkeyboard</pkgname>
     <metadata>
@@ -21767,7 +21746,7 @@
     <id>r.(null)</id>
     <pkgname>r</pkgname>
     <metadata>
-      <value key="X-CacheID">r_3.3.3-0_amd64.deb</value>
+      <value key="X-CacheID">r_3.4.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -22600,7 +22579,7 @@
     <id>sddm-kcm.(null)</id>
     <pkgname>sddm-kcm</pkgname>
     <metadata>
-      <value key="X-CacheID">sddm-kcm_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">sddm-kcm_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -23353,13 +23332,6 @@
     </metadata>
   </component>
   <component>
-    <id>spectacle.(null)</id>
-    <pkgname>spectacle</pkgname>
-    <metadata>
-      <value key="X-CacheID">spectacle_16.12.3-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>speech-dispatcher.(null)</id>
     <pkgname>speech-dispatcher</pkgname>
     <metadata>
@@ -23748,7 +23720,7 @@
     <id>sweeper.(null)</id>
     <pkgname>sweeper</pkgname>
     <metadata>
-      <value key="X-CacheID">sweeper_16.12.3-0_amd64.deb</value>
+      <value key="X-CacheID">sweeper_17.04.0-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -23923,7 +23895,7 @@
     <id>systemsettings.(null)</id>
     <pkgname>systemsettings</pkgname>
     <metadata>
-      <value key="X-CacheID">systemsettings_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">systemsettings_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24616,7 +24588,7 @@
     <id>tmux.(null)</id>
     <pkgname>tmux</pkgname>
     <metadata>
-      <value key="X-CacheID">tmux_2.3-0_amd64.deb</value>
+      <value key="X-CacheID">tmux_2.4-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -24893,13 +24865,6 @@
     </metadata>
   </component>
   <component>
-    <id>ttf-indic.(null)</id>
-    <pkgname>ttf-indic</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>ttf-ubraille.(null)</id>
     <pkgname>ttf-ubraille</pkgname>
     <metadata>
@@ -25089,6 +25054,13 @@
     </metadata>
   </component>
   <component>
+    <id>umbrello.(null)</id>
+    <pkgname>umbrello</pkgname>
+    <metadata>
+      <value key="X-CacheID">umbrello_17.04.0-0_amd64.deb</value>
+    </metadata>
+  </component>
+  <component>
     <id>unace.(null)</id>
     <pkgname>unace</pkgname>
     <metadata>
@@ -25113,7 +25085,7 @@
     <id>unbound.(null)</id>
     <pkgname>unbound</pkgname>
     <metadata>
-      <value key="X-CacheID">unbound_1.6.0-1_amd64.deb</value>
+      <value key="X-CacheID">unbound_1.6.2-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -25316,7 +25288,7 @@
     <id>user-manager.(null)</id>
     <pkgname>user-manager</pkgname>
     <metadata>
-      <value key="X-CacheID">user-manager_5.9.4-0_amd64.deb</value>
+      <value key="X-CacheID">user-manager_5.9.5-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
@@ -26576,7 +26548,7 @@
     <id>xf86-video-nouveau.(null)</id>
     <pkgname>xf86-video-nouveau</pkgname>
     <metadata>
-      <value key="X-CacheID">xf86-video-nouveau_1.0.14-0_amd64.deb</value>
+      <value key="X-CacheID">xf86-video-nouveau_1.0.15-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
