@@ -250,11 +250,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Serif – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-f5aee5891a900f28110d748753f3fefc.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -495,11 +491,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Serif – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-f5aee5891a900f28110d748753f3fefc.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -740,11 +732,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>DejaVu Serif – Bold</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-f5aee5891a900f28110d748753f3fefc.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -4260,35 +4248,7 @@
     <screenshots>
       <screenshot type="default">
         <caption>Roboto Black – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-0faf7b5e84da9e63c5aa597a4519d98e.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>Roboto Condensed Light – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-7f6c69bcd5e9a2f5ad16993dafff02cb.png</image>
-      </screenshot>
-      <screenshot>
-        <caption>Roboto Light – Regular</caption>
-        <image type="source" height="48" width="640">file:/roboto-0b1d3797682bab64c491a5f2cc299a8d.png</image>
-      </screenshot>
-      <screenshot priority="-2">
-        <caption>Roboto Black – Italic</caption>
-        <image type="source" height="48" width="640">file:/roboto-896e4d808212d584972c41859c8b70c6.png</image>
-      </screenshot>
-      <screenshot priority="-2">
-        <caption>Roboto Condensed – Italic</caption>
-        <image type="source" height="48" width="640">file:/roboto-329bb828dc1d5e20bdbfa0956030111c.png</image>
-      </screenshot>
-      <screenshot priority="-2">
-        <caption>Roboto – Italic</caption>
-        <image type="source" height="48" width="640">file:/roboto-6e9b5e85278ba1c13e23b8ee9f6d9eba.png</image>
-      </screenshot>
-      <screenshot priority="-32">
-        <caption>Roboto – Bold</caption>
-        <image type="source" height="48" width="640">file:/roboto-ac2aa8e36fabb878cd8df94ced9ec5b7.png</image>
-      </screenshot>
-      <screenshot priority="-34">
-        <caption>Roboto – Bold Italic</caption>
-        <image type="source" height="48" width="640">file:/roboto-e99834f36f73fc9ce4d6f3bd3c5ab0e6.png</image>
+        <image type="source" height="48" width="640">file:/roboto-a3073296d2b4190c7f0c635dd8f8a774.png</image>
       </screenshot>
     </screenshots>
     <languages>

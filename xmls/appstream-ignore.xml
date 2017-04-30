@@ -4642,13 +4642,6 @@
     </metadata>
   </component>
   <component>
-    <id>elfix.(null)</id>
-    <pkgname>elfix</pkgname>
-    <metadata>
-      <value key="X-CacheID">elfix_0.9.2-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>elfutils+32.(null)</id>
     <pkgname>elfutils+32</pkgname>
     <metadata>
@@ -18257,13 +18250,6 @@
     </metadata>
   </component>
   <component>
-    <id>pax-bites.(null)</id>
-    <pkgname>pax-bites</pkgname>
-    <metadata>
-      <value key="X-CacheID">pax-bites_0+git20150810-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>pbkdf2.(null)</id>
     <pkgname>pbkdf2</pkgname>
     <metadata>
@@ -26031,13 +26017,6 @@
     <pkgname>wpa-supplicant</pkgname>
     <metadata>
       <value key="X-CacheID">wpa-supplicant_2.6-1_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>wps-office.(null)</id>
-    <pkgname>wps-office</pkgname>
-    <metadata>
-      <value key="X-CacheID">wps-office_10.1.0.5444~a20-0_amd64.deb</value>
     </metadata>
   </component>
   <component>
