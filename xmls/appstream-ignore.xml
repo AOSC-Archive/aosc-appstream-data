@@ -3431,13 +3431,6 @@
     </metadata>
   </component>
   <component>
-    <id>crystalhd-dkms.(null)</id>
-    <pkgname>crystalhd-dkms</pkgname>
-    <metadata>
-      <value key="X-CacheID">crystalhd-dkms_3.10-0_amd64.deb</value>
-    </metadata>
-  </component>
-  <component>
     <id>crystalhd-modules.(null)</id>
     <pkgname>crystalhd-modules</pkgname>
     <metadata>
@@ -24883,13 +24876,6 @@
     <pkgname>ttf-indic</pkgname>
     <metadata>
       <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component>
-    <id>ttf-tagbanwa.(null)</id>
-    <pkgname>ttf-tagbanwa</pkgname>
-    <metadata>
-      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
     </metadata>
   </component>
   <component>
