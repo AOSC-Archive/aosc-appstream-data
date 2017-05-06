@@ -250,7 +250,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -491,7 +491,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-sans-mono-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-sans-mono-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -732,7 +732,7 @@
     <screenshots>
       <screenshot>
         <caption>DejaVu Math TeX Gyre – Regular</caption>
-        <image type="source" height="48" width="640">file:/dejavu-serif-b404ce5285da0ed2e4c71b1cef166dd7.png</image>
+        <image type="source" height="48" width="640">file:/dejavu-serif-7bd44eda3652acf6b553f08e2cfa0c56.png</image>
       </screenshot>
     </screenshots>
     <languages>
@@ -1245,7 +1245,7 @@
       <lang percentage="26">zh_HK</lang>
     </languages>
     <metadata>
-      <value key="X-CacheID">appstream_0.10.6-1_amd64.deb</value>
+      <value key="X-CacheID">appstream_0.10.6-2_amd64.deb</value>
     </metadata>
   </component>
   <component type="desktop">
@@ -3669,7 +3669,7 @@
       <lang percentage="35">eu</lang>
       <lang percentage="34">fa</lang>
       <lang percentage="29">fi</lang>
-      <lang percentage="60">fr</lang>
+      <lang percentage="61">fr</lang>
       <lang percentage="35">gd</lang>
       <lang percentage="35">gl</lang>
       <lang percentage="28">gu</lang>
@@ -4246,7 +4246,11 @@
       <veto>duplicate of roboto-slab-fonts-20150306-0</veto>
     </vetos>
     <screenshots>
-      <screenshot type="default">
+      <screenshot type="default" priority="-2">
+        <caption>Roboto Black – Italic</caption>
+        <image type="source" height="48" width="640">file:/roboto-896e4d808212d584972c41859c8b70c6.png</image>
+      </screenshot>
+      <screenshot>
         <caption>Roboto Black – Regular</caption>
         <image type="source" height="48" width="640">file:/roboto-0faf7b5e84da9e63c5aa597a4519d98e.png</image>
       </screenshot>
@@ -5090,94 +5094,6 @@
     </languages>
     <metadata>
       <value key="X-CacheID">ttf-indic_0.2-3_noarch.deb</value>
-    </metadata>
-  </component>
-  <component type="font">
-    <id>ttf-tagbanwa</id>
-    <pkgname>ttf-tagbanwa</pkgname>
-    <name>Tagbanwa Fonts</name>
-    <summary>A free Unicode TrueType font for the Tagbanwa script</summary>
-    <categories>
-      <category>Addons</category>
-      <category>Fonts</category>
-    </categories>
-    <vetos>
-      <veto>Has no Icon</veto>
-    </vetos>
-    <languages>
-      <lang percentage="57">an</lang>
-      <lang percentage="26">ar</lang>
-      <lang percentage="59">as</lang>
-      <lang percentage="29">ast</lang>
-      <lang percentage="57">be</lang>
-      <lang percentage="60">bg</lang>
-      <lang percentage="30">bn</lang>
-      <lang percentage="60">bn_IN</lang>
-      <lang percentage="59">bs</lang>
-      <lang percentage="70">ca</lang>
-      <lang percentage="59">ca@valencia</lang>
-      <lang percentage="71">cs</lang>
-      <lang percentage="71">da</lang>
-      <lang percentage="71">de</lang>
-      <lang percentage="60">el</lang>
-      <lang>en</lang>
-      <lang percentage="71">en@boldquot</lang>
-      <lang percentage="71">en@quot</lang>
-      <lang percentage="28">en@shaw</lang>
-      <lang percentage="50">en_CA</lang>
-      <lang percentage="70">en_GB</lang>
-      <lang percentage="53">eo</lang>
-      <lang percentage="71">es</lang>
-      <lang percentage="36">et</lang>
-      <lang percentage="71">eu</lang>
-      <lang percentage="30">fa</lang>
-      <lang percentage="50">fi</lang>
-      <lang percentage="71">fr</lang>
-      <lang percentage="71">gl</lang>
-      <lang percentage="59">gu</lang>
-      <lang percentage="71">he</lang>
-      <lang percentage="59">hi</lang>
-      <lang percentage="97">hr</lang>
-      <lang percentage="71">hu</lang>
-      <lang percentage="43">hy</lang>
-      <lang percentage="36">ia</lang>
-      <lang percentage="69">id</lang>
-      <lang percentage="71">it</lang>
-      <lang percentage="44">ja</lang>
-      <lang percentage="59">kn</lang>
-      <lang percentage="71">ko</lang>
-      <lang percentage="71">lt</lang>
-      <lang percentage="71">lv</lang>
-      <lang percentage="38">ml</lang>
-      <lang percentage="59">mr</lang>
-      <lang percentage="68">nb</lang>
-      <lang percentage="42">nl</lang>
-      <lang percentage="70">oc</lang>
-      <lang percentage="59">or</lang>
-      <lang percentage="60">pa</lang>
-      <lang percentage="71">pl</lang>
-      <lang percentage="70">pt</lang>
-      <lang percentage="71">pt_BR</lang>
-      <lang percentage="48">ro</lang>
-      <lang percentage="71">ru</lang>
-      <lang percentage="71">sk</lang>
-      <lang percentage="60">sl</lang>
-      <lang percentage="71">sr</lang>
-      <lang percentage="71">sr@latin</lang>
-      <lang percentage="71">sv</lang>
-      <lang percentage="59">ta</lang>
-      <lang percentage="59">te</lang>
-      <lang percentage="70">th</lang>
-      <lang percentage="43">tr</lang>
-      <lang percentage="56">ug</lang>
-      <lang percentage="59">uk</lang>
-      <lang percentage="60">vi</lang>
-      <lang percentage="70">zh_CN</lang>
-      <lang percentage="59">zh_HK</lang>
-      <lang percentage="71">zh_TW</lang>
-    </languages>
-    <metadata>
-      <value key="X-CacheID">ttf-tagbanwa_1.005-3_noarch.deb</value>
     </metadata>
   </component>
   <component type="font">
