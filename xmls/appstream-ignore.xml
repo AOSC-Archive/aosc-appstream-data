@@ -61,6 +61,10 @@
     <pkgname>accountsservice</pkgname>
   </component>
   <component>
+    <id>accuraterip-checksum.(null)</id>
+    <pkgname>accuraterip-checksum</pkgname>
+  </component>
+  <component>
     <id>ack.(null)</id>
     <pkgname>ack</pkgname>
   </component>
@@ -865,6 +869,14 @@
     <pkgname>bcrypt</pkgname>
   </component>
   <component>
+    <id>bctoolbox.(null)</id>
+    <pkgname>bctoolbox</pkgname>
+  </component>
+  <component>
+    <id>bcunit.(null)</id>
+    <pkgname>bcunit</pkgname>
+  </component>
+  <component>
     <id>beaker.(null)</id>
     <pkgname>beaker</pkgname>
   </component>
@@ -1017,6 +1029,10 @@
     <pkgname>boinc</pkgname>
   </component>
   <component>
+    <id>boost+32.(null)</id>
+    <pkgname>boost+32</pkgname>
+  </component>
+  <component>
     <id>boost.(null)</id>
     <pkgname>boost</pkgname>
   </component>
@@ -1083,6 +1099,10 @@
   <component>
     <id>brise.(null)</id>
     <pkgname>brise</pkgname>
+  </component>
+  <component>
+    <id>broadcom-wl.(null)</id>
+    <pkgname>broadcom-wl</pkgname>
   </component>
   <component>
     <id>bsdiff.(null)</id>
@@ -1649,6 +1669,10 @@
     <pkgname>codec-base</pkgname>
   </component>
   <component>
+    <id>codecrypt.(null)</id>
+    <pkgname>codecrypt</pkgname>
+  </component>
+  <component>
     <id>codelite.(null)</id>
     <pkgname>codelite</pkgname>
   </component>
@@ -2181,6 +2205,10 @@
     <pkgname>danmaku2ass</pkgname>
   </component>
   <component>
+    <id>danmaq.(null)</id>
+    <pkgname>danmaq</pkgname>
+  </component>
+  <component>
     <id>dante.(null)</id>
     <pkgname>dante</pkgname>
   </component>
@@ -2191,6 +2219,10 @@
   <component>
     <id>darkhttpd.(null)</id>
     <pkgname>darkhttpd</pkgname>
+  </component>
+  <component>
+    <id>darkradiant.(null)</id>
+    <pkgname>darkradiant</pkgname>
   </component>
   <component>
     <id>darling-dmg.(null)</id>
@@ -2553,6 +2585,14 @@
     <pkgname>dotconf</pkgname>
   </component>
   <component>
+    <id>dotnet-runtime.(null)</id>
+    <pkgname>dotnet-runtime</pkgname>
+  </component>
+  <component>
+    <id>dotnet-sdk.(null)</id>
+    <pkgname>dotnet-sdk</pkgname>
+  </component>
+  <component>
     <id>dovecot.(null)</id>
     <pkgname>dovecot</pkgname>
   </component>
@@ -2871,10 +2911,6 @@
   <component>
     <id>eventviews.(null)</id>
     <pkgname>eventviews</pkgname>
-  </component>
-  <component>
-    <id>evince.(null)</id>
-    <pkgname>evince</pkgname>
   </component>
   <component>
     <id>evolution-data-server.(null)</id>
@@ -3495,6 +3531,10 @@
   <component>
     <id>fstar.(null)</id>
     <pkgname>fstar</pkgname>
+  </component>
+  <component>
+    <id>fswebcam.(null)</id>
+    <pkgname>fswebcam</pkgname>
   </component>
   <component>
     <id>ftgl.(null)</id>
@@ -4805,6 +4845,10 @@
     <pkgname>hello</pkgname>
   </component>
   <component>
+    <id>help2adoc.(null)</id>
+    <pkgname>help2adoc</pkgname>
+  </component>
+  <component>
     <id>help2man.(null)</id>
     <pkgname>help2man</pkgname>
   </component>
@@ -5029,6 +5073,14 @@
     <pkgname>icecast</pkgname>
   </component>
   <component>
+    <id>icewm-themes.(null)</id>
+    <pkgname>icewm-themes</pkgname>
+  </component>
+  <component>
+    <id>icewm.(null)</id>
+    <pkgname>icewm</pkgname>
+  </component>
+  <component>
     <id>icon-naming-utils.(null)</id>
     <pkgname>icon-naming-utils</pkgname>
   </component>
@@ -5199,6 +5251,10 @@
   <component>
     <id>iotop.(null)</id>
     <pkgname>iotop</pkgname>
+  </component>
+  <component>
+    <id>iozone.(null)</id>
+    <pkgname>iozone</pkgname>
   </component>
   <component>
     <id>ipaddr.(null)</id>
@@ -5423,6 +5479,10 @@
   <component>
     <id>jsoncpp.(null)</id>
     <pkgname>jsoncpp</pkgname>
+  </component>
+  <component>
+    <id>juffed.(null)</id>
+    <pkgname>juffed</pkgname>
   </component>
   <component>
     <id>jupyter-client.(null)</id>
@@ -5787,6 +5847,10 @@
   <component>
     <id>keepassx.(null)</id>
     <pkgname>keepassx</pkgname>
+  </component>
+  <component>
+    <id>keepassxc.(null)</id>
+    <pkgname>keepassxc</pkgname>
   </component>
   <component>
     <id>kemoticons.(null)</id>
@@ -7797,6 +7861,10 @@
     <pkgname>libqalculate</pkgname>
   </component>
   <component>
+    <id>libqglviewer.(null)</id>
+    <pkgname>libqglviewer</pkgname>
+  </component>
+  <component>
     <id>libqmi.(null)</id>
     <pkgname>libqmi</pkgname>
   </component>
@@ -8581,6 +8649,42 @@
     <pkgname>linux-kernel-4.11.8</pkgname>
   </component>
   <component>
+    <id>linux-kernel-4.12.4.(null)</id>
+    <pkgname>linux-kernel-4.12.4</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-4.12.5.(null)</id>
+    <pkgname>linux-kernel-4.12.5</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-4.12.7.(null)</id>
+    <pkgname>linux-kernel-4.12.7</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-4.12.8.(null)</id>
+    <pkgname>linux-kernel-4.12.8</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-4.12.9.(null)</id>
+    <pkgname>linux-kernel-4.12.9</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-4.13.0.(null)</id>
+    <pkgname>linux-kernel-4.13.0</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-4.13.1.(null)</id>
+    <pkgname>linux-kernel-4.13.1</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-4.13.2.(null)</id>
+    <pkgname>linux-kernel-4.13.2</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-4.13.3.(null)</id>
+    <pkgname>linux-kernel-4.13.3</pkgname>
+  </component>
+  <component>
     <id>linux-kernel-libre-4.10.12-gnu.(null)</id>
     <pkgname>linux-kernel-libre-4.10.12-gnu</pkgname>
   </component>
@@ -8663,6 +8767,46 @@
   <component>
     <id>linux-kernel-lts-4.9.35.(null)</id>
     <pkgname>linux-kernel-lts-4.9.35</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.40.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.40</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.41.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.41</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.43.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.43</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.44.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.44</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.45.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.45</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.47.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.47</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.48.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.48</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.49.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.49</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.50.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.50</pkgname>
+  </component>
+  <component>
+    <id>linux-kernel-lts-4.9.51.(null)</id>
+    <pkgname>linux-kernel-lts-4.9.51</pkgname>
   </component>
   <component>
     <id>linux-pam.(null)</id>
@@ -9153,6 +9297,10 @@
     <pkgname>mat</pkgname>
   </component>
   <component>
+    <id>matchbox-base.(null)</id>
+    <pkgname>matchbox-base</pkgname>
+  </component>
+  <component>
     <id>matchbox-common.(null)</id>
     <pkgname>matchbox-common</pkgname>
   </component>
@@ -9279,6 +9427,10 @@
   <component>
     <id>maxima.(null)</id>
     <pkgname>maxima</pkgname>
+  </component>
+  <component>
+    <id>mbedtls+32.(null)</id>
+    <pkgname>mbedtls+32</pkgname>
   </component>
   <component>
     <id>mbedtls.(null)</id>
@@ -9677,6 +9829,10 @@
     <pkgname>ms-sys</pkgname>
   </component>
   <component>
+    <id>msbuild.(null)</id>
+    <pkgname>msbuild</pkgname>
+  </component>
+  <component>
     <id>msgpack-c.(null)</id>
     <pkgname>msgpack-c</pkgname>
   </component>
@@ -9823,6 +9979,10 @@
   <component>
     <id>nauty.(null)</id>
     <pkgname>nauty</pkgname>
+  </component>
+  <component>
+    <id>nbd.(null)</id>
+    <pkgname>nbd</pkgname>
   </component>
   <component>
     <id>nbxmpp.(null)</id>
@@ -11433,6 +11593,10 @@
     <pkgname>perl-sort-naturally</pkgname>
   </component>
   <component>
+    <id>perl-sort-versions.(null)</id>
+    <pkgname>perl-sort-versions</pkgname>
+  </component>
+  <component>
     <id>perl-template-gd.(null)</id>
     <pkgname>perl-template-gd</pkgname>
   </component>
@@ -12129,6 +12293,10 @@
     <pkgname>pybluez</pkgname>
   </component>
   <component>
+    <id>pycdio.(null)</id>
+    <pkgname>pycdio</pkgname>
+  </component>
+  <component>
     <id>pycharm.(null)</id>
     <pkgname>pycharm</pkgname>
   </component>
@@ -12781,6 +12949,10 @@
     <pkgname>quassel</pkgname>
   </component>
   <component>
+    <id>quaternion.(null)</id>
+    <pkgname>quaternion</pkgname>
+  </component>
+  <component>
     <id>quazip.(null)</id>
     <pkgname>quazip</pkgname>
   </component>
@@ -12973,10 +13145,6 @@
     <pkgname>remarkable</pkgname>
   </component>
   <component>
-    <id>remmina.(null)</id>
-    <pkgname>remmina</pkgname>
-  </component>
-  <component>
     <id>renaissance.(null)</id>
     <pkgname>renaissance</pkgname>
   </component>
@@ -13063,6 +13231,10 @@
   <component>
     <id>rp-pppoe.(null)</id>
     <pkgname>rp-pppoe</pkgname>
+  </component>
+  <component>
+    <id>rpatool.(null)</id>
+    <pkgname>rpatool</pkgname>
   </component>
   <component>
     <id>rpcbind.(null)</id>
@@ -13613,6 +13785,10 @@
     <pkgname>simh</pkgname>
   </component>
   <component>
+    <id>simple-obfs.(null)</id>
+    <pkgname>simple-obfs</pkgname>
+  </component>
+  <component>
     <id>simplejson.(null)</id>
     <pkgname>simplejson</pkgname>
   </component>
@@ -13631,6 +13807,10 @@
   <component>
     <id>six.(null)</id>
     <pkgname>six</pkgname>
+  </component>
+  <component>
+    <id>sk1.(null)</id>
+    <pkgname>sk1</pkgname>
   </component>
   <component>
     <id>sk1libs.(null)</id>
@@ -14333,6 +14513,10 @@
     <pkgname>tdlib</pkgname>
   </component>
   <component>
+    <id>tea.(null)</id>
+    <pkgname>tea</pkgname>
+  </component>
+  <component>
     <id>teeworlds.(null)</id>
     <pkgname>teeworlds</pkgname>
   </component>
@@ -14453,6 +14637,10 @@
     <pkgname>thebe</pkgname>
   </component>
   <component>
+    <id>thedarkmod.(null)</id>
+    <pkgname>thedarkmod</pkgname>
+  </component>
+  <component>
     <id>thefuck.(null)</id>
     <pkgname>thefuck</pkgname>
   </component>
@@ -14519,6 +14707,10 @@
   <component>
     <id>tinycdb.(null)</id>
     <pkgname>tinycdb</pkgname>
+  </component>
+  <component>
+    <id>tinymembench.(null)</id>
+    <pkgname>tinymembench</pkgname>
   </component>
   <component>
     <id>tinyproxy.(null)</id>
@@ -14909,6 +15101,10 @@
     <pkgname>unrar</pkgname>
   </component>
   <component>
+    <id>unrpyc.(null)</id>
+    <pkgname>unrpyc</pkgname>
+  </component>
+  <component>
     <id>unrtf.(null)</id>
     <pkgname>unrtf</pkgname>
   </component>
@@ -14997,6 +15193,10 @@
     <pkgname>uw-imap</pkgname>
   </component>
   <component>
+    <id>v2ray.(null)</id>
+    <pkgname>v2ray</pkgname>
+  </component>
+  <component>
     <id>v4l-utils+32.(null)</id>
     <pkgname>v4l-utils+32</pkgname>
   </component>
@@ -15031,10 +15231,6 @@
   <component>
     <id>varnish.(null)</id>
     <pkgname>varnish</pkgname>
-  </component>
-  <component>
-    <id>vba-m.(null)</id>
-    <pkgname>vba-m</pkgname>
   </component>
   <component>
     <id>vc.(null)</id>
@@ -15221,10 +15417,6 @@
     <pkgname>wangfonts</pkgname>
   </component>
   <component>
-    <id>warmux.(null)</id>
-    <pkgname>warmux</pkgname>
-  </component>
-  <component>
     <id>watchdog.(null)</id>
     <pkgname>watchdog</pkgname>
   </component>
@@ -15313,6 +15505,10 @@
     <pkgname>which</pkgname>
   </component>
   <component>
+    <id>whipper.(null)</id>
+    <pkgname>whipper</pkgname>
+  </component>
+  <component>
     <id>whitedb.(null)</id>
     <pkgname>whitedb</pkgname>
   </component>
@@ -15357,8 +15553,12 @@
     <pkgname>wine</pkgname>
   </component>
   <component>
-    <id>winetricks.(null)</id>
-    <pkgname>winetricks</pkgname>
+    <id>wireguard-dkms.(null)</id>
+    <pkgname>wireguard-dkms</pkgname>
+  </component>
+  <component>
+    <id>wireguard-tools.(null)</id>
+    <pkgname>wireguard-tools</pkgname>
   </component>
   <component>
     <id>wireguard.(null)</id>
@@ -15469,6 +15669,10 @@
     <pkgname>x11-app</pkgname>
   </component>
   <component>
+    <id>x11-base.(null)</id>
+    <pkgname>x11-base</pkgname>
+  </component>
+  <component>
     <id>x11-font.(null)</id>
     <pkgname>x11-font</pkgname>
   </component>
@@ -15535,6 +15739,10 @@
   <component>
     <id>xattr.(null)</id>
     <pkgname>xattr</pkgname>
+  </component>
+  <component>
+    <id>xawtv.(null)</id>
+    <pkgname>xawtv</pkgname>
   </component>
   <component>
     <id>xbase.(null)</id>
